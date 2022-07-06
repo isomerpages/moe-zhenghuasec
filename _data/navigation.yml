@@ -2,7 +2,17 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us/
-    sublinks: []
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principal-message/
+      - title: School Ethos
+        url: /about-us/school-ethos/
+      - title: Management Committee
+        url: /about-us/management-committee/
+      - title: School Advisory Committee
+        url: /about-us/school-advisory-committee/
+      - title: Zhenghua Staff
+        url: /about-us/zhenghua-staff/
   - title: Programmes
     url: /programmes/
     sublinks: []
