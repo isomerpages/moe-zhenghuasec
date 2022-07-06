@@ -2,36 +2,36 @@ collections:
   programmes:
     output: true
     order:
-      - Learning for Life Program.md
       - Aesthetics/.keep
       - Aesthetics/Department Information.md
       - Aesthetics/Vision, Mission & Goals.md
       - Aesthetics/Programmes Highlights & Enrichment Activities.md
+      - Applied Learning Prog ALP/.keep
       - Applied Learning Prog ALP/Department Information.md
       - Applied Learning Prog ALP/Vision, Mission & Goals.md
       - Applied Learning Prog ALP/Programme Highlights & Enrichment Activites.md
-      - Applied Learning Prog ALP/.keep
+      - Character & Citizenship/.keep
       - Character & Citizenship/Department Information.md
       - Character & Citizenship/Vision, Mission & Goals.md
       - Character & Citizenship/Programmes Highlights & Enrichment Activities.md
-      - Character & Citizenship/.keep
+      - Craft and Technology/.keep
       - Craft and Technology/Department Information.md
       - Craft and Technology/Vision, Mission & Goals.md
       - Craft and Technology/Programmes.md
-      - Craft and Technology/.keep
+      - English Language & Literature/.keep
       - English Language & Literature/Department Information.md
       - English Language & Literature/Vision, Mission & Goals.md
       - English Language & Literature/Programme Highlights & Enrichment
         Activities.md
-      - English Language & Literature/.keep
+      - Environmental Awareness/.keep
       - Environmental Awareness/Department Information.md
       - Environmental Awareness/Vision, Mission & Goals.md
       - Environmental Awareness/Programme Highlights & Enrichment Activities.md
-      - Environmental Awareness/.keep
-      - Humanities/Department Information.md
       - Humanities/.keep
-      - Info & Comm Tech/Department Information.md
+      - Humanities/Department Information.md
       - Info & Comm Tech/.keep
+      - Info & Comm Tech/Department Information.md
+      - Learning for Life Program.md
       - Learning for Life Program LLP/.keep
       - Mathematics/.keep
       - Mother Tongue Language/.keep
