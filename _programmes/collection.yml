@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Character & Citizenship/.keep
       - Craft and Technology/.keep
       - English Language & Literature/.keep
       - Environmental Awareness/.keep
