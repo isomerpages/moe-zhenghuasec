@@ -1,7 +1,7 @@
 logo: /images/logo.png
 links:
   - title: About Us
-    url: /about-us/
+    url: /about-us/principal-message/
     sublinks:
       - title: Principal's Message
         url: /about-us/principal-message/
@@ -14,7 +14,7 @@ links:
       - title: Zhenghua Staff
         url: /about-us/zhenghua-staff/
   - title: Programmes
-    url: /programmes/
+    url: /programmes/aesthetics/
     sublinks:
       - title: Aesthetics
         url: /programmes/aesthetics/
@@ -47,7 +47,7 @@ links:
       - title: Student Management
         url: /programmes/student-management/
   - title: Achievements
-    url: /achievements/
+    url: /achievements/academic-profile/
     sublinks:
       - title: Academic Profile
         url: /achievements/academic-profile/
@@ -64,7 +64,7 @@ links:
       - title: Student Achievement (By CCAs)
         url: /achievements/student-achievement-cca/
   - title: CCAs
-    url: /ccas/
+    url: /ccas/uniform-groups/
     sublinks:
       - title: Uniformed Groups
         url: /ccas/uniform-groups/
@@ -75,7 +75,7 @@ links:
       - title: Performing Arts
         url: /ccas/performing-arts/
   - title: Parents
-    url: /parents/
+    url: /parents/parenting-tips/
     sublinks:
       - title: Parenting Tips
         url: /parents/parenting-tips/
@@ -85,4 +85,3 @@ links:
         url: /parents/past-letters-to-parents/
   - title: Zhenghua Newz
     url: /zhenghua-news/
-    sublinks: []
