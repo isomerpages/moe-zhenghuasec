@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Physical & Outdoor Education/.keep
       - Science/.keep
       - Student Leadership/.keep
       - Student Management/.keep
