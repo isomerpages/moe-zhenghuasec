@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Management Committee.md
       - School Ethos.md
       - Principal's Message.md
