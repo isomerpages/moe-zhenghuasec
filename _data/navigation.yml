@@ -48,7 +48,21 @@ links:
         url: /programmes/student-management/
   - title: Achievements
     url: /achievements/
-    sublinks: []
+    sublinks:
+      - title: Academic Profile
+        url: /achievements/academic-profile/
+      - title: Alumni Accolades
+        url: /achievements/alumni-accolades/
+      - title: ECHA Awards
+        url: /achievements/echa-awards/
+      - title: Organisational
+        url: /achievements/organisational/
+      - title: Staff Achievements
+        url: /achievements/staff-achievements/
+      - title: Student Achievements (By Dept)
+        url: /achievements/student-achievement-department/
+      - title: Student Achievement (By CCAs)
+        url: /achievements/student-achievement-cca/
   - title: CCAs
     url: /ccas/
     sublinks: []
