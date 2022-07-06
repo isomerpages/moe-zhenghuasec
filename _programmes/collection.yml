@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Info & Comm Tech/.keep
       - Learning for Life Program LLP/.keep
       - Mathematics/.keep
       - Mother Tongue Language/.keep
