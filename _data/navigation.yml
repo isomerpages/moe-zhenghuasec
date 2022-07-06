@@ -15,7 +15,37 @@ links:
         url: /about-us/zhenghua-staff/
   - title: Programmes
     url: /programmes/
-    sublinks: []
+    sublinks:
+      - title: Aesthetics
+        url: /programmes/aesthetics/
+      - title: Applied Learning Program-ALP
+        url: /programmes/alp/
+      - title: Character & Citizenship
+        url: /programmes/character-and-citizenship/
+      - title: Craft and Technology
+        url: /programmes/craft-and-technology/
+      - title: English Language & Literature
+        url: /programmes/eng-and-lit/
+      - title: Environmental Awareness
+        url: /programmes/environmental-awareness/
+      - title: Humanities
+        url: /programmes/humanities/
+      - title: Infocomm & Comm Technology
+        url: /programmes/infocom-and-technology/
+      - title: Learning For Life Program-LLP
+        url: /programmes/llp/
+      - title: Mathematics
+        url: /programmes/mathematics/
+      - title: Mother Tongue Lanugages
+        url: /programmes/mother-tongue-languages/
+      - title: Physical & Outdoor Education
+        url: /programmes/physical-and-outdoor-education/
+      - title: Science
+        url: /programmes/science/
+      - title: Student Leadership
+        url: /programmes/student-leadership/
+      - title: Student Management
+        url: /programmes/student-management/
   - title: Achievements
     url: /achievements/
     sublinks: []
