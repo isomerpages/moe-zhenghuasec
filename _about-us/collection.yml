@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Zhenghua Staff.md
-      - School Advisory Committee.md
-      - Management Committee.md
-      - School Ethos.md
       - Principal's Message.md
+      - School Ethos.md
+      - Management Committee.md
+      - School Advisory Committee.md
+      - Zhenghua Staff.md
