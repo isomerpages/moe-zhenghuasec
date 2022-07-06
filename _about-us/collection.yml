@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - School Ethos.md
       - Principal's Message.md
