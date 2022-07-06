@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Aesthetics/Vision, Mission & Goals.md
       - Aesthetics/Programmes Highlights & Enrichment Activities.md
       - Aesthetics/Department Information.md
       - Aesthetics/.keep
