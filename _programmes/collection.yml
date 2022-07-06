@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Learning for Life Program.md
       - Aesthetics/.keep
       - Aesthetics/Department Information.md
       - Aesthetics/Vision, Mission & Goals.md
