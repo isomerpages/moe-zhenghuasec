@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Zhenghua Secondary School
+      title: ZHENGHUA SECONDARY SCHOOL
       background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
