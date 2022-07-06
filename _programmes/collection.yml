@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Student Management/.keep
       - Aesthetics/.keep
