@@ -65,10 +65,24 @@ links:
         url: /achievements/student-achievement-cca/
   - title: CCAs
     url: /ccas/
-    sublinks: []
+    sublinks:
+      - title: Uniformed Groups
+        url: /ccas/uniform-groups/
+      - title: Clubs and Societies
+        url: /ccas/clubs-and-societies/
+      - title: Sports
+        url: /ccas/sports/
+      - title: Performing Arts
+        url: /ccas/performing-arts/
   - title: Parents
     url: /parents/
-    sublinks: []
+    sublinks:
+      - title: Parenting Tips
+        url: /parents/parenting-tips/
+      - title: Parent Support Group
+        url: /parents/parent-support-group/
+      - title: Past Letters to Parents
+        url: /parents/past-letters-to-parents/
   - title: Zhenghua Newz
     url: /zhenghua-news/
     sublinks: []
