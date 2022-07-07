@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Alumni Accolades/2018 Alumni Accolades.md
       - Alumni Accolades/2017 Alumni Accolades.md
       - Alumni Accolades/2016 Alumni Accolades.md
       - Alumni Accolades/2015 Alumni Accolades.md
