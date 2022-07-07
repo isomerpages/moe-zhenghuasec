@@ -2,15 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Alumni Accolades/2022 Alumni Accolades.md
-      - Alumni Accolades/2021 Alumni Accolades.md
-      - Alumni Accolades/2019 Alumni Accolades.md
-      - Alumni Accolades/2018 Alumni Accolades.md
-      - Alumni Accolades/2017 Alumni Accolades.md
-      - Alumni Accolades/2016 Alumni Accolades.md
-      - Alumni Accolades/2015 Alumni Accolades.md
-      - Alumni Accolades/2014 Alumni Accolades.md
-      - Alumni Accolades/.keep
       - Academic Achievements/.keep
       - Academic Achievements/2021 'O' Level Examination Results.md
       - Academic Achievements/2021 'N' Level Examination Results.md
@@ -20,4 +11,13 @@ collections:
       - Academic Achievements/2019 'N' Level Examination Results.md
       - Academic Achievements/2018 'O' Levels Examination Results.md
       - Academic Achievements/2018 'N' Levels Examination Results.md
+      - Alumni Accolades/.keep
+      - Alumni Accolades/2022 Alumni Accolades.md
+      - Alumni Accolades/2021 Alumni Accolades.md
+      - Alumni Accolades/2019 Alumni Accolades.md
+      - Alumni Accolades/2018 Alumni Accolades.md
+      - Alumni Accolades/2017 Alumni Accolades.md
+      - Alumni Accolades/2016 Alumni Accolades.md
+      - Alumni Accolades/2015 Alumni Accolades.md
+      - Alumni Accolades/2014 Alumni Accolades.md
       - Staff Achievements.md
