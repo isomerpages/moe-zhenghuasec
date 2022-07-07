@@ -2,5 +2,6 @@ collections:
   zhenghua-newz:
     output: true
     order:
+      - Zhenghua News 2020/.keep
       - Zhenghua News 2019/.keep
       - Zhenghua Newsletter Archives/.keep
