@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports/ODAC.md
       - Sports/Sports Club.md
       - Sports/.keep
       - Performing Arts/Band.md
