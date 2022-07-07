@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - ECHA Awards/ECHA Awards 2021.md
       - ECHA Awards/ECHA Awards 2020.md
       - ECHA Awards/ECHA Awards 2019.md
       - ECHA Awards/ECHA Awards 2018.md
