@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Student Achievement/.keep
       - Academic Achievements/.keep
       - Academic Achievements/2021 'O' Level Examination Results.md
       - Academic Achievements/2021 'N' Level Examination Results.md
@@ -28,3 +27,4 @@ collections:
       - ECHA Awards/ECHA Awards 2018.md
       - Organisational.md
       - Staff Achievements.md
+      - Student Achievement/.keep
