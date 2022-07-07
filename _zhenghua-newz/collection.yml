@@ -2,7 +2,6 @@ collections:
   zhenghua-newz:
     output: true
     order:
-      - Zhenghua News Overview.md
       - Zhenghua News 2022/.keep
       - Zhenghua News 2021/.keep
       - Zhenghua News 2020/.keep
