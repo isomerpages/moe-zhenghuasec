@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Staff Achievements.md
-      - Student Achievements/2021 'O' Level Examination Results.md
-      - Student Achievements/2021 'N' Level Examination Results.md
-      - Student Achievements/2020 'O' Level Examination Results.md
-      - Student Achievements/2020 'N' Level Examination Results.md
-      - Student Achievements/2019 'O' Level Examination Results.md
-      - Student Achievements/2019 'N' Level Examination Results.md
-      - Student Achievements/.keep
-      - Student Achievements/2018 'O' Levels Examination Results.md
-      - Student Achievements/2018 'N' Levels Examination Results.md
+      - Academic Achievements/2021 'O' Level Examination Results.md
+      - Academic Achievements/2021 'N' Level Examination Results.md
+      - Academic Achievements/2020 'O' Level Examination Results.md
+      - Academic Achievements/2020 'N' Level Examination Results.md
+      - Academic Achievements/2019 'O' Level Examination Results.md
+      - Academic Achievements/2019 'N' Level Examination Results.md
+      - Academic Achievements/.keep
+      - Academic Achievements/2018 'O' Levels Examination Results.md
+      - Academic Achievements/2018 'N' Levels Examination Results.md
