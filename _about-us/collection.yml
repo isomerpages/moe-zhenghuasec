@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Ethos/School Motto.md
-      - School Ethos/Creed.md
-      - School Ethos/School Song.md
-      - School Ethos/History.md
-      - School Ethos/School Vision & Mission.md
       - School Ethos/.keep
+      - School Ethos/School Vision & Mission.md
+      - School Ethos/History.md
+      - School Ethos/School Song.md
+      - School Ethos/Creed.md
+      - School Ethos/School Motto.md
       - Principal's Message.md
       - Management Committee.md
       - School Advisory Committee.md
