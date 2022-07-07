@@ -2,11 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - ECHA Awards/ECHA Awards 2021.md
-      - ECHA Awards/ECHA Awards 2020.md
-      - ECHA Awards/ECHA Awards 2019.md
-      - ECHA Awards/ECHA Awards 2018.md
-      - ECHA Awards/.keep
       - Academic Achievements/.keep
       - Academic Achievements/2021 'O' Level Examination Results.md
       - Academic Achievements/2021 'N' Level Examination Results.md
@@ -25,4 +20,9 @@ collections:
       - Alumni Accolades/2016 Alumni Accolades.md
       - Alumni Accolades/2015 Alumni Accolades.md
       - Alumni Accolades/2014 Alumni Accolades.md
+      - ECHA Awards/.keep
+      - ECHA Awards/ECHA Awards 2021.md
+      - ECHA Awards/ECHA Awards 2020.md
+      - ECHA Awards/ECHA Awards 2019.md
+      - ECHA Awards/ECHA Awards 2018.md
       - Staff Achievements.md
