@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Letters to Parents/2016.md
       - Letters to Parents/.keep
