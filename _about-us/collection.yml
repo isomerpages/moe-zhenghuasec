@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Ethos/School Motto.md
       - School Ethos/Creed.md
       - School Ethos/School Song.md
       - School Ethos/History.md
