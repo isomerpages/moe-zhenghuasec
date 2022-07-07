@@ -6,8 +6,8 @@ third_nav_title: Zhenghua Staff
 ---
 ### Zhenghua Staff
 
-[2022 Form Teachers]() <br>
-[2022 CCA Teachers In Charge]()
+[2022 Form Teachers](/about-us/Zhenghua-Staff/2022-form-teachers/) <br>
+[2022 CCA Teachers In Charge](/about-us/Zhenghua-Staff/2022-cca-teachers-in-charge/)
 
 | List of Names | Tel Ext. |
 |---|---|
