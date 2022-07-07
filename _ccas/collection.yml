@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Groups/NCC Air.md
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Red Cross.md
       - Uniformed Groups/Scouts.md
