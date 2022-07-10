@@ -9,6 +9,8 @@ third_nav_title: Info & Comm Tech
 <img src="/images/ict%20dept.jpg" 
      style="width:85%">
 		 
+<br>
+
 |  |  |
 |---|---|
 | Name of Head of Department: |  |
