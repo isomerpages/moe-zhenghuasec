@@ -22,13 +22,10 @@ Our tier 1 Applied Learning Programme involves coding using Scratch Programming 
 
 As a reward for being the winners of Google Hackathon Workshop conducted in 2016, our students were invited to visit Google Data Centre on 25 July 2018. The visit certainly left an indelible impression on our students.
 
-<img src="/images/Google-Tilt-Brush-300x225.jpg" 
-     style="width:50%" align = left>
-<img src="/images/Lego-@-Google-300x225.jpg" 
-     style="width:50%" align = right>
-<Google tilt brush,Lego @ Google>
+<img src="/images/alp%20combine%202.jpg" 
+     style="width:45%">
 
 Our STEM Day was conducted during the mid-year post-examination period. More than 70% of the students surveyed enjoyed the STEM workshops conducted.
 
-![](/images/wondersofchemistry.gif)
-<Robotics competition-all eyes on robots!,Magic of the 3D pen!,Wonders of chemistry!>
+<img src="/images/alp%20combine%203.jpg" 
+     style="width:45%">
