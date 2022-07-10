@@ -13,7 +13,6 @@ third_nav_title: Craft and Technology
 |---|---|
 | Mdm Hamidah Ali |  |
 | Name of Subject Head |  |
-|  |  |
 | Names of Members of the Department |  |
 | DESIGN & TECHNOLOGY |  |
 | Mr Loy Suan Doong (ST) | Mr Ng Seng Huat |
