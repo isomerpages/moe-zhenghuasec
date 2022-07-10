@@ -189,4 +189,18 @@ NE is also infused in our daily routines such as flag raising ceremony and recit
 <img src="/images/nationaleducation.gif" 
      style="width:55%">
 		 
+#### Education and Career Guidance
 
+Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
+
+In Zhenghua Secondary, a comprehensive Education and Career Guidance Programme comprising work attachment and seminars are in place for students to learn valuable life skills and prepare for the world beyond school.
+
+The goals of ECG are to:
+
+*   nurture student’s self-awareness, self-directedness and life skills for continuous learning and training; (Skills)
+*   enable students to explore viable education and career options through the provision of accurate and comprehensive information; (Knowledge)
+*   inculcate an appreciation for the value of all occupations and how they contribute to the well-functioning of society; (Mindsets) and
+*   equip students with skills and means to positively engage their parents and other career influencers (Engaging the community).
+
+<img src="/images/ecgcombine.gif" 
+     style="width:65%">
