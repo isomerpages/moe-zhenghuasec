@@ -51,7 +51,7 @@ A holistic education system places exemplary character on par with academic exce
 	
 	<img src="/images/Do-It-Right-badges-designed-by-our-students.jpg" 
      style="width:55%">
-<table style="box-sizing: border-box; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 14px; font-style: normal; font-weight: 400; margin: 0px 0px 1.5em; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: separate; border-spacing: 0px; width: 714.656px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 14px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 14px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 14px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;"><figure id="attachment_4619" aria-describedby="caption-attachment-4619" class="wp-caption aligncenter" style="box-sizing: border-box; display: block; margin: 0px auto 1.5em; clear: both; max-width: 100%; width: 300px;"><figcaption id="caption-attachment-4619" class="wp-caption-text" style="box-sizing: border-box; display: block; text-align: center; margin: 0.8075em 0px;">Do It Right badges, designed by our students.</figcaption></figure></td></tr></tbody></table>
+<Do It Right badges, designed by our students.>
 
 #### School Values Award 2019 (Secondary 1 Award Winners)
 
@@ -136,3 +136,20 @@ A holistic education system places exemplary character on par with academic exce
 | 28 | MUHAMMAD NADZRUDEEN BIN MOHD NASER | 3T1 |
 
 #### Values in Action
+
+Values in Action (VIA) are learning experiences that support students' development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of the VIA programme, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.
+
+Our aim is to ensure that by the end of a students’ time with the school, they would have experienced the various aspects of community service and developed a sense of compassion for the less fortunate, echoing one of our school values of serving with compassion.
+
+Our VIA programme is designed to expose students to a variety of community needs.
+
+*   Secondary 1 – Environmental advocacy in partnership with kindergartens in the community
+*   Secondary 2 – Building an inclusive society for people with disabilities
+*   Secondary 3 – Appreciating and caring for our seniors
+*   Secondary 4 – Community Champions Project
+*   Secondary 5 – Serving residents in the Bukit Panjang Community (CNY outreach to rental blocks)
+
+Beyond the cohort VIA programmes, CCAs also have customised VIA experiences for students. For example, students from the Performing Arts CCAs regularly visit seniors at Bo Tien Day Activity Centre for the Elderly.
+
+<img src="/images/value%20in%20action.gif" 
+     style="width:65%">
