@@ -20,10 +20,10 @@ The talks have benefitted me in answering doubts like whether I would lose inter
 
 -Christen Tan (3N2), AEB’s Music Higher Education Career Fair participant
 
-<img src="/images/Learning-about-the-Neapolitan-6th-Chord-300x169.jpg"       style="width:70%">  
+<img src="/images/learning%20about%20neapolitan%206th%20chord.jpg" 
+     style="width:55%">
 
-Learning about the Neapolitan 6th Chord
 Our programme seeks to empower all students with the knowledge, skills and dispositions to appreciate and participate in music. Musical understanding is developed through listening and responding; creating and performing. The learning of musical elements and concepts provides students with the means to understand and engage with music across genres and traditions of local and global cultures. 
 
-![](/images/aestheticsgif.gif)
-<Playing with ukelele,Making music with technology,Collaborative Performance>
+<img src="/images/aestethics%20combine%20pic.jpg" 
+     style="width:55%">
