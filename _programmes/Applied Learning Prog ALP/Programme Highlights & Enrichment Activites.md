@@ -10,14 +10,13 @@ Our Applied Learning Programme is undergoing a revamp this year to expand its fo
 
 Riding on the heels of increasing popularity for product delivery, the Secondary 2 programme will allow students to experience planning for logistics supply in a metropolitan and using Maqueen robots and flying drones to carry out the delivery tasks through team activities.
 
-![](/images/alpcombine.gif)
-<future of transportation theme,fixing the mBot,and a flying drone>
+<img src="/images/alp%20combine%201.jpg" 
+     style="width:45%">
 
 Our tier 1 Applied Learning Programme involves coding using Scratch Programming for secondary 1 students and a mbot (a robot kit) for secondary 2 students. While the programme is standardised across the level, classes of higher readiness could move beyond the standard lessons for a more enriching learning experience. For example, 2E4 had a chance to design Sumo bots to complete a mission whereby all other robots were pushed out of the play field.
 
-<img src="/images/2E4-with-their-Sumo-bots-300x225.jpg" 
-     style="width:75%">
-<2E4 with their sumo bots>
+<img src="/images/23e%20sumo%20bots.jpg" 
+     style="width:45%">
 
 (Video unavailable,not on youtube)
 
@@ -33,4 +32,3 @@ Our STEM Day was conducted during the mid-year post-examination period. More tha
 
 ![](/images/wondersofchemistry.gif)
 <Robotics competition-all eyes on robots!,Magic of the 3D pen!,Wonders of chemistry!>
-		 
