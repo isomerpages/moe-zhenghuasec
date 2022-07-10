@@ -18,7 +18,7 @@ Learning Journey to National Gallery Singapore was conducted and subjects like L
 <img src="/images/Masterchef-winners-300x216.jpg" 
      style="width:45%" align = left>
 <img src="/images/Cupcakes-created-by-participants-300x169.jpg" 
-     style="width:45%" align = right>
+     style="width:50%" align = right>
 <br> <br> <br> <br> 
 <br> <br> <br> <br> 
 Left: Masterchef Winners, Right:Cupcakes created by participants
