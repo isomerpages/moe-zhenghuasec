@@ -15,13 +15,8 @@ Learning journeys were conducted as part of integration into the subject to enha
 
 Learning Journey to National Gallery Singapore was conducted and subjects like Literature and POA were infused with Art where students engaged in art discussion, poetry writing and accessing the value of artwork during the Art Exhibition on "Colours of Impressionism- Masterpieces from Musee D'Orsay".
 
-<img src="/images/Masterchef-winners-300x216.jpg" 
-     style="width:45%" align = left>
-<img src="/images/Cupcakes-created-by-participants-300x169.jpg" 
-     style="width:50%" align = right>
-<br> <br> <br> <br> 
-<br> <br> <br> <br> 
-Left: Masterchef Winners, Right:Cupcakes created by participants
+<img src="/images/craft%20and%20tech%20combine.jpg" 
+     style="width:45%">
 
 The NFS department organised this event on the 30th March 2021. <br>
 The objective was to provide a platform for talented and passionate students to showcase and hone their culinary skills in a friendly competition. <br>
