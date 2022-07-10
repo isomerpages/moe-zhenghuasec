@@ -36,7 +36,7 @@ In a bid to immerse students in an English and Literature-rich environment, stud
 
 <img src="images/Sec-4-Pure-Lit-students-enjoying-creative-poetry-writing.jpeg" style="width:45%;margin-right:15px;" align = "left">
 <br> <br> <br>
-Sec 4 Pure Lit students enjoying creative poetry writing in author Christine Chia\_s class @ Unity Young Writer\_s Festival 2018
+Sec 4 Pure Lit students enjoying creative poetry writing in author Christine Chias class @ Unity Young Writers Festival 2018
 
 <br> <br> <br>
 
@@ -51,10 +51,11 @@ Iinterdisciplinary (Art, POA, and English) excursion at the National Gallery
 Iinterdisciplinary (Art, POA, and English) excursion at the National Gallery
 Ms Claudia Tan engaging students in the appreciation of art
 
+<br> <br>
+
 #### An Eventful English and Literature Week
 Words: Amber Yeap (2E1) & Lim Shu Qi (2E1)
 
-<img src="images/English-Week-Talk-225x300.jpeg" style="width:45%;margin-right:15px;">
 <img src="images/English-Week-Talk-225x300.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
 During the English and Literature week conducted in Term 1, students from each level participated enthusiastically in an array of activities that included a movie screening, talks by local writers and various level-wide English competitions.
