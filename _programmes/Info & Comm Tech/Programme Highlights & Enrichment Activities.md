@@ -24,7 +24,7 @@ Platforms were set up in the school to showcase new and cool technology, to rais
 Students were also given the opportunity to work with Channel News Asia (CNA) to film one of the sessions on the Cyber Security themed bus for a new infotainment TV series named “**Cyberpunkd**” hosted by local stand-up comic Fakkah Fuzz. The show focused on cyber vulnerabilities and aimed to encourage cyber vigilance in the everyday Singaporean, and attempted to sell cybersecurity as not just about protecting ourselves, but also the people in our network
 
 <img src="/images/standup%20comedian.jpg" 
-     style="width:85%">
+     style="width:65%">
 		 
 **ITPW Programme** <br>
 ITPW programme was incorporated into secondary one curriculum to develop students with the necessary ICT media literacy skills for future needs. The programme adopts a problem-based approach to get the students to research a given problem scenario and to create a digital artefact to present their findings.
@@ -44,4 +44,4 @@ To expose students to the fundamentals of programming, all secondary 2 students 
 As part of the effort to further expose students to coding, secondary three students were given opportunities to try out programming for drone-flying during the school post-exam enrichment activities. Students in the team of four collectively designed codes to fly the drones to complete some of the tasks missions assigned.
 
 <img src="/images/ict%20snipshot%204.jpg" 
-     style="width:85%">
+     style="width:95%">
