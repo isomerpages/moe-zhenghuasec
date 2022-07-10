@@ -7,7 +7,6 @@ third_nav_title: Character & Citizenship
 ### Department Information
 
 <img src="/images/Character-_-Citizenship-Education-Committee-min-1024x683.jpg" style="width:85%">
-
 <br>
 
 |  |  |
@@ -29,4 +28,4 @@ third_nav_title: Character & Citizenship
 | Ms Karen Choo | Ms Koh Ming Hui |
 | Ms Phang Ka Leng | Ms Tan Peiwen |
 | Ms Tan Mei Ying |  |
-| | | 
+| | |
