@@ -6,5 +6,5 @@ third_nav_title: Aesthetics
 ---
 ### Vision, Mission & Goals
 
-| - |
-|---|
+ - - -
+ NIL
