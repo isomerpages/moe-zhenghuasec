@@ -4,8 +4,7 @@ permalink: /programmes/Craft-and-Technology/programmes
 description: ""
 third_nav_title: Craft and Technology
 ---
-
-![](/images/Cupcakes-created-by-participants-300x169.jpg)### Programmes
+### Programmes
 
 Art, Food and Consumer Education and Design & Technology curriculum adopts a Problem Based Learning approach with ICT infused as a tool.
 
