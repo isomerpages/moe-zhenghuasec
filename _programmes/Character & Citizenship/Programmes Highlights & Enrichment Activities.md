@@ -154,3 +154,39 @@ Beyond the cohort VIA programmes, CCAs also have customised VIA experiences for 
 
 <img src="/images/value%20in%20action.gif" 
      style="width:55%">
+		 
+#### National Education
+
+National Education (NE) is important for nurturing a future generation of citizens who love Singapore and have a strong sense of belonging to Singapore. The National Education programme aims to develop national cohesion, cultivate the instinct for survival as a nation and to instil in our students the confidence in our nation's future and develop a strong sense of belonging to Singapore. In Zhenghua Secondary School, we hope to nurture students who are inclusive individuals, concerned about global issues and be able to lead, contribute and serve in the global arena, with emotional rootedness to Singapore.
+
+NE is anchored on the following citizenship dispositions, which will enable our youth to realise their part in the flourishing of their community and nation:
+
+*   A sense of belonging: To develop a deeper understanding of who we are, and a shared understanding of the values that are important to us as a nation.
+*   A sense of reality: To be aware of the contemporary realities - including Singapore’s constraints and vulnerabilities - which affect us as a nation amidst the backdrop of a less predictable world.
+*   A sense of hope: Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
+*   The will to act: Ultimately, these citizenship dispositions cultivate the will to act; to be active citizens who have a collective resolve and a sense of shared mission toward building a Singapore for all.
+
+We also celebrate the 4 NE Commemorative Days:
+
+*   Total Defence Day
+
+Schools commemorate Total Defence Day (TDD) on 15 February annually to mark Singapore's fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and is worth defending, and we ourselves must defend Singapore.
+
+*   International Friendship Day
+
+International Friendship Day (IFD) allows students to understand the importance of good relations with our neighbours and beyond. Students learn how Singapore pursues an active engagement in the world through international organisations such as ASEAN and the United Nations. Building mutual respect and understanding across cultures enables us to learn from the different backgrounds and experiences of people who come to Singapore to live, work and study.
+
+*   Racial Harmony Day
+
+On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the anniversary of the 1964 racial riots. On this day, students will reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures. RHD serves as a reminder that promoting social cohesion and racial harmony requires collaborative efforts from our educators, students and stakeholders.
+
+*   National Day
+
+National Day marks our separation from Malaysia, and our emergence as an independent country in the community of nations.
+
+NE is also infused in our daily routines such as flag raising ceremony and reciting the pledge, in academic subjects, and co-curricular experiences such as CCAs and Learning Journeys.
+
+<img src="/images/nationaleducation.gif" 
+     style="width:55%">
+		 
+
