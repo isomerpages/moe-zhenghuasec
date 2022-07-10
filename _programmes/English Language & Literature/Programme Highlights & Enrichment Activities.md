@@ -28,27 +28,22 @@ Sec 4 Pure Lit students enjoying creative poetry writing in author Christine Chi
 #### An Eventful English and Literature Week
 Words: Amber Yeap (2E1) & Lim Shu Qi (2E1)
 
-<img src="images/English-Week-Talk-225x300.jpeg" style="width:45%;margin-right:15px;" align = "left">
-
 During the English and Literature week conducted in Term 1, students from each level participated enthusiastically in an array of activities that included a movie screening, talks by local writers and various level-wide English competitions.
 
-<br> <br> <br> <br>
-
-<img src="images/Blackout-Poetry-in-Action-225x300.jpeg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/english%20week%20snipshot.jpg" 
+     style="width:45%">
 
 The Secondary 1 students took part in blackout poetry where they took newspaper cuttings and turned them into wonderful poems! <br>
 The Secondary 2 students on the other hand, had reading sessions in their every English class where they were required to read a few pages of a book after which they were to write reviews on the books. Some great book reviews from the Secondary 2 students were picked out and the students were presented prizes during the morning assembly. <br>
 The secondary 3 students went to the school library to borrow books brought in from the National Library Board (NLB). They wrote book reviews or had book trailers which were displayed at the back of their classrooms and showcased on the TV screens in the canteen.
 
-<br> <br>
-
-<img src="images/English-Week-Presentation-225x300.jpeg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/blackout%20poetry%20snipshot.jpg" 
+     style="width:45%">
 
 The week saw plenty of sharing of stories and poems both by teachers and students. Some even got to read their original poems to the entire school!
 
-<br> <br> <br> <br> <br> <br> <br>
-
-<img src="images/Giving-a-speech-during-Morning-Assembly-225x300.jpeg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/english%20week%20presentation%20snipshot.jpg" 
+     style="width:45%">
 
 One such aspiring poet is Aurelia from 3E4. Her poem was written for the Unity Young Writers Festival and to the theme ' Towards a Common Future '.  She shared:
 
@@ -58,24 +53,18 @@ Another presenter at the morning assembly was Li Hui, a Secondary 4 pure literat
 
 Much like Li Hui and Aurelia, many students learned a lot through the week. Remember not to address your teachers as ‘Chers’!
 
-<br> <br>
-
-<img src="images/Sec-2-Drama-Workshop-169x300.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/morning%20assembly%20snipshot.jpg" 
+     style="width:45%">
 
 Our English Language programme exposes students to the use of English in various contexts. This year, our school has had a strong emphasis on cultivating reading as a habit and encouraging confident speakers. From speech writing to drama, students are prepared to be ready for their future beyond the national examinations.
 
-<br> <br> <br> <br> <br> <br>
-
-<img src="images/Evergreen-Debate-Invitational-2017-Semi-finalists-300x225.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/sec2%20drama%20snipshot.jpg" 
+     style="width:45%">
 
 Secondary 1 students took part in a public speaking workshop where they learnt basic presentation techniques. At secondary 2, their performance skills were honed through a drama workshop which many enjoyed. Secondary 3 students were taught the ropes of debating to develop their argumentative skills. This ended with a much anticipated Inter-class debate championship where classes faced off with one another.
 
-<br> <br> <br>
-
-<img src="images/PESA-Winner-Aurelia-2E2-for-English-Week-300x200.jpg" style="width:45%;margin-right:15px;" align = "left">
-<img src="images/Blackout-Poetry-Winning-Entry-by-Ananya-4E1-300x269.png" style="width:45%;margin-right:15px;" align = "right">
-
-<br> <br> <br> <br> <br> <br> <br>
+<img src="/images/poetry%20combine.jpg" 
+     style="width:45%">
 
 Aside from our signature programmes, English Week traditionally kicks of the year with various competitions and activities. This year, students took part in the Plain English Speaking Award (PESA), a Caption Competition, Blackout Poetry and other activities that sparked the joy of learning English.
 
