@@ -16,7 +16,8 @@ We continue to adapt and seize new opportunities afforded by technology amidst t
 
 Aware of the impact the pandemic has had on our community, the school continued with key programmes such as the CNY community outreach to the rental blocks. These learning experiences develop our students to be active citizens with the will to act.
 
-![](/images/ccecombine.gif)
+<img src="/images/ccecombine.gif" 
+     style="width:65%">
 photo captions: <br>
 5N1 Leading the School in CNY VIA<br>
 5N1 Students Presenting Hampers to Grassroots Advisor, Mr Edward Chia <br>
