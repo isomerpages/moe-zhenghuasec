@@ -153,4 +153,4 @@ Our VIA programme is designed to expose students to a variety of community needs
 Beyond the cohort VIA programmes, CCAs also have customised VIA experiences for students. For example, students from the Performing Arts CCAs regularly visit seniors at Bo Tien Day Activity Centre for the Elderly.
 
 <img src="/images/value%20in%20action.gif" 
-     style="width:65%">
+     style="width:55%">
