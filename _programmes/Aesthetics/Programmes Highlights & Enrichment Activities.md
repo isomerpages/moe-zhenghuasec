@@ -28,19 +28,5 @@ The talks have benefitted me in answering doubts like whether I would lose inter
 Learning about the Neapolitan 6th Chord
 Our programme seeks to empower all students with the knowledge, skills and dispositions to appreciate and participate in music. Musical understanding is developed through listening and responding; creating and performing. The learning of musical elements and concepts provides students with the means to understand and engage with music across genres and traditions of local and global cultures. 
 
-<br>
-
-<img src="/images/Playing-the-ukulele-300x143.png" style="width:60%" align = "left">
-<br> <br> <br> <br> <br> <br> <br>
-
-Playing the ukulele!
-
-<img src="/images/Making-music-through-technology-300x225.jpg"       style="width:50%" align = "left">
-<br> <br> <br> <br> <br> <br> <br> <br> <br>
-
-Making music through technology
-
-<img src="/images/Collaborative-performance-300x178.png" style="width:60%" align = "left">  
-<br> <br> <br> <br> <br> <br> <br> <br>
-
-Collaborative performance
+![](/images/aestheticsgif.gif)
+<students playing ukelele,making music through technology and collaborative performance>
