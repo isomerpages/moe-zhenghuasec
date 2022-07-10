@@ -28,4 +28,3 @@ Sec 3 Debates Workshop
 <br> <br> <br><br> <br> <br>
 <br> <br> <br><br> <br> <br>
 Secondary 1 Write for Kindness Competition Submission
-
