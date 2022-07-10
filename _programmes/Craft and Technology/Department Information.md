@@ -9,6 +9,7 @@ third_nav_title: Craft and Technology
 <img src="/images/craft%20and%20technology%20department.jpg" 
      style="width:85%">
 <br>
+
 | Name of Head of Department |  |
 |---|---|
 | Mdm Hamidah Ali |  |
