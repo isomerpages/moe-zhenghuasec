@@ -13,11 +13,15 @@ Riding on the heels of increasing popularity for product delivery, the Secondary
  <br> <br> <br> <br> <br> <br> <br>
 Future of Transportation Theme
 		
+<br>
+		
 <img src="/images/Pic-2_Fixing-the-mBot-300x300.jpg" 
      style="width:60%" align="left">
 <br> <br> <br> <br> <br> <br> <br>
 <br> <br> <br> <br> <br>
 Fixing the mBot
+
+<br>
 
 <img src="/images/Pic-3_A-flying-drone-300x225.jpeg" 
      style="width:60%" align="left">
@@ -30,7 +34,8 @@ Our tier 1 Applied Learning Programme involves coding using Scratch Programming 
 
 <img src="/images/2E4-with-their-Sumo-bots-300x225.jpg" 
      style="width:60%" align="left">
- <br> <br> <br> <br> <br> <br> <br> <br> <br>
+ <br> <br> <br> <br> <br>
+  <br> <br> <br> <br>
 2E4 with their Sumo bots!
 
 (video not on youtube)
@@ -39,12 +44,14 @@ As a reward for being the winners of Google Hackathon Workshop conducted in 2016
 
 <img src="/images/Google-Tilt-Brush-300x225.jpg" 
      style="width:60%" align="left">
-	<br> <br> <br> <br> <br> <br> <br> <br> <br>
+	<br> <br> <br> <br> <br>
+	 <br> <br> <br> <br>
 Google Tilt Brush
 
 <img src="/images/Lego-@-Google-300x225.jpg" 
      style="width:60%" align="left">
-	<br> <br> <br> <br> <br> <br> <br> <br> <br>
+	<br> <br> <br> <br> <br>
+	<br> <br> <br> <br>
 Lego @ Google
 
 <br> 
@@ -53,15 +60,18 @@ Our STEM Day was conducted during the mid-year post-examination period. More tha
 
 <img src="/images/Robotics-competition-All-eyes-on-the-robots-300x169.jpeg" 
      style="width:60%" align="left">
-	<br> <br> <br> <br> <br> <br> <br>
+	<br> <br> <br> <br>
+	 <br> <br> <br>
 Robotics competition - All eyes on the robots!
 
 <img src="/images/Magic-of-the-3D-pen-300x169.jpeg" 
      style="width:60%" align="left">
-	<br> <br> <br> <br> <br> <br> <br>
+	<br> <br> <br> 
+	<br> <br> <br> <br>
 Magic of the 3D pen!
 
 <img src="/images/Wonders-of-Chemistry-300x225.jpeg" 
      style="width:60%" align="left">
-	<br> <br> <br> <br> <br> <br> <br> <br> <br>
+	<br> <br> <br> <br> <br> 
+	<br> <br> <br> <br>
 Wonders of Chemistry!
