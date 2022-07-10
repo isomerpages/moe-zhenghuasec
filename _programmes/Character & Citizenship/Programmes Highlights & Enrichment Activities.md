@@ -16,14 +16,10 @@ We continue to adapt and seize new opportunities afforded by technology amidst t
 
 Aware of the impact the pandemic has had on our community, the school continued with key programmes such as the CNY community outreach to the rental blocks. These learning experiences develop our students to be active citizens with the will to act.
 
-<img src="/images/ccecombine.gif" 
-     style="width:65%">
-photo captions: <br>
-5N1 Leading the School in CNY VIA<br>
-5N1 Students Presenting Hampers to Grassroots Advisor, Mr Edward Chia <br>
-5N1 Students Presenting Hampers to Grassroots Advisor, Mr Edward Chia<br>
-Family Matters VIA Project for Sec 1 Student-Initiated Learning <br>
-Our hawker culture
+<img src="/images/cce%20combine%201.jpg" 
+     style="width:45%">
+<img src="/images/cce%20combine%202.jpg" 
+     style="width:45%">
 
 #### Social and Emotional Learning
 
@@ -50,9 +46,8 @@ A holistic education system places exemplary character on par with academic exce
 
 	* The Do It Right Award is given by Form Teachers throughout the year. It recognises deserving students who have demonstrated good character.
 	
-	<img src="/images/Do-It-Right-badges-designed-by-our-students.jpg" 
-     style="width:55%">
-<Do It Right badges, designed by our students.>
+<img src="/images/do%20it%20right%20snipshot.jpg" 
+     style="width:45%">
 
 #### School Values Award 2019 (Secondary 1 Award Winners)
 
