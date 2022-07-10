@@ -3,7 +3,7 @@ url: ""
 favicon: /images/logo.png
 colors:
   primary-color: "#ff0800"
-  secondary-color: "#928f8f"
+  secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
       color: "#49759a"
