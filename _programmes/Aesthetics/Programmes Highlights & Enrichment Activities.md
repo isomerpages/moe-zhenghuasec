@@ -41,6 +41,6 @@ Playing the ukulele!
 Making music through technology
 
 <img src="/images/Collaborative-performance-300x178.png" style="width:60%" align = "left">  
-<br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br>
 
 Collaborative performance
