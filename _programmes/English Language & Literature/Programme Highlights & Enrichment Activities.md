@@ -14,22 +14,19 @@ Through our signature programmes, the English and Literature department aims to 
 <br> <br> <br>
 3E4 students filming their Reebus Boomerang Challenge for ELLHUM Week 2021
 
-<br> <br>
-
 <img src="/images/Sec-3-Debates-Workshop-300x225.jpg" style="width:50%;margin-right:15px;" align = "left">
 <br> <br> <br>
 Sec 3 Debates Workshop
-
-<br> <br> <br>
 
 <img src="/images/Secondary-1-Write-for-Kindness-Competition-Submission_2-212x300.jpg" style="width:47%;margin-right:15px;" align = "left">
 <img src="/images/Secondary-1-Write-for-Kindness-Competition-Submission-213x300.jpg" style="width:47%;margin-right:15px;" align = "right">
 <br> <br> <br> <br> <br> <br>
 <br> <br> <br><br> <br> <br>
 <br> <br> <br><br> <br> <br>
-Secondary 1 Write for Kindness Competition Submission
+<br> <br> <br><br> <br> <br>
+<br> <br> <br><br> <br> <br>
 
-<br> <br>
+Secondary 1 Write for Kindness Competition Submission
 
 <img src="images/Secondary-2-Drama-Workshop-300x225.jpg" style="width:50%;margin-right:15px;" align = "left">
 <br> <br> <br>
