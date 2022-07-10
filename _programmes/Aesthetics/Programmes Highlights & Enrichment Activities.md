@@ -8,10 +8,9 @@ third_nav_title: Aesthetics
 
 Our Aesthetic programme promotes awareness and appreciation of art forms by exposing students to dance, music, drama and the visual arts. Students also experience creating music in analogue and digital forms using their Chromebooks. 
 
-<img src="/images/Creating-Music-Using-Chromebooks-300x145.jpg"       style="width:70%" align="left"> 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-creating music using chromebooks
-<br> <br>
+<img src="/images/creating%20music%20using%20chromebook.jpg" 
+     style="width:55%">
+
 Selected students are also given opportunities this year to participate in activities such as the Singapore Youth Festival Song Writing Project “Youth Station”, and the Music and Higher Education Career Fair.
 Other than the compositional skills that I learnt from our teachers, the project made my dream of song composition come true. It taught me that persevere through difficult times”.
 
