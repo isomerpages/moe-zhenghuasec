@@ -24,7 +24,6 @@ Sec 3 Debates Workshop
 <br> <br> <br><br> <br> <br>
 <br> <br> <br><br> <br> <br>
 <br> <br> <br><br> <br> <br>
-<br> <br> <br><br> <br> <br>
 
 Secondary 1 Write for Kindness Competition Submission
 <img src="images/Secondary-2-Drama-Workshop-300x225.jpg" style="width:50%;margin-right:15px;" align = "left">
