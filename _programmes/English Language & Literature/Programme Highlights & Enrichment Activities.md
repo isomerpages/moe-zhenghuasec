@@ -38,18 +38,7 @@ In a bid to immerse students in an English and Literature-rich environment, stud
 <br> <br> <br>
 Sec 4 Pure Lit students enjoying creative poetry writing in author Christine Chias class @ Unity Young Writers Festival 2018
 
-<br> <br> <br>
-
-<img src="images/national%20gallery%20excursion.jpg" style="width:45%;margin-right:15px;" align = "left">
-
-Iinterdisciplinary (Art, POA, and English) excursion at the National Gallery
-
-<br> <br> <br>
-
-<img src="images/appreciation%20of%20art.jpg" style="width:45%;margin-right:15px;" align = "left">
-
-Iinterdisciplinary (Art, POA, and English) excursion at the National Gallery
-Ms Claudia Tan engaging students in the appreciation of art
+![](/images/national%20gallery%20excursion%20and%20art%20gallery.jpg)
 
 <br> <br>
 
