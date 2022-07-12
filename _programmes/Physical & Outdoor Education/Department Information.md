@@ -9,7 +9,6 @@ third_nav_title: Physical & Outdoor Education
 <img src="/images/PE%20department.jpg" 
      style="width:85%">
 		 
-<br>	 
 		 
 |  |  |
 |---|---|
