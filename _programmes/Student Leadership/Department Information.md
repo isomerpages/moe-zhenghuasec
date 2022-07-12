@@ -8,9 +8,7 @@ third_nav_title: Student Leadership
 
 <img src="/images/student%20leadership.jpg" 
      style="width:85%">
-		 
-<br>		 
-		 
+		 		 
 | Names of Subject Head |  |
 |---|---|
 | Mr Roy Tan |  |
