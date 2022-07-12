@@ -17,4 +17,5 @@ third_nav_title: Student Management
 | Mr Faizal Bohari | Miss Jamie Foo |
 | Mr Aaron Tan | Mr Ng Kian Hong |
 | Mr Pukalendran | Mdm Tamilarasi |
-| Mr Poon Chong Hoi | Mr Elmi (AED LBS) |		 
+| Mr Poon Chong Hoi | Mr Elmi (AED LBS) |
+|
