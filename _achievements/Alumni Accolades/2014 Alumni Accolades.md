@@ -12,7 +12,7 @@ Our students has done well in Ngee Ann Polytechnic. They are the top 10% of thei
 
 | Name | Course | Award |
 |---|---|---|
-| Tay Tian Ci | Diploma in Network Systems & Security | · IDA Gold Medal & Prize · Diploma with Merit· CISCO Prize Fujitsu Prize· Reliance Globalcom Prize |
+| Tay Tian Ci | Diploma in Network Systems & Security | · IDA Gold Medal & Prize · Diploma with Merit · CISCO Prize . Fujitsu Prize · Reliance Globalcom Prize |
 | Chin Hui Jun | Diploma in Molecular Biology | · Roche Singapore Technical Operations Silver Medal & Prize · Diploma with Merit |
 | Tan Qiu Yan | Diploma in Landscape Design & Horticulture | · Diploma with Merit · CSK Landscape Services Prize |
 | Lim Lay Yin, Doelle | Diploma in Accountancy | · Diploma with Merit |
