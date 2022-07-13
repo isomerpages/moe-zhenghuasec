@@ -6,8 +6,9 @@ third_nav_title: ECHA Awards
 ---
 ### ECHA Awardees 2019
 
+##### O Level ECHA Awardees
 <img src="/images/2019OLevelECHA.jpg" 
-     style="width:90%">
+     style="width:90%">		 
 		 		 
 | NO. | NAME | CLASS |
 |:---:|---|---|
@@ -25,6 +26,8 @@ third_nav_title: ECHA Awards
 | 12 | Toh Suen Yu | 4E4 |
 | 13 | Koh Yu Qing | 4N1 |
 |
+
+##### N Level ECHA Awardees
 
 <img src="/images/2019NLevelECHA.jpg" 
      style="width:90%">
