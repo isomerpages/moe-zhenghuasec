@@ -82,7 +82,6 @@ Apart from achievements, our cadets have also been active in serving the communi
 ![](/images/npcc%203.jpg)
 ![](/images/npcc%204.jpg)
 ![](/images/npcc%205.jpg)
-
 ![](/images/npcc%206.jpg)
 ![](/images/npcc%207.jpg)
 ![](/images/npcc%208.jpg)
