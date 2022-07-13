@@ -5,7 +5,6 @@ description: ""
 third_nav_title: ECHA Awards
 ---
 ### ECHA Awardees 2018
-<br>
 
 | NO. | Name | Class |
 |---|---|---|
