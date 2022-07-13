@@ -8,9 +8,7 @@ third_nav_title: ECHA Awards
 
 <img src="/images/2019OLevelECHA.jpg" 
      style="width:90%">
-		 
-<br>		 
-		 
+		 		 
 | NO. | NAME | CLASS |
 |:---:|---|---|
 | 1 | Ching Phebe | 4E1 |
@@ -31,8 +29,6 @@ third_nav_title: ECHA Awards
 <img src="/images/2019NLevelECHA.jpg" 
      style="width:90%">
 		 
-<br>
-
 | NO. | NAME | CLASS |
 |:---:|---|---|
 | 1 | Koh Yu Qing | 4N1 |
