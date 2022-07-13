@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements (By CCAs).md
       - Student Achievements (By Departments).md
       - Academic Achievements/.keep
       - Academic Achievements/2021 'O' Level Examination Results.md
