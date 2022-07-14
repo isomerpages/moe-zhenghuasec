@@ -39,4 +39,6 @@ The Club is also becoming a home for members who are enthusiastic about digital 
 This was a meaningful nationwide competition centered on the theme of organ transplantation. It was organised by the Organ Transplant Unit, Health Promotion Board. We beat 262 other entries and bagged 4 awards!The awardees are Jolie Ng Wei Zhen of 4E1 (High Distinction), Ching Phebe of 4E1 (Distinction), Chai Jean Shuen of 4E3 (Merit) and Lydia Aluko of 3T1 (Merit)
 
 <img src="/images/art%20club%20combine%202.jpg" 
-     style="width:45%">
+     style="width:85%">
+		 
+		 
