@@ -55,4 +55,4 @@ This was a meaningful nationwide competition centered on the theme of organ tran
 In this workshop, members learn about the basic history of manga art and the basic watercolour technique.They added colour to their creations with their personal touches.
 
 <img src="/images/art%20club%20combine%204.jpg" 
-     style="width:85%">
+     style="width:75%">
