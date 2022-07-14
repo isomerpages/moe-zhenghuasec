@@ -41,4 +41,18 @@ This was a meaningful nationwide competition centered on the theme of organ tran
 <img src="/images/art%20club%20combine%202.jpg" 
      style="width:85%">
 		 
+##### Do It Right! Badge Design 2019
+
+"Do It Right!" Badges were awarded to ZSS students for exhibiting the right values and behaviour. The designs for this year's badges were created by Chai Jean Shuen of 4E3 and Amber Yeap of 3E2.
+
+<img src="/images/art%20club%20combine%203.jpg" 
+     style="width:85%">
 		 
+#### Activities
+
+##### Manga Art Watercolour Illustration Workshop 2019
+
+In this workshop, members learn about the basic history of manga art and the basic watercolour technique.They added colour to their creations with their personal touches.
+
+<img src="/images/art%20club%20combine%204.jpg" 
+     style="width:85%">
