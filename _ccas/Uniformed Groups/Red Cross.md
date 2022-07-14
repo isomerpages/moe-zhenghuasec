@@ -11,6 +11,7 @@ third_nav_title: Uniformed Groups
 |  | Miss Vivian Koh |
 |  | Miss Amerlyn Ong |
 | Training / Meeting Days and Time: | Thursdays : 2.30pm - 5.00pm |
+|
 
 ##### Achievements:
 *   Excellence Unit Award (EUA) - Silver
