@@ -77,17 +77,10 @@ In addition, 2 of our cadets received the highest accolades for an NPCC cadet, T
 
 Apart from achievements, our cadets have also been active in serving the community. SSgt Haryani bte Hamir (3N1) represented us in the Annual National Day Parade 2018 at The Float at Marina Bay. SSgt Muhammad Yazeed Zdan (3T1) participated in the NPCC Harmony Camp co-organised by the People’s Association.
 
-![](/images/npcc%201.jpg)
+![](/images/npcc%201a.jpg)
 ![](/images/npcc%202.jpg)
 ![](/images/npcc%203.jpg)
 ![](/images/npcc%204.jpg)
 ![](/images/npcc%205.jpg)
 ![](/images/npcc%206.jpg)
 ![](/images/npcc%207.jpg)
-![](/images/npcc%208.jpg)
-![](/images/npcc%209.jpg)
-![](/images/npcc%2010.jpg)
-![](/images/npcc%2011.jpg)
-![](/images/npcc%2012.jpg)
-![](/images/npcc%2013.jpg)
-![](/images/npcc%2014.jpg)
