@@ -21,6 +21,6 @@ third_nav_title: Clubs and Societies
 
 ##### Infocomm Club
 
-<img src="/images/infocomm%201.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/infocomm%201.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 The Infocomm Club started off 2017 fruitfully by honing their skills in videography, video editing, Photoshop skills and photography.
