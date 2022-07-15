@@ -28,3 +28,10 @@ With such a good haul of titles this year, it has certainly been a good season f
 
 ![](/images/sports%20club%201.jpg)
 ![](/images/sports%20club%202.jpg)
+
+The sporting season of Sports Club for the year 2019 was one filled with excitement and joy. We represented the school at a multitude of sports events; the highlights were Touch Rugby National Schools 2019 and Team-Nila Volunteer Programme at Jurong Lake, which saw us collaborating with Class 3T1 and Active@SG.
+
+The students also organised and took part in a multitude of sports matches in school such as soccer, badminton, volleyball, and floorball. It has certainly been a fruitful year of opportunities for our students.
+
+<img src="/images/sports%20club%203.jpg" 
+     style="width:95%">
