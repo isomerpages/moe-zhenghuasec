@@ -18,3 +18,28 @@ In Basketball, our boys pride themselves on training diligently twice a week, fo
      style="width:90%">
 <img src="/images/bball%202.jpg" 
      style="width:85%">
+		 
+#### Achievements
+1.West Zone B and C Boys Basketball Tournament 2019 <br>
+2.Chua Yu You (4E4) was selected for the Singapore U16 National Basketball Team
+
+#### Activities
+
+Our basketball boys and teachers-in-charge form a very tightly-knit group. The boys work hard towards the training direction set by the teachers, focusing on their personal mastery, as well as team play design, to improve their effectiveness and strengths. They also adhere closely to the fitness and diet programmes the teachers drew up to help them grow physically.
+
+They believe in reaching out to the community and played their part in our school Zest celebration. They put up a game booth that was crowded throughout the Zest event and thoroughly enjoyed themselves while engaging the public.
+
+#### Our Alumni achievements
+
+1. Jason Lee (graduated 2013, B Boys Captain) was commissioned as Infantry Army Officer  
+2. Cornor Chua (graduated 2012, B Boys Vice-Captain) in OCS, training to be UAV pilot.  
+3. Wisely (graduated in 2012, B Boys Captain) in OCS, training to be C3 pilot.  
+4. Kah Yeow (graduated in 2012, B Boys Vice-Captain) in OCS professional team.
+
+![](/images/bball%203.jpg)
+
+#### Activities
+
+![](/images/bball%204.jpg)
+![](/images/bball%205.jpg)
+![](/images/bball%206.jpg)
