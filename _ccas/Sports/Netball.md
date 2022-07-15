@@ -77,5 +77,3 @@ The zonal tournament pushed and motivated the teams further as they looked forwa
 
 <img src="/images/netball%205.jpg" 
      style="width:45%">
-		 
-		 
