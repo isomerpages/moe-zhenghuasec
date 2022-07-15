@@ -13,7 +13,7 @@ third_nav_title: Uniformed Groups
 | Training / Meeting Days and Time: | Thursday, 2.30PM to 6.00PM |
 |
 
-##### Achievements:
+#### Achievements:
 
 *   NCC Sports Championship – Soccer (Air District) – 3rd
 *   Air Competition 2019:
@@ -27,7 +27,7 @@ third_nav_title: Uniformed Groups
 *   Best Unit Competition - Silver (2015)
 *   Best Unit Competition - Gold (2006 - 2014)
 
-##### Activities:
+#### Activities:
 
 | Aeromodelling | Advanced Drill Course | Archery | Battlefield Trail |
 |---|---|---|---|
@@ -39,7 +39,7 @@ third_nav_title: Uniformed Groups
 | Total Defence Programmes (National Education) | Specialist & Senior Specialist Courses for Cadet Leaders | Water Ambassador Course | 1-star Kayaking |
 |
 
-##### Activities:
+#### Activities:
 
 2019 has been an exciting year for Zhenghua NCC (Air) Unit.
 
