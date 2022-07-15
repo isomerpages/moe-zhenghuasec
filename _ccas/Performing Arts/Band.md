@@ -43,7 +43,6 @@ We are not only a band, but a family too. We always stick to our motto: One Band
 The band hopes to be able to continue to share their love for music with the school and community in the years to come.
 
 ![](/images/symphonic%20band%203.jpg)
-
 ![](/images/symphonic%20band%204.jpg)
 <img src="/images/symphonic%20band%205.jpg" 
      style="width:45%">
