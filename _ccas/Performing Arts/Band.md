@@ -47,4 +47,4 @@ The band hopes to be able to continue to share their love for music with the sch
 <img src="/images/symphonic%20band%204.jpg" 
      style="width:85%">
 <img src="/images/symphonic%20band%205.jpg" 
-     style="width:45%">
+     style="width:35%">
