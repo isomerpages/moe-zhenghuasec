@@ -14,5 +14,4 @@ third_nav_title: Performing Arts
 |  | Thursday 2.30PM to 5.30PM |
 |
 
-##### Achievements:
-
+#### Achievements:
