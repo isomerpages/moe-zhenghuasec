@@ -43,3 +43,12 @@ They believe in reaching out to the community and played their part in our schoo
 ![](/images/bball%204.jpg)
 ![](/images/bball%205.jpg)
 ![](/images/bball%206.jpg)
+
+Our basketball boys and teachers-in-charge form a very tightly-knit group. The boys work hard towards the training direction set by the teachers, focusing on their personal mastery, as well as team play design, to improve their effectiveness and strengths. They also adhere closely to the fitness and diet programmes the teachers drew up to help them grow physically.
+
+<img src="/images/bball%207.jpg" 
+     style="width:45%">
+
+They believe in reaching out to the community and played their part in our school Zest celebration. They put up a game booth that was crowded throughout the Zest event and thoroughly enjoyed themselves while engaging the public.
+
+![](/images/bball%208.jpg)
