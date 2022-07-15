@@ -13,13 +13,13 @@ third_nav_title: Uniformed Groups
 | Training / Meeting Days and Time: | Thursdays : 2.30pm - 5.00pm |
 |
 
-##### Achievements:
+#### Achievements:
 *   Excellence Unit Award (EUA) - Silver
 *   First Aid Competition (Junior Category) - Commendation
 *   First Aid Competition (Senior Category) - Bronze Award
 *   Trailblazers Championship 2018 – Bronze Award presented to SGT Soh Shu Hui (4N1)
 
-##### Achievements:
+#### Achievements:
 *   Excellence Unit Award (EUA) – Gold
 *   First Aid Championship 2019 (Senior Category) – Silver Award
 *   First Aid Championship 2019 (Junior Category) – Commendation
