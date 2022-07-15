@@ -36,7 +36,8 @@ third_nav_title: Sports
 
 2022 was the year that the Volleyball team members are looking forward to. With the relaxation of safe management measures, National Schools Games were able to resume. Our B Division boys team and B Division girls team trained very hard for the National School Games, which were held in April 2022. The teams played their very best against strong opponents. Currently, the teams are training for upcoming friendlies with other schools as well as C Division Volleyball tournament which is set to start in July 2022. The volleyball players are also looking forward to more bonding activities as well as the Volleyball camp at the end of the year.
 
-![](/images/volleyball.jpg)
+<img src="/images/volleyball.jpg" 
+     style="width:90%">
 ![](/images/volleyball%201.jpg)
 
 ##### 2019
