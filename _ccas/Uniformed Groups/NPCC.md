@@ -15,7 +15,7 @@ third_nav_title: Uniformed Groups
 | Training / Meeting Days and Time: | Thursdays : 2.30pm – 6.00pm |
 |
 
-##### Unit Overall Proficiency Award
+#### Unit Overall Proficiency Award
 
 | Year | Award |
 |---|---|
@@ -46,12 +46,12 @@ third_nav_title: Uniformed Groups
 | 2011 | Muhammad Farhan Abdul Rahman (5N3) |
 |
 
-##### CCA Objectives:
+#### CCA Objectives:
 
 The **Vision** of the National Police Cadet Corps is to mould the builders of a safe & secure home. <br>
 The **Mission** of the National Police Cadet Corps is to develop its cadets into caring and responsible citizens.
 
-##### Achievements:
+#### Achievements:
 
 1.  Gold Award in the (UOPA) Unit Overall Proficiency Award.
 2.  Area 20 Games Day 2018 - 1st Runner Up
@@ -61,7 +61,7 @@ The **Mission** of the National Police Cadet Corps is to develop its cadets in
 6.  Inter-Unit .22 Revolver Shooting Competition 2017  
     Individual Boys - 9th Position, Ja'afar Siddiq (4N1)
 		
-##### Activities
+#### Activities
 
 *   **Sec 1:** Unit Camp, Road Marshal Training, Total Defence (Bronze), Crime Prevention, Campcraft, Police Heritage Centre Visit, Police Coast Guard Visit
 *   **Sec 2:** SANA, Third Class Drill, Total Defence Silver, Community Safety & Security Programme, Adventure Training Camp, Unarmed Tactics, .22" Revolver Practice Shoot, Neighbourhood Police Centre, Olive Run 2016
