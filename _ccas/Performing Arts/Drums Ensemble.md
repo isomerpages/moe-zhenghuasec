@@ -26,6 +26,38 @@ Members of the ensemble also worked hand in hand with Bo Tien Day Activity Centr
 
 <img src="/images/drum%20ensemble%201.jpg" 
      style="width:65%">
-![](/images/drum%20ensemble%202.jpg)
-![](/images/drum%20ensemble%203.jpg)
-![](/images/drum%20ensemble%204.jpg)
+<img src="/images/drum%20ensemble%202.jpg" 
+     style="width:65%">
+<img src="/images/drum%20ensemble%203.jpg" 
+     style="width:65%">
+<img src="/images/drum%20ensemble%204.jpg" 
+     style="width:65%">
+		 
+Other than public stages, the Drums Ensemble also shares the joy of drumming with the school during school events! Our secondary 1 drummers made their debut when they performed during Awards Day. The drummers continue to develop their drumming skills as well as building greater self-confidence with our upcoming programmes and activities, such as the Annual Drums Camp and various workshops.
+
+<img src="/images/drum%20ensemble%205.jpg" 
+     style="width:65%">
+		 
+CW 6 Racial Harmony Celebration  
+Drums Ensemble showcased their engaging Chingay item to the school. This time, the drummers not only played the drums but also danced as part of the performance.
+
+<img src="/images/drum%20ensemble%206.jpg" 
+     style="width:65%">
+		 
+<img src="/images/drum%20ensemble%207.jpg" 
+     style="width:65%">
+		 
+##### Activities:
+
+<img src="/images/drum%20ensemble%208.jpg" 
+     style="width:65%">
+<img src="/images/drum%20ensemble%209.jpg" 
+     style="width:65%">
+<img src="/images/drum%20ensemble%2010.jpg" 
+     style="width:55%">
+<img src="/images/drum%20ensemble%2011.jpg" 
+     style="width:60%">
+<img src="/images/drum%20ensemble%2012.jpg" 
+     style="width:55%">
+<img src="/images/drum%20ensemble%2013.jpg" 
+     style="width:65%">
