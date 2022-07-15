@@ -38,3 +38,11 @@ third_nav_title: Sports
 
 ![](/images/volleyball.jpg)
 ![](/images/volleyball%201.jpg)
+
+##### 2019
+
+It has been an exciting year for our Volleyball team members. Our boy teams and girl teams trained extremely hard to prepare for the West Zone B Division Volleyball Championships that were held in January 2019 as well as the West Zone C Division Volleyball Championships held in July 2019. The teams did their best against strong opponents. In addition to trainings and competitions, our teams also had friendly matches with other schools to learn from one another. In order to build team work and help the team members bond, we look forward to our volleyball camp in November as well as an overseas trip to Malaysia at the end of the year.
+
+![](/images/volleyball%202.jpg)
+<img src="/images/volleyball%203.jpg" 
+     style="width:45%">
