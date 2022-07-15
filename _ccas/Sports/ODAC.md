@@ -46,6 +46,28 @@ We started the year by cycling to Coney Island Park in Punggol. It was the first
 
 In term 2, we organised the Intra School Rock Climbing and received overwhelming responses for participation. It was a really exciting session as the competitive spirit was so high. We also participated in the G.A.R.a.n.g Race 2017 where we broadened our orienteering knowledge.
 
-![](/images/odac%201.jpg)
-![](/images/odac%202.jpg)
-![](/images/odac%203.jpg)
+<img src="/images/odac%201.jpg" 
+     style="width:85%">
+<img src="/images/odac%202.jpg" 
+     style="width:85%">
+<img src="/images/odac%203%20(2).jpg" 
+     style="width:85%">
+
+##### Achievements:
+
+1.National Orienteering Race Singapore 2019 <br>
+2.Secondary School Boys Relay - Champion
+
+Our highlight this year was our collaboration with Christ Church Secondary school. New friendships were forged through the activities that were planned by us and good practices were shared between the schools. The expedition to explore Woodlands Centre was very enriching and we even got to exchange games ideas with the students from the school!
+
+We started this year refreshing our skills at our own rock wall, challenge pole, broken bridge and multi vines. We also had our 2D1N orientation camp organised by our dear secondary 4s in April, which included a trip to Gardens by the Bay where we did a mini orienteering race. We carried out activities such as outdoor cooking and pitching our own tents. Through the camp, we became more resilient and bonded with the rest of the ODAC members.
+
+<img src="/images/climbers%20lab.jpg" 
+     style="width:85%">
+
+In semester two, we headed to Sungei Buloh for a hike and were tasked to vlog about an organism. We even saw wild baby horseshoe crabs and wild baby crocodiles. We also visited Climbers Laboratory and we had a blast there! There were a total of 11 lanes for us to climb and through the experience, we found out the fastest climber in ODAC!
+
+<img src="/images/odac%204.jpg" 
+     style="width:85%">
+<img src="/images/odac%205.jpg" 
+     style="width:85%">
