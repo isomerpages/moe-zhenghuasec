@@ -2,6 +2,7 @@ collections:
   zhenghua-newz:
     output: true
     order:
+      - Zhenghua News 2020.md
       - Zhenghua News 2021.md
       - Zhenghua News 2022.md
       - Zhenghua News 2020/January 2020.md
