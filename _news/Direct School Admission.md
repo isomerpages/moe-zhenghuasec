@@ -24,16 +24,55 @@ Zhenghua will be offering DSA places for boys and girls in the following talent 
 ##### DSA Selection Criteria and Process
 In general, we are looking for students who are passionate, positive and have the potential to excel in their respective talent areas to join the school.
 
-| Talent Areas | CCA | Selection Criteria | Selection Process |
-|---|---|---|---|
-| Leadership – Student Council | NCC (Air) | Applicants should demonstrate all or some of the following in their respective talent areas,  a keen interest and passion potential and aptitude to excel positive attitude towards learning positive demeanour and behaviour with exemplary conduct | Every shortlisted applicant will have to complete a performance task in the selected talent area and go through an interview. |
-|  | NPCC |  |  |
-|  | Red Cross |  |  |
-|  | Scouts |  |  |
-| Dance – Malay | Dance |  |  |
-| Dance – Modern / Contemporary |  |  |  |
-| Volleyball | Volleyball |  |  |
-|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pdeq"><span style="font-weight:700;font-style:inherit">Talent Areas</span></th>
+    <th class="tg-pdeq"><span style="font-weight:700;font-style:inherit">CCA</span></th>
+    <th class="tg-pdeq"><span style="font-weight:700;font-style:inherit">Selection Criteria</span></th>
+    <th class="tg-pdeq"><span style="font-weight:700;font-style:inherit">Selection Process</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jxgv" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Leadership – Student Council</span></td>
+    <td class="tg-jxgv"><span style="font-weight:inherit;font-style:inherit">NCC (Air)</span></td>
+    <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Applicants should demonstrate all or some of the following in their respective talent areas,</span><br><br><span style="font-weight:inherit;font-style:inherit">a keen interest and passion</span><br><span style="font-weight:inherit;font-style:inherit">potential and aptitude to excel</span><br><span style="font-weight:inherit;font-style:inherit">positive attitude towards learning</span><br><span style="font-weight:inherit;font-style:inherit">positive demeanour and behaviour with exemplary conduct</span></td>
+    <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Every shortlisted applicant will have to complete a performance task in the selected talent area and go through an interview.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-jxgv"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-jxgv"><span style="font-weight:inherit;font-style:inherit">Red Cross</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Scouts</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Dance – Malay</span></td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Dance</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Dance – Modern / Contemporary</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 **Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
