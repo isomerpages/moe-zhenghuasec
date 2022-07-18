@@ -2,6 +2,7 @@ collections:
   zhenghua-newz:
     output: true
     order:
+      - Zhenghua News.md
       - Zhenghua News 2022/January 2022.md
       - Zhenghua News 2022/February 2022.md
       - Zhenghua News 2022/March 2022.md
