@@ -334,7 +334,6 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
-}
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -385,3 +384,4 @@ $desktop: 960px + (2 * $gap) !default;
     </div>
   </li>
 </ul>
+}
