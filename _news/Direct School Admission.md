@@ -32,7 +32,6 @@ In general, we are looking for students who are passionate, positive and have th
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -46,29 +45,23 @@ In general, we are looking for students who are passionate, positive and have th
 <tbody>
   <tr>
     <td class="tg-jxgv" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Leadership – Student Council</span></td>
-    <td class="tg-jxgv"><span style="font-weight:inherit;font-style:inherit">NCC (Air)</span></td>
+    <td class="tg-jxgv" rowspan="4"><span style="font-weight:inherit;font-style:inherit">NCC (Air)</span><br><br><span style="font-weight:inherit;font-style:inherit">NPCC</span><br><br><span style="font-weight:inherit;font-style:inherit">Red Cross</span><br><br><span style="font-weight:inherit;font-style:inherit">Scouts</span><br></td>
     <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Applicants should demonstrate all or some of the following in their respective talent areas,</span><br><br><span style="font-weight:inherit;font-style:inherit">a keen interest and passion</span><br><span style="font-weight:inherit;font-style:inherit">potential and aptitude to excel</span><br><span style="font-weight:inherit;font-style:inherit">positive attitude towards learning</span><br><span style="font-weight:inherit;font-style:inherit">positive demeanour and behaviour with exemplary conduct</span></td>
     <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Every shortlisted applicant will have to complete a performance task in the selected talent area and go through an interview.</span></td>
   </tr>
   <tr>
-    <td class="tg-jxgv"><span style="font-weight:inherit;font-style:inherit">NPCC</span></td>
   </tr>
   <tr>
-    <td class="tg-jxgv"><span style="font-weight:inherit;font-style:inherit">Red Cross</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Scouts</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Dance – Malay</span></td>
-    <td class="tg-ktyi" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Dance</span></td>
+    <td class="tg-jxgv" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Dance – Malay</span><br><br><span style="font-weight:inherit;font-style:inherit">Dance - Modern / Contemporary</span><br><br><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
+    <td class="tg-jxgv" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Dance</span><br><br><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Dance – Modern / Contemporary</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
   </tr>
 </tbody>
 </table>
