@@ -2,6 +2,7 @@ collections:
   "2016":
     output: true
     order:
+      - Parents Letter.md
       - Parents Letter 2016.md
       - Parents Letter Term 4/.keep
       - Parents Letter Term 3/.keep
