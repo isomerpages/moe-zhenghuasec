@@ -3,41 +3,15 @@ title: Zhenghua News 2022
 permalink: /zhenghua-newz/zhenghua-news-2022/
 description: ""
 ---
-
-### Zhenghua Newz 2022
-
-<ul class="jekyllcodex\_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Parents Letter Term 4</label>  
-    <div>  
-        <p> Form 1 \[Text and pictures here. use "<br>" if needed\] <br>  
+<ul class="jekyllcodex\_accordion">
+	<li>
+		<input type="checkbox" id="accordion1">    <label for="accordion1">Principal's Foreword **\[TITLE HERE\]** </label>
+		<div>
+			<p> **Hello june. \[Text and pictures here. use "<br>" if needed\]** <br>  
   
-</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">Parents Letter Term 3</label>  
-    <div>  
-      <p> BODY TEXT HERE</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion1">Parents Letter Term 2</label>  
-    <div>  
-        <p> Form 1 \[Text and pictures here. use "<br>" if needed\] <br>  
-  
-</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion4">  
-    <label for="accordion2">Parents Letter Term 1</label>  
-    <div>  
-      <p> BODY TEXT HERE</p>  
-    </div>  
-</li>  
+</p>
+		</div>
+	</li>  
+<li>    <input type="checkbox" id="accordion2">    <label for="accordion2">**AGAIN TITLE HERE**</label>    <div>      <p> **BODY TEXT HERE**</p>    </div></li>  
   
 </ul>
