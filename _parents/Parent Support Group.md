@@ -177,7 +177,22 @@ Through the series of interesting and engaging workshop and activities organized
 
 Here are some photographs of our PSG events and parenting workshops. (Do note that some of these photographs were taken in 2019)
 
------PHOTOS------
+<img src="/images/PSG01.jpg" 
+     style="width:50%">
+<img src="/images/PSG02.jpg" 
+     style="width:50%">
+<img src="/images/PSG03.jpg" 
+     style="width:85%">
+<img src="/images/PSG04.jpg" 
+     style="width:85%">
+<img src="/images/PSG05.jpg" 
+     style="width:85%">
+<img src="/images/PSG06.jpg" 
+     style="width:70%">
+<img src="/images/PSG07.jpg" 
+     style="width:85%">
+<img src="/images/PSG08.jpg" 
+     style="width:40%">
 
 How to Join?
 
