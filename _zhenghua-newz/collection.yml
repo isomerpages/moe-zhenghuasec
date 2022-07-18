@@ -3,11 +3,6 @@ collections:
     output: true
     order:
       - Zhenghua News 2022.md
-      - Zhenghua News 2022/January 2022.md
-      - Zhenghua News 2022/February 2022.md
-      - Zhenghua News 2022/March 2022.md
-      - Zhenghua News 2022/April 2022.md
-      - Zhenghua News 2022/.keep
       - Zhenghua News 2021/January 2021.md
       - Zhenghua News 2021/February 2021.md
       - Zhenghua News 2021/April 2021.md
