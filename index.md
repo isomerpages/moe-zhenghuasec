@@ -22,8 +22,7 @@ sections:
           description: ""
           url: /News/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Quicklinks
+      button: Click here for more information
+      url: /quicklinks/
 ---
