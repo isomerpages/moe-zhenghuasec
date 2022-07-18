@@ -1,4 +1,5 @@
 collections:
   2016-past-letters-to-parents:
     output: true
-    order: []
+    order:
+      - Term 4.md
