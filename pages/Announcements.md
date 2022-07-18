@@ -26,25 +26,30 @@ description: ""
 -12 April 2022
 
 ##### Road Changes in Senja Area
-
+[Road Changes in Senja Area](/files/Road-changes-in-Senja-Area.pdf) <br>
 -30 March 2022
 
 ##### Letter To Parents Term 2 Week 1
-
+[Letter To Parents Term 1](/files/22march%20letters%20to%20parents%20term%201.pdf) <br>
+[LTA Road works upgrading] (file size larger than 5mb)
 -22 March 2022
 
 ##### Letter To Parents Term 1 Week 3
-
+[Letter To Parents - Secondary 1](/files/Term-1-Week-3-LTP-2022_Sec-1.pdf) <br>
+[Letter To Parents - Secondary 2](/files/Term-1-Week-3-LTP-2022_Sec-2.pdf) <br>
+[Letter To Parents - Secondary 3](/files/Term-1-Week-3-LTP-2022_Sec-3.pdf) <br>
+[Letter To Parents - Secondary 4 & 5](/files/Term-1-Week-3-LTP-2022_Sec-4_5.pdf) <br>
 -24 January 2022
 
 ##### 2021 'O' Level Results Release
-
--16 January 2022
+[2021 'O' Level Results Release](https://moe-zhenghuasec-staging.netlify.app/announcements/2021-o-level-results-release/ )
+<br>
+-16 January 2022)
 
 ##### Letter To Parents Term 1 Issue 1 2022
-
+[Letter To Parents Term 1](/files/31december.pdf) <br>
 -31 December 2021
 
 ##### 2021 'N' Level Results Release
-
+[2021 'N' Level Results Release](https://moe-zhenghuasec-staging.netlify.app/announcements/2021-n-level-results-release/) <br>
 -22 December 2021
