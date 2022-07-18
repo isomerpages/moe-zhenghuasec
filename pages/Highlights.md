@@ -14,12 +14,12 @@ description: ""
 * [2018 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2018%20GCE%20'O'%20Level%20Results.md)
 * [2018 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2018%20GCE%20'N'%20Level%20Results.md)
 * [President's Visit to Zhenghua Secondary School](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/President's%20Visit%20to%20Zhenghua%20Secondary%20School.md)
-* [ZEST 2019]()
+* [ZEST 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/ZEST%202019.md)
 * [National Schools Literature Festival 2019]()
-* [Live On Design Competition 2019]()
-* [Zhenghua Newsletter Issue 3]()
-* [Zhenghua Newsletter Issue 2]()
-* [Zhenghua Newsletter Issue 1]()
+* [Live On Design Competition 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/National%20Schools%20Literature%20Festival%202019.md)
+* [Zhenghua Newsletter Issue 3](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%203.md)
+* [Zhenghua Newsletter Issue 2](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%202.md)
+* [Zhenghua Newsletter Issue 1](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%201.md)
 
 ##### 2018
 * [Zhenghua Open House 2018]()
