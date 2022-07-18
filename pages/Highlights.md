@@ -6,7 +6,7 @@ description: ""
 ### Highlights
 
 ##### 2020
-* [Sec 1 Orientation Camp]()
+* [Sec 1 Orientation Camp](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Sec%201%20Orientation%20Camp.md)
 * [2019 GCE 'O' Level Results]()
 * [2019 GCE 'N' Level Results]()
 
