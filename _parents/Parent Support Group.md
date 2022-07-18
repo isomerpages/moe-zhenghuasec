@@ -191,7 +191,7 @@ Here are some photographs of our PSG events and parenting workshops. (Do note th
      style="width:70%">
 <img src="/images/PSG07.jpg" 
      style="width:85%">
-<img src="/images/PSG08.jpg" 
+<img src="/images/PSG08a.jpg" 
      style="width:40%">
 
 How to Join?
