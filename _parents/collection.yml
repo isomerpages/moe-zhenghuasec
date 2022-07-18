@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Past Parents Letters/.keep
       - Parenting Tips.md
       - Parent Support Group.md
       - Past Parents Letters.md
