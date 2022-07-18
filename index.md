@@ -21,4 +21,9 @@ sections:
         - title: News
           description: ""
           url: /News/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
