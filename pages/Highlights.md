@@ -7,13 +7,13 @@ description: ""
 
 ##### 2020
 * [Sec 1 Orientation Camp](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Sec%201%20Orientation%20Camp.md)
-* [2019 GCE 'O' Level Results]()
-* [2019 GCE 'N' Level Results]()
+* [2019 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2019%20GCE%20'O'%20Level%20Results.md)
+* [2019 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2019%20GCE%20'N'%20Level%20Results.md)
 
 ##### 2019
-* [2018 GCE 'O' Level Results]()
-* [2018 GCE 'N' Level Results]()
-* [President's Visit to Zhenghua Secondary School]()
+* [2018 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2018%20GCE%20'O'%20Level%20Results.md)
+* [2018 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2018%20GCE%20'N'%20Level%20Results.md)
+* [President's Visit to Zhenghua Secondary School](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/President's%20Visit%20to%20Zhenghua%20Secondary%20School.md)
 * [ZEST 2019]()
 * [National Schools Literature Festival 2019]()
 * [Live On Design Competition 2019]()
