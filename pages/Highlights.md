@@ -16,7 +16,7 @@ description: ""
 * [President's Visit to Zhenghua Secondary School](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/President's%20Visit%20to%20Zhenghua%20Secondary%20School.md)
 * [ZEST 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/ZEST%202019.md)
 * [National Schools Literature Festival 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/National%20Schools%20Literature%20Festival%202019.md)
-* [Live On Design Competition 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/National%20Schools%20Literature%20Festival%202019.md)
+* [Live On Design Competition 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Live%20On%20Design%20Competition%202019.md)
 * [Zhenghua Newsletter Issue 3](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%203.md)
 * [Zhenghua Newsletter Issue 2](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%202.md)
 * [Zhenghua Newsletter Issue 1](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%201.md)
