@@ -22,10 +22,10 @@ description: ""
 * [Zhenghua Newsletter Issue 1](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%201.md)
 
 ##### 2018
-* [Zhenghua Open House 2018]()
-* [Zhenghua Secondary School Brochure]()
-* [2017 GCE 'O' Level Results]()
-* [2017 GCE 'N' Level Results]()
+* [Zhenghua Open House 2018](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Open%20House%202018.md)
+* [Zhenghua Secondary School Brochure](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Secondary%20School%20Brochure.md)
+* [2017 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20GCE%20'O'%20Level%20Results.md)
+* [2017 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20GCE%20'N'%20Level%20Results.md)
 
 ##### 2017
 * [2017 Zhenghua Newsletter Issue 2]()
