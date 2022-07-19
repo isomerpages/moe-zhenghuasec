@@ -17,7 +17,7 @@ description: ""
 *  [National Schools Literature Festival 2019](https://moe-zhenghuasec-staging.netlify.app/national-school-literature-festival-2019/)
 * [President's Visit to Zhenghua Secondary School](https://moe-zhenghuasec-staging.netlify.app/president-visit-to-zhenghua-secondary/)
 * [ZEST 2019](https://moe-zhenghuasec-staging.netlify.app/zest-2019/)
-* [Zhenghua Newsletter Issue 1](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-issue-1/)
+* [Zhenghua Newsletter Issue 1](https://moe-zhenghuasec-staging.netlify.app/2019-zhenghua-newsletter-issue-1/)
 * [Zhenghua Newsletter Issue 2](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-issue-2/)
 * [Zhenghua Newsletter Issue 3](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-issue-3/)
 
