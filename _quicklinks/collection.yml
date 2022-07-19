@@ -2,6 +2,7 @@ collections:
   quicklinks:
     output: true
     order:
+      - Direct School Admission.md
       - Cyberwellness.md
       - School Calender.md
       - Sexuality Education.md
