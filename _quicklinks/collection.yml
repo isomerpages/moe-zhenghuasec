@@ -2,5 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
+      - Quicklinks/Sexuality Education.md
       - Quicklinks/Zhenghua Yearbook.md
       - Quicklinks/.keep
