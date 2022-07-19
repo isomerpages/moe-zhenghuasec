@@ -2,5 +2,5 @@ collections:
   quicklinks:
     output: true
     order:
-      - Quicklinks/Quicklinks.md
+      - Quicklinks/Zhenghua Yearbook.md
       - Quicklinks/.keep
