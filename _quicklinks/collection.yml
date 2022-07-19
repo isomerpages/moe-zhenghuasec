@@ -2,10 +2,10 @@ collections:
   quicklinks:
     output: true
     order:
-      - Useful links.md
       - Acceptable Use Policy for PLDs.md
       - Cyberwellness.md
       - Direct School Admission.md
       - School Calender.md
       - Sexuality Education.md
+      - Useful links.md
       - Zhenghua Yearbook.md
