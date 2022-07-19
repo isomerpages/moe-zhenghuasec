@@ -2,6 +2,7 @@ collections:
   quicklinks:
     output: true
     order:
+      - Frequently Asked Questions (FAQ).md
       - Acceptable Use Policy for PLDs.md
       - Cyberwellness.md
       - Direct School Admission.md
