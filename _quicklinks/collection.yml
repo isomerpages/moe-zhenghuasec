@@ -2,6 +2,7 @@ collections:
   quicklinks:
     output: true
     order:
+      - School Brochure.md
       - Acceptable Use Policy for PLDs.md
       - Cyberwellness.md
       - Direct School Admission.md
