@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Live On Design Competition 2019.md
       - Highlights.md
       - GCE 'N' Level Results.md
       - Alumni Accolade.md
