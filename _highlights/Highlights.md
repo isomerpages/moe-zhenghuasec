@@ -3,51 +3,47 @@ title: Highlights
 permalink: /highlights/
 description: ""
 ---
-
-
-
-
-
 ### Highlights
 
 ##### 2020
-* [Sec 1 Orientation Camp](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Sec%201%20Orientation%20Camp.md)
-* [2019 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2019%20GCE%20'O'%20Level%20Results.md)
-* [2019 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2019%20GCE%20'N'%20Level%20Results.md)
+* [2019 GCE 'O' Level Results](https://moe-zhenghuasec-staging.netlify.app/2019-gce-o-level-results/)
+* [2019 GCE 'N' Level Results](https://moe-zhenghuasec-staging.netlify.app/2019-n-level-results/)
+* [Sec 1 Orientation Camp](https://moe-zhenghuasec-staging.netlify.app/sec-1-orientation-camp/)
 
 ##### 2019
-* [2018 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2018%20GCE%20'O'%20Level%20Results.md)
-* [2018 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2018%20GCE%20'N'%20Level%20Results.md)
-* [President's Visit to Zhenghua Secondary School](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/President's%20Visit%20to%20Zhenghua%20Secondary%20School.md)
-* [ZEST 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/ZEST%202019.md)
-* [National Schools Literature Festival 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/National%20Schools%20Literature%20Festival%202019.md)
-* [Live On Design Competition 2019](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Live%20On%20Design%20Competition%202019.md)
-* [Zhenghua Newsletter Issue 3](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%203.md)
-* [Zhenghua Newsletter Issue 2](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%202.md)
-* [Zhenghua Newsletter Issue 1](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%20Issue%201.md)
+* [2018 GCE 'O' Level Results](https://moe-zhenghuasec-staging.netlify.app/2018-o-level-results/)
+* [2018 GCE 'N' Level Results](https://moe-zhenghuasec-staging.netlify.app/2018-n-level-results/)
+* [Live On Design Competition 2019](https://moe-zhenghuasec-staging.netlify.app/live-on-design-competition-2019/)
+*  [National Schools Literature Festival 2019](https://moe-zhenghuasec-staging.netlify.app/national-school-literature-festival-2019/)
+* [President's Visit to Zhenghua Secondary School](https://moe-zhenghuasec-staging.netlify.app/president-visit-to-zhenghua-secondary/)
+* [ZEST 2019](https://moe-zhenghuasec-staging.netlify.app/zest-2019/)
+* [Zhenghua Newsletter Issue 1](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-issue-1/)
+* [Zhenghua Newsletter Issue 2](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-issue-2/)
+* [Zhenghua Newsletter Issue 3](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-issue-3/)
 
 ##### 2018
-* [Zhenghua Open House 2018](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Open%20House%202018.md)
-* [Zhenghua Secondary School Brochure](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Secondary%20School%20Brochure.md)
-* [2017 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20GCE%20'O'%20Level%20Results.md)
-* [2017 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20GCE%20'N'%20Level%20Results.md)
+
+* [2017 GCE 'O' Level Results](https://moe-zhenghuasec-staging.netlify.app/2017-o-level-results/)
+* [2017 GCE 'N' Level Results](https://moe-zhenghuasec-staging.netlify.app/2017-n-level-results/)
+* [Zhenghua Open House 2018](https://moe-zhenghuasec-staging.netlify.app/zhenghua-open-house-2018/)
+* [Zhenghua Secondary School Brochure](https://moe-zhenghuasec-staging.netlify.app/zhenghua-sec-school-brochure/)
 
 ##### 2017
-* [2017 Zhenghua Newsletter Issue 2](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Zhenghua%20Newsletter%20Issue%202.md)
-* [2017 Alumni Accolade Muhammad Irfan](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Alumni%20Accolade%20Muhammad%20Irfan.md)
-* [2017 Alumni Accolade Jonathan Peh](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Alumni%20Accolade%20Jonathan%20Peh.md)
-* [2017 Alumni Award Winner Muhd Hadafi](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Alumni%20Award%20Winner%20Muhd%20Hadafi.md)
-* [2017 Aesthetic Achievements](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Aesthetic%20Achievements.md)
-* [2017 Zhenghua Newsletter Issue 1](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Zhenghua%20Newsletter%20Issue%201.md)
-* [2016 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2016%20GCE%20'O'%20Level%20Results.md)
-* [Lunar New Year Hamper Giving 2017](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Lunar%20New%20Year%20Hamper%20Giving%202017.md)
-* [2017 Alumni Accolade](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2017%20Alumni%20Accolade.md)
-* [2016 GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2016%20GCE%20'N'%20Level%20Results.md)
+* [2017 Aesthetic Achievements]()
+* [2017 Alumni Accolade]()
+* [2016 GCE 'O' Level Results]()
+* [2016 GCE 'N' Level Results]()
+* [Lunar New Year Hamper Giving 2017]()
+* [2017 Alumni Accolade Jonathan Peh]()
+*  [2017 Alumni Accolade Muhammad Irfan]()
+* [2017 Alumni Award Winner Muhd Hadafi]()
+* [2017 Zhenghua Newsletter Issue 1]()
+* [2017 Zhenghua Newsletter Issue 2]()
 
 ##### 2016
-* [Zhenghua Newsletter 3](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Zhenghua%20Newsletter%203.md)
-* [GCE 'N' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/GCE%20'N'%20Level%20Results.md)
-* [10th S.A.A for Uniformed Groups](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/10th%20SAA%20for%20Uniformed%20Groups.md)
-* [3rd S.A.A for Aesthetics](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/3rd%20SAA%20for%20Aesthetics.md)
-* [Alumni Accolade](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/Alumni%20Accolade.md)
-* [2015 GCE 'O' Level Results](https://cms.isomer.gov.sg/sites/moe-zhenghuasec/editPage/2015%20GCE%20'O'%20Level%20Results.md)
+* [Alumni Accolade](https://moe-zhenghuasec-staging.netlify.app/alumni-accolade/)
+* [2015 GCE 'O' Level Results](https://moe-zhenghuasec-staging.netlify.app/2015-o-level-results/)
+* [GCE 'N' Level Results](https://moe-zhenghuasec-staging.netlify.app/n-level-results/)
+* [3rd S.A.A for Aesthetics](https://moe-zhenghuasec-staging.netlify.app/3rd-saa-for-aesthetics/)
+* [10th S.A.A for Uniformed Groups](https://moe-zhenghuasec-staging.netlify.app/10th-saa-uniformed-groups/)
+* [Zhenghua Newsletter 3](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-3/)
