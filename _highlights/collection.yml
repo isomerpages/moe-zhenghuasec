@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - GCE 'N' Level Results.md
       - Alumni Accolade.md
       - 3rd SAA for Aesthetics.md
       - 2019 GCE 'N' Level Results.md
