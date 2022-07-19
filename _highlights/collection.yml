@@ -1,5 +1,0 @@
-collections:
-  highlights:
-    output: true
-    order:
-      - 2016/.keep
