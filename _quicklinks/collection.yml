@@ -2,8 +2,8 @@ collections:
   quicklinks:
     output: true
     order:
-      - Quicklinks/School Calender.md
+      - Quicklinks/.keep
       - Quicklinks/Cyberwellness.md
+      - Quicklinks/School Calender.md
       - Quicklinks/Sexuality Education.md
       - Quicklinks/Zhenghua Yearbook.md
-      - Quicklinks/.keep
