@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Highlights.md
-      - 2016/2015 GCE 'O' Level Results.md
       - 2016/.keep
