@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2016/Zhenghua Newsletter 3.md
       - 2016/.keep
       - Alumni Accolade.md
       - 2015 GCE 'O' Level Results.md
