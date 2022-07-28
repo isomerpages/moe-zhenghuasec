@@ -14,9 +14,7 @@ description: ""
     <div>
 
       <p><u>January</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 1 Orientation Camp 2022</a>
+			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 1 Orientation Camp 2022</a> </p>
     </div>	
 	</li>
 </ul>
-	
-	
