@@ -20,4 +20,11 @@ description: ""
 			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary Two Drama Workshop</a> </p>
     </div>
 	</li>
+	<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion2">Zhenghua Newsletter Archives</label>  
+    <div>  
+      <p><a href="/files/NewzIssue1.pdf">Newzletter Issue 1</a></p>  
+    </div>  
+</li>
 </ul>
