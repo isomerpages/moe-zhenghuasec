@@ -2,7 +2,6 @@ collections:
   ungrouped-pages:
     output: true
     order:
-      - Secondary 1 Sabbatical.md
       - Secondary Two Drama Workshop.md
       - Chinese New Year 2022.md
       - Secondary One Orientation Camp 2022.md
