@@ -8,7 +8,7 @@ third_nav_title: School Ethos
 
 <br> <br>
 <img src="/images/img_motto.jpg" 
-     style="width:55%">
+     style="width:20%">
 		 
 'Engage and Create' gives every student a lifelong guiding principle as an individual and as a team. The student will graduate with creativity, purpose, determination and engage the challenges life brings. In engaging the challenges, the students will create a better world for everyone.
 
