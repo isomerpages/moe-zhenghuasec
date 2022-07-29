@@ -67,12 +67,13 @@ description: ""
     <div>  
 			<p><u>January</u></p>
       <p><a href="/zhenghua-newz/nav/camp-dauntless-2019">Camp Dauntless 2019</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Humanities Week 2019 (Paper Wars)</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Release of 2019 GCE O-Level Examination Results</a></p>
+			<p><a href="/zhenghua-newz/nav/humanities-week-2019">Humanities Week 2019 (Paper Wars)</a></p>
+			<p><a href="/zhenghua-newz/nav/2019-o-level-result">Release of 2019 GCE O-Level Examination Results</a></p>
 			<p><u>February</u></p>
-      <p><a href="/files/NewzIssue1.pdf">An AusPIGcious Start!</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Game Bonding Session with Mr.John Miller</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Hamper Donation</a></p>
+      <p><a href="/zhenghua-newz/nav/auspigcious-start">An AusPIGcious Start!</a></p>
+			<p><a href="/zhenghua-newz/nav/">Game Bonding Session with Mr.John Miller</a></p>
+			<p><a href="/zhenghua-newz/nav/">Hamper Donation</a></p>
+			<p><a href="/zhenghua-newz/nav/">Hamper Donation</a></p>
 			<p><a href="/files/NewzIssue1.pdf">Skit on Total Defence Day</a></p>
 			<p><a href="/files/NewzIssue1.pdf">War Memorial Service</a></p>
 			<p><u>March</u></p>
