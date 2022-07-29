@@ -56,7 +56,3 @@ Our cadets also took part in the annual Air Competition and participated in the 
 <img src="/images/ncc%20air%203.jpg" 
      style="width:45%">
 		 
-|  |  |
-|---|---|
-| Two of our Cadet Leaders, 3SG Tee Chin Shian and 3SG Ng Ray Zin, <br> had the opportunity to go for Exercise Puncak in June where they<br> trekked Mount Ophir, the sixth most difficult mountain in Malaysia. <br> They forged new friendships with fellow cadet leaders from other Air units <br>and enjoyed the memorable experiences during the trek. | <br><img src="/images/ncc%20air%201.jpg" style="width:1100%">|
-|  |  |
