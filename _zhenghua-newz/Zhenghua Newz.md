@@ -71,37 +71,36 @@ description: ""
 			<p><a href="/zhenghua-newz/nav/2019-o-level-result">Release of 2019 GCE O-Level Examination Results</a></p>
 			<p><u>February</u></p>
       <p><a href="/zhenghua-newz/nav/auspigcious-start">An AusPIGcious Start!</a></p>
-			<p><a href="/zhenghua-newz/nav/">Game Bonding Session with Mr.John Miller</a></p>
-			<p><a href="/zhenghua-newz/nav/">Hamper Donation</a></p>
-			<p><a href="/zhenghua-newz/nav/">Hamper Donation</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Skit on Total Defence Day</a></p>
-			<p><a href="/files/NewzIssue1.pdf">War Memorial Service</a></p>
+			<p><a href="/zhenghua-newz/nav/game-bonding-session">Game Bonding Session with Mr.John Miller</a></p>
+			<p><a href="/zhenghua-newz/nav/hamper-donation">Hamper Donation</a></p>
+			<p><a href="/zhenghua-newz/nav/skit-on-total-defence-day">Skit on Total Defence Day</a></p>
+			<p><a href="/zhenghua-newz/nav/war-memorial-service">War Memorial Service</a></p>
 			<p><u>March</u></p>
-      <p><a href="/files/NewzIssue1.pdf">English & Literature Week</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Sec 1 Sabbatical Week</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Sec 2 Sabbatical Week</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Sec 3 Sabbatical Week</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Sec 4 & 5 Sabbatical Week</a></p>
+      <p><a href="/zhenghua-newz/nav/english-and-literature-week-2019">English & Literature Week</a></p>
+			<p><a href="/zhenghua-newz/nav/sec-1-sab-2019">Sec 1 Sabbatical Week</a></p>
+			<p><a href="/zhenghua-newz/nav/sec-2-sab-2019">Sec 2 Sabbatical Week</a></p>
+			<p><a href="/zhenghua-newz/nav/sec-3-sab-2019">Sec 3 Sabbatical Week</a></p>
+			<p><a href="/zhenghua-newz/nav/sec-4-and-5-sab-2019">Sec 4 & 5 Sabbatical Week</a></p>
 			<p><u>April</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Awards Day</a></p>
-			<p><a href="/files/NewzIssue1.pdf">President's Visit</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Chinese Language Reading Programme</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Sports Day</a></p>
+      <p><a href="/zhenghua-newz/nav/awards-day-2019">Awards Day</a></p>
+			<p><a href="/zhenghua-newz/nav/president-visit">President's Visit</a></p>
+			<p><a href="/zhenghua-newz/nav/chinese-language-reading-programme">Chinese Language Reading Programme</a></p>
+			<p><a href="/zhenghua-newz/nav/sports-day">Sports Day</a></p>
 			<p><u>July</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Zest</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Literature Learning Journey</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Racial Harmony Day</a></p>
-			<p><a href="/files/NewzIssue1.pdf">National Schools Lit Festival</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Malay Language Drama Programme</a>
+      <p><a href="/zhenghua-newz/nav/zest">Zest</a></p>
+			<p><a href="/zhenghua-newz/nav/literature-learning-journey">Literature Learning Journey</a></p>
+			<p><a href="/zhenghua-newz/nav/racial-harmony-day">Racial Harmony Day</a></p>
+			<p><a href="/zhenghua-newz/nav/national-school-lit-festival">National Schools Lit Festival</a></p>
+			<p><a href="/zhenghua-newz/nav/malay-language-drama-programme-2019">Malay Language Drama Programme</a>
 			</p>
 			<p><u>August</u></p>
-      <p><a href="/files/NewzIssue1.pdf">National Day Cekebrations</a></p>
-			<p><a href="/files/NewzIssue1.pdf">国庆庆祝活动</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Hari Kebangsaan Singapura</a></p>
+      <p><a href="/zhenghua-newz/nav/ndp-celeb-2019">National Day Cekebrations</a></p>
+			<p><a href="/zhenghua-newz/nav/ndp-chi">国庆庆祝活动</a></p>
+			<p><a href="/zhenghua-newz/nav/ndp-malay">Hari Kebangsaan Singapura</a></p>
 			<p><u>September</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Teachers Day Celebrations</a></p>
-			<p><a href="/files/NewzIssue1.pdf">Istimewa Hari Guru (Teachers Day)</a></p>
-			<p><a href="/files/NewzIssue1.pdf">庆祝教师节</a></p>
+      <p><a href="/zhenghua-newz/nav/teachers-day-celeb">Teachers Day Celebrations</a></p>
+			<p><a href="/zhenghua-newz/nav/istimewa-hari-guru">Istimewa Hari Guru (Teachers Day)</a></p>
+			<p><a href="/zhenghua-newz/nav/jiao-shi-jie">庆祝教师节</a></p>
     </div>  
 </li>
 	<li>  
