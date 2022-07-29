@@ -16,17 +16,17 @@ description: ""
       <p><u>January</u></p>
 			<p><a href="/zhenghua-newz/nav/Secondary-One-Orientation-Camp-2022/">Secondary 1 Orientation Camp 2022</a> </p>
 			 <p><u>February</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Chinese New Year Celebrations 2022</a> </p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary Two Drama Workshop</a> </p>
+			<p><a href="/zhenghua-newz/nav/cny-2022/">Chinese New Year Celebrations 2022</a> </p>
+			<p><a href="/zhenghua-newz/nav/sec-2-drama-workshop">Secondary Two Drama Workshop</a> </p>
 			<p><u>March</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 1 Sabbatical</a> </p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 2 Sabbatical</a> </p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 4 and 5 Sabbatical</a> </p>
-				<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Instagram Poetry Workshop</a> </p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">English Language and Literature Week</a> </p>
+			<p><a href="/zhenghua-newz/nav/sec-1-sab">Secondary 1 Sabbatical</a> </p>
+			<p><a href="/zhenghua-newz/nav/sec-2-sab">Secondary 2 Sabbatical</a> </p>
+			<p><a href="/zhenghua-newz/nav/sec-4-and-5-sab">Secondary 4 and 5 Sabbatical</a> </p>
+				<p><a href="/zhenghua-newz/nav/insta-poetry-workshop">Instagram Poetry Workshop</a> </p>
+			<p><a href="/zhenghua-newz/nav/eng-lang-and-lit-week">English Language and Literature Week</a> </p>
 			<p><u>April</u></p>
-			<p><a href="/zhenghua-newz/nav/Secondary-One-Orientation-Camp-2022/">International Friendship Day</a> </p>
-			<p><a href="/zhenghua-newz/nav/Secondary-One-Orientation-Camp-2022/">Awards Day 2022</a> </p>
+			<p><a href="/zhenghua-newz/nav/internationa-friendship-day">International Friendship Day</a> </p>
+			<p><a href="/zhenghua-newz/nav/awards-day-2022">Awards Day 2022</a> </p>
     </div>
 	</li>
 	<li>  
@@ -34,16 +34,16 @@ description: ""
     <label for="accordion2">Zhenghua Newz 2021</label>  
     <div>  
 			<p><u>January</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Secondary 1 Orientation Camp 2021</a></p>  
+      <p><a href="/zhenghua-newz/nav/sec-1-orientation-camp-2021">Secondary 1 Orientation Camp 2021</a></p>  
 			<p><u>February</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Chinese New Year</a> </p>
+			<p><a href="/zhenghua-newz/nav/cny-2021-">Chinese New Year</a> </p>
 			<p><u>April</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Awards Day</a> </p>
+			<p><a href="/zhenghua-newz/nav/awards-day-2021">Awards Day</a> </p>
 			<p><u>May</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">International Friendship Week</a> </p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 2 Sabbatical</a> </p>
+			<p><a href="/zhenghua-newz/nav/international-friendship-week">International Friendship Week</a> </p>
+			<p><a href="/zhenghua-newz/nav/sec-2-sab-2021">Secondary 2 Sabbatical</a> </p>
 			<p><u>August</u></p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">National Day</a> </p>
+			<p><a href="/zhenghua-newz/nav/national-day">National Day</a> </p>
     </div>  
 </li>
 	<li>  
@@ -51,14 +51,14 @@ description: ""
     <label for="accordion3">Zhenghua Newz 2020</label>  
     <div>  
 			<p><u>January</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Camp Valorous!</a></p> 
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Chinese New Year Celebrations</a> </p>
-			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Humanities Week</a> </p>
+      <p><a href="/zhenghua-newz/nav/camp-valorous">Camp Valorous!</a></p> 
+			<p><a href="/zhenghua-newz/nav/cny-2020">Chinese New Year Celebrations</a> </p>
+			<p><a href="/zhenghua-newz/nav/humanities-week">Humanities Week</a> </p>
 			<p><u>March</u></p>
-      <p><a href="/files/NewzIssue1.pdf">English Language and Literature Week</a></p> 
-			 <p><a href="/files/NewzIssue1.pdf">Orator's Trophy (Public Speaking Competition)</a></p> 
+      <p><a href="/zhenghua-newz/nav/english-language-and-literature-week">English Language and Literature Week</a></p> 
+			 <p><a href="/zhenghua-newz/nav/orator-trophy">Orator's Trophy (Public Speaking Competition)</a></p> 
 			<p><u>September</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Awards Day 2020</a></p> 
+      <p><a href="/zhenghua-newz/nav/awards-day-2020">Awards Day 2020</a></p> 
     </div>  
 </li>
 	<li>  
@@ -66,7 +66,7 @@ description: ""
     <label for="accordion4">Zhenghua Newz 2019</label>  
     <div>  
 			<p><u>January</u></p>
-      <p><a href="/files/NewzIssue1.pdf">Camp Dauntless 2019</a></p>
+      <p><a href="/zhenghua-newz/nav/camp-dauntless-2019">Camp Dauntless 2019</a></p>
 			<p><a href="/files/NewzIssue1.pdf">Humanities Week 2019 (Paper Wars)</a></p>
 			<p><a href="/files/NewzIssue1.pdf">Release of 2019 GCE O-Level Examination Results</a></p>
 			<p><u>February</u></p>
@@ -116,5 +116,3 @@ description: ""
     </div>  
 </li>
 </ul>
-
-
