@@ -24,7 +24,7 @@ description: ""
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">Zhenghua Newsletter Archives</label>  
     <div>  
-      <p><a href="/files/NewzIssue1.pdf">Newzletter Issue 1</a></p>  
+      <p><a href="/files/NewzIssue1.pdf">Newz 2016_Issue 1</a></p>  
     </div>  
 </li>
 </ul>
