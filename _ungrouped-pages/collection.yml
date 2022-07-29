@@ -2,4 +2,5 @@ collections:
   ungrouped-pages:
     output: true
     order:
+      - Chinese New Year 2022.md
       - Secondary One Orientation Camp 2022.md
