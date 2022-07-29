@@ -2,6 +2,7 @@ collections:
   ungrouped-pages:
     output: true
     order:
+      - English Language and Literature Week.md
       - Instagram Poetry Workshop.md
       - Secondary 4 and 5 Sabbatica.md
       - Secondary 2 Sabbatical.md
