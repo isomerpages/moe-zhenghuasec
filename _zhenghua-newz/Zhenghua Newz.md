@@ -18,6 +18,15 @@ description: ""
 			 <p><u>February</u></p>
 			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Chinese New Year Celebrations 2022</a> </p>
 			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary Two Drama Workshop</a> </p>
+			<p><u>March</u></p>
+			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 1 Sabbatical</a> </p>
+			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 2 Sabbatical</a> </p>
+			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Secondary 4 and 5 Sabbatical</a> </p>
+				<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">Instagram Poetry Workshop</a> </p>
+			<p><a href="[https://moe-zhenghuasec-staging.netlify.app/)">English Language and Literature Week</a> </p>
+			<p><u>April</u></p>
+			<p><a href="/zhenghua-newz/nav/Secondary-One-Orientation-Camp-2022/">International Friendship Day</a> </p>
+			<p><a href="/zhenghua-newz/nav/Secondary-One-Orientation-Camp-2022/">Awards Day 2022</a> </p>
     </div>
 	</li>
 	<li>  
