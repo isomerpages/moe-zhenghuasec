@@ -31,4 +31,4 @@ third_nav_title: Zhenghua Staff
 | NCC (Air) | Mr Edwin Tan | [tan_kian_hong_edwin@schools.gov.sg](tan_kian_hong_edwin@schools.gov.sg) |
 | NPCC | Mr Shamsul Idris | [shamsul_idris@schools.gov.sg](shamsul_idris@schools.gov.sg) |
 | Red Cross | Mdm Felicity Lim | [lim_sy_hing_felicity@schools.gov.sg](lim_sy_hing_felicity@schools.gov.sg) |
-| Scouts | Ms Yong Wai Teng Mr Sebastian Ang | [yong_wai_teng@schools.gov.sg](yong_wai_teng@schools.gov.sg) [sebastian_ang_tau@schools.gov.sg](sebastian_ang_tau@schools.gov.sg) |
+| Scouts | Ms Yong Wai Teng <br> Mr Sebastian Ang | [yong_wai_teng@schools.gov.sg](yong_wai_teng@schools.gov.sg) <br>[sebastian_ang_tau@schools.gov.sg](sebastian_ang_tau@schools.gov.sg) |
