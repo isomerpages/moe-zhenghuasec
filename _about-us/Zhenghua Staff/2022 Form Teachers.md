@@ -6,9 +6,8 @@ third_nav_title: Zhenghua Staff
 ---
 ### Form Teachers
 
-|  |  |  |  |
-|---|---|---|---|
 | Class | Form Teacher | Form Teacher | Form Teacher |
+|---|---|---|---|
 | Year Head <br>Mdm Magdalene Tan<br> [tan_li_ping_magdalene@schools.gov.sg](mailto:tan_li_ping_magdalene@schools.gov.sg) |  |  |  |
 | 1A | Mdm Hafida Muhd [hafida_muhamad@schools.gov.sg](mailto:hafida_muhamad@schools.gov.sg) | Ms Tay Limin <br>[tay_limin@schools.gov.sg](mailto:tay_limin@schools.gov.sg) | Mr Muhd Faisal Ramli <br>[muhammad_faisal_ramli@schools.gov.sg](mailto:muhammad_faisal_ramli@schools.gov.sg) |
 | 1B | Mr Boo Jia Liang <br>[boo_jia_liang@schools.gov.sg](mailto:boo_jia_liang@schools.gov.sg) | Ms Valerie Chia <br>[chia_wei_ting_valerie@schools.gov.sg](mailto:chia_wei_ting_valerie@schools.gov.sg) |  |
