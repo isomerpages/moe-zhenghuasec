@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ZHENGHUA SECONDARY SCHOOL
       background: /images/hero banner.gif
       key_highlights:
         - title: Announcements
@@ -26,8 +25,4 @@ sections:
       url: https://moe-zhenghuasec-staging.netlify.app/news/
       image: /images/directschooladmission cover page.jpg
       alt: Image alt text
-  - infobar:
-      title: Quicklinks
-      button: Click here for more
-      url: /quicklinks/
 ---
