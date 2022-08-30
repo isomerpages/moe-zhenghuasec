@@ -9,8 +9,6 @@ sections:
   - hero:
       title: ZHENGHUA SECONDARY SCHOOL
       background: /images/hero banner.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
