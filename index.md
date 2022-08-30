@@ -19,10 +19,6 @@ sections:
         - title: News
           description: ""
           url: /News/
-  - infobar:
-      title: Quicklinks
-      button: Click here for more
-      url: /quicklinks/
   - infopic:
       title: Direct School Admission
       subtitle: Zhenghua secondary School
@@ -30,4 +26,8 @@ sections:
       url: https://moe-zhenghuasec-staging.netlify.app/news/
       image: /images/directschooladmission cover page.jpg
       alt: Image alt text
+  - infobar:
+      title: Quicklinks
+      button: Click here for more
+      url: /quicklinks/
 ---
