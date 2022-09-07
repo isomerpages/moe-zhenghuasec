@@ -51,5 +51,5 @@ third_nav_title: Clubs and Societies
 
 | | | 
 |---|:---:|
-| In this workshop, members learn<br> about the basic history of manga<br> art and the basic watercolour<br> technique.They added colour<br> to their creations with their personal touches. | <img src="/images/artclub9.jpg" style="width:65%">Manga always! By budding artist, Anuolu Ogunyale of 2E4<img src="/images/artclub10.jpg" style="width:65%">Manga art by Lydia Aluko of 3T1 |
+| In this workshop, members learn about the basic history of manga art and the basic watercolour technique.They added colour to their creations with their personal touches. | <img src="/images/artclub9.jpg" style="width:45%">Manga always! By budding artist, Anuolu Ogunyale of 2E4<img src="/images/artclub10.jpg" style="width:45%">Manga art by Lydia Aluko of 3T1 |
 |
