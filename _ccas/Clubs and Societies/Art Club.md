@@ -35,21 +35,22 @@ third_nav_title: Clubs and Societies
 
 |  |  |  |
 |---|---|:---:|
-| This was a meaningful nationwide<br> competition centered on the theme<br> of organ transplantation. It was<br> organised by the Organ Transplant Unit,<br> Health Promotion Board. We beat 262<br> other entries and bagged 4 awards!<br>The awardees are Jolie Ng Wei Zhen of<br> 4E1 (High Distinction), Ching Phebe of 4E1<br> (Distinction), Chai Jean Shuen of 4E3 <br>(Merit) and Lydia Aluko of 3T1 (Merit)|  | <img src="/images/artclub6.jpg" style="width:65%">Another great piece of work by Chai Jean Shuen of 4E3!<img src="/images/artclub7.jpg" style="width:65%">A profound piece by Lydia Aluko of 3T1 <br>**image unavailable**<br>**image unavailable** |
+| This was a meaningful nationwide<br> competition centered on the theme<br> of organ transplantation. It was<br> organised by the Organ Transplant Unit,<br> Health Promotion Board. We beat 262<br> other entries and bagged 4 awards!<br>The awardees are Jolie Ng Wei Zhen of<br> 4E1 (High Distinction), Ching Phebe of 4E1<br> (Distinction), Chai Jean Shuen of 4E3 <br>(Merit) and Lydia Aluko of 3T1 (Merit)|  | <img src="/images/artclub5.jpg" style="width:65%">Another great piece of work by Chai Jean Shuen of 4E3!<img src="/images/artclub6.jpg" style="width:65%">A profound piece by Lydia Aluko of 3T1 <br>**image unavailable**<br>**image unavailable** |
 |
 
 ##### Do It Right! Badge Design 2019
 
-"Do It Right!" Badges were awarded to ZSS students for exhibiting the right values and behaviour. The designs for this year's badges were created by Chai Jean Shuen of 4E3 and Amber Yeap of 3E2.
-
-<img src="/images/art%20club%20combine%203.jpg" 
-     style="width:85%">
+| | | 
+|---|:---:|
+|"Do It Right!" Badges were awarded<br> to ZSS students for exhibiting the<br> right values and behaviour. The<br> designs for this year's badges <br>were created by Chai Jean Shuen<br> of 4E3 and Amber Yeap of 3E2.| <img src="/images/artclub7.jpg" style="width:65%">Yes, you did right, Chai Jean Shuen of 4E3!<img src="/images/artclub8.png" style="width:65%">Yes, you got this right, Amber Yeap of 3E2 |
+|
 		 
 #### Activities
 
 ##### Manga Art Watercolour Illustration Workshop 2019
 
-In this workshop, members learn about the basic history of manga art and the basic watercolour technique.They added colour to their creations with their personal touches.
-
-<img src="/images/art%20club%20combine%204.jpg" 
-     style="width:75%">
+| | | 
+|---|:---:|
+| In this workshop, members learn<br> about the basic history of manga<br> art and the basic watercolour<br> technique.They added colour<br> to their creations with their personal touches. | <img src="/images/artclub9.jpg" style="width:65%">Manga always! By budding artist, Anuolu Ogunyale of 2E4<img src="/images/artclub10.jpg" style="width:65%">Manga art by Lydia Aluko of 3T1
+ |
+|
