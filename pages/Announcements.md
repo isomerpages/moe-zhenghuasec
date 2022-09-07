@@ -31,7 +31,7 @@ description: ""
 
 ##### Letter To Parents Term 2 Week 1
 [Letter To Parents Term 1](/files/22march%20letters%20to%20parents%20term%201.pdf) <br>
-[LTA Road works upgrading] (file size larger than 5mb)
+[LTA Road works upgrading] **(file size larger than 5mb)**<br>
 -22 March 2022
 
 ##### Letter To Parents Term 1 Week 3
