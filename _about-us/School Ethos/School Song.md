@@ -16,7 +16,7 @@ Our spirits undaunted,
 Our fears will disappear  
 The way ahead is clear
 
-**Chorus**
+**Chorus**<br>
 We are Zhenghua,  
 Ambassadors of the school  
 To Singapore and the world,  
@@ -30,7 +30,7 @@ Integrity, Compassion
 To fuel our aspirations  
 Our future is ours to hold
 
-**Chorus**
+**Chorus**<br>
 We are Zhenghua,  
 Ambassadors of the school  
 To Singapore and the world,  
