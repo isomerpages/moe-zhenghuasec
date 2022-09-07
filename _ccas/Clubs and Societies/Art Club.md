@@ -27,17 +27,18 @@ third_nav_title: Clubs and Societies
 ##### Live On Design Competition 2020 - Third Prize
 
 | | | 
-|---|---|
-| Art Club members hone their skills<br> and exercise their creativity by learning<br> a variety of art forms in a year. This year, <br>in the Ceramics programme, they learnt to <br>shape clay into intricate figurines, wind<br> chimes and teapots.<br><br>As the Club moved our weekly sessions <br>online, members also organized meaningful <br>online projects, like the “Fold a Heart” <br>initiative to encourage each other during<br> home-based learning. Zylia Tan (3E3) even<br> came forward to plan online workshops for<br> the Club on text and character designs.<br><br>The Club is also becoming a home for <br>members who are enthusiastic about <br>digital art. They have applied their skills <br>in designing the “Do it Right” badges to<br> commend exemplary students, and <br>submitted their creations fo the “Live<br> On Festival” organized by the Ministry of Health. | <img src="/images/artclub1.jpg" style="width:45%"> <img src="/images/artclub2.jpg" style="width:45%"> <img src="/images/artclub3.jpg" style="width:45%"> <br><img src="/images/artclub4.jpg" style="width:65%"> <br><img src="/images/artclub5.jpeg" style="width:45%"> |
+|---|:---:|
+| Art Club members hone their skills<br> and exercise their creativity by learning<br> a variety of art forms in a year. This year, <br>in the Ceramics programme, they learnt to <br>shape clay into intricate figurines, wind<br> chimes and teapots.<br><br>As the Club moved our weekly sessions <br>online, members also organized meaningful <br>online projects, like the “Fold a Heart” <br>initiative to encourage each other during<br> home-based learning. Zylia Tan (3E3) even<br> came forward to plan online workshops for<br> the Club on text and character designs.<br><br>The Club is also becoming a home for <br>members who are enthusiastic about <br>digital art. They have applied their skills <br>in designing the “Do it Right” badges to<br> commend exemplary students, and <br>submitted their creations fo the “Live<br> On Festival” organized by the Ministry of Health. | <img src="/images/artclub1.jpg" style="width:45%">PutriNarafferina\_2N1 <img src="/images/artclub2.jpg" style="width:45%">EvangelynCai\_4E1 <img src="/images/artclub3.jpg" style="width:45%"> ceramic teapot<br><img src="/images/artclub4.jpg" style="width:65%"> 2E2 Melinda Tio LiveOn
+<br><img src="/images/artclub5.jpeg" style="width:45%"> |
 |  
 
 
 ##### Live On Design Competition 2019
 
-This was a meaningful nationwide competition centered on the theme of organ transplantation. It was organised by the Organ Transplant Unit, Health Promotion Board. We beat 262 other entries and bagged 4 awards!The awardees are Jolie Ng Wei Zhen of 4E1 (High Distinction), Ching Phebe of 4E1 (Distinction), Chai Jean Shuen of 4E3 (Merit) and Lydia Aluko of 3T1 (Merit)
-
-<img src="/images/art%20club%20combine%202.jpg" 
-     style="width:85%">
+|  |  |  |
+|---|---|---|
+|  | This was a meaningful nationwide competition centered on the theme of organ transplantation. It was organised by the Organ Transplant Unit, Health Promotion Board. We beat 262 other entries and bagged 4 awards!The awardees are Jolie Ng Wei Zhen of 4E1 (High Distinction), Ching Phebe of 4E1 (Distinction), Chai Jean Shuen of 4E3 (Merit) and Lydia Aluko of 3T1 (Merit)|  |
+|
 		 
 ##### Do It Right! Badge Design 2019
 
