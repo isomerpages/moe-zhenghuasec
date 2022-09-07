@@ -3,7 +3,6 @@ title: Cyberwellness
 permalink: /quicklinks/Quicklinks/cyberwellness/
 description: ""
 ---
-
 ### Cyber Wellness @ Zhenghua Secondary School
 
 With the wide-spread use of mobile devices, social media platforms and the internet in this digital age, our students are constantly engaged in a myriad of online activities. As such, Zhenghua Secondary School is committed to educating our students on the importance of Cyber Wellness.
@@ -17,7 +16,7 @@ In line with one of the Cyber Wellness principles of getting students to be posi
 
 ##### Here is a list of additional resources that parents and students may find useful:
 
-1. [MOE ICT Connection](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) - website unavailable <br>
+1. [MOE ICT Connection](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) - **website unavailable **<br>
 A website by the Ministry of Education (MOE) that provides a list of guides, resources and useful links to help parents understand the latest cyber trends and how to teach their children to manage them
 
 2. [Media Literacy Council](https://www.medialiteracycouncil.sg/) <br>
