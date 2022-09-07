@@ -21,10 +21,13 @@ third_nav_title: Clubs and Societies
 
 ##### Infocomm Club
 
-The Infocomm Club started off 2017 fruitfully by honing their skills in videography, video editing, Photoshop skills and photography.
+|  |  | 
+|---|:---:|
+| The Infocomm Club started off <br>2017 fruitfully by honing their <br>skills in videography, video editing, Photoshop skills and photography. | <img src="/images/infocomm%201.jpg" style="width:65%">Interacting with our schoolmates at our National Day carnival booth |
+		 |
 
-<img src="/images/infocomm%201.jpg" 
-     style="width:35%">
+
+
 		 
 The students participated in the Singapore Digital Media Awards (SDMA). This year, to further challenge themselves, the members participated in two categories:  Video and Photo Essay. The students worked hard to produce an original video that takes a closer look at the issue of cyberbullying. The video even starred one of the teachers-in-charge, Mr Koh Eng Huat, who plays a villainous principal!
 
