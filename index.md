@@ -18,4 +18,8 @@ sections:
         - title: News
           description: ""
           url: /News/
+  - infobar:
+      title: Announcements
+      button: Click here for more info
+      url: /announcements/
 ---
