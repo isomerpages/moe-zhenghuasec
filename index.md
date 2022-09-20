@@ -22,4 +22,12 @@ sections:
       title: Announcements
       button: Click here for more info
       url: /announcements/
+  - infobar:
+      title: Highlights
+      button: click here for more info
+      url: /highlights/
+  - infobar:
+      title: News
+      button: Click here for more info
+      url: /news/
 ---
