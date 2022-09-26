@@ -44,6 +44,4 @@ description: ""
 * [Alumni Accolade](https://moe-zhenghuasec-staging.netlify.app/alumni-accolade/)
 * [2015 GCE 'O' Level Results](https://moe-zhenghuasec-staging.netlify.app/2015-o-level-results/)
 * [GCE 'N' Level Results](https://moe-zhenghuasec-staging.netlify.app/n-level-results/)
-* 3rd S.A.A for Aesthetics
-* 10th S.A.A for Uniformed Groups
 * [Zhenghua Newsletter 3](https://moe-zhenghuasec-staging.netlify.app/zhenghua-newsletter-3/)
