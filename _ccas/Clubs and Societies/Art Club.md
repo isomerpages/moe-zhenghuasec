@@ -35,7 +35,7 @@ third_nav_title: Clubs and Societies
 
 |  |  |  |
 |---|---|:---:|
-| This was a meaningful nationwide<br> competition centered on the theme<br> of organ transplantation. It was<br> organised by the Organ Transplant Unit,<br> Health Promotion Board. We beat 262<br> other entries and bagged 4 awards!<br>The awardees are Jolie Ng Wei Zhen of<br> 4E1 (High Distinction), Ching Phebe of 4E1<br> (Distinction), Chai Jean Shuen of 4E3 <br>(Merit) and Lydia Aluko of 3T1 (Merit)|  | <img src="/images/artclub5.jpg" style="width:65%">Another great piece of work by Chai Jean Shuen of 4E3!<img src="/images/artclub6.jpg" style="width:55%">A profound piece by Lydia Aluko of 3T1 <br><img src="/images/Ching%20Phebe%204E1%20Art%20Club.jpg" style="width:65%">Image by Ching Phebe 4E1<br>
+| This was a meaningful nationwide<br> competition centered on the theme<br> of organ transplantation. It was<br> organised by the Organ Transplant Unit,<br> Health Promotion Board. We beat 262<br> other entries and bagged 4 awards!<br>The awardees are Jolie Ng Wei Zhen of<br> 4E1 (High Distinction), Ching Phebe of 4E1<br> (Distinction), Chai Jean Shuen of 4E3 <br>(Merit) and Lydia Aluko of 3T1 (Merit)|  | <img src="/images/artclub5.jpg" style="width:65%">Another great piece of work by Chai Jean Shuen of 4E3!<img src="/images/artclub6.jpg" style="width:55%">A profound piece by Lydia Aluko of 3T1 <br><img src="" style="width:65%">Image by Ching Phebe 4E1<br>
 |
 
 ##### Do It Right! Badge Design 2019
