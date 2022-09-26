@@ -110,7 +110,7 @@ description: ""
     <label for="accordion5">Zhenghua Newsletter Archives</label>  
     <div>  
       <p><a href="/files/NewzIssue1.pdf">Newz 2016_Issue 1</a></p>
-			<p><a href="">Newz 2016_Issue 2</a></p> (file too large,unable to download)
+			<p><a href="[Newz 2016 Issue 2]()">Newz 2016_Issue 2</a></p> 
 			<p><a href="/files/NewZ%202016_Issue%203.pdf">Newz 2016_Issue 3</a></p>
 			<p><a href="/files/NewZ%202017_Issue%201.pdf">Newz 2017_Issue 1</a></p>
 			<p><a href="">Newz 2018_Issue 1</a></p> (file exceed 5mb,unable to upload)
