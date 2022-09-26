@@ -16,14 +16,13 @@ In line with one of the Cyber Wellness principles of getting students to be posi
 
 ##### Here is a list of additional resources that parents and students may find useful:
 
-1. [MOE ICT Connection](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) - **website unavailable **<br>
-A website by the Ministry of Education (MOE) that provides a list of guides, resources and useful links to help parents understand the latest cyber trends and how to teach their children to manage them
 
-2. [Media Literacy Council](https://www.medialiteracycouncil.sg/) <br>
+
+1. [Media Literacy Council](https://www.medialiteracycouncil.sg/) <br>
 The webpage of the Media Literacy Council (MLC) which spearheads public education on media literacy and cyber wellness in Singapore. It contains resources on cyber wellness topics that parents can raise and share with their children at home.
 
-3. [Media Literacy Council YouTube channel](https://www.youtube.com/user/MLCSingapore) <br>
+2. [Media Literacy Council YouTube channel](https://www.youtube.com/user/MLCSingapore) <br>
 The YouTube channel of the MLC. It contains interesting videos on cyber wellness issues and cyber trends.
 
-4. [Factually](https://www.gov.sg/factually) <br>
+3. [Factually](https://www.gov.sg/factually) <br>
 A state-run webpage that clarifies falsehoods pertaining to issues and topics of public interest in Singapore
