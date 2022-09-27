@@ -18,7 +18,7 @@ Our tier 1 Applied Learning Programme involves coding using Scratch Programming 
 <img src="/images/23e%20sumo%20bots.jpg" 
      style="width:45%">
 
-(Video unavailable,not on youtube)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YKSq1OOt1Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As a reward for being the winners of Google Hackathon Workshop conducted in 2016, our students were invited to visit Google Data Centre on 25 July 2018. The visit certainly left an indelible impression on our students.
 
