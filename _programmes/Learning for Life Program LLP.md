@@ -15,4 +15,4 @@ Zhenghua Secondary School’s Learning for Life Programme is Outdoor Education f
 • Do outdoor cooking  
 • Pitch tents and build shelters
 
-(video not on youtube)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlNcizA3CUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
