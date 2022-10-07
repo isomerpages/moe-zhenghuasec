@@ -1,18 +1,7 @@
 logo: /images/ZSSLOGONEWwithTEXT.png
 links:
-  - title: About Us
+  - title: ABOUT US
     url: /about-us/principal-message/
-    sublinks:
-      - title: Principal's Message
-        url: /about-us/principal-message/
-      - title: School Ethos
-        url: /about-us/school-ethos/
-      - title: Management Committee
-        url: /about-us/management-committee/
-      - title: School Advisory Committee
-        url: /about-us/school-advisory-committee/
-      - title: Zhenghua Staff
-        url: /about-us/zhenghua-staff/
   - title: PROGRAMMES
     url: /programmes/aesthetics/department-information/
   - title: ACHIEVEMENTS
@@ -25,5 +14,3 @@ links:
     url: /quicklinks/
   - title: Zhenghua Newz
     url: /zhenghua-newz/nav/
-  - title: ABOUT US
-    url: /about-us/principal-message/
