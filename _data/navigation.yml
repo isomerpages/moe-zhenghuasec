@@ -46,23 +46,8 @@ links:
         url: /programmes/Student-Leadership/department-information/
       - title: Student Management
         url: /programmes/Student-Management/department-information/
-  - title: Achievements
-    url: /achievements/Student-Achievements/2021-Olevel-results/
-    sublinks:
-      - title: Academic Profile
-        url: /achievements/Student-Achievements/2021-Olevel-results/
-      - title: Alumni Accolades
-        url: /achievements/Alumni-Accolades/2022-Alumni-Accolades
-      - title: ECHA Awards
-        url: /achievements/ECHA-Awards/2021
-      - title: Organisational
-        url: /achievements/organisational/
-      - title: Staff Achievements
-        url: /achievements/staff-achievements
-      - title: Student Achievements (By Dept)
-        url: /achievements/student-achievement-department/
-      - title: Student Achievement (By CCAs)
-        url: /achievements/student-achievement-cca/
+  - title: ACHIEVEMENTS
+    url: /achievements/student-achievements/2021-olevel-results/
   - title: CCAs
     url: /ccas/Uniformed-Groups/ncc-air/
   - title: PARENTS
@@ -71,5 +56,5 @@ links:
     url: /quicklinks/
   - title: Zhenghua Newz
     url: /zhenghua-newz/nav/
-  - title: ACHIEVEMENTS
-    url: /achievements/student-achievements/2021-olevel-results/
+  - title: PROGRAMMES
+    url: /programmes/aesthetics/department-information/
