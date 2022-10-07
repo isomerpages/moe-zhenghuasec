@@ -13,39 +13,8 @@ links:
         url: /about-us/school-advisory-committee/
       - title: Zhenghua Staff
         url: /about-us/zhenghua-staff/
-  - title: Programmes
+  - title: PROGRAMMES
     url: /programmes/aesthetics/department-information/
-    sublinks:
-      - title: Aesthetics
-        url: /programmes/aesthetics/department-information/
-      - title: Applied Learning Program-ALP
-        url: /programmes/Applied-Learning-Prog-ALP/department-information/
-      - title: Character & Citizenship
-        url: /programmes/Character-and-Citizenship/department-information/
-      - title: Craft and Technology
-        url: /programmes/Craft-and-Technology/department-information/
-      - title: English Language & Literature
-        url: /programmes/English-Language-and-Literature/department-information/
-      - title: Environmental Awareness
-        url: /programmes/Environmental-Awareness/department-information/
-      - title: Humanities
-        url: /programmes/Humanities/department-information/
-      - title: Infocomm & Comm Technology
-        url: /programmes/Info-and-Comm-Tech/department-information/
-      - title: Learning For Life Program-LLP
-        url: /programmes/learning-for-life-programme/
-      - title: Mathematics
-        url: /programmes/Mathematics/department-information/
-      - title: Mother Tongue Lanugages
-        url: /programmes/Mother-Tongue-Language/department-information/
-      - title: Physical & Outdoor Education
-        url: /programmes/Physical-and-Outdoor-Education/department-information/
-      - title: Science
-        url: /programmes/Science/department-information/
-      - title: Student Leadership
-        url: /programmes/Student-Leadership/department-information/
-      - title: Student Management
-        url: /programmes/Student-Management/department-information/
   - title: ACHIEVEMENTS
     url: /achievements/student-achievements/2021-olevel-results/
   - title: CCAs
@@ -56,5 +25,5 @@ links:
     url: /quicklinks/
   - title: Zhenghua Newz
     url: /zhenghua-newz/nav/
-  - title: PROGRAMMES
-    url: /programmes/aesthetics/department-information/
+  - title: ABOUT US
+    url: /about-us/principal-message/
