@@ -84,8 +84,6 @@ links:
       - title: Past Letters to Parents
         url: /parents/Past-Parents-Letters/2021
   - title: QUICKLINKS
-    collection: quicklinks
+    url: /quicklinks/
   - title: Zhenghua Newz
     url: /zhenghua-newz/nav/
-  - title: QUICKLINKS
-    url: /quicklinks/
