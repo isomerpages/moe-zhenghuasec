@@ -65,20 +65,11 @@ links:
         url: /achievements/student-achievement-cca/
   - title: CCAs
     url: /ccas/Uniformed-Groups/ncc-air/
-    sublinks:
-      - title: Uniformed Groups
-        url: /ccas/Uniformed-Groups/ncc-air/
-      - title: Clubs and Societies
-        url: /ccas/Clubs-and-Societies/art-club/
-      - title: Sports
-        url: /ccas/Sports/Netball/
-      - title: Performing Arts
-        url: /ccas/Performing-Arts/Band/
   - title: PARENTS
     url: /parents/parenting-tips/
   - title: QUICKLINKS
     url: /quicklinks/
   - title: Zhenghua Newz
     url: /zhenghua-newz/nav/
-  - title: CCAs
-    url: /ccas/Uniformed-Groups/ncc-air/
+  - title: ACHIEVEMENTS
+    url: /achievements/student-achievements/2021-olevel-results/
