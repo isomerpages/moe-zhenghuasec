@@ -74,18 +74,9 @@ links:
         url: /ccas/Sports/Netball/
       - title: Performing Arts
         url: /ccas/Performing-Arts/Band/
-  - title: Parents
+  - title: PARENTS
     url: /parents/parenting-tips/
-    sublinks:
-      - title: Parenting Tips
-        url: /parents/parenting-tips/
-      - title: Parent Support Group
-        url: /parents/parent-support-group/
-      - title: Past Letters to Parents
-        url: /parents/Past-Parents-Letters/2021
   - title: QUICKLINKS
     url: /quicklinks/
   - title: Zhenghua Newz
     url: /zhenghua-newz/nav/
-  - title: PARENTS
-    url: /parents/parenting-tips/
