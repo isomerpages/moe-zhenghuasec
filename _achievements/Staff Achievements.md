@@ -1,6 +1,6 @@
 ---
 title: Staff Achievements
-permalink: /achievements/staff-achievements
+permalink: /achievements/staff-achievements/
 description: ""
 ---
 ### Staff Achievements

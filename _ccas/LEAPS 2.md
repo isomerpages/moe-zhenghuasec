@@ -1,6 +1,6 @@
 ---
 title: LEAPS 2
-permalink: /ccas/LEAPS
+permalink: /ccas/LEAPS/
 description: ""
 ---
 ### LEAPS 2.0
