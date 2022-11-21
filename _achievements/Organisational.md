@@ -1,6 +1,6 @@
 ---
 title: Organisational
-permalink: /achievements/organisational
+permalink: /achievements/organisational/
 description: ""
 ---
 ### List Of Organisational Achievements

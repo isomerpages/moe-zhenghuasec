@@ -1,6 +1,6 @@
 ---
 title: Instagram Poetry Workshop
-permalink: /zhenghua-newz/nav/insta-poetry-workshop
+permalink: /zhenghua-newz/nav/insta-poetry-workshop/
 description: ""
 ---
 

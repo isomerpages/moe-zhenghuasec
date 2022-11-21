@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /programmes/Craft-and-Technology/programmes
+permalink: /programmes/Craft-and-Technology/programmes/
 description: ""
 third_nav_title: Craft and Technology
 ---

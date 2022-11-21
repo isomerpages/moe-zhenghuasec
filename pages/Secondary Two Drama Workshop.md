@@ -1,6 +1,6 @@
 ---
 title: Secondary Two Drama Workshop
-permalink: /zhenghua-newz/nav/sec-2-drama-workshop
+permalink: /zhenghua-newz/nav/sec-2-drama-workshop/
 description: ""
 ---
 ### Secondary 2 Drama Workshop
