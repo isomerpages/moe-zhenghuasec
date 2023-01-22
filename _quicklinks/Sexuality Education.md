@@ -103,3 +103,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 |:---:|:---:|:---:|
 | Mass Talk by HPB appointed vendor | Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br>  |  <br><br>Term 3 Week 7 |
 | Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>  | Term 3 Week 8 |
+
+**Information for Parents**
+
+10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](https://zhenghuasec.moe.edu.sg/wp-content/uploads/2023/01/SEd-Opt-Out-Form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 27/01/2023.
+
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form is downloadable [here](https://zhenghuasec.moe.edu.sg/wp-content/uploads/2023/01/Eteens-Opt-Out-Form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 27/01/2023.
+
+13\. Parents can contact the school at zhenghua\_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
