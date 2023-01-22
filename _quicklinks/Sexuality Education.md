@@ -89,3 +89,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 | UNIT | Lesson Title | Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: | Time Period<br><br>(e.g.Term 1 Week 2) |
 |:---:|:---:|:---:|:---:|:---:|
 | Respectful Relationships & Safety | This is Where I Draw the Line<br>(60 mins)  | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.<br><br>  | understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs | Term 1 Week 9 |
+
+
+**_eTeens_** **Programme**:
+
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
+    \-
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At ZHENGHUA Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+| Topics/Lessons | Programme Learning Objectives | Time Period<br><br>  |
+|:---:|:---:|:---:|
+| Mass Talk by HPB appointed vendor | Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br>  |  <br><br>Term 3 Week 7 |
+| Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>  | Term 3 Week 8 |
