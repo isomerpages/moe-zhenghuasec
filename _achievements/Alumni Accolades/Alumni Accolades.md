@@ -4,7 +4,7 @@ permalink: /achievements/Alumni-Accolades/Alumni-Accolades/
 description: ""
 third_nav_title: Alumni Accolades
 ---
-*   [2022 Alumni Accolades](https://zhenghuasec.moe.edu.sg/alumni-accolades-2022/)
+*   [2022 Alumni Accolades](/achievements/Alumni-Accolades/2022-Alumni-Accolades/)
 *   [2021 Alumni Accolades](https://zhenghuasec.moe.edu.sg/2021-alumni-accolades/)
 *   [2019 Alumni Accolades](https://zhenghuasec.moe.edu.sg/achievements/alumni-accolades/2019-alumni-accolades/)
 *   [2018 Alumni Accolades](https://zhenghuasec.moe.edu.sg/achievements/alumni-accolades/2018-alumni-accolades/)
