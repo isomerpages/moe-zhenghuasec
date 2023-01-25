@@ -29,3 +29,21 @@ We would like to congratulate the N level classes of 2022 for their good perform
 | Titus Lim Hao Yang | 4N1 |
 | Voon Zhi Xuan | 4N2 |
 | Zhao Yun Zheng | 4N1 |
+
+![](/images/2022NLEVELRESULSTSRELEASE2.jpg)
+
+4NT students who scored EMB1 equal to or less than 5
+
+**4N(T) students with ELMAB1 ≤ 5**
+
+| Ahmad Fajrie Bin Mohamad Karim | 4T1 |
+|---|---|
+| Belinda Tay Jie Min | 4T1 |
+| Dean Aryan Bin Muhammad Zaki | 4T1 |
+| Felicia Farah Binti Mohamad Raff | 4T1 |
+| Ho Jun Yang Justin | 4T1 |
+| Nur Syakirah Binti Suhaimi | 4T1 |
+| Prince Daniel Kolawole Olukoya Aluko Olusegun Olarewaju | 4T1 |
+| Rio Wira Iskandar Bin Affendi | 4T1 |
+| Wan Yaorong | 4T1 |
+| Wang Jianing | 4T1 |
