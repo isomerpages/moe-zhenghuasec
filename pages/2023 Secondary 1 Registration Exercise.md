@@ -9,7 +9,7 @@ description: ""
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Introduction</label>
 
     <div>
 
@@ -22,7 +22,7 @@ description: ""
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">1. Online Registration by 12pm on 22/12/2022</label>
 
     <div>
 
@@ -36,7 +36,7 @@ description: ""
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application</label>
 
     <div>
 
