@@ -64,7 +64,7 @@ description: ""
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion5">4. Appeal for transfer to Zhenghua Secondary School</label>
 
     <div>
 
@@ -78,7 +78,7 @@ description: ""
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">FAS Information</label>
+    <label for="accordion6">5. Purchase of Uniform and Textbooks</label>
 
     <div>
 
@@ -92,7 +92,7 @@ description: ""
 
     <input type="checkbox" id="accordion7">
 
-    <label for="accordion7">Parent Gateway</label>
+    <label for="accordion7">6. Full Subject Based Banding (FSBB) and Subject Based Banding (SBB)</label>
 
     <div>
 
@@ -106,7 +106,7 @@ description: ""
 
     <input type="checkbox" id="accordion8">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">7. Personalised Digital Learning Programme (PDLP)</label>
 
     <div>
 
@@ -119,7 +119,7 @@ description: ""
 
     <input type="checkbox" id="accordion9">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">8. Parents Gateway (PG)</label>
 
     <div>
 
@@ -133,7 +133,7 @@ description: ""
 
     <input type="checkbox" id="accordion10">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">9. First Day of School & Secondary 1 Orientation</label>
 
     <div>
 
@@ -147,7 +147,7 @@ description: ""
 
     <input type="checkbox" id="accordion11">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">10. Class Posting</label>
 
     <div>
 
@@ -161,7 +161,7 @@ description: ""
 
     <input type="checkbox" id="accordion12">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion5">11. Parent Support Group (PSG)</label>
 
     <div>
 
@@ -175,7 +175,7 @@ description: ""
 
     <input type="checkbox" id="accordion13">
 
-    <label for="accordion6">FAS Information</label>
+    <label for="accordion6">12. Parent-Teacher Meeting (1st PTM)</label>
 
     <div>
 
@@ -189,7 +189,7 @@ description: ""
 
     <input type="checkbox" id="accordion14">
 
-    <label for="accordion7">Parent Gateway</label>
+    <label for="accordion7">13. Frequently Asked Questions (FAQ)</label>
 
     <div>
 
