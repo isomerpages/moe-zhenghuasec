@@ -6,12 +6,12 @@ third_nav_title: Academic Achievements
 ---
 2022
 
-*   ['N' Levels Examination Results 2022](https://zhenghuasec.moe.edu.sg/2022-n-level-results-release/)
+*   ['N' Levels Examination Results 2022](/achievements/Academic-Achievements/2022-N-Level-Examination-Results/)
 
 2021
 
-*   ['O' Levels Examination Results 2021](https://zhenghuasec.moe.edu.sg/2021-o-level-results-release/)
-*   ['N' Levels Examination Results 2021](https://zhenghuasec.moe.edu.sg/2021-n-level-results-release/)
+*   ['O' Levels Examination Results 2021](/achievements/Student-Achievements/2021-Olevel-results/)
+*   ['N' Levels Examination Results 2021](/achievements/Student-Achievements/2021-Nlevel-results/)
 
 2020
 
