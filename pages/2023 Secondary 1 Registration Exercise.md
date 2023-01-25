@@ -81,7 +81,7 @@ For information on appeals for transfer for serious medical conditions, <b>plea
 
     <div>
 
-      	<p> </p>
+      	<p> Dear parent and student, please note that we can only accept students whose PSLE score meet the cut-off points of our school. Only shortlisted students will be notified. Please refer to the form <a href="https://form.gov.sg/63a0f8a0cf15ee00128e395d">here</a> </p>
 
     </div>
 
