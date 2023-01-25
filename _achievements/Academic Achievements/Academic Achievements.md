@@ -21,7 +21,7 @@ third_nav_title: Academic Achievements
 2019
 
 *   ['O' Levels Examination Results 2019](/achievements/Student-Achievements/2019-Olevel-results/)
-*   ['N' Levels Examination Results 2019](https://zhenghuasec.moe.edu.sg/n-levels-examination-results-2019/)
+*   ['N' Levels Examination Results 2019](/achievements/Student-Achievements/2019-Nlevel-results/)
 
 2018
 
