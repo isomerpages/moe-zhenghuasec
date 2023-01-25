@@ -35,7 +35,8 @@ Do note that there may be changes to the information above. For the latest updat
 
     <div>
 
-      <p> </p>
+      <p> The form for online registration by can be found <a href="https://form.gov.sg/618485cadf07ad0014e2dd52">here</a>. 
+			</p>
 
     </div>
 
