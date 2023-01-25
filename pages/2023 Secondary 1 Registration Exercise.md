@@ -3,6 +3,8 @@ title: 2023 Secondary 1 Registration Exercise
 permalink: /2023-Secondary-1-Registration-Exercise/
 description: ""
 ---
+![](/images/2023%20Secondary%201%20Registration%20Exercise%201.jpg)
+
 <ul class="jekyllcodex_accordion">
 
   <li>
