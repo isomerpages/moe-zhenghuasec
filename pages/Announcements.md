@@ -5,6 +5,10 @@ description: ""
 ---
 ### Announcements
 
+##### 2023 Secondary 1 Registration Exercise
+
+[2023 Secondary 1 Registration Exercise](/2023-Secondary-1-Registration-Exercise/)
+
 ##### 2022 'N' Level Results Release
 
 [2022 'N' Level Results Release](/2022-N-Level-Results-Release/)
