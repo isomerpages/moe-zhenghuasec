@@ -2,5 +2,6 @@ collections:
   virtual-open-house:
     output: true
     order:
+      - School Events.md
       - Further Information.md
       - FAQs.md
