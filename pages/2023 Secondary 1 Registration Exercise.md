@@ -256,6 +256,34 @@ NA and NT students entering Sec 1 will be offered selected humanities subjects i
 <b>2.  \[For NA / NT students only\] What is the criteria for my child to take SBB subjects from Sec 1?</b><br>
 
 For students posted to the N(A) and N(T) course, they have the flexibility to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:<br>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:700">Option to take a subject at</span></th>
+    <th class="tg-c1uv"><span style="font-weight:700">PSLE Subject Grade under the AL system</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc">Express Level</td>
+    <td class="tg-prnc">AL 5 or better in a Standard level subject</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">N(A) level</td>
+    <td class="tg-prnc">AL 6 or better in a Standard level subject or<br><br><span style="font-weight:inherit;font-style:inherit">AL A in a Foundation level subject</span></td>
+  </tr>
+</tbody>
+</table><br>
 			</p>
 
     </div>
