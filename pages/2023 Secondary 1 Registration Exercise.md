@@ -510,7 +510,98 @@ Thank you and once again, welcome to the ZSS PSG family!
 
     <div>
 
-<p> </p>
+<p> <b>Frequently Asked Questions by Parents at Sec 1 Registration</b>
+
+<b>1. What is Zhenghua Secondary’s cut-off points (COP)?</b><br>
+
+The indicative PSLE score ranges of 2021 PSLE students posted to 2022 Sec 1.<br>
+
+         (Actual COP for 2023 Sec 1 will be updated via school website)<br>
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4p8a">Express</th>
+    <th class="tg-4p8a">11 – 20</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4p8a">Normal Academic</td>
+    <td class="tg-4p8a">21 – 24</td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a">Normal Technical</td>
+    <td class="tg-4p8a">25 – 27</td>
+  </tr>
+</tbody>
+</table><br>
+			
+<b>2. My child wants to enter this school but was not offered a place. How can I appeal for a place?</b><br>
+
+You can register your appeal by submitting the online form linked in Section 4 of this Microsite. In the event there is a vacancy and your child meets our school's cut-off point, we will contact you as soon as we can.<br>
+
+<b>3.  Can I appeal if my child does not meet the cut-off point?</b><br>
+
+You can still register your appeal by submitting the online form linked in Section 4 of this Microsite. However, we are unlikely to take in students below the cut-off point as school admissions are based on merit. In the MOE Secondary One (S1) Posting Exercise, posting decisions are based on objective and transparent measures of academic merit, i.e. PSLE scores. Appeals that take place after the S1 Posting Exercise must be aligned to these principles, in order to be fair to the other admitted students.  Students who would like to gain admission to a secondary school on the basis of other talents and achievements, e.g. those in sports or arts, already have the option of an alternative admissions pathway in the form of the Direct School Admissions Exercise.<br>
+
+<b>4.  Besides the usual academic pursuits, what are other programmes the school have to stretch the potential of the students to a higher level?</b><br>
+
+Annually, we send students for all sorts of competitions and workshops beyond the school. Subject specific ones include Math and Science Olympiads, EL Debating and oratorical competitions, MTL oratorical and creative writing workshops, Humanities Talent Development Programmes. Beyond specific subject areas, we also identify students to be in our Stretch Programme, where they are trained to debate on contemporary issues, solve future problems, and come up with creative solutions. You can read up more on the many awards that our students have received over the years on our website: /student-achievements/<br>
+
+<b>5.  How is the school going to provide assistance for academically weaker students?</b><br>
+
+Students who need extra help can seek our their subject teachers for after school consultation.  We also have after school remedial lessons to help those who need that extra academic guidance.<br>
+
+<b>6.  What is the discipline culture of the school?</b><br>
+
+Zhenghua is well known in Bukit Panjang for our positive and caring school culture. All our teachers play a crucial role in ensuring a strong discipline in Zhenghua through the restorative approach, working together towards developing all our students into self-disciplined and responsible students of integrity.<br>
+
+<b>7.  How many of your canteen stalls are Halal? Do your school cater to students who are on vegetarian diet?</b><br>
+
+We have 8 canteen stalls comprising 6 cooked food stalls, 1 cold drinks and cut fruit stall, and 1 hot drinks and snack stall.  Out of the 6 cooked food stalls, 3 are halal certified. Our hot drinks and snack stall also only sells halal certified snacks such as sandwiches, buns, biscuits, cakes. We unfortunately do not have a fully vegetarian stall, but the cooked food stalls do serve purely vegetarian dishes.<br>
+
+<b>8.  What is the school’s stand on outside tuition?</b><br>
+
+We do not recommend our students to go for tuition except for exceptional cases, e.g. international student struggling with English.  The students should instead approach their teachers for help.  We also put in place several remedial measures for all our students to succeed.<br>
+
+<b>9.  Are mobile phones allowed in the school? What can the school do to prevent excessive mobile phone usage? Why does the school not ban mobile phone use in school?</b><br>
+
+Mobile phones are not allowed to be used during curriculum time and will have to be kept in the student’s locker during lesson time. Phones will be confiscated by teachers when misused. Students are only allowed to use their phones before school, during recess and after school.<br>
+
+<b>10.  Who can opt for Higher MTL and where are the lessons held?</b><br>
+
+For your child to take HMTL, your child should meet the following criteria:<br>
+
+(i) An overall PSLE Score of 8 or better<br>
+
+OR<br>
+
+(ii) An overall PSLE Score of 9 to 14 (inclusive); and attain AL 1 / AL 2 in MTL or Distinction / Merit in HMTL.<br>
+
+Students eligible for HMTL will be invited to apply for these programmes immediately after the release of the PSLE results.<br>
+
+HML courses will be held in Bukit Panjang Government High, outside curriculum time and HCL courses will held in our school.<br>
+
+<b>11.  My child does not meet the above criteria to offer HMTL, can my child still opt for HMTL in Secondary School?</b><br>
+
+The school has the flexibility to allow students who do not meet the above criteria to offer HMTL, if they are assessed to have exceptional ability in MTL and are able to do HMTL without affecting their performance in other subjects.<br>
+
+Based on students’ performance in the various weighted assessments throughout the year, teachers will be able to have a good gauge of their progress. Students who obtain a grade of A2 and above in MTL in Semester 1 with an overall average of 60 will be offered HCL in semester 2 in secondary one in our school.<br>
+
+At the end of year examination in secondary two, students who have shown keen interest and have exceptional ability in MTL will be invited to take a diagnostic test to gauge their ability to cope with the higher level subject. They will then be offered HMTL in secondary three.<br>
+
+<b>12.  My child is taking Tamil language. When and where are the classes held?</b><br>
+
+Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu Kang Secondary School outside curriculum time.  The current 2023 schedule is as follows:<br>
+			</p>
 
     </div>
 
