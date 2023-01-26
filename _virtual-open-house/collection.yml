@@ -1,4 +1,5 @@
 collections:
   virtual-open-house:
     output: true
-    order: []
+    order:
+      - FAQs.md
