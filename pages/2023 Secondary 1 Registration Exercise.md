@@ -300,7 +300,9 @@ This common learning experience creates a valuable setting for students to mingl
 
 SBB - Booklist (click on the picture to view slides)<br>
 			
-<a href="/files/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBB-Booklist.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a>
+<a href="/files/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBB-Booklist.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a><br>
+			
+SBB - Booklist Video
 			
 			
 			</p>
