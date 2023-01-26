@@ -325,7 +325,52 @@ Please return the hardcopy forms to the General Office or reply acceptance throu
 
     <div>
 
-<p> </p>
+<p> **1\. What is PDLP about?**
+
+MOE announced in March 2020 that we will strengthen students’ digital literacy through the launch of a National Digital Literacy Programme (NDLP) for our schools. This better enables our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age. As part of the NDLP, all Secondary School students will be equipped with a Personal Learning Device (PLD).  By equipping students with their own PLD, we can:
+
+*   **Enhance Teaching and Learning**: PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide active learning experiences for students.
+*   **Support Self-Directed and Collaborative Learning**: PLDs enable students to learn online according to their needs and interests, and to collaborate with each other, anytime and anywhere.
+*   **Support the Development of Digital Literacies**: PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment.
+
+**2\. How will this be implemented in Zhenghua Secondary School?**
+
+In line with our school vision of preparing every student to be principled and future-ready leaders, all Sec 1 – 4s will be equipped with a PLD in 2023. Our school has chosen Chromebooks as our preferred PLD.
+
+**3\. Why Chromebooks?**
+
+Using ICT in teaching and learning is not new to our school and our students. We have been tapping on the Google platform for many years in our drive to prepare our students to be collaborative and self-directed learners. As such, it is only natural to continue on this platform. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.
+
+**4\. How much does my child have to pay for the device?**
+
+MOE will use bulk tenders to keep the PLDs affordable. MOE has also provided a one-off Edusave top-up of $200 in April 2020 to all eligible Singaporean students in primary and secondary schools, to help them purchase the devices selected by the school. This is on top of the annual Edusave contribution of $290 for secondary students. Students who do not have sufficient funds in their Edusave will need to bear some out-of-pocket expenses for the device, but this will not be a big amount as the Chromebooks with the enhanced 3 year warranty will cost less than $580. For students on financial assistance, we will provide further subsidies so that their out-of-pocket expenses is zero. This is to ensure that no student is denied the opportunity to benefit from the programme.
+
+Specific costs and details will be communicated to all parents in January 2023.
+
+**5\. Can my child not purchase the device?**
+
+Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through our school via MOE’s bulk tender. Students are encouraged to use the device model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The device purchased through the school will come with the necessary warranty and insurance as well.
+
+Students who do not wish to purchase a device because they already have their own devices will have to check with the school to ascertain whether the specifications of their existing devices meet our school’s requirements. These existing devices must also be installed with a Device Management Application (DMA) software to manage the student’s access and usage.
+
+**6\. How will the device be used by my child?**
+
+The devices will be used to complement classroom teaching by promoting active learning and greater personalisation of our students’ schooling experience. Students can make use of digital tools such as calendaring and note-taking applications to enhance their personal productivity. They will also have more opportunities to connect, discuss and collaborate with their peers through online digital platforms. The device will also be used beyond the classroom for home-based and self-directed learning, so that students can benefit from a seamless learning experience in school and outside of school.
+
+**7\. How will the school help my child to manage the use of the device?**
+
+All PLDs will have a Device Management Application (DMA) installed. The DMA is a suite of software installed in the device to enable the school and parents to manage and monitor device usage by students. The DMA would restrict the type of applications and websites accessible by students and limit the students’ screen time. For example, inappropriate websites with adult or extremist content, as well as gaming and gambling websites or applications, will all be restricted. We will also disable the device from a certain time at night so that students do not spend excessive amounts of time on their devices at home.
+
+The DMA would allow the school to remotely download appropriate teaching and learning applications, as well as security patches, into every student’s device. In addition, the DMA comes with classroom management capabilities to assist teachers in actively monitoring and controlling the students’ screens during lesson time, for better student management and effective teaching.
+
+Parents will be informed of the activation of Parent's DMA portal and choice of DMA options which will give parents different levels of control over their child's device after school hours (6 pm to 7 am the following day)
+
+In addition, through CCE lessons, students will be taught how to embrace the convenience of technology while maintaining a balanced lifestyle between online and offline activities, and to be a safe and responsible user of technology.
+
+**8\. How will the school help my child to manage possible cyber risks and cyber addiction?**
+
+As part of our school’s Cyber Wellness education, students learn how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities. The revised CCE 2021 will also feature cyber wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment.
+			</p>
 
     </div>
 
