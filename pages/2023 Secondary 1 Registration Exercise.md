@@ -712,95 +712,95 @@ Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu
 </tbody>
 </table><br>
 			
-It is compulsory for students to take part in one CCA during their time in secondary school.  We however do not encourage students to join more than one CCA as they need to strike a good balance between their academic studies and their CCA. We also have many other enrichment and stretch programmes that will fill up their time after school.  Students can also look forward to taking on leadership positions in class, in their CCA, and during their Sec 3 expedition camp, which would help develop our students’ leadership skills.
+It is compulsory for students to take part in one CCA during their time in secondary school.  We however do not encourage students to join more than one CCA as they need to strike a good balance between their academic studies and their CCA. We also have many other enrichment and stretch programmes that will fill up their time after school.  Students can also look forward to taking on leadership positions in class, in their CCA, and during their Sec 3 expedition camp, which would help develop our students’ leadership skills.<br>
 
-2.  **Are there dedicated CCA days or do CCAs run on different days?**
+<b>2.Are there dedicated CCA days or do CCAs run on different days?</b><br>
 
-Most CCAs take place on Thursday afternoons. Some CCAs like the Sports and Performing Arts CCAs train more than once a week especially in the lead up to competitions and the SYF Arts Presentations.  Specific CCAs will inform students and parents on their respective CCA weekly schedule once confirmed.
+Most CCAs take place on Thursday afternoons. Some CCAs like the Sports and Performing Arts CCAs train more than once a week especially in the lead up to competitions and the SYF Arts Presentations.  Specific CCAs will inform students and parents on their respective CCA weekly schedule once confirmed.<br>
 
-3.  **Do I get to choose what CCA I want to join? Do students get to try out every CCA before deciding?**
+<b>3.Do I get to choose what CCA I want to join? Do students get to try out every CCA before deciding?</b><br>
 
-To allow students to make an informed decision about their CCA choices, the school organises the CCA talent identification programme, CCA Roadshow and CCA Exploration Week during which Sec 1 students are allowed to try out as many CCAs as they would like. Students would then be given the opportunity to indicate their choices in the CCA option form.
+To allow students to make an informed decision about their CCA choices, the school organises the CCA talent identification programme, CCA Roadshow and CCA Exploration Week during which Sec 1 students are allowed to try out as many CCAs as they would like. Students would then be given the opportunity to indicate their choices in the CCA option form.<br>
 
-Eventually, whichever CCA the student chooses and is allocated to, the school will do our very best to stretch each student to bring out his/her maximum potential.
+Eventually, whichever CCA the student chooses and is allocated to, the school will do our very best to stretch each student to bring out his/her maximum potential.<br>
 
-**FAQ on Full Subject-Based Banding (FSBB)**
+<b>FAQ on Full Subject-Based Banding (FSBB)</b><br>
 
-1.  **What is Full Subject-Based Banding about?**
+<b>1.What is Full Subject-Based Banding about?</b><br>
 
-With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs, without labels. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life in them.
+With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs, without labels. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life in them.<br>
 
-Zhenghua Secondary School has been offering subject-based banding in English, Mother-Tongue Language, Mathematics and Science since 2017 where eligible students can take these subjects at a higher level.  From 2021, our school has implemented all aspects of Full Subject-Based Banding (Full SBB) including mixed stream form classes in Sec 1.
+Zhenghua Secondary School has been offering subject-based banding in English, Mother-Tongue Language, Mathematics and Science since 2017 where eligible students can take these subjects at a higher level.  From 2021, our school has implemented all aspects of Full Subject-Based Banding (Full SBB) including mixed stream form classes in Sec 1.<br>
 
-NA and NT students entering Sec 1 will be offered selected humanities subjects in Sec 2 if they meet the following criteria:
+NA and NT students entering Sec 1 will be offered selected humanities subjects in Sec 2 if they meet the following criteria:<br>
 
-*   Students in the N(A) stream can take Geography, History and/or English Literature at the Express level in Secondary 2 if they have met the criteria of 75% or higher in the specific Humanities subject. For example, to be eligible to offer Express level Geography, he or she must have obtained at least a combined score of 75% in N(A) Geography.
-*   Students in the N(T) stream can take Geography at the Normal (Academic) level in Secondary 2 if they have met the criteria of 75% or higher in English Language, and a pass with distinction for both Performance Tasks in N(T) Social Studies.
+*   Students in the N(A) stream can take Geography, History and/or English Literature at the Express level in Secondary 2 if they have met the criteria of 75% or higher in the specific Humanities subject. For example, to be eligible to offer Express level Geography, he or she must have obtained at least a combined score of 75% in N(A) Geography.<br>
+*   Students in the N(T) stream can take Geography at the Normal (Academic) level in Secondary 2 if they have met the criteria of 75% or higher in English Language, and a pass with distinction for both Performance Tasks in N(T) Social Studies.<br>
 
-2.  **\[For NA / NT students only\] What is the criteria for my child to take SBB subjects from Sec 1?**
+<b>2.[For NA / NT students only\] What is the criteria for my child to take SBB subjects from Sec 1?</b><br>
 
-For students posted to the N(A) or N(T) course, they have the option to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:
+For students posted to the N(A) or N(T) course, they have the option to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:<br>
 
-**Express level**: AL 5 or better in a Standard level subject
+<b>Express level</b>: AL 5 or better in a Standard level subject<br>
 
-**N(A) level**: AL 6 or better in a Standard level subject, or AL A in a Foundation level subject
+<b>N(A) level</b>: AL 6 or better in a Standard level subject, or AL A in a Foundation level subject<br>
 
-3.  **\[For NA / NT students Only\] What if my child is a late-bloomer who did not qualify for SBB due to his/her PSLE results?**
+<b>3.[For NA / NT students Only\] What if my child is a late-bloomer who did not qualify for SBB due to his/her PSLE results?</b><br>
 
-Students who perform well in their weighted assessments or end-of-year examinations in Sec 1 can still be offered EL/Math/Science/MTL at a higher level.
+Students who perform well in their weighted assessments or end-of-year examinations in Sec 1 can still be offered EL/Math/Science/MTL at a higher level.<br>
 
-4.  **How will the Sec 1 classes be organised? How are students assigned?**
+<b>4.How will the Sec 1 classes be organised? How are students assigned?</b><br>
 
-Since 2021, we have organised Sec 1 form classes to include students from the Express, N(A) and N(T) courses in each class. Students are assigned randomly across all classes such that each class will have a good mix of boys and girls, ethnicities, and classmates across all three courses.
+Since 2021, we have organised Sec 1 form classes to include students from the Express, N(A) and N(T) courses in each class. Students are assigned randomly across all classes such that each class will have a good mix of boys and girls, ethnicities, and classmates across all three courses.<br>
 
-*   All students will take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education.
-*   For all other subjects, they are grouped in bands according to the **level at which they offer each subject, i.e. Exp, N(A) or N(T)**.
+*   All students will take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education.<br>
+*   For all other subjects, they are grouped in bands according to the <b>level at which they offer each subject, i.e. Exp, N(A) or N(T)</b>.<br>
 
-This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.
+This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.<br>
 
-**FAQ on Personalised Digital Learning Programme (PDLP)**
+<b>FAQ on Personalised Digital Learning Programme (PDLP)</b><br>
 
-1.  **What is PDLP about?**
+<b>1.What is PDLP about?</b><br>
 
-MOE announced in March 2020 that we will strengthen students’ digital literacy through the launch of a National Digital Literacy Programme (NDLP) for our schools. This better enables our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age. As part of the NDLP, all Secondary School students will be equipped with a Personal Learning Device (PLD).  By equipping students with their own PLD, we can:
+MOE announced in March 2020 that we will strengthen students’ digital literacy through the launch of a National Digital Literacy Programme (NDLP) for our schools. This better enables our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age. As part of the NDLP, all Secondary School students will be equipped with a Personal Learning Device (PLD).  By equipping students with their own PLD, we can:<br>
 
-*   **Enhance Teaching and Learning**: PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide active learning experiences for students.
-*   **Support Self-Directed and Collaborative Learning**: PLDs enable students to learn online according to their needs and interests, and to collaborate with each other, anytime and anywhere.
-*   **Support the Development of Digital Literacies**: PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment.
+*   <b>Enhance Teaching and Learning</b>: PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide active learning experiences for students.<br>
+*   <b>Support Self-Directed and Collaborative Learning</b>: PLDs enable students to learn online according to their needs and interests, and to collaborate with each other, anytime and anywhere.<br>
+*   <b>Support the Development of Digital Literacies</b>: PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment.<br>
 
-2.  **How will this be implemented in Zhenghua Secondary School?**
+<b>2.How will this be implemented in Zhenghua Secondary School?</b><br>
 
-In line with our school vision of preparing every student to be principled and future-ready leaders, all Sec 1 – 3s have been equipped with their PLD in 2021. Eventually, all students Sec 1 – 4s will have their own PLD from 2022.  Our school uses Chromebooks as our preferred PLD.
+In line with our school vision of preparing every student to be principled and future-ready leaders, all Sec 1 – 3s have been equipped with their PLD in 2021. Eventually, all students Sec 1 – 4s will have their own PLD from 2022.  Our school uses Chromebooks as our preferred PLD.<br>
 
-3.  **Why Chromebooks?**
+<b>3.Why Chromebooks?</b><br>
 
-Using ICT in teaching and learning is not new to our school and our students. We have been tapping on the Google platform for many years in our drive to prepare our students to be collaborative and self-directed learners. As such, it is only natural to continue on this platform. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.
+Using ICT in teaching and learning is not new to our school and our students. We have been tapping on the Google platform for many years in our drive to prepare our students to be collaborative and self-directed learners. As such, it is only natural to continue on this platform. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.<br>
 
-4.  **How much does my child have to pay for the device?**
+<b>4.How much does my child have to pay for the device?</b><br>
 
-MOE will use bulk tenders to keep the PLDs affordable. MOE has also provided a one-off Edusave top-up of $200 in April 2020 to all eligible Singaporean students in primary and secondary schools, to help them purchase the devices selected by the school. This is on top of the annual Edusave contribution of $290 for secondary students. Students who do not have sufficient funds in their Edusave will need to bear some out-of-pocket expenses for the device, but this will not be a big amount as the Chromebooks with the enhanced 3 year warranty cost less than $550. For students on financial assistance, we will provide further subsidies so that their out-of-pocket expenses is zero. This is to ensure that no student is denied the opportunity to benefit from the programme.
+MOE will use bulk tenders to keep the PLDs affordable. MOE has also provided a one-off Edusave top-up of $200 in April 2020 to all eligible Singaporean students in primary and secondary schools, to help them purchase the devices selected by the school. This is on top of the annual Edusave contribution of $290 for secondary students. Students who do not have sufficient funds in their Edusave will need to bear some out-of-pocket expenses for the device, but this will not be a big amount as the Chromebooks with the enhanced 3 year warranty cost less than $550. For students on financial assistance, we will provide further subsidies so that their out-of-pocket expenses is zero. This is to ensure that no student is denied the opportunity to benefit from the programme.<br>
 
-5.  **Can my child not purchase the device?**
+<b>5.Can my child not purchase the device?</b><br>
 
-Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through our school via MOE’s bulk tender. Students are encouraged to use the device model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The device purchased through the school will come with the necessary warranty and insurance as well.
+Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through our school via MOE’s bulk tender. Students are encouraged to use the device model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The device purchased through the school will come with the necessary warranty and insurance as well.<br>
 
-Students who do not wish to purchase a device because they already have their own devices will have to check with the school to ascertain whether the specifications of their existing devices meet our school’s requirements. These existing devices must also be installed with a Device Management Application (DMA) software to manage the student’s access and usage.
+Students who do not wish to purchase a device because they already have their own devices will have to check with the school to ascertain whether the specifications of their existing devices meet our school’s requirements. These existing devices must also be installed with a Device Management Application (DMA) software to manage the student’s access and usage.<br>
 
-6.  **How will the device be used by my child?**
+<b>6.How will the device be used by my child?</b><br>
 
-The devices are used to complement classroom teaching by promoting active learning and greater personalisation of our students’ schooling experience. Students can make use of digital tools such as calendaring and note-taking applications to enhance their personal productivity. They also have more opportunities to connect, discuss and collaborate with their peers through online digital platforms. The device is also used beyond the classroom for home-based and self-directed learning, so that students can benefit from a seamless learning experience in school and outside of school.
+The devices are used to complement classroom teaching by promoting active learning and greater personalisation of our students’ schooling experience. Students can make use of digital tools such as calendaring and note-taking applications to enhance their personal productivity. They also have more opportunities to connect, discuss and collaborate with their peers through online digital platforms. The device is also used beyond the classroom for home-based and self-directed learning, so that students can benefit from a seamless learning experience in school and outside of school.<br>
 
-7.  **How will the school help my child to manage the use of the device?**
+<b>7.How will the school help my child to manage the use of the device?</b><br>
 
-All PLDs have a Device Management Application (DMA) installed. The DMA is a suite of software installed in the device to enable the school and parents to manage and monitor device usage by students. The DMA restricts the type of applications and websites accessible by students and limit the students’ screen time. For example, inappropriate websites with adult or extremist content, as well as gaming and gambling websites or applications, will all be restricted. We also disable the device from a certain time at night so that students do not spend excessive amounts of time on their devices at home.
+All PLDs have a Device Management Application (DMA) installed. The DMA is a suite of software installed in the device to enable the school and parents to manage and monitor device usage by students. The DMA restricts the type of applications and websites accessible by students and limit the students’ screen time. For example, inappropriate websites with adult or extremist content, as well as gaming and gambling websites or applications, will all be restricted. We also disable the device from a certain time at night so that students do not spend excessive amounts of time on their devices at home.<br>
 
-The DMA allows the school to remotely download appropriate teaching and learning applications, as well as security patches, into every student’s device. In addition, the DMA comes with classroom management capabilities to assist teachers in actively monitoring and controlling the students’ screens during lesson time, for better student management and effective teaching.
+The DMA allows the school to remotely download appropriate teaching and learning applications, as well as security patches, into every student’s device. In addition, the DMA comes with classroom management capabilities to assist teachers in actively monitoring and controlling the students’ screens during lesson time, for better student management and effective teaching.<br>
 
-In addition, through CCE lessons, students will be taught how to embrace the convenience of technology while maintaining a balanced lifestyle between online and offline activities, and to be a safe and responsible user of technology.
+In addition, through CCE lessons, students will be taught how to embrace the convenience of technology while maintaining a balanced lifestyle between online and offline activities, and to be a safe and responsible user of technology.<br>
 
-8.  **How will the school help my child to manage possible cyber risks and cyber addiction?**
+<b>8.How will the school help my child to manage possible cyber risks and cyber addiction?</b><br>
 
-As part of our school’s Cyber Wellness education, students learn how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities. The revised CCE 2021 also features cyber wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment.
+As part of our school’s Cyber Wellness education, students learn how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities. The revised CCE 2021 also features cyber wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment.<br>
 			</p>
 
     </div>
