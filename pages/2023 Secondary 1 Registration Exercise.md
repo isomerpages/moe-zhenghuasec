@@ -121,6 +121,28 @@ The booklist for students are listed as such:<br>
 	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-2023.pdf">Sec 1 Normal (Technical) book list</a><br>
 	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-SBB-2023.pdf">Sec 1 Normal (Technical) with Subject Based Banding book list</a><br>
 	
+	**Please note:**
+
+1\. Please keep strictly to the time and date that you have booked.
+
+2\. Please show **the booking confirmation sent to your registered email** to the staff at the school gate upon entry to verify your booked time slot and date. Parents who come at the wrong date or time may be turned away if there is a long queue.
+
+3\. Please note that parking on the school grounds is limited and you may be directed to the nearest multi-storey carpark once the car park lots in the school are filled up. Entrance and exit will be from the school gate located along Bukit Panjang Ring Road.
+
+4\. You will be guided by student councilors and school staff to the venues:
+
+Block H (Level 1) for uniform sale
+
+Block D (Level 1) for Express Textbooks
+
+Block E (Level 1) for Normal(Academic) and Normal (Technical) Textbooks.
+
+5\. Textbooks and uniform bought can be returned or exchanged as long as they are clean and in original condition. Uniform should not be soiled.
+
+**Purchase of Physical Education Attire**
+
+It is compulsory to wear the Zhenghua Secondary School House T-shirts and school black PE shorts for PE lessons.  Please purchase the correct House T-Shirts for your child/ward, as indicated in the table below.  It is advisable to purchase a minimum of 2 sets of the PE attire.
+	
 </p>
 
     </div>
