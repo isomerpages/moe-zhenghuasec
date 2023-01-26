@@ -496,7 +496,7 @@ Thank you and once again, welcome to the ZSS PSG family!
 
     <div>
 
-<p> </p>
+<p> Our first PTM will be conducted on Friday 6 January 2023, at 5pm in school hall followed by camp finale. There will be a welcome talk by our Principal, Mr Ng in the hall. You will get to meet your child's Form Teachers at this PTM. More details will be shared via Parents Gateway. </p>
 
     </div>
 
