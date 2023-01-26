@@ -401,7 +401,8 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 
     <div>
 
-<p> </p>
+<p> Click on the slide to view the slides. Or click <a href="https://zhenghuasec.moe.edu.sg/wp-content/uploads/2022/12/First-Day-of-School-2023V3.pptx">here</a> to access the slides.<br>
+			</p>
 
     </div>
 
