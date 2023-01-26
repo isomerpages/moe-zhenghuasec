@@ -143,6 +143,64 @@ Block E (Level 1) for Normal(Academic) and Normal (Technical) Textbooks.<br>
 
 It is compulsory to wear the Zhenghua Secondary School House T-shirts and school black PE shorts for PE lessons.  Please purchase the correct House T-Shirts for your child/ward, as indicated in the table below.  It is advisable to purchase a minimum of 2 sets of the PE attire.<br>
 	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-prnc"> <span style="font-weight:700">Class</span></th>
+    <th class="tg-c1uv"><span style="font-weight:700">House</span></th>
+    <th class="tg-c1uv"><span style="font-weight:700">Colour</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc">1A</td>
+    <td class="tg-prnc">Eagle</td>
+    <td class="tg-prnc">Black</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">1B</td>
+    <td class="tg-prnc">Falcon</td>
+    <td class="tg-prnc">Yellow</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">1C</td>
+    <td class="tg-prnc">Heron</td>
+    <td class="tg-prnc">Blue</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">1D</td>
+    <td class="tg-prnc">Hawk</td>
+    <td class="tg-prnc">Red</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">1E</td>
+    <td class="tg-prnc">Eagle</td>
+    <td class="tg-prnc">Black</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">1F</td>
+    <td class="tg-prnc">Falcon</td>
+    <td class="tg-prnc">Yellow</td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">1G</td>
+    <td class="tg-prnc">Heron</td>
+    <td class="tg-prnc">Blue</td>
+  </tr>
+</tbody>
+</table><br>
+			
+<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/PE-Shirts.jpg">
+	
 </p>
 
     </div>
