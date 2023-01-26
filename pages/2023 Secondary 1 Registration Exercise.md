@@ -284,6 +284,23 @@ For students posted to the N(A) and N(T) course, they have the flexibility to ta
   </tr>
 </tbody>
 </table><br>
+			
+<b>3. [For NA / NT students Only\] What if my child is a late-bloomer who did not qualify for SBB due to his/her PSLE results?</b><br>
+
+Sec 1 students who perform well in their weighted assessments or end-of-year examinations may be offered EL/Math/Science/MTL at a higher level.<br>
+
+<b>4.  How will next year’s Sec 1 classes be organised?</b><br>
+
+We will be organising Sec 1 form classes in new ways to include students from the Express, N(A) and N(T) courses in each class.<br>
+
+*   They will all take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education.<br>
+*   For all other subjects, they will be grouped in classes according to the <b>level at which they offer each subject, i.e. Exp, N(A) or N(T)</b>.<br>
+
+This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.<br>
+
+SBB - Booklist (click on the picture to view slides)<br>
+			
+			
 			</p>
 
     </div>
