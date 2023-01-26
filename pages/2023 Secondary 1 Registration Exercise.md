@@ -302,10 +302,16 @@ SBB - Booklist (click on the picture to view slides)<br>
 			
 <a href="/files/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBB-Booklist.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a><br>
 			
-SBB - Booklist Video
+SBB - Booklist Video<br>
 			
+SBB - Offer Letter (click on the picture to view slides)<br>
 			
-			</p>
+<img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBOfferLetter-300x225.jpg"><br>
+			
+SBB - Offer Letter Video<br>
+			
+Please return the hardcopy forms to the General Office or reply acceptance through Parents Gateway by <b>27 December 2022.</b>
+</p>
 
     </div>
 
