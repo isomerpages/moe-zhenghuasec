@@ -95,7 +95,33 @@ For information on appeals for transfer for serious medical conditions, <b>plea
 
     <div>
 
-<p> </p>
+<p> The purchase of books and uniforms can be made from 22nd Dec to 30th Dec. However, for on-site purchase on 22nd and 23rd Dec, you will need to book a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform & Textbooks, directly below).<br>
+
+You can also purchase the textbooks and uniforms online, and have the items delivered to your home. Please click <a href="https://www.pacificbookstores.com/">here</a> to purchase online.<br>
+
+<b>On-SITE Purchase of Uniform & Textbooks</b><br>
+
+For parents who wish to make their purchase on-site in school or students who are under FAS, please book a time slot on 22 Dec (9am – 3.30pm) and 23 Dec(9am - 3.30pm) <a href="https://sagenda.net/Frontend/Calendar/5fc5b645701dd42d28dd4c7b">here</a>.<br>
+
+Please note the booking is on a first come first served basis and is for parents who are NOT ordering online.<br>
+
+<b>Purchasing Uniform</b><br>
+
+Parents are advised to purchase at least 1 set of formal school uniform (school shirt and pants for boys/school blouse and skirt for girls) for formal occasion and also could be worn for daily lessons and at least 1 set of school red polo-T shirt (this can be worn during daily lessons due to the hot weather).<br>
+
+<b>Purchasing of Textbooks</b><br>
+
+NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br>
+
+The booklist for students are listed as such:<br>
+	
+<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1E-2023.pdf">Sec 1 Express book list</a><br>
+	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NA-2023.pdf">Sec 1 Normal (Academic) book list</a><br>
+	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NA-SBB.pdf">Sec 1 Normal (Academic) with Subject Based Banding book list</a><br>
+	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-2023.pdf">Sec 1 Normal (Technical) book list</a><br>
+	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-SBB-2023.pdf">Sec 1 Normal (Technical) with Subject Based Banding book list</a><br>
+	
+</p>
 
     </div>
 
