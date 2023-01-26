@@ -215,7 +215,48 @@ It is compulsory to wear the Zhenghua Secondary School House T-shirts and sch
 
     <div>
 
-<p> </p>
+<p> Zhenghua Secondary School is one of the 28 pilot schools for Full Subject-Based Banding (Full SBB).
+
+**Background**
+
+Zhenghua Secondary School has since 2017 been offering subject-based banding in English, Mother-Tongue Languages, Math and Science for eligible Normal (Academic) and Normal (Technical) students.
+
+To provide an even more customised secondary education experience for students, we have rolled out Full SBB to all Sec 1 students from 2021. Full SBB will provide students with opportunities to study even more subjects at a level better suited to their strengths and interests.
+
+As part of this pilot, our school will:
+
+1.  Provide Secondary 2 Normal (Academic) and Normal (Technical) students with the opportunity to offer Humanities subjects at a more demanding level; and
+2.  Organise Secondary 1 form classes in new ways.
+
+**Offering of Humanities subjects at a more demanding level from Secondary 2**
+
+Secondary 1 Normal (Academic) students promoted to Secondary 2 Normal (Academic) can take Humanities at the Express level in Secondary 2 if he or she has met the criteria of 75% or higher in the specific Humanities subject (Geography, History, Literature in English).  Secondary 1 Normal (Technical) students can take Geography at the Normal (Academic) Level if he or she has achieved 75% or higher for English Language at N(T) level, or the equivalent at N(A) level at the End of Year Examinations; and a Pass with Distinction grade for both Social Studies N(T) Performance Tasks in Semester 1 and 2.
+
+With this increased flexibility in customising our students’ learning experience, we better recognise their strengths and nurture their intrinsic motivation to learn.
+
+**Organising Secondary 1 form classes in new ways**
+
+From 2021, we have organised Sec 1 classes to include students from the three different courses in each class. They take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education. For all other subjects, they are grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
+
+This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.
+
+**FAQ**
+
+**1.  What is Full Subject-Based Banding about?**
+
+With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs, without labels. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life in them.
+
+Zhenghua Secondary School has been offering subject-based banding in English, Mother-Tongue Language, Mathematics and Science since 2017 where eligible students can take these subjects at a higher level.  From 2020, our school has been selected by MOE to be one of the 28 secondary schools to start piloting aspects of Full Subject-Based Banding (Full SBB).
+
+NA and NT students entering Sec 1 will be offered selected humanities subjects in Sec 2 if they meet the following criteria:
+
+*   Students in the N(A) stream can take Geography, History and/or English Literature at the Express level in Secondary 2 if they have met the criteria of 75% or higher in the specific Humanities subject. For example, to be eligible to offer Express level Geography, he or she must have obtained at least a combined score of 75% in N(A) Geography.
+*   Students in the N(T) stream can take Geography at the Normal (Academic) level in Secondary 2 if they have met the criteria of 75% or higher in English Language, and a pass with distinction for both Performance Tasks in N(T) Social Studies.
+
+**2.  \[For NA / NT students only\] What is the criteria for my child to take SBB subjects from Sec 1?**
+
+For students posted to the N(A) and N(T) course, they have the flexibility to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:
+			</p>
 
     </div>
 
