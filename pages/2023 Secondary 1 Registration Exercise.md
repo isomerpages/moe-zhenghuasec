@@ -383,7 +383,8 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 
     <div>
 
-      <p> </p>
+      <p> All announcements and information will be shared to parents via the Parents Gateway application. If you are not already on board, please refer to the details below on how you can do so.<br><br>
+			</p>
 
     </div>
 
