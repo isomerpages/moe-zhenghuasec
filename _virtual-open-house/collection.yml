@@ -2,4 +2,5 @@ collections:
   virtual-open-house:
     output: true
     order:
+      - Further Information.md
       - FAQs.md
