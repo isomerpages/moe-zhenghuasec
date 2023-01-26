@@ -439,7 +439,50 @@ Camp Packing List (click on image to view)<br>
 
     <div>
 
-      	<p> </p>
+      	<p> <img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P1.jpg"><br>
+					
+A very warm welcome to you and your child!<br>
+
+All parents are automatically members of the Zhenghua Secondary School Parent Support Group (ZSS PSG). The ZSS PSG is a network of parents who work in close partnership with the school.<br>
+
+We are currently inviting interested parents to sign up for the following:<br>
+
+<b>1) Class WhatsApp Chatgroup (for Parents)</b><br>
+
+As parents, you may be concerned about your child’s studies and would like to keep yourself abreast of the upcoming school programmes and activities. The ZSS PSG will be forming WhatsApp chatgroup for each of the Secondary One classes as a platform to provide parents from the same class an avenue to receive information from the school and the PSG.<br>
+
+<b>2) As active PSG members</b><br>
+
+We are also inviting interested parents to join us as active PSG members. As active PSG members, you get to help out in school events and lend support for PSG activities. By joining the PSG as active parent volunteers, you will also gain support from other parents in your parenting journey.<br>
+
+<b>3) Transition to Secondary School Life Parenting Workshop and PSG Welcome \[4 February 2023, 10:00am-11.30am\]</b><br>
+
+Students tend to face a host of emotional and psychological challenges as they transit from primary school to secondary school. While this journey into secondary school can be exciting, some teenagers will require time to adjust and accommodate to the new environment.<br>
+
+To help parents understand the importance of parental support during this transitional phase of your child, ZSS PSG will be organizing the following parenting workshop in January:<br>
+
+Transition to Secondary School Life Parenting Workshop and PSG Welcome<br>
+
+Date: 4 February 2023, Saturday<br>
+
+Time: 10am-11.30am<br>
+
+Venue: School Library<br>
+
+Through the workshop, parents can learn to:<br>
+
+1.  Understand the different expectations and developmental tasks that your child may encounter during this period of time.<br>
+2.  Be equipped with the necessary knowledge to support your child in the secondary school learning environment and help him/her to understand how better to overcome the various challenges in secondary school.<br>
+
+As part of our efforts to go green, all registrations for PSG will be done online. Please take a moment to go to the link below for the registration form for the three programmes stated above. Alternatively, you may scan the QR code for the registration form. Please allow us seven working days to process your registration.<br>
+					<img style="width:40%;height:50%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P2.jpeg"><br>
+					
+Or access it here : <a href="https://go.gov.sg/zsspsg2023registration">https://go.gov.sg/zsspsg2023registration</a><br>
+
+We believe you will find your journey with the ZSS PSG a very enriching and fun-filled experience.<br>
+
+Thank you and once again, welcome to the ZSS PSG family!
+			</p>
 
     </div>
 
