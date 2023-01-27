@@ -35,3 +35,7 @@ Click [here](/files/Virtual%20open%20house/Zhenghua-Sec-Stories-2020.pdf) to r
 
 <a href="https://www.instagram.com/ar/322189282224099/" target = "\_blank">   
 <img style="width:20%;height:50%" src="/images/Virtual%20Open%20House/Further%20Information/F4.png"></a>
+
+What ZSS Place Are You?
+
+If you’re curious about the unique facilities and spaces in the school, get a preview through our interactive Instagram filter on the school’s Instagram page @zssofficial! On our profile, simply click on the tab that looks like an emoji with sparkles. There, you’ll see our filter! Try it, tag us, and maybe you’ll even be featured on our Instagram stories!
