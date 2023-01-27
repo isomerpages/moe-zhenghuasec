@@ -126,17 +126,20 @@ The unit is proud of SI Charlotte Ong and SSgt Mohd Elfrian Abdullah for achievi
 The girls were eager and excited to play again after a two-year break! They trained hard to adapt quickly to the new formats of matches and showed resilience to continue striving despite the challenges that they faced, such as when fellow players were down due to Covid. Although the teams could not proceed past the heats in the National School Games, it was truly heartwarming to see them encouraging each other. They will continue to learn from their mistakes, work hard and show their strengths again in upcoming competitions.
 
 
-**Volleyball** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Volleyball"></a>Volleyball 
+[Backtotop](#Backtotop)
 
 With the relaxation of safe management measures, our teams were able to participate in the National Schools Games again. While it was difficult pivoting back to grueling training, our players played their best against strong opponents and amassed a mix of victories and losses. Outgoing team captain Julieana (4E4) reminds the team to “Never stop trying as practice is the key to success” while incoming captain Abia (3E3) also hopes that the team remembers losses are part of a learning journey too and that the team should not regret!
 
 
-**Basketball** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Basketball"></a>Basketball 
+[Backtotop](#Backtotop)
 
 The return to face-to-face matches after a 2-year break was daunting for many but the Basketball boys took up the challenge bravely and tried their best against tough opponents. Learning from each loss, the boys managed to close the margins between the scores, improve their stamina and remembered to lean into their tempo and team strategies to lead the games more. The team looks forward to training together to hone their skills for more formidable performances in the future. After all coming together is only the beginning; keeping together is progress and working together will ensure continued success!
 
 
-**Sports Club** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="SportsClub"></a>Sports Club 
+[Backtotop](#Backtotop)
 
 It was an exciting and joyful year for the Sports Club in 2022. Our students participated in a Bowling workshop, learning the tips and biomechanics of Two-handed bowling at Bukit Batok Westwood bowl. They also underwent two weeks of the ‘Game for Life’ package, where they learnt about the values of sports that transcend beyond the sporting arena. 
 
@@ -147,24 +150,28 @@ This year, our Sports Club also saw Zhenghua Secondary School being represented 
 Zhenghua was also represented in Golf for the first time by Nefertera Rose David (1G) at the National School Games. It was the first time that she played at the national level and she displayed much grit in each game that lasted about 7 hours each day without a break. Nefertera ranked 10th out of 11 players and will continue to strive to greater heights in the years ahead!
 
 
-**Soccer**  [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Soccer"></a>Soccer 
+[Backtotop](#Backtotop)
 
 With the highly anticipated National School Games resuming this year, our team of footballers put in hard work and challenged themselves to keep fit. Though it was daunting to return to the intense competitions, the boys readied themselves and adapted very well to the game play. The rare chance of having a match to play at home ground boosted the team’s morale and motivated them to do better in subsequent games. It was also heartwarming to see the boys conduct themselves in a commendable fashion on and off pitch, such as players willingly stepping up to play in positions that they were not familiar with, and experienced players easing the younger ones into the game. These moments of sportsmanship and resilience are a strong testament to the character and unity of the team that will continue to work hard and bring Zhenghua Football to greater heights!
 
 
-**AV Club** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="AVClub"></a>AV Club 
+[Backtotop](#Backtotop)
 
 Covid-19 has challenged our CCA in many ways, but that did not stop our club members from learning and honing their audio-visual skills. In the first semester, events still had to be run synchronously online as the entire school community watched on. Our members proficiently coordinated between live and pre-produced videos for broadcast, allowing the virtual events to proceed without a hitch. Through these experiences, we learnt how to respond to unforeseen challenges swiftly, work as a cohesive team and built on our capacities in event and stage management. 
 
 Later in the year, we were able to tap on these new strengths to support large-scale school events like Urban Challenge, National Day and Teachers Day Celebrations where we challenged ourselves to do live-streaming coupled with synchronous audio-visual support for various venues.
 
 
-**Art Club** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="ArtClub"></a>Art Club 
+[Backtotop](#Backtotop)
 
 ZSS Art Club has been growing from strength to strength across the years. This year, we accepted our largest intake of 55 budding artists across all levels! Our members hone their skills in our signature Ceramics Workshop, where they gain mastery of various handbuilding techniques to build clay sculptures, teapots and other organic forms. In addition, they are given opportunities to participate in competitions and projects. Zylia (4E3), Jing Ting (3E2), Melinda (3E2), Insyirah (3T1) and Ayrah (1G) designed 5 types of meaningful postcards based on our school values, that were then distributed schoolwide for their peers to write gratitude notes to their fellow friends, teachers and family.
 
 
-**Library Club** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="LibraryClub"></a>Library Club 
+[Backtotop](#Backtotop)
 
 We were excited that we could resume in-person library activities this year. For Valentine’s Day, we put a twist to our popular Blind Date with a Book event and brought our eReads kiosk to the canteen so that students could have a blind date with ebooks instead!  
 
@@ -174,6 +181,7 @@ This year was also the first time that we managed to set up class libraries in a
 
 
 
-**Infocomm Club** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="InfocommClub"></a>Infocomm Club 
+[Backtotop](#Backtotop)
 
 Infocomm Club is a dynamic CCA where members get to learn and hone new skills. These range from storyboarding, filming, to directing and editing original works. Through the pre-production to post-production stages of videography, students gain opportunities to be more adept and professional in the various roles they play and tasks they undertake from behind the camera to the screen. Students work collaboratively through effective communication and cohesive teamwork and take turns to lead and direct, which build up soft skills too!
