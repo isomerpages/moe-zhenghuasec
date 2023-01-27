@@ -9,6 +9,10 @@ description: ""
 
 [2023 Secondary 1 Registration Exercise](/2023-Secondary-1-Registration-Exercise/)
 
+##### 2022 Virtual Open House
+
+[2022 Virtual Open House](/virtual-open-house/Virtual-Open-House/)
+
 ##### 2022 'N' Level Results Release
 
 [2022 'N' Level Results Release](/2022-N-Level-Results-Release/)
