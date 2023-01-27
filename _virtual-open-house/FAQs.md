@@ -9,7 +9,32 @@ description: ""
 
 The indicative PSLE score ranges of 2021 PSLE students posted to 2022 Sec 1
 
-<table width="0" style="box-sizing: border-box; border-collapse: separate; border-spacing: 0px; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; margin: 0px 0px 1.5em; width: 1362.4px; color: rgb(58, 58, 58); font-family: Poppins, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="142" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">Express</td><td width="123" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">11 - 20</td></tr><tr style="box-sizing: border-box;"><td width="142" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">Normal Academic</td><td width="123" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">21 - 24</td></tr><tr style="box-sizing: border-box;"><td width="142" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">Normal Technical</td><td width="123" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">25 - 27</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Express</th>
+    <th class="tg-c3ow">11 - 20</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Normal Academic</td>
+    <td class="tg-c3ow">21 - 24</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Normal Technical</td>
+    <td class="tg-c3ow">25 - 27</td>
+  </tr>
+</tbody>
+</table>
 
 **2.  My child wants to enter this school but was not offered a place. How can I appeal for a place?**
 
@@ -67,9 +92,48 @@ Based on students’ performance in the various weighted assessments throughout 
 
 Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu Kang Secondary School outside curriculum time.  The current 2022 schedule is as follows, 2023 schedule is TBC:
 
-<table width="0" style="box-sizing: border-box; border-collapse: separate; border-spacing: 0px; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; margin: 0px 0px 1.5em; width: 1362.4px; color: rgb(58, 58, 58); font-family: Poppins, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="101" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;"><strong style="box-sizing: border-box; font-weight: 700;">Monday</strong></td><td width="169" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;"><strong style="box-sizing: border-box; font-weight: 700;">&nbsp;Lesson Time</strong></td><td width="132" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;"><strong style="box-sizing: border-box; font-weight: 700;">Thursday</strong></td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;"><strong style="box-sizing: border-box; font-weight: 700;">Lesson Time&nbsp;</strong></td></tr><tr style="box-sizing: border-box;"><td width="101" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">3 Exp</td><td rowspan="4" width="169" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;"><p style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline; text-align: center;">3.00 − 6.00 pm</p><p style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; text-align: center;">(4.30 − 4.45 pm break)</p></td><td width="132" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">1 Exp and 1 NA</td><td rowspan="2" width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">3.00 − 6.00 pm<p style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">(4.30 − 4.45pm break)</p></td></tr><tr style="box-sizing: border-box;"><td width="101" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">3 NA</td><td width="132" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">2 Exp / 2 NA</td></tr><tr style="box-sizing: border-box;"><td width="101" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">4 Exp / 5 NA</td><td width="132" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">1 NT / 2 NT</td><td rowspan="2" width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">3.00 − 4.45pm<p style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">( no break)</p></td></tr><tr style="box-sizing: border-box;"><td width="101" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">4NA</td><td width="132" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: center;">3 NT / 4 NT</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sm4r"><span style="font-weight:700">Monday</span></th>
+    <th class="tg-sm4r"><span style="font-weight:700"> Lesson Time</span></th>
+    <th class="tg-sm4r"><span style="font-weight:700">Thursday</span></th>
+    <th class="tg-sm4r"><span style="font-weight:700">Lesson Time </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4p8a">3 Exp</td>
+    <td class="tg-nzmi" rowspan="4"><span style="font-weight:inherit;font-style:inherit">3.00 − 6.00 pm</span><br><span style="font-weight:inherit;font-style:inherit">(4.30 − 4.45 pm break)</span></td>
+    <td class="tg-4p8a">1 Exp and 1 NA</td>
+    <td class="tg-4p8a" rowspan="2">3.00 − 6.00 pm<br><br><span style="font-weight:inherit;font-style:inherit">(4.30 − 4.45pm break)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a">3 NA</td>
+    <td class="tg-4p8a">2 Exp / 2 NA</td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a">4 Exp / 5 NA</td>
+    <td class="tg-4p8a">1 NT / 2 NT</td>
+    <td class="tg-4p8a" rowspan="2">3.00 − 4.45pm<br><br><span style="font-weight:inherit;font-style:inherit">( no break)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a">4NA</td>
+    <td class="tg-4p8a">3 NT / 4 NT</td>
+  </tr>
+</tbody>
+</table>
 
-* * *
 
 **FAQ on CCA**
 
