@@ -23,3 +23,8 @@ Bus services are 976, 920, 922.
 <img style="width:50%;height:50%" src="/images/Virtual%20Open%20House/Further%20Information/F2.jpg"></a>
 
 Click [here](/files/Virtual%20open%20house/Openhouse-brochure_v4.pdf) for the PDF version if you are unable to view the interactive brochure.
+
+4. Our School Stories (click on the brochure to view)
+
+<a href="/files/Virtual%20open%20house/Zhenghua-Sec-Stories-2020.pdf" target = "\_blank">   
+<img style="width:50%;height:50%" src="/images/Virtual%20Open%20House/Further%20Information/F3.jpg"></a>
