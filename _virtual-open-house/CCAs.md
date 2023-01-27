@@ -3,6 +3,8 @@ title: CCAs
 permalink: /virtual-open-house/CCAs/
 description: ""
 ---
+<a name="Backtotop"></a>
+
 **Performing Arts**  
 [Drum Ensembles](#DrumEnsembles)  
 [Choir](#Choir)  
