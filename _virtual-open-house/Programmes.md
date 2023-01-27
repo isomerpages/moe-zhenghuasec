@@ -5,7 +5,9 @@ description: ""
 ---
 <a name="Backtotop"></a>
 
-[Applied Learning Programme](#AppliedLearningProgramme)
+[Applied Learning Programme](#AppliedLearningProgramme)  
+[Learning For Life Programme](#LearningforLifeProgramme)  
+[Character Citizenship Education](#CharacterCitizenshipEducation)
 
 
 **Applied Learning Programme** 
