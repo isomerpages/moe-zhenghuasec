@@ -7,7 +7,15 @@ description: ""
 
 [Applied Learning Programme](#AppliedLearningProgramme)  
 [Learning For Life Programme](#LearningforLifeProgramme)  
-[Character Citizenship Education](#CharacterCitizenshipEducation)
+[Character Citizenship Education](#CharacterCitizenshipEducation)  
+[Student Leadership](#StudentLeadership)  
+[English](#English)  
+[Mother Tongue](#MotherTongue)  
+[Science](#Science)  
+[Mathematics](#Mathematics)  
+[Humanities](#Humanities)  
+[Craft & Technology](#Craft&Technology)  
+[Aesthetics](#Aesthetics)  
 
 
 <a name="AppliedLearningProgramme"></a>Applied Learning Programme  [Back to top]((#Backtotop)
