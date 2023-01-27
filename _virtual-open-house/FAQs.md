@@ -139,8 +139,65 @@ Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu
 
 **1\. What are the CCAs offered in ZSS? Is there a limit to the number of CCAs I can join?**
 
-<table width="0" style="box-sizing: border-box; border-collapse: separate; border-spacing: 0px; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; margin: 0px 0px 1.5em; width: 1362.4px; color: rgb(58, 58, 58); font-family: Poppins, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"><strong style="box-sizing: border-box; font-weight: 700;">Sports</strong></td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"><strong style="box-sizing: border-box; font-weight: 700;">Uniformed Groups</strong></td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"><strong style="box-sizing: border-box; font-weight: 700;">Aesthetics</strong></td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"><strong style="box-sizing: border-box; font-weight: 700;">Clubs</strong></td></tr><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Basketball (Boys only)</td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Scouts (Boys and Girls)</td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Symphonic Band</td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Art</td></tr><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Netball (Girls only)</td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">National Cadet Corps (Air)</td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Choir</td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Library</td></tr><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Football (Boys only)</td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">National Police Cadet Corps</td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Dance</td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">AVA</td></tr><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Volleyball</td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Red Cross</td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Drums Ensemble</td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Infocomm</td></tr><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Outdoor Adventure</td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"></td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Drama</td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"></td></tr><tr style="box-sizing: border-box;"><td width="168" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Sports Club</td><td width="180" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"></td><td width="156" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;">Handbells Ensemble</td><td width="108" style="box-sizing: border-box; padding: 8px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; text-align: left;"></td></tr></tbody></table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"><span style="font-weight:700">Sports</span></th>
+    <th class="tg-1wig"><span style="font-weight:700">Uniformed Groups</span></th>
+    <th class="tg-1wig"><span style="font-weight:700">Aesthetics</span></th>
+    <th class="tg-1wig"><span style="font-weight:700">Clubs</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">Basketball (Boys only)</td>
+    <td class="tg-cly1">Scouts (Boys and Girls)</td>
+    <td class="tg-cly1">Symphonic Band</td>
+    <td class="tg-cly1">Art</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Netball (Girls only)</td>
+    <td class="tg-cly1">National Cadet Corps (Air)</td>
+    <td class="tg-cly1">Choir</td>
+    <td class="tg-cly1">Library</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Football (Boys only)</td>
+    <td class="tg-cly1">National Police Cadet Corps</td>
+    <td class="tg-cly1">Dance</td>
+    <td class="tg-cly1">AVA</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Volleyball</td>
+    <td class="tg-cly1">Red Cross</td>
+    <td class="tg-cly1">Drums Ensemble</td>
+    <td class="tg-cly1">Infocomm</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Outdoor Adventure</td>
+    <td class="tg-cly1"></td>
+    <td class="tg-cly1">Drama</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-prnc"><span style="font-weight:400;font-style:normal;color:#3A3A3A;background-color:#FFF">Sports Club</span></td>
+    <td class="tg-prnc"></td>
+    <td class="tg-prnc"><span style="font-weight:400;font-style:normal;color:#3A3A3A;background-color:#FFF">Handbells Ensemble</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 It is compulsory for students to take part in one CCA during their time in secondary school.  We however do not encourage students to join more than one CCA as they need to strike a good balance between their academic studies and their CCA. We also have many other enrichment and stretch programmes that will fill up their time after school.  Students can also look forward to taking on leadership positions in class, in their CCA, and during their Sec 3 expedition camp, which would help develop our students’ leadership skills.
 
 **2\. Are there dedicated CCA days or do CCAs run on different days?**
