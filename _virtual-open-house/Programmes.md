@@ -3,17 +3,9 @@ title: Programmes
 permalink: /virtual-open-house/Programmes/
 description: ""
 ---
-<a name="Applied Learning Programme">Applied Learning Programme</a>  
-<a name="Learning for Life Programme">Learning for Life Programme</a>  
-<a name="Character Citizenship Education">Character Citizenship Education</a>  
-<a name="Student Leadership">Student Leadership</a>  
-<a name="English">English</a>  
-<a name="Mother Tongue">Mother Tongue</a>  
-<a name="Science">Science</a>   
-<a name="Mathematics">Mathematics</a>  
-<a name="Humanities">Humanities</a>  
-<a name="Craft & Technology">Craft & Technology</a>  
-<a name="Aesthetics">Aesthetics</a>  
+<a name="Backtotop"></a>
+
+
 
 
 **Applied Learning Programme** 
