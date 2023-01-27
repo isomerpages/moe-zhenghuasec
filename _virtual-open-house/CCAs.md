@@ -33,7 +33,10 @@ description: ""
 [Library Club](#LibraryClub)  
 [Infocomm Club](#InfocommClub)  
 
-**Choir** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+
+
+##### <a name="Choir"></a>Choir 
+[Backtotop](#Backtotop)
 
 Under the directorship of Ms. Tan Jing Yi, the award-winning Zhenghua Secondary School Choir has performed a wide range of choral music from historical periods to the latest pop hits. While it has been difficult for the choristers to showcase their prowess due to Covid restrictions, this year saw the return of live performances! Thanks to weekly sessions where members used music and games to remember the theory and practical aspects of chorale singing, Zhenghua choristers effortlessly serenaded the school with a medley of National Day songs during the annual concert and led the school in the finale segment. Choir looks forward to putting up more musical performances to engage and inspire their audiences in the years ahead!
 
