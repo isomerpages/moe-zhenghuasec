@@ -3,8 +3,33 @@ title: CCAs
 permalink: /virtual-open-house/CCAs/
 description: ""
 ---
-**Performing Arts**
+**Performing Arts**  
+[Drum Ensembles](#DrumEnsembles)  
+[Choir](#Choir)  
+[Dance](#Dance)  
+[Handbells](#Handbells)  
+[Drama](#Drama)  
+[Band](#Band)  
 
+**Uniformed Groups**  
+[Scouts](#Scouts)  
+[Red Cross](#RedCross)  
+[NPCC (Air)](#NPCC(Air))  
+[NPCC](#NPCC)  
+
+**Sports**  
+[ODAC](#ODAC)  
+[Netball](#Netball)  
+[Volleyball](#Volleyball)  
+[Basketball](#Basketball)  
+[Sports Club](#SportsClub)  
+[Soccer](#Soccer)
+
+**Clubs and Societies**  
+[AV Club](#AVClub)  
+[Art Club](#ArtClub)  
+[Library Club](#LibraryClub)  
+[Infocomm Club](#InfocommClub)  
 
 **Choir** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
 
