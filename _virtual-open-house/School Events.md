@@ -33,3 +33,19 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Sports Day** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+
+
+**Urban Challenge** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+
+
+**ZEST** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+
+
+
+**20th Anniversary Video** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+
+
+
+**Tapestry** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
