@@ -28,3 +28,5 @@ Click [here](/files/Virtual%20open%20house/Openhouse-brochure_v4.pdf) for the 
 
 <a href="/files/Virtual%20open%20house/Zhenghua-Sec-Stories-2020.pdf" target = "\_blank">   
 <img style="width:50%;height:50%" src="/images/Virtual%20Open%20House/Further%20Information/F3.jpg"></a>
+
+Click [here](/files/Virtual%20open%20house/Zhenghua-Sec-Stories-2020.pdf) to read our stories extracted from the West Zone publication: WE STories 2020.
