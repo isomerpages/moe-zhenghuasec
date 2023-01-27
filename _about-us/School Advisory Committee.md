@@ -7,12 +7,12 @@ description: ""
 
 | Chairman |
 |---|
-| Mr Roy Hwa-Yong Kee MD, JRW International Pte Ltd |
+| Mr Roy Hwa-Yong Kee <br/>MD, JRW International Pte Ltd |
 
 | Treasurer | Secretary |
 |---|---|
-| Mrs Elizabeth Tan Executive Director, BEAT’ABOX Group Pte Ltd | Mr Ng Hock Soon Principal, Zhenghua Secondary School |
+| Mrs Elizabeth Tan <br/> Executive Director, BEAT’ABOX <br/>Group Pte Ltd | Mr Ng Hock Soon <br/>Principal, Zhenghua Secondary School |
 
 | AC Member | SAC Member | SAC Member |
 |---|---|---|
-| Dr Chua Bee Leng Associate Dean, Professional Practice National Institute of Education | Dr Muhammad Faisal Bin Johandi Alumni, Medical Doctor | Mrs Janice Chew Ex-PSG Chairperson |
+| Dr Chua Bee Leng <br/>Associate Dean, Professional Practice<br/> National Institute of Education | Dr Muhammad Faisal Bin Johandi<br/> Alumni, Medical Doctor | Mrs Janice Chew <br/> Ex-PSG Chairperson |
