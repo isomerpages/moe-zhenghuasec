@@ -11,18 +11,17 @@ description: ""
 [20th Anniversary Video](#20thAnniversaryVideo)  
 [Tapestry](#Tapestry)
 
-**Sports Day** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="SportsDay"></a>Sports Day 
+[Back to top](#Backtotop)
 
+##### <a name="UrbanChallenge"></a>Urban Challenge
+[Back to top](#Backtotop)
 
-**Urban Challenge** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="ZEST"></a>ZEST
+[Back to top](#Backtotop)
 
+##### <a name="20thAnniversaryVideo"></a>20th Anniversary Video
+[Back to top](#Backtotop)
 
-**ZEST** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
-
-
-
-**20th Anniversary Video** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
-
-
-
-**Tapestry** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Tapestry"></a>Tapestry
+[Back to top](#Backtotop)
