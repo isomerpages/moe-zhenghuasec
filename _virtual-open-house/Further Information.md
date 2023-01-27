@@ -18,4 +18,6 @@ Bus services are 976, 920, 922.
 
 
 3. School Brochure (click on the brochure to view)
-	
+
+<a href="https://xd.adobe.com/view/3f360842-eaef-4b3d-9360-c6781eba85ef-6a65/screen/497a15e1-2f96-4cf8-98e9-09a118c13650/?fullscreen" target = "\_blank">   
+<img style="width:50%;height:50%" src="/images/Virtual%20Open%20House/Further%20Information/F2.jpg"></a>
