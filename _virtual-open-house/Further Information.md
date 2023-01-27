@@ -32,3 +32,6 @@ Click [here](/files/Virtual%20open%20house/Openhouse-brochure_v4.pdf) for the 
 Click [here](/files/Virtual%20open%20house/Zhenghua-Sec-Stories-2020.pdf) to read our stories extracted from the West Zone publication: WE STories 2020.
 
 5. Explore the School through an Instagram Filter
+
+<a href="https://www.instagram.com/ar/322189282224099/" target = "\_blank">   
+<img style="width:20%;height:50%" src="/images/Virtual%20Open%20House/Further%20Information/F4.png"></a>
