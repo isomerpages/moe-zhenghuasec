@@ -84,38 +84,44 @@ Zhenghua Secondary Concert Band aims to be the CCA for all budding musicians who
 Beyond musical proficiency, the band also aims to shape the character of our members by inculcating values like resilience, humility, empathy, integrity and discipline. We believe in empowering our members by getting them involved in planning and organizing events to allow them opportunities to exercise leadership and organizational skills.
 
 
-**Scouts** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Scouts"></a>Scouts 
+[Backtotop](#Backtotop)
 
 With the easing of restrictions, Zhenghua Scouts could finally resume a myriad of experiential activities. In weekly sessions, Scouts honed their skills in orienteering and pioneering. The latter was put to good use during the annual Group Camp, where they pitched tents using advanced knotting, to shelter against the rain during outdoor cooking. Scouts also participated in the Diamond Jubilee Challenge and Job Week – both of which served to instil an appreciation of the dignity of labour. To further inculcate a sense of active citizenry, Scouts went for a learning journey to the Asian Civilisations Museum to deepen their understanding of rich cultures, and further honed their First Aid and Kayaking skills through courses.
 
 The Scout unit also had the honour of participating in Zhenghua’s marching contingent for the National Day Parade, under the leadership of SPL Chan Jia Le Marcus, who was selected as the Parade Commander. Scouts across all levels trained tirelessly to march in formation and were proud to have put up a seamless performance in front of the school.
 
 
-**Red Cross** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="RedCross"></a>Red Cross 
+[Backtotop](#Backtotop)
 
 This has been an exciting year for Zhenghua’s Red Cross Youth Unit, as our cadets got to take part in numerous events and competitions. With our cadets’ hard work and dedication, our unit received stellar results, with the most note-worthy being the Overall Champion Team for the nationwide Trailblazer Championship this year. Another highlight for the unit was being able to take part in our school’s National Day Parade, after not being able to do so for the past few years. This also meant that none of us had prior experience but with the guidance of our Volunteer Instructors and our sheer determination, we did ourselves proud and executed the parade to the best of our ability. We certainly hope to get involved in even more in-person events soon so that our cadets can cultivate the core Red Cross values of compassion, passion and professionalism for the service of mankind.
 
 
-**NCC (Air)** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="NCC(Air)"></a>NCC (Air) 
+[Backtotop](#Backtotop)
 
 NCC (Air) provides unique experiences for our cadets with programmes such as the Aeromodelling module, where cadets learn about the fundamentals of flight in order to construct their own gliders and fly drones! Cadets also strengthen their understanding of the vocations and frameworks by which the RSAF operates as they go through their Bronze, Silver and Gold Wing Proficiency courses. 
 
 Additionally, NCC(Air) cadets look forward to military training experiences provided by military personnel through programs such as Camp Forge, Senior Specialist Leadership Course, SAR21 marksmanship training and even flight simulator training at SAF and RSAF training facilities. Students are also nurtured to be leaders through leadership modules designed by teachers to prepare them to take on leadership roles and lead the unit.
 
 
-**NPCC** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="NPCC"></a>NPCC 
+[Backtotop](#Backtotop)
 
 2022 was definitely an exciting year as NPCC activities slowly returned to normalcy. Our unit sent a team to the first E-CSI Competition 2022 where they tried to investigate and solve a crime from a crime scene presented online to them. After a 2 years hiatus, we also had our Unit Bonding Day with outdoor communal cooking activities. It was a good experience to foster camaraderie and teamwork among the cadets. Laser Tag was also organized as an enrichment programme for our cadets to strengthen their communication and grow stronger, both physically and mentally. 
 
 The unit is proud of SI Charlotte Ong and SSgt Mohd Elfrian Abdullah for achieving the NPCC-SPF Award. We thank our alumni, Seetoh Kai Jin and Tan Junqi, who have returned to serve as Cadet Inspectors mentoring the newly appointed cadet leaders for the unit.
 
 
-**ODAC** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="ODAC"></a>ODAC 
+[Backtotop](#Backtotop)
 
 2022 has been a much more exciting year for ODAC! Members felt liberated as they resumed full-scale interactive activities such as roller-blading, outdoor cooking and kite-flying. The club also welcomed the return of the Greendale Adventure Race and Gecko (G.A.R.an.G.) competition, where members could put their orienteering and map-reading skills to the test in order to successfully complete challenges during the race. Being able to work together as a team and competing with teams from other schools was definitely a refreshing experience, and one that the club looks forward to in the coming years!
 
 
-**Netball** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Netball"></a>Netball 
+[Backtotop](#Backtotop)
 
 The girls were eager and excited to play again after a two-year break! They trained hard to adapt quickly to the new formats of matches and showed resilience to continue striving despite the challenges that they faced, such as when fellow players were down due to Covid. Although the teams could not proceed past the heats in the National School Games, it was truly heartwarming to see them encouraging each other. They will continue to learn from their mistakes, work hard and show their strengths again in upcoming competitions.
 
