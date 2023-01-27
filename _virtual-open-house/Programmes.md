@@ -3,53 +3,17 @@ title: Programmes
 permalink: /virtual-open-house/Programmes/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-utyx{background-color:#FFF;color:#0170B9;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#ALP"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Applied Learning Programme</span></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#LLP"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Learning for Life Programme</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#CCE"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Character Citizenship Education</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#SL"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Student Leadership</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#English"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">English</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#Mother%20Tongue"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Mother Tongue</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#Science"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Science</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#Maths"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Mathematics</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#Humans"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Humanities</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#CaT"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Craft &amp; Technology</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-utyx"><a href="https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#Aesthetics"><span style="text-decoration:underline;color:#0170B9;background-color:transparent">Aesthetics</span></a></td>
-  </tr>
-</tbody>
-</table>
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>   
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
+<a name="pookie">this is pookie</a>  
 
 
 **Applied Learning Programme** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
