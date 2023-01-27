@@ -39,3 +39,29 @@ Click [here](/files/Virtual%20open%20house/Zhenghua-Sec-Stories-2020.pdf) to r
 What ZSS Place Are You?
 
 If you’re curious about the unique facilities and spaces in the school, get a preview through our interactive Instagram filter on the school’s Instagram page @zssofficial! On our profile, simply click on the tab that looks like an emoji with sparkles. There, you’ll see our filter! Try it, tag us, and maybe you’ll even be featured on our Instagram stories!
+
+6. Full Subject-Based Banding
+
+Zhenghua Secondary School is one of the 28 pilot schools for Full Subject-Based Banding (Full SBB).
+
+**Background**
+
+Zhenghua Secondary School has since 2017 been offering subject-based banding in English, Mother-Tongue Languages, Math and Science for eligible Normal (Academic) and Normal (Technical) students.
+
+To provide an even more customised secondary education experience for students, we will be rolling out Full SBB to all Sec 1 students from 2021. Full SBB will provide students with opportunities to study even more subjects at a level better suited to their strengths and interests.
+
+As part of this pilot, our school will:  
+a.   Provide Secondary 2 Normal (Academic) and Normal (Technical) students with the opportunity to offer Humanities subjects at a more demanding level; and  
+b.   Organise Secondary 1 form classes in new ways.
+
+**Offering of Humanities subjects at a more demanding level from Secondary 2**
+
+Secondary 1 Normal (Academic) students promoted to Secondary 2 Normal (Academic) can take Humanities at the Express level in Secondary 2 if he or she has met the criteria of 75% or higher in the specific Humanities subject (Geography, History, Literature in English).  Secondary 1 Normal (Technical) students can take Geography at the Normal (Academic) Level if he or she has achieved 75% or higher for English Language at N(T) level, or the equivalent at N(A) level at the End of Year Examinations; and a Pass with Distinction grade for both Social Studies N(T) Performance Tasks in Semester 1 and 2.
+
+With this increased flexibility in customising our students’ learning experience, we better recognise their strengths and nurture their intrinsic motivation to learn.
+
+**Organising Secondary 1 form classes in new ways**
+
+From 2021, we will organise Sec 1 classes to include students from the three different courses in each class. They will all take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education. For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
+
+This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.
