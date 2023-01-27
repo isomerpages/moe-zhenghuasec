@@ -42,7 +42,8 @@ Under the directorship of Ms. Tan Jing Yi, the award-winning Zhenghua Secondary 
 
 
 
-**Dance** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Dance"></a>Dance 
+[Backtotop](#Backtotop)
 
 Dance Club members are a team of energetic youth who find joy in expressing their thoughts and feelings through choreographed and freestyle dance moves. All members are committed to giving their best to the Club and that is key to us obtaining the various accolades over the years.
 
@@ -52,18 +53,21 @@ Dance Club is proudly helmed by celebrated dance instructors Mr Osman Abdul Hami
 
 
 
-**Handbells** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Handbells"></a>Handbells 
+[Backtotop](#Backtotop)
 
 This year, our members had more opportunities to perform and showcase their skills. For example, this was the first time that the Handbell Ensemble took part in the Hong Kong International Handbell Olympics through a video of the ensemble playing the song “Laudation”. The Handbell members also performed for the National Day concert in school and played a rousing rendition of “Di Tanjong Katong” to great applause! Last but not least, the Handbell Ensemble will be collaborating with other Handbell teams and will perform in a year-end concert organised by our instructor, Mr Myren Mak.
 
 
-**Drama** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Drama"></a>Drama 
+[Backtotop](#Backtotop)
 
 Drama Club began the year by exploring the art of performative poetry - creating poems of their own and acting them out. Weekly creative sessions built up to video productions that were featured on the school’s Instagram page during English and Literature Week. In June, the Exco organized a Graduation party with the theme of “Movie Characters” and the Club finally had a chance to let their hair down and give thanks to their seniors – all while dressed as their favourite movie characters! Finally, in August, the club had the opportunity to perform their first live skit in school since the Covid restrictions. They performed a skit written by local playwright, Haresh Sharma entitled ‘History, Who’s Story’ and held their own quite well, being back in the limelight again.
 
 
 
-**Drums Ensembles** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="DrumEnsembles"></a>Drum Ensembles 
+[Backtotop](#Backtotop)
 
 Zhenghua’s Drums Ensembles, also known as Sound Propagation, continues contributing to the community by taking part in a National Day Carnival in conjunction with Bukit Timah PAssionArts. The event was organized by Bukit Timah CC for Singapore’s 57th National Day celebration and held at Clementi Firefly Park.  
   
@@ -72,7 +76,8 @@ Our drummers showcased their talents to the public and promoted multiculturalism
 For the Hari Raya concert, our drummers played the angklung to a classic tune of “Selamat Hari Raya”. This pre-recorded performance not only showcased the senior drummers with their drumming skills but also allowed the Secondary 1 and 2 members to showcase their talents in playing ethnic instruments. We hope to produce more multi-ethnic percussion performances that highlight the richness of our multi-racial, multicultural nation.
 
 
-**Band** [_(back to top)_](https://zhenghuasec.moe.edu.sg/2022-virtual-open-house/#top)
+##### <a name="Band"></a>Band 
+[Backtotop](#Backtotop)
 
 Zhenghua Secondary Concert Band aims to be the CCA for all budding musicians who want to learn how to play band instruments. We are an inclusive band that welcomes all regardless of their musical backgrounds. To build confidence and performance ability, band members have opportunities to perform regularly in various school-based concerts and external events and competitions.  
 
