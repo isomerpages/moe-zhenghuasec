@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Sexuality Education.md
       - Aesthetics/.keep
       - Aesthetics/Department Information.md
       - Aesthetics/Programmes Highlights & Enrichment Activities.md
@@ -60,3 +59,4 @@ collections:
       - Student Management/Department Information.md
       - Student Management/Vision, Mission & Goals.md
       - Student Management/Programme Highlights and Enrichment Activities.md
+      - Sexuality Education.md
