@@ -6,8 +6,7 @@ third_nav_title: English Language & Literature
 ---
 ### Department Information
 
-<img src="/images/english%20and%20literature%20department.jpg" 
-     style="width:85%">
+<img src="/images/Programmes/English%20Language%20&%20Literature/E1.png" style="width:85%">
 <br>
 
 | Name of Head of Department: |  |
