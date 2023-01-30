@@ -6,7 +6,7 @@ third_nav_title: Craft and Technology
 ---
 ### Department Information
 
-<img src="/images/craft%20and%20technology%20department.jpg" 
+<img src="/images/Programmes/Craft%20&%20Technology/C1.png" 
      style="width:85%">
 <br>
 
@@ -17,15 +17,11 @@ third_nav_title: Craft and Technology
 | Names of Members of the Department |  |
 | DESIGN & TECHNOLOGY |  |
 | Mr Loy Suan Doong (ST) | Mr Ng Seng Huat |
-| Mdm Loh So Boey | Mr Pukalendran Sindaya |
+| Mdm Loh So Boey | 
 | Mr Loh Yam Wah (TSO) | Mr Rushdi (TSO) |
 | NUTRITION & FOOD SCIENCE |  |
 | Mdm Sri Diana Bte Subari | Miss Sakinah Bte Mohd Supriyan |
-| Mdm Sharifah Nazihah Sulaiman | Mr Faizal Bohari |
+| Mdm Sharifah Nazihah Sulaiman | 
 | ART |  |
 | Mr Shamsul Idris | Miss Tay Limin |
-| Miss Teo Siew Hui Jessie |  |
-| PRINCIPLES OF ACCOUNTS |  |
-| Miss Grace Chia Choo Hui |  Miss Anna Low |
-| Mrs Wong Soh Hua |  |
-|||
+| Miss Valerie Chia |  |
