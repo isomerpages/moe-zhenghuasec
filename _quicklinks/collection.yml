@@ -1,0 +1,11 @@
+collections:
+  quicklinks:
+    output: true
+    order:
+      - Acceptable Use Policy for PLDs.md
+      - Cyberwellness.md
+      - Direct School Admission.md
+      - Frequently Asked Questions (FAQ).md
+      - School Calender.md
+      - Sexuality Education.md
+      - Useful links.md

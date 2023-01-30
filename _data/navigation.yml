@@ -1,13 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ZSSLOGONEWwithTEXT.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principal-message/
+  - title: Programmes
+    url: /programmes/aesthetics/department-information/
+  - title: Achievements
+    url: /achievements/student-achievements/
+  - title: CCAs
+    url: /ccas/Uniformed-Groups/ncc-air/
+  - title: Parents
+    url: /parents/parenting-tips/
+  - title: Quicklinks
+    url: /quicklinks/
+  - title: Zhenghua Newz
+    url: /zhenghua-newz/nav/

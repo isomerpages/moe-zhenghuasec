@@ -1,0 +1,13 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parenting Tips.md
+      - Parent Support Group.md
+      - Past Parents Letters/.keep
+      - Past Parents Letters/2021.md
+      - Past Parents Letters/2020.md
+      - Past Parents Letters/2019.md
+      - Past Parents Letters/2018.md
+      - Past Parents Letters/2017.md
+      - Past Parents Letters/2016.md

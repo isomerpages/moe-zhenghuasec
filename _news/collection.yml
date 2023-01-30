@@ -1,0 +1,6 @@
+collections:
+  news:
+    output: true
+    order:
+      - Direct School Admission.md
+      - School Brochure.md

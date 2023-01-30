@@ -1,0 +1,7 @@
+collections:
+  zhenghua-newz:
+    output: true
+    order:
+      - Zhenghua Yearbook.md
+      - School Brochure.md
+      - Zhenghua Newz.md
