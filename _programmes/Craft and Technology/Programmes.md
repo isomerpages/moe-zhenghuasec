@@ -4,52 +4,50 @@ permalink: /programmes/Craft-and-Technology/programmes/
 description: ""
 third_nav_title: Craft and Technology
 ---
-### Programmes
+**Learning Is Fun & Engaging@ZSSC&T**
 
-Art, Food and Consumer Education and Design & Technology curriculum adopts a Problem Based Learning approach with ICT infused as a tool.
+**Craft & Technology** is a compulsory module for the lower secondary students. It comprises of 3 subjects namely Design & Technology (D&T), Nutrition and Food Science(NFS) and Art, which offers opportunities for students to develop 21st Century Competencies (21CC). Approaches are student-centred, using applied learning based on the use of authentic real-life scenarios that are relevant in today’s context. A range of both Formative and Summative assessments are used to help students become self-directed learners as it creates awareness of their progress and provides feedback on their level of mastery of content, knowledge and skills. At lower secondary, students experience common curriculum in these 3 subjects.
 
-Learning journeys were conducted as part of integration into the subject to enhance design ideas and culinary skills.
+**For Design & Technology (D&T) Common Curriculum (CC),** Secondary One, students get to experience the design thinking process for their acrylic keytags and aluminium handphone holder.
 
-<img src="/images/craftandtechnologylearningjourney_1.gif" 
-     style="width:65%">
+In Secondary 2 Design and Technology (DT), students get to experience creating prototypes as solutions to address the need for an organising holder. Based on design process stages, students get to brainstorm solutions, sketching ideas and planning their mock-ups to come up with interesting organising holders
 
-Learning Journey to National Gallery Singapore was conducted and subjects like Literature and POA were infused with Art where students engaged in art discussion, poetry writing and accessing the value of artwork during the Art Exhibition on "Colours of Impressionism- Masterpieces from Musee D'Orsay".
+At the Upper Secondary, students will learn how to problem solve in real life and experience the design thinking process through a mini coursework in preparation for GCE coursework at Secondary Four. They will also learn about the applications of technology in Structures, Electronics and Mechanisms.
 
-<img src="/images/craft%20and%20tech%20combine.jpg" 
-     style="width:45%">
+Lower Secondary Projects
 
-The NFS department organised this event on the 30th March 2021. <br>
-The objective was to provide a platform for talented and passionate students to showcase and hone their culinary skills in a friendly competition. <br>
-In all there were 7 pairs of ‘chefs’ representing their classes. <br>
-They created their own cupcakes and decorated them, all within 1.5 hours. <br>
-Mr Lin presented the proud winners with prizes related to bakeware. <br>
-In 3rd place was 2E2’s Adilah and Mas Khairina.<br>
-In 2nd place was 2N2’s Danny Aryan and Anieq.<br>
-Masterchef winners were 2N1’s Nurul Shafiyyah and Nur Zafina.
+![](/images/Programmes/Craft%20&%20Technology/C1.jpg)
 
-<img src="/images/Culinary-Competition-1-300x146.jpg" 
-     style="width:50%" align = left>
-<img src="/images/Culinary-Competition-2-300x146.jpg" 
-     style="width:50%" align = left>
-Photos from Culinary Competitions
+D&T skill-based practical lessons
 
-Internal and external competitions were conducted to strengthen students’ foundation in these subjects. <br>
-Cluster competitions were held to showcase design ideas and culinary skills among the west zone students. Cluster West 6 Craft and Tech Bridge Building and Culinary Competition were organised by Zhenghua Secondary School (ZSS) and West 8 schools were invited.
+![](/images/Programmes/Craft%20&%20Technology/C2.jpg)
 
-<img src="/images/bridge%20building.gif" 
-     style="width:85%">
-6 schools took part with 13 teams participated in the Bridge Building Competition. Students are challenged to use their creativity to design an aesthetic bridge as well as using their acquired knowledge in "Structure" to design a bridge able to withhold a weigh up to 25 kg. <br> <br>
-This gave an opportunity for students to further practiced and put in used  their knowledge. When the competition commenced, students and teachers were very excited and cheering for their favorite teams. The students and teachers were given an opportunity share and network with other schools.
+Prototyping work in the workshops
 
-6 schools participated in the culinary competition using Let’s Celebrate as the theme. This is followed by a Q&A session amongst the students to show how their end product is aligned to the theme.
+**Food and Consumer Education(FCE)** common curriculum at Secondary One and Two, focuses on advocating nutrition and health, family and the community. Students learn to appreciate how a variety of food is used in food management and takes into consideration the issues of food insecurity. Students apply scientific principles during food preparation and cooking, and learn through activity/game-based learning on topics such as food culture.
 
-D&T students took part in the NYP Building Design Skills Workshop to introduce students to proper techniques of Sketching, Rendering, Soft Material Modelling, Software Exposure & 3D Printing Exposure.
+Nutrition and Food Science(NFS) at upper secondary delves deeper into the
 
-##### Lower Secondary
-Art, Food and Consumer Education and Design & Technology curriculum were infused with Problem-Based Learning.
+![](/images/Programmes/Craft%20&%20Technology/C3.jpg)
 
-##### Enrichment
-Learning journeys were conducted as part of integration into the subject. Culinary skills workshops were conducted as well. Visits to museums were conducted to further enhance design ideas. Internal and external competitions were conducted to strengthen students’ foundation in these subjects.
+Application of the skills in the Foodlab
 
-##### Enrichment Activities
-Learning journeys were conducted as part of integration into the subject. An external learning journey was conducted together with the Humanities department to further enhance design ideas and subject-specific skills.
+![](/images/Programmes/Craft%20&%20Technology/C4.jpg)
+
+Activity-based learning
+
+In **Art**, students will be able to express their talents by producing interesting art pieces and sculptures as well as harness the use of ICT in their creations. The big idea is to develop critical thinking and innovation in their design ideas, sound meal planning, and creative art pieces. Sec 1 students designed, reinvented and created Superheroes puppets that can exist in either the fantasy or real world.
+
+Sec 2 students embarked on sculpture projects with wires or paper using SCAMPER techniques in their designing. On STEM Day, some Sec 2B students had fun with clay and made ocarinas after a hectic semester.
+
+The secondary 3 art students did quick sketches to unleash their emotions and imagination and used Sketchbook Pro as the medium to create digital artworks. Senior Teacher, Mr Chia Wei Hou, from Raffles Institute, did his work attachment in our school in Term 2.
+
+![](/images/Programmes/Craft%20&%20Technology/C5.jpg)
+
+Sec 1-3 Student artworks
+
+![](/images/Programmes/Craft%20&%20Technology/C6.jpg)
+
+Experiential Learning of Art.
+
+
