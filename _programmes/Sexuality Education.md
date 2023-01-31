@@ -106,7 +106,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td>A Role for Everyone Lesson 1 (60 mins)</td>
 		<td>This lesson focus on how the family culture and society can influence one's perception of their gender roles. Student will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. Students will discuss how one's understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>Students learn to focus on their personal strengths to pursue their interests and build their self-confidence</td>
 		<td>- know that one's understanding of gender roles should not be limited by gender stereotypes<br>- develop an appreciation of one's own unique qualities and characteristics as a male or female<br>-understand what sexual orientation entails </td>
-		<td></td>
+		<td>Term 3 Week 5</td>
 	</tr>
 	<tr>
 		<td>Online Safety Challenge Lesson 2A (60 mins)</td>
