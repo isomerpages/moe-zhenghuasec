@@ -47,7 +47,9 @@ b.     Character and Citizenship Education (CCE)
 
 At ZHENGHUA Secondary School, the following Sexuality Education lessons will be taught in <u>**2023**</u>:
 <style>
-table, th, td {  border: 1px solid black;}
+table, th, td {  
+	border: 1px solid black;
+	}
 </style>
 <table style="width:100%">
   <tr>
