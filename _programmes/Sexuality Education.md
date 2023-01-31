@@ -132,5 +132,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 	<tr>
 		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table
