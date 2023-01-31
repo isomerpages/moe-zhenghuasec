@@ -110,9 +110,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 	<tr>
 		<td>Online Safety Challenge Lesson 2A (60 mins)</td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students' conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br><br>This lesson is conducted separated for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td>- recognise one's vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+		<td>Term 3 Week 7</td>
 	</tr>
 	<tr>
 		<td>Do I or Don't I Lesson 2B (60 mins)</td>
