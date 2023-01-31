@@ -218,3 +218,44 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 </tbody>
 </table>
+
+**Secondary 5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sm4r"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold">Lesson Title</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold">Lesson Overview</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:inherit;font-style:inherit">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold">(e.g.Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc">Respectful Relationships &amp; Safety</td>
+    <td class="tg-prnc">This is Where I Draw the Line<br>(60 mins) </td>
+    <td class="tg-prnc">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.<br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</span></td>
+    <td class="tg-prnc">Term 1 Week 9</td>
+  </tr>
+</tbody>
+</table>
+
+**_eTeens_** **Programme**:
+
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
+    \-
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At ZHENGHUA Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
