@@ -6,25 +6,24 @@ third_nav_title: Mother Tongue Language
 ---
 ### Department Information
 
-<img src="/images/mother%20tongue%20dept.jpg" 
+<img src="/images/Programmes/Mother%20Tongue%20Languages/M1.png" 
      style="width:85%">
-		 
 <br>		 
 		 
 | Name of Head of Department: |  |
 |---|---|
 | Miss Soh Bee Kim |  |
-| Name of Subject Head: |  |
+| School Staff Developer: |  |
 | Mdm Phay Pei Joo |  |
 | Name of Senior Teacher: |  |
 | Mdm Tan Fong Yee (ST/CL) |  |
 | Teachers |  |
 | Chinese Language | Malay Language |
 | Mdm Chang Ngiet Moi | Miss Widad Bte Wahid |
-| Mdm Liu Fen | Miss Nurul 'Aishah Bte Shuhaimi |
+| Miss Chee Pey Jiun| Miss Nurul 'Aishah Bte Shuhaimi |
 | Miss Lee Yung-Wen | Mdm Hafida Bte Muhamad |
 | Miss Li Jiao | Miss Marinah Bte Mohdar |
-| Miss Yong Wai Teng | Miss Poon Sock Keng |
-| Mdm Chao Yunn Jia | Miss Chew Si Hui |
-| Miss Chee Pey Jiun |  |
+| Miss Yong Wai Teng | Mdm Tetty Juliana
+| Miss Justina Goh | 
+| Miss Xin Ping  |
 |
