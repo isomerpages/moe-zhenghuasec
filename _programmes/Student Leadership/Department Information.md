@@ -6,9 +6,8 @@ third_nav_title: Student Leadership
 ---
 ### Department Information
 
-<img src="/images/student%20leadership.jpg" 
+<img src="/images/Programmes/Student%20Leadership/S1.png" 
      style="width:85%">
-		 		 
 | Names of Subject Head |  |
 |---|---|
 | Mr Roy Tan |  |
@@ -18,5 +17,5 @@ third_nav_title: Student Leadership
 | Mr Muhammad Faisal | Ms Nurul 'Aishah Bte Shuhaimi |
 | Mr Shamsul Bin Idris | Mr Boo Jia Liang |
 | Ms Sakinah Bte Mohamed Supiyan | Ms Widad Wahid |
-| Ms Darlene John Johney | Mr Ng Kian Hong |		 
+| Ms Darlene John Johney | 
 |
