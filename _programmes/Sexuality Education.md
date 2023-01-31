@@ -71,10 +71,14 @@ table, th, td {
     <td>Term 1 Week 6</td>
   </tr>
   <tr> 
-    <td>14</td>
-    <td>10</td>
-    <td>1</td>
-    <td>2</td>
+    <td>Being Aware, Being Safe Lesson 2
+(60 mins)</td>
+    <td> 
+This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. 
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</td>
+    <td> understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td>Term 1 Week 8</td>
   </tr>
   <tr>
     <td>14</td>
