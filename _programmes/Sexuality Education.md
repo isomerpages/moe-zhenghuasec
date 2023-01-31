@@ -92,3 +92,32 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td>Term 1 Week 9</td>
   </tr>
 </table>
+<b>Secondary 2</b>
+<table style="width:100%">
+  <tr>
+    <td>Unit </td>
+    <td>Lesson Title / Duration</td>
+    <td>Lesson Overview</td>
+    <td>Lesson Objectives<br/>At the end of the lesson, students will be able to:</td>
+    <td>Time Period<br/>(e.g. Term 1 Week 2)</td>
+  </tr>
+	<tr>
+		<td rowspan="3">Respectful Relationships & Safety</td>
+		<td>A Role for Everyone Lesson 1 (60 mins)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Online Safety Challenge Lesson 2A (60 mins)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Do I or Don't I Lesson 2B (60 mins)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
