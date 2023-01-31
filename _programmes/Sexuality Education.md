@@ -259,3 +259,36 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At ZHENGHUA Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sm4r"><span style="font-weight:bold">Topics/Lessons</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold">Programme Learning Objectives</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold"> </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-prnc">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Awareness of the different STIs and HIV/AIDS</span><br><span style="font-weight:inherit;font-style:inherit">Modes of transmission</span><br><span style="font-weight:inherit;font-style:inherit">Modes of protection, specifically on how the condom is used</span><br><span style="font-weight:inherit;font-style:inherit">Consequences and impact of STIs/HIV</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-4p8a"> <br><br><span style="font-weight:inherit;font-style:inherit">Term 3 Week 7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-prnc">Classroom-based Lesson</td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-4p8a">Term 3 Week 8</td>
+  </tr>
+</tbody>
+</table>
