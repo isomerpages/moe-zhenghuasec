@@ -81,9 +81,13 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td>Term 1 Week 8</td>
   </tr>
   <tr>
-    <td>14</td>
-    <td>10</td>
-    <td>1</td>
-    <td>2</td>
+    <td> More than Meets the Eye Lesson 3
+(60 mins)</td>
+    <td>       This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td> -understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences
+-recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td>Term 1 Week 9</td>
   </tr>
 </table>
