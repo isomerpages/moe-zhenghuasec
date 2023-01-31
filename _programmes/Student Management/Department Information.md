@@ -6,16 +6,15 @@ third_nav_title: Student Management
 ---
 ### Department Information
 
-<img src="/images/student%20management%20team.jpg" 
+<img src="/images/Programmes/Student%20Management/S1.png" 
      style="width:85%">
-		 
+
 		 
 | Name of Head of Department |  |
 |---|---|
-| Mr Naraindran |  |
+| Mr Ashar Ahmad |  |
 | Names of Members of the Department |  |
-| Mr Faizal Bohari | Miss Jamie Foo |
-| Mr Aaron Tan | Mr Ng Kian Hong |
-| Mr Pukalendran | Mdm Tamilarasi |
-| Mr Poon Chong Hoi | Mr Elmi (AED LBS) |
-|
+| Mdm Tamilarasi| Mr Aaron Tan |
+| Miss Tan Mei Ying | Mr Dennis Loy|
+| Mdm Lee Weiqi | Mr Elmi (SEN Officer) |
+| Mr Gay Wei Zhuang
