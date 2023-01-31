@@ -121,3 +121,16 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td>Term 3 Week 9</td>
 	</tr>
 </table>
+<b>Secondary 3</b>
+<table style="width:100%">
+  <tr>
+    <td>Unit </td>
+    <td>Lesson Title / Duration</td>
+    <td>Lesson Overview</td>
+    <td>Lesson Objectives<br/>At the end of the lesson, students will be able to:</td>
+    <td>Time Period<br/>(e.g. Term 1 Week 2)</td>
+  </tr>
+	<tr>
+		<td></td>
+	</tr>
+</table
