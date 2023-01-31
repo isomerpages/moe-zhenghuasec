@@ -45,9 +45,7 @@ b.     Character and Citizenship Education (CCE)
 
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-| **Unit**|**Lesson Title / Duration** | **Lesson Overview**| **Lesson Objectives**<br>
-At the end of the lesson, students will be able to:| 
-**Time Period**<br>**(e.g.Term 1 Week 2)**|
-| --- | --- | --- | --- | --- |
-|Unit|Lesson Title/Duration|Lesson Overview|Lesson Objectives|TimePeriod|
+At ZHENGHUA Secondary School, the following Sexuality Education lessons will be taught in <u>**2023**</u>:
+|Unit|Lesson Title/Duration|Lesson Overview|Lesson Objectives<br>At the end of the lesson, students will be able to:|TimePeriod <br> (e.g. Term 1 Week 2)|
 |-|-|-|-|-|
+|Respectful Relationships & Safety
