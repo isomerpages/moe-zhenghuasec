@@ -46,6 +46,40 @@ b.     Character and Citizenship Education (CCE)
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 At ZHENGHUA Secondary School, the following Sexuality Education lessons will be taught in <u>**2023**</u>:
-|Unit|Lesson Title/Duration|Lesson Overview|Lesson Objectives<br>At the end of the lesson, students will be able to:|TimePeriod <br> (e.g. Term 1 Week 2)|
-|-|-|-|-|-|
-|Respectful Relationships & Safety
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<table style="width:100%">
+  <tr>
+    <td>Unit </td>
+    <td>Lesson Title / Duration</td>
+    <td>Lesson Overview</td>
+    <td>Lesson Objectives<br/>At the end of the lesson, students will be able to:</td>
+    <td>Time Period<br/>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Respectful Relationships & Safety</td>
+    <td>Steady or Not Lesson 1 (60 mins)</td>
+    <td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+    <td>•	recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles 
+•	recognise that there are different forms of love (e.g. familial, platonic, romantic love) 
+•	recognise the importance and understand what builds healthy and supportive relationships, both online and offline 
+•	understand what dating is, and recognise that the readiness and interest in dating vary among individuals 
+</td>
+    <td>Term 1 Week 6</td>
+  </tr>
+  <tr> 
+    <td>14</td>
+    <td>10</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>10</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+</table>
