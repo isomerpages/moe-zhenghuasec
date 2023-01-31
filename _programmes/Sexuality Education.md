@@ -297,8 +297,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](https://zhenghuasec.moe.edu.sg/wp-content/uploads/2023/01/SEd-Opt-Out-Form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 27/01/2023.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/Sexuality%20Education/SEd-Opt-Out-Form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 27/01/2023.
 
-12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form is downloadable [here](https://zhenghuasec.moe.edu.sg/wp-content/uploads/2023/01/Eteens-Opt-Out-Form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 27/01/2023.
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form is downloadable [here](/files/Sexuality%20Education/Eteens-Opt-Out-Form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 27/01/2023.
 
 13\. Parents can contact the school at zhenghua\_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
