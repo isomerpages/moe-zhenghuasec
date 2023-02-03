@@ -14,7 +14,7 @@ sections:
           url: /announcements/
         - title: Highlights
           description: ""
-          url: /Highlights/
+          url: /highlights/
         - title: News
           description: ""
           url: /News/
