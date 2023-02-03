@@ -9,7 +9,7 @@ Our students overcame the challenges they faced with grit and determination to a
 
 Presenting the Edusave Character Award recipients
 
-Picture Here [P1011259]
+![](/images/P1011259.jpg)
 
 <strong>ECHA Awardees 2022 Sec 4E5N
 </strong>
@@ -96,7 +96,9 @@ Picture Here [P1011259]
 
 4E Students who scored L1R5 equal to or less than 12 and 5N students who scored L1B4 equal to or less than 12
 
-Picture Here [P1011262 / P1011263]
+![](/images/P1011262.jpg)
+
+![](/images/P1011263.jpg)
 
 <strong>4E Students with L1R5 ≤ 12</strong>
 <table style="border-collapse: collapse; width: 100%; height: 340px;">
