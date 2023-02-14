@@ -2,6 +2,8 @@ collections:
   highlights:
     output: true
     order:
+      - School Brochure.md
+      - Direct School Admission.md
       - Highlights.md
       - 2020/.keep
       - 2020/2019 GCE 'O' Level Results.md
