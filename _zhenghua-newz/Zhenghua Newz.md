@@ -24,7 +24,7 @@ Our students overcame the challenges they faced with grit and determination to a
 <br/><br/><a href="/achievements/Academic-Achievements/permalink/">Read More</a>	
 		</td>
 		<td>We would like to congratulate the N level classes of 2022 for their good performance at the GCE N level examination. Heartiest congratulations to the NA and NT students shown in the group photo for their outstanding results.
-			<br/><br/>Read More		
+			<br/><br/><a href="/achievements/Academic-Achievements/2022-N-Level-Examination-Results/">Read More</a>		
 			</td>
 	</tr>
 </table>
