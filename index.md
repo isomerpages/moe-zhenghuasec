@@ -15,7 +15,7 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/
-        - title: News
+        - title: Zhenghua Newz
           description: ""
-          url: /News/
+          url: /news/ZhenghuaNewz/
 ---
