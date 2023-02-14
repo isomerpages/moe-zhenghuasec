@@ -4,7 +4,7 @@ permalink: /news/ZhenghuaNewz/
 description: ""
 ---
 # Newz
-<table border='1'>
+<table>
 	<tr>
 		<td width='33%'><img src="/images/Camp%20Fearless%20Campfire.jpeg"/></td>
 		<td width='33%'><img src="/images/P1011262.jpg"/></td>
