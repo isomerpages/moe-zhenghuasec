@@ -6,9 +6,9 @@ description: ""
 # Newz
 <table border='1'>
 	<tr>
-		<td width='33%'>Image 1</td>
+		<td width='33%'><img src="/images/Camp%20Fearless%20Campfire.jpeg"/></td>
 		<td width='33%'><img src="/images/P1011262.jpg"/></td>
-		<td width='33%'>Image 3</td>
+		<td width='33%'><img src="/images/2022NLEVELRESULSTSRELEASE.jpg"/></td>
 	</tr>
 		<tr>
 		<td>Secondary One Orientation</td>
@@ -23,6 +23,8 @@ description: ""
 Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels.
 <br/><br/>Read More			
 		</td>
-		<td>&nbsp;</td>
+		<td>We would like to congratulate the N level classes of 2022 for their good performance at the GCE N level examination. Heartiest congratulations to the NA and NT students shown in the group photo for their outstanding results.
+			<br/><br/>Read More		
+			</td>
 	</tr>
 </table>
