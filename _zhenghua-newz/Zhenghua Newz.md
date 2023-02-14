@@ -3,7 +3,6 @@ title: Zhenghua Newz
 permalink: /news/ZhenghuaNewz/
 description: ""
 ---
-
 # Newz
 <table>
 	<tr>
@@ -18,11 +17,11 @@ description: ""
 	</tr>
 		<tr>
 		<td>Our secondary 1 students experienced a 3-day, 1-night orientation camp. Conducted by our student councillors, students enjoyed camping activities like outdoor cooking, a nature hike, mass dance and to top it off, a campfire.
-<br/><br/>Read More
+			<br/><br/>Read More
 		</td>
 		<td>Our heartiest congratulations to the O level cohort of 2022 for their good performance.  
 Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels.
-<br/><br/>Read More			
+<br/><br/><a href="/achievements/Academic-Achievements/permalink/">Read More</a>	
 		</td>
 		<td>We would like to congratulate the N level classes of 2022 for their good performance at the GCE N level examination. Heartiest congratulations to the NA and NT students shown in the group photo for their outstanding results.
 			<br/><br/>Read More		
