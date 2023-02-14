@@ -11,9 +11,9 @@ description: ""
 		<td width='33%'><img src="/images/2022NLEVELRESULSTSRELEASE.jpg"/></td>
 	</tr>
 		<tr>
-			<td><h5>Secondary One Orientation</td>
-			<td><h5>O Level Results Release 2022</td>
-			<td><h5>N Level Results Release 2022</td>
+			<td><h5>Secondary One Orientation</h5></td>
+			<td><h5>O Level Results Release 2022</h5></td>
+			<td><h5>N Level Results Release 2022</h5></td>
 	</tr>
 		<tr>
 		<td>Our secondary 1 students experienced a 3-day, 1-night orientation camp. Conducted by our student councillors, students enjoyed camping activities like outdoor cooking, a nature hike, mass dance and to top it off, a campfire.
