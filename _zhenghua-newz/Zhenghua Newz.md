@@ -17,7 +17,7 @@ description: ""
 	</tr>
 		<tr>
 		<td>Our secondary 1 students experienced a 3-day, 1-night orientation camp. Conducted by our student councillors, students enjoyed camping activities like outdoor cooking, a nature hike, mass dance and to top it off, a campfire.
-			<br/><br/>Read More
+			<br/><br/><a href="/CampFearless2023/">Read More</a>
 		</td>
 		<td>Our heartiest congratulations to the O level cohort of 2022 for their good performance.  
 Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels.
