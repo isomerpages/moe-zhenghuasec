@@ -17,7 +17,7 @@ description: ""
 	</tr>
 		<tr>
 		<td>For this year's CNY Values in Action project, Class 5A managed the project together with the teachers. ZSS collected a total of 67 food hampers and 27 gift packages for the residents in our neighbourhood!
-			<br/><br/><a href="/CampFearless2023/">Read More</a>
+			<br/><br/><a href="/sharethejoyzss/">Read More</a>
 		</td>
 		<td>Our secondary 1 students experienced a 3-day, 1-night orientation camp. Conducted by our student councillors, students enjoyed camping activities like outdoor cooking, a nature hike, mass dance and to top it off, a campfire.
 <br/><br/><a href="/CampFearless2023/">Read More</a>	
