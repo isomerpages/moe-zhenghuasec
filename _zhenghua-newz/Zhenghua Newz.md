@@ -29,7 +29,7 @@ description: ""
     </td>
     <td>时隔三年，全校师生再次齐聚礼堂参加期盼已久的华人新年庆祝会。<br>
       <br>
-      <a href="/CampFearless2023/">Read More</a>
+      <a href="/cny2023/">Read More</a>
     </td>
     <td>
       Our heartiest congratulations to the O level cohort of 2022 for their good performance. Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels.<br>
