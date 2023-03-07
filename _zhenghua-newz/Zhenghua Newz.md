@@ -8,7 +8,7 @@ description: ""
   <tr>
     <td width='33%'><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
     <td width='33%'><img src="/images/CNY1.jpg" alt="CNY1"></td>
-    <td width='33%'><img src="/images/P1011262.jpg" alt="P1011262"></td>
+    <td width='33%'><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
   </tr>
   <tr>
     <td>
@@ -18,7 +18,7 @@ description: ""
       <h5>Chinese New Year Celebration 2023</h5>
     </td>
     <td>
-      <h5>O Level Results Release 2022</h5>
+      <h5>Share the Joy @ ZSS</h5>
     </td>
   </tr>
   <tr>
@@ -32,9 +32,9 @@ description: ""
       <a href="/cny2023/">Read More</a>
     </td>
     <td>
-      Our heartiest congratulations to the O level cohort of 2022 for their good performance. Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels.<br>
+      For this year's CNY Values in Action project, Class 5A managed the project together with the teachers. ZSS collected a total of 67 food hampers and 27 gift packages for the residents in our neighbourhood!<br>
       <br>
-      <a href="/achievements/Academic-Achievements/permalink/">Read More</a>
+      <a href="/sharethejoyzss/">Read More</a>
     </td>
   </tr>
   <tr>
