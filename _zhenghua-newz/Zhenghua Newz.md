@@ -12,7 +12,7 @@ description: ""
   </tr>
   <tr>
     <td>
-      <h5>Share the Joy @ ZSS</h5>
+      <h5>ZSS Fire-Fighters to the Rescue!</h5>
     </td>
     <td>
       <h5>Chinese New Year Celebration 2023</h5>
@@ -22,9 +22,7 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td>
-      For this year's CNY Values in Action project, Class 5A managed the project together with the teachers. ZSS collected a total of 67 food hampers and 27 gift packages for the residents in our neighbourhood!<br>
-      <br>
+    <td>ZSS provided an opportunity for students to learn more about civil defence and how to react in times of emergency. Having a firetruck in school gave students a hands-on experience on how to put out fire with a watering hose.<br> <br>
       <a href="/sharethejoyzss/">Read More</a>
     </td>
     <td>时隔三年，全校师生再次齐聚礼堂参加期盼已久的华人新年庆祝会。<br>
