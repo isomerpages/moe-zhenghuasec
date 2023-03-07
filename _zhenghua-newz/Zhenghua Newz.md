@@ -6,7 +6,7 @@ description: ""
 # Newz
 <table>
   <tr>
-    <td width='33%'><img src="/images/TD1.jpg" alt="Total Defence"></td>
+    <td width='33%'><img src="/images/TD1.jpg" alt="TotalDefence"></td>
     <td width='33%'><img src="/images/CNY1.jpg" alt="CNY1"></td>
     <td width='33%'><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
   </tr>
