@@ -23,7 +23,7 @@ description: ""
   </tr>
   <tr>
     <td>ZSS provided an opportunity for students to learn more about civil defence and how to react in times of emergency. Having a firetruck in school gave students a hands-on experience on how to put out fire with a watering hose.<br> <br>
-      <a href="/sharethejoyzss/">Read More</a>
+      <a href="/totaldefence2023/">Read More</a>
     </td>
     <td>时隔三年，全校师生再次齐聚礼堂参加期盼已久的华人新年庆祝会。<br>
       <br>
