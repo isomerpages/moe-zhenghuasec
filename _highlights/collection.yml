@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2021/.keep
       - School Brochure.md
       - Direct School Admission.md
       - Highlights.md
