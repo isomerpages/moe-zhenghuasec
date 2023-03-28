@@ -6,13 +6,13 @@ description: ""
 ### Highlights
 
 ##### 2022
-* [2022 GCE 'O' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/permalink/)
-* [2022 GCE 'N' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/2022-N-Level-Examination-Results/)
-* [2022 ECHA Awards](https://www.zhenghuasec.moe.edu.sg/achievements/ECHA-Awards/ECHA-Awards-2022/)
+* [2021 GCE 'O' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Student-Achievements/2021-Olevel-results/)
+* [2021 GCE 'N' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Student-Achievements/2021-Nlevel-results/)
+* [2021 ECHA Awards](https://www.zhenghuasec.moe.edu.sg/achievements/ECHA-Awards/2021/)
 
 ##### 2021
-* [2019 GCE 'O' Level Results](https://moe-zhenghuasec-staging.netlify.app/2019-gce-o-level-results/)
-* [2019 GCE 'N' Level Results](https://moe-zhenghuasec-staging.netlify.app/2019-n-level-results/)
+* [2020 GCE 'O' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Student-Achievements/2020-Olevel-results/)
+* [2020 GCE 'N' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Student-Achievements/2020-Nlevel-results/)
 * [Sec 1 Orientation Camp](https://moe-zhenghuasec-staging.netlify.app/sec-1-orientation-camp/)
 
 ##### 2020
