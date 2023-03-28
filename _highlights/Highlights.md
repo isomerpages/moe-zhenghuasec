@@ -9,7 +9,7 @@ description: ""
 * [2022 GCE 'O' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/permalink/)
 * [2022 GCE 'N' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/2022-N-Level-Examination-Results/)
 * [2022 ECHA Awards](https://www.zhenghuasec.moe.edu.sg/achievements/ECHA-Awards/ECHA-Awards-2022/)
-* [Camp Fearless 2023](https://www.zhenghuasec.moe.edu.sg/CampFearless2023/)
+* [2023 Secondary One Orientation Camp](https://www.zhenghuasec.moe.edu.sg/CampFearless2023/)
 
 ##### 2022
 * [2021 GCE 'O' Level Results](https://www.zhenghuasec.moe.edu.sg/achievements/Student-Achievements/2021-Olevel-results/)
