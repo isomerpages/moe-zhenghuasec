@@ -7,8 +7,8 @@ description: ""
 <table>
   <tbody>
 		<tr>
-    <td width="33%"><img src="/images/mainpic.jpg" alt="TotalDefence"></td>
-    <td width="33%"><img src="/images/CNY1.jpg" alt="CNY1"></td>
+    <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
+    <td width="33%"><img src="/images/mtfortnightmlmainpic.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
   </tr>
   <tr>
@@ -16,7 +16,7 @@ description: ""
       <h5>MT Fortnight - Chinese Language</h5>
     </td>
     <td>
-      <h5>Chinese New Year Celebration 2023</h5>
+      <h5>MT Fortnight - Malay Language</h5>
     </td>
     <td>
       <h5>Share the Joy @ ZSS</h5>
@@ -26,7 +26,7 @@ description: ""
     <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
       <a href="/totaldefence2023/">Read More</a>
     </td>
-    <td>时隔三年，全校师生再次齐聚礼堂参加期盼已久的华人新年庆祝会。<br>
+    <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br>
       <br>
       <a href="/cny2023/">Read More</a>
     </td>
