@@ -9,7 +9,7 @@ description: ""
 		<tr>
     <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/mtfortnightmlmainpic.jpg" alt="MT Fortnight"></td>
-    <td width="33%"><img src="" alt=""></td>
+    <td width="33%"></td>
   </tr>
   <tr>
     <td>
@@ -31,9 +31,6 @@ description: ""
       <a href="/cny2023/">Read More</a>
     </td>
     <td>
-    <br>
-      <br>
-      <a href="">Read More</a>
     </td>
   </tr>
 		<tr>
