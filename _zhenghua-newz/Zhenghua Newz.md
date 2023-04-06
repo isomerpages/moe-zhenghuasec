@@ -9,7 +9,7 @@ description: ""
 		<tr>
     <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/mtfortnightmlmainpic.jpg" alt="MT Fortnight"></td>
-    <td width="33%"><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
+    <td width="33%"><img src="" alt=""></td>
   </tr>
   <tr>
     <td>
@@ -19,7 +19,7 @@ description: ""
       <h5>MT Fortnight - Malay Language</h5>
     </td>
     <td>
-      <h5>Share the Joy @ ZSS</h5>
+      <h5></h5>
     </td>
   </tr>
   <tr>
@@ -31,9 +31,9 @@ description: ""
       <a href="/cny2023/">Read More</a>
     </td>
     <td>
-      For this year's CNY Values in Action project, Class 5A managed the project together with the teachers. ZSS collected a total of 67 food hampers and 27 gift packages for the residents in our neighbourhood!<br>
+    <br>
       <br>
-      <a href="/sharethejoyzss/">Read More</a>
+      <a href="">Read More</a>
     </td>
   </tr>
 		<tr>
