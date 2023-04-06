@@ -5,7 +5,7 @@ description: ""
 ---
 | MT Fortnight Chinese Language 2023 | 
 | -------- |
-| Photos Here     | 
+|![](/images/mtftcl1.jpg)<br>![](/images/mtftcl2.jpg)<br>![](/images/mtftcl3.jpg)<br>![](/images/mtftcl4.jpg)<br>![](/images/mtftcl5.jpg)|
 | **Cultural Fair 2023**| 
 | 我喜欢的摊位是茶艺，因为我能学到为何古代时，人们会喝茶。在这之前，我一直不知道为何人们要喝茶。我学了之后，不仅明白它，我也感到十分满足。此外，我也能喝到古代人们喝的茶。这是一个非常有意义的体验。” <br><br>TIffany Lau Kim Min, 2C|
 |**YES 93.3FM Visit**| 
