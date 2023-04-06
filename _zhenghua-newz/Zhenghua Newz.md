@@ -5,10 +5,41 @@ description: ""
 ---
 # Newz
 <table>
+  <tbody>
+		<tr>
+    <td width="33%"><img src="/images/mainpic.jpg" alt="TotalDefence"></td>
+    <td width="33%"><img src="/images/CNY1.jpg" alt="CNY1"></td>
+    <td width="33%"><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
+  </tr>
   <tr>
-    <td width='33%'><img src="/images/TD1.jpg" alt="TotalDefence"></td>
-    <td width='33%'><img src="/images/CNY1.jpg" alt="CNY1"></td>
-    <td width='33%'><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
+    <td>
+      <h5>MT Fortnight - Chinese Language</h5>
+    </td>
+    <td>
+      <h5>Chinese New Year Celebration 2023</h5>
+    </td>
+    <td>
+      <h5>Share the Joy @ ZSS</h5>
+    </td>
+  </tr>
+  <tr>
+    <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
+      <a href="/totaldefence2023/">Read More</a>
+    </td>
+    <td>时隔三年，全校师生再次齐聚礼堂参加期盼已久的华人新年庆祝会。<br>
+      <br>
+      <a href="/cny2023/">Read More</a>
+    </td>
+    <td>
+      For this year's CNY Values in Action project, Class 5A managed the project together with the teachers. ZSS collected a total of 67 food hampers and 27 gift packages for the residents in our neighbourhood!<br>
+      <br>
+      <a href="/sharethejoyzss/">Read More</a>
+    </td>
+  </tr>
+		<tr>
+    <td width="33%"><img src="/images/TD1.jpg" alt="TotalDefence"></td>
+    <td width="33%"><img src="/images/CNY1.jpg" alt="CNY1"></td>
+    <td width="33%"><img src="/images/sharethejoy%20mainpic.jpg" alt="sharethejoy%20mainpic"></td>
   </tr>
   <tr>
     <td>
@@ -36,9 +67,9 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td width='33%'><img src="/images/Camp%20Fearless%20Campfire.jpeg" alt="Camp%20Fearless%20Campfire"></td>
-    <td width='33%'><img src="/images/P1011262.jpg" alt="P1011262"></td>
-    <td width='33%'><img src="/images/2022NLEVELRESULSTSRELEASE.jpg" alt="2022NLEVELRESULSTSRELEASE"></td>
+    <td width="33%"><img src="/images/Camp%20Fearless%20Campfire.jpeg" alt="Camp%20Fearless%20Campfire"></td>
+    <td width="33%"><img src="/images/P1011262.jpg" alt="P1011262"></td>
+    <td width="33%"><img src="/images/2022NLEVELRESULSTSRELEASE.jpg" alt="2022NLEVELRESULSTSRELEASE"></td>
   </tr>
   <tr>
     <td>
@@ -68,4 +99,4 @@ description: ""
       <a href="/achievements/Academic-Achievements/2022-N-Level-Examination-Results/">Read More</a>
 		</td>
   </tr>
-</table>
+</tbody></table>
