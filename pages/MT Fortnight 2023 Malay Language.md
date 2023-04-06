@@ -3,8 +3,6 @@ title: MT Fortnight 2023 Malay Language
 permalink: /mtfortnightml2023/
 description: ""
 ---
-
-
 | MT Fortnight Malay Language 2023|
 | -------- | 
 |![](/images/mtftml1.jpg)<br>![](/images/mtftml2.jpg)<br>![](/images/mtftml3.jpg)<br>![](/images/mtftml4.jpg)<br>![](/images/mtftml5.jpg)| 
