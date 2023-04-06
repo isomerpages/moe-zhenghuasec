@@ -24,11 +24,11 @@ description: ""
   </tr>
   <tr>
     <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
-      <a href="/totaldefence2023/">Read More</a>
+      <a href="/mtfortnightcl2023/">Read More</a>
     </td>
     <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br>
       <br>
-      <a href="/cny2023/">Read More</a>
+      <a href="/mtfortnightml2023/">Read More</a>
     </td>
     <td>
     </td>
