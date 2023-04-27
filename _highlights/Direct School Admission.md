@@ -87,11 +87,9 @@ Below is the brief timeline for the whole application process.
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4/5.
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 For enquiries and clarifications, please contact the following personnel,
 
-| Mdm Tan Siew Siew, Administration Manager | [tan_siew_siew@schools.gov.sg](tan_siew_siew@schools.gov.sg) |
-|---|---|
+
 | Mr Robin Goh Jin Quan, HOD / PE and CCA | [robin_goh@schools.gov.sg](robin_goh@schools.gov.sg) |
-|
