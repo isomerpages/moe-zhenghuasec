@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - School Brochure.md
-      - Direct School Admission.md
       - Highlights.md
