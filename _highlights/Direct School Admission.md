@@ -45,8 +45,8 @@ In general, we are looking for students who are passionate, positive and have th
 <tbody>
   <tr>
     <td class="tg-jxgv" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Leadership – Student Council</span></td>
-    <td class="tg-jxgv" rowspan="4"><span style="font-weight:inherit;font-style:inherit">NCC (Air)</span><br><br><span style="font-weight:inherit;font-style:inherit">NPCC</span><br><br><span style="font-weight:inherit;font-style:inherit">Red Cross</span><br><br><span style="font-weight:inherit;font-style:inherit">Scouts</span><br></td>
-    <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Applicants should demonstrate all or some of the following in their respective talent areas,</span><br><br><span style="font-weight:inherit;font-style:inherit">a keen interest and passion</span><br><br><span style="font-weight:inherit;font-style:inherit">potential and aptitude to excel</span><br><br><span style="font-weight:inherit;font-style:inherit">positive attitude towards learning</span><br><br><span style="font-weight:inherit;font-style:inherit">positive demeanour and behaviour with exemplary conduct</span></td>
+    <td class="tg-jxgv" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Students will be given a choice to select their CCA.</span><br></td>
+    <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Applicants should demonstrate all or some of the following in their respective talent areas,</span><br><br><span style="font-weight:inherit;font-style:inherit">- a keen interest and passion</span><br><br><span style="font-weight:inherit;font-style:inherit">- potential and aptitude to excel</span><br><br><span style="font-weight:inherit;font-style:inherit">- positive attitude towards learning</span><br><br><span style="font-weight:inherit;font-style:inherit">- positive demeanour and behaviour with exemplary conduct</span></td>
     <td class="tg-jxgv" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Every shortlisted applicant will have to complete a performance task in the selected talent area and go through an interview.</span></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ In general, we are looking for students who are passionate, positive and have th
   </tr>
   <tr>
     <td class="tg-jxgv" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Dance – Malay</span><br><br><span style="font-weight:inherit;font-style:inherit">Dance - Modern / Contemporary</span><br><br><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
-    <td class="tg-jxgv" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Dance</span><br><br><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
+    <td class="tg-jxgv" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Dance</span><br><br><br><br><br><span style="font-weight:inherit;font-style:inherit">Volleyball</span></td>
   </tr>
   <tr>
   </tr>
