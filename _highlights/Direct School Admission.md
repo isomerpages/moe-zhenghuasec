@@ -3,14 +3,13 @@ title: Direct School Admission
 permalink: /News/
 description: ""
 ---
-
 ### Direct School Admission
 
 ##### DSA Application
 In Zhenghua Secondary, we envision every student in the school to be a Principled and Future-Ready Leader. We create ample opportunities for our students to develop their leadership competencies and take on leadership roles through CCA and other school signature programmes. Students who join us through DSA will have the opportunities to further develop their talent areas under the guidance of our dedicated teachers, experienced instructors, and enjoy the camaraderie of committed peers. Prospective students can also look forward to representing the school in competitions, performances and overseas trips.
 
 ##### Talent areas offered
-Zhenghua welcomes promising Primary 6 students with strong leadership attributes and of exemplary conduct to participate in the school’s 2022 Direct School Admission (DSA) exercise for admission to the 2023 Secondary One intake.
+Zhenghua welcomes promising Primary 6 students with strong leadership attributes and of exemplary conduct to participate in the school’s 2023 Direct School Admission (DSA) exercise for admission to the 2024 Secondary One intake.
 
 Zhenghua will be offering DSA places for boys and girls in the following talent areas:
 
@@ -22,7 +21,7 @@ Zhenghua will be offering DSA places for boys and girls in the following talent 
 | Sports and Games | Volleyball | Boys, Girls |
 |
 
-##### DSA Selection Criteria and Process
+##### DSA Selection Criteria&nbsp;and Process
 In general, we are looking for students who are passionate, positive and have the potential to excel in their respective talent areas to join the school.
 
 <style type="text/css">
@@ -71,9 +70,9 @@ In general, we are looking for students who are passionate, positive and have th
 **Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
 ##### DSA-Sec Application Process:
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open **from 5 May 2022, 11am to 1 June 2022, 3pm.**
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open&nbsp;**from 5 May 2022, 11am to 1 June 2022, 3pm.**
 
-For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 Below is the brief timeline for the whole application process.
 
