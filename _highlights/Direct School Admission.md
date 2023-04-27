@@ -70,7 +70,7 @@ In general, we are looking for students who are passionate, positive and have th
 **Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
 ##### DSA-Sec Application Process:
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open&nbsp;**from 5 May 2022, 11am to 1 June 2022, 3pm.**
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open&nbsp;**from 4 May 2023, 11am to 31 May 2023, 3pm.**
 
 For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
@@ -79,7 +79,7 @@ Below is the brief timeline for the whole application process.
 | Period | Application Process |
 |---|---|
 | Jan to May | Parents and students explore preferred schools for DSA. |
-| Thursday, 5 May 2022 to Wednesday 1 June 2022 | Submission of your child's application online through the DSA-Sec Portal by 3pm on Wednesday, 1 June 2022. |
+| Thursday, 4 May 2023 to Wednesday 31 May 2023 | Submission of your child's application online through the DSA-Sec Portal by <u>3pm on Wednesday, 31 May 2023.</u> |
 | Late Jun to mid Sep | Applicants are to attend interview and selection session conducted by the school. We will inform all applicants their interview and selection dates once we process all the applications.    All applicants will be informed of the outcome of their application after the interview and selection. |
 | Late Oct | Applicants to choose up to 3 school choices in order of preference via the DSA-Sec portal. |
 | Late Nov | Applicants will receive school allocation along with PSLE results. |
