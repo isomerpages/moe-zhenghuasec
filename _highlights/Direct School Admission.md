@@ -80,7 +80,7 @@ Below is the brief timeline for the whole application process.
 |---|---|
 | Jan to May | Parents and students explore preferred schools for DSA. |
 | Thursday, 4 May 2023 to Wednesday 31 May 2023 | Submission of your child's application online through the DSA-Sec Portal by <u>3pm on Wednesday, 31 May 2023.</u> |
-| Late Jun to mid Sep | Applicants are to attend interview and selection session conducted by the school. We will inform all applicants their interview and selection dates once we process all the applications.    All applicants will be informed of the outcome of their application after the interview and selection. |
+| Late Jun to mid Sep | Applicants are to attend interview and selection session conducted by the school. We will inform all applicants their interview and selection dates once we process all the applications. <br><br>All applicants will be informed of the outcome of their application after the interview and selection. Selected students will receive DSA-Sec offers directly from schools by mid September. |
 | Late Oct | Applicants to choose up to 3 school choices in order of preference via the DSA-Sec portal. |
 | Late Nov | Applicants will receive school allocation along with PSLE results. |
 |
