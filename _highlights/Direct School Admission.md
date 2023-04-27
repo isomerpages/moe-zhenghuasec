@@ -92,4 +92,4 @@ Students who are successfully admitted to the school via DSA are expected to hon
 For enquiries and clarifications, please contact the following personnel,
 
 
-| Mr Robin Goh Jin Quan, HOD / PE and CCA | [robin_goh@schools.gov.sg](robin_goh@schools.gov.sg) |
+Mr Robin Goh Jin Quan, *HOD / PE and CCA* | [robin_goh@schools.gov.sg](robin_goh@schools.gov.sg) 
