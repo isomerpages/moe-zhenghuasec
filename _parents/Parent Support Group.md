@@ -186,4 +186,4 @@ Here are some photographs of our PSG events and parenting workshops. (Do note th
 
 How to Join?
 
-Through active participation in the PSG, you will gain support from other parents in your parenting journey. If you are interested to sign up as a parent-volunteer, or participate in the upcoming activities organized by the PSG, you can submit your interest through our online registration form at&nbsp;[https://go.gov.sg/zsspsg2021registration](https://go.gov.sg/zsspsg2021registration).
+Through active participation in the PSG, you will gain support from other parents in your parenting journey. If you are interested to sign up as a parent-volunteer, or participate in the upcoming activities organized by the PSG, you can submit your interest through our online registration form at [https://go.gov.sg/zsspsgregistration](https://go.gov.sg/zsspsgregistration)
