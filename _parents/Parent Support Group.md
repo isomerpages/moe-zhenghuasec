@@ -117,52 +117,56 @@ Through the series of interesting and engaging workshop and activities organized
     <td class="tg-7yig"><span style="font-style:inherit">Mdm Joanne Oon</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3E4</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Juliana Yeo</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3C</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Adeline Seah</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3N1</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm See Ie Mei</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3D</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mr Gerald Ng</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3N2</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Yvonne Cha</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3E</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Karen Lim</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3T1</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Radin</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3F</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Joanne Tang</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4E1</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mr Dave Leong</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">3G</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Soo Poh Ling</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4E2</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Jennis Chew</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4A</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Ong Geok Kuan</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4E3</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Doreen Tay</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4B</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Bong Tihun Fa</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4E4</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mr Daniel Ong</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4C</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Navy Tan</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4N1</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Tan Ping Ping</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4D</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Candy Chia</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4N2</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Lily Lee</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4E</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mr Mohd Zamre</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4T1</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Ng Yeh Lan</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4F</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mr Kelvin Choo</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">5N1</span></td>
-    <td class="tg-7yig"><span style="font-style:inherit">Mdm Jenny Lau Mui Li</span></td>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">4G</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mr Geoffrey Brown</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-7yig"><span style="font-weight:inherit;font-style:inherit">5A</span></td>
+    <td class="tg-7yig"><span style="font-style:inherit">Mdm Ng Kim Kim</span></td>
   </tr>
 </tbody>
 </table>
