@@ -173,16 +173,15 @@ Through the series of interesting and engaging workshop and activities organized
 
 ##### PSG Activities
 
-Here are some photographs of our PSG events and parenting workshops. (Do note that some of these photographs were taken in 2019)
+Here are some photographs of our PSG events and parenting workshops.
 
-<img src="/images/PSG01.jpg" style="width:50%">
-<img src="/images/PSG02.jpg" style="width:50%">
-<img src="/images/PSG03.jpg" style="width:85%">
-<img src="/images/PSG04.jpg" style="width:85%">
-<img src="/images/PSG05.jpg" style="width:85%">
-<img src="/images/PSG06.jpg" style="width:70%">
-<img src="/images/PSG07.jpg" style="width:85%">
-<img src="/images/PSG08a.jpg" style="width:40%">
+![Transition to Secondary School Life Parenting Workshop 2023](/images/parentsg2.jpg)
+
+![PSG Meeting and CNY Lo Hei 2023](/images/parentsg3.jpg)
+
+![Cyberwellness Parenting Workshop 2023 (With our Peer Support Leaders)](/images/parentsg4.jpg)
+
+![](/images/parentsg5.jpg)
 
 How to Join?
 
