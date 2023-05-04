@@ -183,6 +183,32 @@ Here are some photographs of our PSG events and parenting workshops.
 
 ![](/images/parentsg5.jpg)
 
+![](/images/parentsg6.jpg)
+
+![MTL Fortnight 2023 PSG Booth](/images/parentsg7.jpg)
+
+![](/images/parentsg8.jpg)
+
+![](/images/parentsg9.jpg)
+
+![](/images/parentsg10.jpg)
+
+![Green Wave 2022](/images/parentsg11.jpg)
+
+![](/images/parentsg12.jpg)
+
+![PSG Bonding Hike 2022](/images/parentsg13.jpg)
+
+![](/images/parentsg14.jpg)
+
+![](/images/parentsg15.jpg)
+
+![](/images/parentsg16.jpg)
+
+![Provision of Dinner for Night Study Programme](/images/parentsg17.jpg)
+
+![PSG Teachers' Day Gifts Preparation](/images/parentsg18.jpg)
+
 How to Join?
 
 Through active participation in the PSG, you will gain support from other parents in your parenting journey. If you are interested to sign up as a parent-volunteer, or participate in the upcoming activities organized by the PSG, you can submit your interest through our online registration form at [https://go.gov.sg/zsspsgregistration](https://go.gov.sg/zsspsgregistration)
