@@ -5,7 +5,7 @@ description: ""
 ---
 ### Parent Support Group
 
-<img src="/images/psg%20banner.jpg" style="width:85%">
+<img src="/images/parentsg1.jpg">
 		 
 ##### About the Parent Support Group		 
 
