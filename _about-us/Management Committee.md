@@ -23,7 +23,6 @@ description: ""
 | Ng Hock Soon <br>Principal     | 103     | 
 |Elaine Tan Pei Lee <br> Vice-Principal | 117|
 |He Aifen <br> Vice-Principal (Admin) | 116|
-|Ang Boon Suat <br> HOD Science | 203|
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
 |Lim Chee Hui Derek <br> HOD ICT | 212|
 |Mazri Misawar <br> HOD Mathematics | 202|
@@ -39,7 +38,6 @@ description: ""
 |Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
-|Rafidah Bte Yusoff <br> SH English Language | 217|
 |Koh Khee Hoon <br> Year Head (Sec 1) | 221|
 |Magdalene Tan Li Ping <br> Year Head (Sec 2)|223|
 |Zanariah Zainal Abiden <br> Year Head (Sec 3)|220|
