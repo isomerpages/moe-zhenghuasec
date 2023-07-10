@@ -7,7 +7,7 @@ description: ""
 <table>
   <tbody>
 		<tr>
-    <td width="33%"><img src="/images/sec3exp1.jpg" alt="Student Leaders Investiture"></td>
+    <td width="33%"><img src="/images/slinvest202300.jpg" alt="Student Leaders Investiture"></td>
     <td width="33%"><img src="/images/sec3exp1.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/sec1sab4.jpg" alt="MT Fortnight"></td>
   </tr>
