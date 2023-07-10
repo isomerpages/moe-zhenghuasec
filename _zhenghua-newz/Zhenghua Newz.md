@@ -24,7 +24,7 @@ description: ""
   </tr>
   <tr>
     <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
-      <a href="/sec3expedition2023/">Read More</a>
+      <a href="/slinvest2023/">Read More</a>
     </td>
     <td>TAs part of our endeavour to develop our students holistically and provide bountiful opportunities for them to lead and develop resilience, our secondary 3 students went on a 3-day-2-night outdoor camp after months of preparation.<br> <br>
       <a href="/sec3expedition2023/">Read More</a>
