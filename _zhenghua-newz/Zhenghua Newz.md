@@ -97,26 +97,30 @@ description: ""
 		</td>
   </tr>
 		  <tr>
+    <td width="33%"><img src="/images/P1011262.jpg" alt="P1011262"></td>
     <td width="33%"><img src="/images/2022NLEVELRESULSTSRELEASE.jpg" alt="2022NLEVELRESULSTSRELEASE"></td>
-    <td width="33%"></td>
     <td width="33%"></td>
   </tr>
 		 <tr>
     <td>
-      <h5>N Level Results Release 2022</h5>
+     	<h5>O Level Results Release 2022</h5>
     </td>
     <td>
+			 <h5>N Level Results Release 2022</h5>
 		</td>
     <td>
 		</td>
   </tr>
   <tr>
     <td>
-			  We would like to congratulate the N level classes of 2022 for their good performance at the GCE N level examination. Heartiest congratulations to the NA and NT students shown in the group photo for their outstanding results.<br>
+			 Our heartiest congratulations to the O level cohort of 2022 for their good performance. Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels.<br>
       <br>
-      <a href="/achievements/Academic-Achievements/2022-N-Level-Examination-Results/">Read More</a>
+      <a href="/achievements/Academic-Achievements/permalink/">Read More</a>
 		</td>
     <td>
+				  We would like to congratulate the N level classes of 2022 for their good performance at the GCE N level examination. Heartiest congratulations to the NA and NT students shown in the group photo for their outstanding results.<br>
+      <br>
+      <a href="/achievements/Academic-Achievements/2022-N-Level-Examination-Results/">Read More</a>
 		</td>
     <td>
 		</td>
