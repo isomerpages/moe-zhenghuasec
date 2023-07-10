@@ -12,7 +12,7 @@ description: ""
 
 <table>
 	<tbody><tr>
-		<td align="middle"> <img src="/images/principalsmessage.jpg" style="width:50%">  Mr Ng Hock Soon<br>Principal <br>Zhenghua Secondary School</td>
+		<td align="middle" width="100%"> <img src="/images/principalsmessage.jpg" style="width:50%">  Mr Ng Hock Soon<br>Principal <br>Zhenghua Secondary School</td>
 	</tr>
 	<tr><td><img src="/images/Ms-Elaine-Tan-200x300.jpg" style="width:35%">  Ms Elaine Tan <br> Vice-Principal <br>Zhenghua Secondary School</td>
 		<td><img src="/images/VPA-Ms-Ai-Fen-271x300.jpg" style="width:95%">  Ms He Aifen <br>Vice-Principal (Administration) <br>Zhenghua Secondary School</td></tr>
