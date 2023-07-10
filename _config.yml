@@ -2,7 +2,7 @@ title: Zhenghua Secondary School
 url: https://www.zhenghuasec.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#ff0800"
+  primary-color: "#da2618"
   secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
