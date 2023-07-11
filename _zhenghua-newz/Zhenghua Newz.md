@@ -8,40 +8,39 @@ description: ""
   <tbody>
 		<tr>
     <td width="33%"><img src="/images/slinvest202300.jpg" alt="Student Leaders Investiture"></td>
+    <td width="33%"><img src="/images/slinvest202300.jpg" alt="Student Leaders Investiture"></td>
     <td width="33%"><img src="/images/sec3exp1.jpg" alt="MT Fortnight"></td>
-    <td width="33%"><img src="/images/sec1sab4.jpg" alt="MT Fortnight"></td>
   </tr>
   <tr>
     <td>
       <h5>Student Leaders Investiture 2023</h5>
     </td>
     <td>
-       <h5>Secondary 3 Expedition</h5>
+      <h5>Student Leaders Investiture 2023</h5>
     </td>
     <td>
-    <h5>Secondary 1 Sabbatical 2023</h5>
+       <h5>Secondary 3 Expedition</h5>
     </td>
   </tr>
   <tr>
     <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
       <a href="/slinvest2023/">Read More</a>
     </td>
-    <td>TAs part of our endeavour to develop our students holistically and provide bountiful opportunities for them to lead and develop resilience, our secondary 3 students went on a 3-day-2-night outdoor camp after months of preparation.<br> <br>
-      <a href="/sec3expedition2023/">Read More</a>
+    <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
+      <a href="/slinvest2023/">Read More</a>
     </td>
-    <td>The Secondary 1 sabbatical program was successful in improving students' leadership and teamwork skills through a variety of team-building activities such as kinball, archery tag, scavenger hunt, amazing race and station games.<br>
-      <br>
-      <a href="/zhenghua-newz/nav/sec-1-sab/">Read More</a>
+    <td>As part of our endeavour to develop our students holistically and provide bountiful opportunities for them to lead and develop resilience, our secondary 3 students went on a 3-day-2-night outdoor camp after months of preparation.<br> <br>
+      <a href="/sec3expedition2023/">Read More</a>
     </td>
   </tr>
 		<tr>
-    <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
+    <td width="33%"><img src="/images/sec1sab4.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/mtfortnightmlmainpic.jpg" alt="MT Fortnight"></td>
   </tr>
   <tr>
     <td>
-      <h5>MT Fortnight - Chinese Language</h5>
+    <h5>Secondary 1 Sabbatical 2023</h5>
     </td>
     <td>
       <h5>MT Fortnight - Chinese Language</h5>
@@ -50,8 +49,9 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
-      <a href="/mtfortnightcl2023/">Read More</a>
+    <td>The Secondary 1 sabbatical program was successful in improving students' leadership and teamwork skills through a variety of team-building activities such as kinball, archery tag, scavenger hunt, amazing race and station games.<br>
+      <br>
+      <a href="/zhenghua-newz/nav/sec-1-sab/">Read More</a>
     </td>
     <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
       <a href="/mtfortnightcl2023/">Read More</a>
