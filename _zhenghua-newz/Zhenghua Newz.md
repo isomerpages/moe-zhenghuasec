@@ -46,8 +46,7 @@ description: ""
     <td>
       <h5>MT Fortnight - Chinese Language</h5>
     </td>
-    <td>
- &nbsp; &nbsp; &nbsp;<h5>MT Fortnight - Malay Language</h5>
+    <td><h5>MT Fortnight - Malay Language</h5>
     </td>
   </tr>
   <tr>
