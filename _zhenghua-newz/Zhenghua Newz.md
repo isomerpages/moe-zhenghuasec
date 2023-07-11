@@ -36,30 +36,30 @@ description: ""
   </tr>
 		<tr>
     <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
+    <td width="33%"><img src="/images/mainpic.jpg" alt="MT Fortnight"></td>
     <td width="33%"><img src="/images/mtfortnightmlmainpic.jpg" alt="MT Fortnight"></td>
-    <td width="33%"><img src="/images/TD1.jpg" alt="TotalDefence"></td>
   </tr>
   <tr>
     <td>
       <h5>MT Fortnight - Chinese Language</h5>
     </td>
     <td>
-      <h5>MT Fortnight - Malay Language</h5>
+      <h5>MT Fortnight - Chinese Language</h5>
     </td>
     <td>
-      <h5>ZSS Fire-Fighters to the Rescue!</h5>
+ &nbsp; &nbsp; &nbsp;<h5>MT Fortnight - Malay Language</h5>
     </td>
   </tr>
   <tr>
     <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
       <a href="/mtfortnightcl2023/">Read More</a>
     </td>
+    <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br> <br>
+      <a href="/mtfortnightcl2023/">Read More</a>
+    </td>
     <td>To deepen understanding and appreciation of Mother Tongue language and culture, our MTL Department planned special programmes for our students: Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM and learning journeys to Chinatown and Lorong Buangkok.<br>
       <br>
       <a href="/mtfortnightml2023/">Read More</a>
-    </td>
-    <td>ZSS provided an opportunity for students to learn more about civil defence and how to react in times of emergency. Having a firetruck in school gave students a hands-on experience on how to put out fire with a watering hose.<br> <br>
-      <a href="/totaldefence2023/">Read More</a>
     </td>
   </tr>
   <tr>
