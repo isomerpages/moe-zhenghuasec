@@ -13,7 +13,7 @@ description: ""
   </tr>
   <tr>
     <td>
-      <h5>Student Leaders Investiture 2023</h5>
+      <h5>Awards Day 2023</h5>
     </td>
     <td>
       <h5>Student Leaders Investiture 2023</h5>
@@ -23,7 +23,7 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
+    <td>Awards Day 2023 took place on 5 May 2023. It was a simple yet significant occasion to celebrate the sucess of last year's graduates. It was the first Awards Day where guests and parents were invited.<br> <br>
       <a href="/slinvest2023/">Read More</a>
     </td>
     <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
