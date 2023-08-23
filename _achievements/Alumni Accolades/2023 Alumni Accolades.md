@@ -10,28 +10,35 @@ third_nav_title: Alumni Accolades
 
 ![](/images/alumniweb.png)
 
-Our Alumni, Chua Jia Xuan, Regine Soh, Jeanette Sim and Koh Li Xin graduated from Ngee Ann Poly this year with the following academic achievements:
+Our Alumni, Cavin Ku Jin Han, Goh Jia Yi Shannon, Esther Ho Enqi, Jolie Ng Wei Zhen, Leow Jia Xuan and Tan Zhi Yong Eugene graduated from Ngee Ann Poly this year with the following academic achievements:
 
-Name&nbsp; &nbsp; :&nbsp;**Chua Jia Xuan**  <br>
-Course  : Diploma in Accountancy  
+Name&nbsp; &nbsp; :&nbsp;**Cavin Ku Jin Han**  <br>
+Course  : Diploma in Electrical Engineering  
+Awards&nbsp;: Diploma with Merit, Tai Sin Electric Prize <br>
+Diploma Plus : Certificate in Advanced Engineering Mathematics
+
+
+Name&nbsp; &nbsp; :**Goh Jia Yi, Shannon** <br>
+Course  :Diploma in Biomedical Engineering  
+Awards&nbsp;:Diploma with Merit <br>
+Diploma Plus : Certificate in Advanced Engineering Mathematics
+
+
+Name&nbsp; &nbsp; :&nbsp;**Esther Ho Enqi** <br>
+Course  : Diploma in Immersive Media<br>
 Awards&nbsp;: Diploma with Merit
 
-The Chartered Institute of Management Accountants Prize
 
-Name&nbsp; &nbsp; :**Regine Soh** <br>
-Course  :Diploma in Banking &amp; Finance  
-Awards&nbsp;:Diploma with Merit
-
-The Association of Banks in Singapore Prize
-
-Name&nbsp; &nbsp; :&nbsp;**Sim Yu, Jeanette** <br>
-Course  : Diploma in Automation &amp; Mechatronic Systems  
+Name&nbsp; &nbsp; :&nbsp;**Jolie Ng Wei Zhen** <br>
+Course  : Diploma in Immersive Media<br>
 Awards&nbsp;: Diploma with Merit
 
-Artech Ultrasonic Systems Prize
+Name&nbsp; &nbsp; :&nbsp;**Leow Jia Xuan** <br>
+Course  : Diploma in International Trade &amp; Business<br>
+Awards&nbsp;: Diploma with Merit
 
-Name&nbsp; &nbsp; :&nbsp;**Koh Li Xin** <br>
-Course  : Diploma in Tourism &amp; Resort Management  
-Awards&nbsp;: TTG Asia Media Prize
+Name&nbsp; &nbsp; :&nbsp;**Tan Zhi Yong Eugene** <br>
+Course  : Diploma in Electrical Engineering<br>
+Awards&nbsp;: Diploma with Merit
 
-Congratulations to Jia Xuan, Regine, Jeanette and Li Xin!
+Congratulations to Cavin Ku Jin Han, Goh Jia Yi Shannon, Esther Ho Enqi, Jolie Ng Wei Zhen, Leow Jia Xuan and Tan Zhi Yong Eugene!
