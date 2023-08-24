@@ -23,7 +23,7 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td>Awards Day 2023 took place on 5 May 2023. It was a simple yet significant occasion to celebrate the sucess of last year's graduates. It was the first Awards Day where guests and parents were invited.<br> <br>
+    <td>The theme reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterises Singapore life. The overall picture may change with time as our society evolves, like all societies do, but the hues will continue to complement one another because of our long-shared history and heritage. This is Singapore’s bespoke approach towards multiculturalism and social cohesion, where the experiences of every individual matter and add to our diversity.<br> <br>
       <a href="/awardsday2023/">Read More</a>
     </td>
     <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
