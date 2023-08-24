@@ -13,13 +13,13 @@ description: ""
   </tr>
   <tr>
     <td>
-      <h5>Awards Day 2023</h5>
+      <h5>Racial Harmony Day 2023</h5>
     </td>
     <td>
-      <h5>Student Leaders Investiture 2023</h5>
+      <h5>Secondary 1 Cajon and Cricket Programme</h5>
     </td>
     <td>
-       <h5>Secondary 3 Expedition</h5>
+       <h5>Reignite Raya! ZSS Hari Raya Concert</h5>
     </td>
   </tr>
   <tr>
