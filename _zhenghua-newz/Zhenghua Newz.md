@@ -7,7 +7,7 @@ description: ""
 <table>
   <tbody>
 		<tr>
-    <td width="33%"><img src="/images/ad2023main.jpg" alt="Student Leaders Investiture"></td>
+    <td width="33%"><img src="/images/rhd2302.jpg" alt="Racial Harmony Day"></td>
     <td width="33%"><img src="/images/slinvest202300.jpg" alt="Student Leaders Investiture"></td>
     <td width="33%"><img src="/images/sec3exp1.jpg" alt="MT Fortnight"></td>
   </tr>
@@ -23,8 +23,8 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td>The theme reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterises Singapore life. The overall picture may change with time as our society evolves, like all societies do, but the hues will continue to complement one another because of our long-shared history and heritage. This is Singapore’s bespoke approach towards multiculturalism and social cohesion, where the experiences of every individual matter and add to our diversity.<br> <br>
-      <a href="/awardsday2023/">Read More</a>
+    <td>This year’s theme for Racial Harmony Day was ‘Our Multicultural Mosaic’ .The theme reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterises Singapore life. <br> <br>
+      <a href="/rhd2023/">Read More</a>
     </td>
     <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
       <a href="/rhd2023/">Read More</a>
