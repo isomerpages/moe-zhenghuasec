@@ -9,7 +9,7 @@ description: ""
 		<tr>
     <td width="33%"><img src="/images/rhd2302.jpg" alt="Racial Harmony Day"></td>
     <td width="33%"><img src="/images/ziestasec103.jpg" alt="Sec 1 Cajon and Cricket"></td>
-    <td width="33%"><img src="/images/sec3exp1.jpg" alt="MT Fortnight"></td>
+    <td width="33%"><img src="/images/raya2301.jpg" alt="Reignite Raya ZSS"></td>
   </tr>
   <tr>
     <td>
@@ -29,8 +29,8 @@ description: ""
     <td>Over the course of Term 2, our Sec 1s prepared for a showcase concert which took place during ZIESTA, captivating the audience with their cajon skills. They also embraced the spirit of sportsmanship through cricket, participating in inter-class friendly matches.<br> <br>
       <a href="/ziesta2023/">Read More</a>
     </td>
-    <td>As part of our endeavour to develop our students holistically and provide bountiful opportunities for them to lead and develop resilience, our secondary 3 students went on a 3-day-2-night outdoor camp after months of preparation.<br> <br>
-      <a href="/sec3expedition2023/">Read More</a>
+    <td>Our Hari Raya live concert aims to rekindle the spirit and tradition of Hari Raya post-pandemic. For this year’s Hari Raya, we hope to relive the customary habits of the festivities, so as to cultivate in everyone a deeper appreciation of the Hari Raya celebration.<br> <br>
+      <a href="/hariraya2023/">Read More</a>
     </td>
   </tr>
 		<tr>
