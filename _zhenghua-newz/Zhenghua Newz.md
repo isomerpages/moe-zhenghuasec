@@ -8,7 +8,7 @@ description: ""
   <tbody>
 		<tr>
     <td width="33%"><img src="/images/rhd2302.jpg" alt="Racial Harmony Day"></td>
-    <td width="33%"><img src="/images/slinvest202300.jpg" alt="Student Leaders Investiture"></td>
+    <td width="33%"><img src="/images/ziestasec103.jpg" alt="Sec 1 Cajon and Cricket"></td>
     <td width="33%"><img src="/images/sec3exp1.jpg" alt="MT Fortnight"></td>
   </tr>
   <tr>
@@ -26,8 +26,8 @@ description: ""
     <td>This year’s theme for Racial Harmony Day was ‘Our Multicultural Mosaic’ .The theme reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterises Singapore life. <br> <br>
       <a href="/rhd2023/">Read More</a>
     </td>
-    <td>A student-led event, Student Leaders' Investiture 2023, shows our appreciation for outgoing leaders. WIth confident march-ins by new leaders, symbolic object exchanges, and a rousing school song that united the entire school, it was a wonderful showcase of Zhenghua Secondary School's leadership and excellence.<br> <br>
-      <a href="/rhd2023/">Read More</a>
+    <td>Over the course of Term 2, our Sec 1s prepared for a showcase concert which took place during ZIESTA, captivating the audience with their cajon skills. They also embraced the spirit of sportsmanship through cricket, participating in inter-class friendly matches.<br> <br>
+      <a href="/ziesta2023/">Read More</a>
     </td>
     <td>As part of our endeavour to develop our students holistically and provide bountiful opportunities for them to lead and develop resilience, our secondary 3 students went on a 3-day-2-night outdoor camp after months of preparation.<br> <br>
       <a href="/sec3expedition2023/">Read More</a>
