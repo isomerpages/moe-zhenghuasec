@@ -46,7 +46,6 @@ third_nav_title: Zhenghua Staff
 | Chee Pey Jiun | 340 |
 | Claudia Tan Danwei | 314 |
 | Darlene John Johney | 317 |
-| Derrick Lim Jun Qiang | 302 |
 | Edwin Tan Kian Hong | 309 |
 | Emilia Mohamed Ali | 323 |
 | Felicity Lim Sy Hing | 315 |
@@ -76,9 +75,7 @@ third_nav_title: Zhenghua Staff
 | Randy Chia Boon Ling | 337 |
 | Rosmawati Bte Alwi | 301 |
 | Sakinah Bte Mohamed Supiyan | 318 |
-| Saratha Devi D/O Ramasamy | 326 |
 | Seah Hwee Bing | 312 |
-| Sebastian Ang Tau | 323 |
 | Serene Howe Joo-li<br>Lead Teacher (Geography) | 313 |
 | Shamsul Bin Idris | 319 |
 | Sharifah Nazihah W M Sulaiman | 320 |
@@ -96,13 +93,12 @@ third_nav_title: Zhenghua Staff
 | Xin Ping | 328 |
 | Yong Wai Teng | 338 |
 | **EAS** |  |
-| Tan Siew Siew<br>Admin Manager | 105 |
 | Peh Choon Kuan<br>Operations Manager | 106 |
-| Chee Qiu Ying<br>Admin Executive | 111 |
-| Norhuda Mohamad<br>Admin Executive | 113 |
+| Goh Charng Siew<br>Operations Manager |6762 4266|
+| Chee Kuan Hoe Sharon<br>Admin Executive |113 |
+| Nur Faiezah Osman<br>Admin Executive |109|
 | Eve Sim Joo Lan<br>MSO | 110 |
 | Flora Heng Ah Choo<br>CSO | 112 |
-| Muhammad Faisal Ramli<br>AED (T&amp;L) | 334 |
 | Michael Lim<br>AED (T&amp;L) | 333 |
 | Rozaini Muhaimin Bin Rozlan<br>ICT Manager | - |
 | Eng Yong Chye<br>AED (Senior School Counsellor) | 262 |
@@ -121,7 +117,7 @@ third_nav_title: Zhenghua Staff
 | **SUPPORT STAFF**|  |
 | Noor Hairin Misri<br>Desktop Engineer | 502 |
 | Muhammad Ruzaini bin Abdul Malek<br>Desktop Engineer | 503 |
-| Rohana Bte Ahmad<br>Library Assistant | 501 |
+| Sumiyati<br>Library Assistant | 501 |
 | **CONTRACT &amp; FLEXI-ADJUNCT TEACHERS** |  |
 | Tan Soh Hua | 124 |
 | Tan Sock Mui | 124 |
@@ -133,8 +129,6 @@ third_nav_title: Zhenghua Staff
 | Teo Siew Hui Jessie | 121 |
 | Tan Soo Heng | 123 |
 | Nathaniel Chia Wei Long | 126 |
-| Tan Poh Hwee Emily | 336 |
-| Joanna Sua Ju Lan | 125 |
 
 
 For all enquiries, please email us at&nbsp;[zhenghua\_ss@moe.edu.sg](mailto:zhenghua_ss@moe.edu.sg)
