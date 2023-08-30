@@ -219,14 +219,9 @@ third_nav_title: Zhenghua Staff
   <tr>
     <td class="tg-rr8m">5A</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Rachel Tan</span><br><span style="font-style:italic">tan_hui_leng_rachel@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Grace Chia</span><br><span style="font-style:italic">chia_choo_hui@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
-  <tr>
-    <td class="tg-rhkx">5B</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Grace Chia</span><br><span style="font-style:italic">chia_choo_hui@schools.gov.sg</span></td>
-    <td class="tg-rhkx"></td>
-    <td class="tg-0pky"></td>
-  </tr>
+
 </tbody>
 </table>
