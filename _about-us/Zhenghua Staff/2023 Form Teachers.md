@@ -65,9 +65,9 @@ third_nav_title: Zhenghua Staff
   </tr>
   <tr>
     <td class="tg-rhkx">1F</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Derrick Lim</span><br><span style="font-style:italic">lim_jun_qiang_derrick@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:700">Ms Marinah Mohdar</span><br><span style="font-style:italic">marinah_mohdar@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mr Shamsul Idris</span><br><span style="font-style:italic">shamsul_idris@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Lim Hun</span><br><span style="font-style:italic">lim_hun_a@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1G</td>
@@ -82,13 +82,13 @@ third_nav_title: Zhenghua Staff
     <td class="tg-rhkx">2A</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Hafida Muhd</span><br><span style="font-style:italic">hafida_muhamad@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Tay Limin</span><br><span style="font-style:italic">tay_limin@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Merilynn</span><br><span style="font-style:italic">tan_yi_hui_merilynn@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Chung Zhiwen</span><br><span style="font-style:italic">chung_zhiwen@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2B</td>
     <td class="tg-poi1"><span style="font-weight:bold">Mr Boo Jia Liang</span><br><span style="font-style:italic">boo_jia_liang@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Valerie Chia</span><br><span style="font-style:italic">chia_wei_ting_valerie@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Widad</span><br><span style="font-style:italic">widad_wahid@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2C</td>
