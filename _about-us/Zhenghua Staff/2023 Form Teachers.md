@@ -133,7 +133,7 @@ third_nav_title: Zhenghua Staff
     <td class="tg-rr8m">3A</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Darlene John Johney</span><br><span style="font-style:italic">darlene_john_johney@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Mr Sam Soo</span><br><span style="font-style:italic">soo_boon_siang@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Scott Lee</span><br><span style="font-style:italic">lee_tze_kerr_scott@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">3B</td>
