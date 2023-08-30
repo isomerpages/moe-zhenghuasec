@@ -127,7 +127,7 @@ third_nav_title: Zhenghua Staff
     <td class="tg-z14i"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 3)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 3)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span><br><span style="font-weight:bold">Mr Samuel Lim (Covering)</span><br><span style="font-style:italic">samuel_lim_kok_boon@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">3A</td>
