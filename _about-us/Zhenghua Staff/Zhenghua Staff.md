@@ -15,27 +15,26 @@ third_nav_title: Zhenghua Staff
 | Ng Hock Soon<br>Principal | 103 |
 | Elaine Tan Pei Lee<br>Vice-Principal | 117 |
 | He Aifen<br>Vice-Principal (Admin) | 116 |
-| Ang Boon Suat<br>HOD Science | 203 |
 | Cha Boon Hon Danny<br>HOD Humanities | 205 |
 | Lim Chee Hui, Derek<br>HOD ICT | 212 |
 | Mazri Misawar<br>HOD Mathematics | 211 |
 | Rafiyah Begum Bte Sharif Mohd<br>HOD English Language | 204 |
 | Samuel Lim Kok Boon<br>HOD CCE | 224 |
 | Soh Bee Kim<br>HOD MTL | 209 |
-| Hamidah Bte Ali<br>HOD C&T | 207 |
-| Robin Goh Jin Quan<br>HOD PE & CCA | 201 |
+| Hamidah Bte Ali<br>HOD C&amp;T | 207 |
+| Robin Goh Jin Quan<br>HOD PE &amp; CCA | 201 |
 | Phay Pei Joo<br>School Staff Developer | 210 |
 | Ang Lien Lee Jonathan<br>SH ICT | 214 |
 | Ashar Ahmad<br>HOD Student Management | 206 |
-| Yeo Yen Hua<br>SH OE & Special Projects | 219 |
+| Yeo Yen Hua<br>SH OE &amp; Special Projects | 219 |
 | Roy Tan Tian Kiat<br>SH Student leadership | 218 |
 | Ivan Tan Jiang Rui <br>SH Bio | 213 |
 | Soo Boon Siang Sam<br>SH GEOG/NE | 216 |
-| Rafidah Bte Yusoff<br>SH English Language | 217 |
 | Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 1) | 221 |
 | Magdalene Tan Li Ping<br>Year Head (Sec 2) | 223 |
 | Zanariah Zainal Abiden<br>Year Head (Sec 3) | 220 |
 | Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 4) | 215 |
+| Derrick Lim Jun Qiang<br>Asst Year Head (Sec 1) | 302 |
 | **TEACHING STAFF** |  |
 | Aaron Justin Tan Wen Jie | 322 |
 | Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
@@ -66,7 +65,7 @@ third_nav_title: Zhenghua Staff
 | Liang Kar Weng | 327 |
 | Lim Chen Guo Jacobe | 339 |
 | Loh So Boey Cynthia | 337 |
-| Loy Suan Doong<br>Senior Teacher (Design & Technology) | 327 |
+| Loy Suan Doong<br>Senior Teacher (Design &amp; Technology) | 327 |
 | Marinah Binte Mohdar | 303 |
 | Masrena Rahmat | 310 |
 | Natalie Tan Li Er<br>Senior Teacher (Chemistry) | 304 |
@@ -103,8 +102,8 @@ third_nav_title: Zhenghua Staff
 | Norhuda Mohamad<br>Admin Executive | 113 |
 | Eve Sim Joo Lan<br>MSO | 110 |
 | Flora Heng Ah Choo<br>CSO | 112 |
-| Muhammad Faisal Ramli<br>AED (T&L) | 334 |
-| Michael Lim<br>AED (T&L) | 333 |
+| Muhammad Faisal Ramli<br>AED (T&amp;L) | 334 |
+| Michael Lim<br>AED (T&amp;L) | 333 |
 | Rozaini Muhaimin Bin Rozlan<br>ICT Manager | - |
 | Eng Yong Chye<br>AED (Senior School Counsellor) | 262 |
 | Srirangini D/O Vesuvasam<br>AED (School Counsellor) | 261 |
@@ -123,7 +122,7 @@ third_nav_title: Zhenghua Staff
 | Noor Hairin Misri<br>Desktop Engineer | 502 |
 | Muhammad Ruzaini bin Abdul Malek<br>Desktop Engineer | 503 |
 | Rohana Bte Ahmad<br>Library Assistant | 501 |
-| **CONTRACT & FLEXI-ADJUNCT TEACHERS** |  |
+| **CONTRACT &amp; FLEXI-ADJUNCT TEACHERS** |  |
 | Tan Soh Hua | 124 |
 | Tan Sock Mui | 124 |
 | Chee Jialing Serena | 126 |
@@ -138,4 +137,4 @@ third_nav_title: Zhenghua Staff
 | Joanna Sua Ju Lan | 125 |
 
 
-For all enquiries, please email us at [zhenghua\_ss@moe.edu.sg](mailto:zhenghua_ss@moe.edu.sg)
+For all enquiries, please email us at&nbsp;[zhenghua\_ss@moe.edu.sg](mailto:zhenghua_ss@moe.edu.sg)
