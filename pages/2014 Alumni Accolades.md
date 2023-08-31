@@ -2,7 +2,6 @@
 title: 2014 Alumni Accolades
 permalink: /achievements/Alumni-Accolades/2014-alumni-accolades/
 description: ""
-third_nav_title: Alumni Accolades
 ---
 ### Alumni Accolades 2014
 
@@ -12,13 +11,13 @@ Our students has done well in Ngee Ann Polytechnic. They are the top 10% of thei
 
 | Name | Course | Award |
 |---|---|---|
-| Tay Tian Ci | Diploma in Network Systems & Security | · IDA Gold Medal & Prize · Diploma with Merit · CISCO Prize . Fujitsu Prize · Reliance Globalcom Prize |
-| Chin Hui Jun | Diploma in Molecular Biology | · Roche Singapore Technical Operations Silver Medal & Prize · Diploma with Merit |
-| Tan Qiu Yan | Diploma in Landscape Design & Horticulture | · Diploma with Merit · CSK Landscape Services Prize |
+| Tay Tian Ci | Diploma in Network Systems &amp; Security | · IDA Gold Medal &amp; Prize · Diploma with Merit · CISCO Prize . Fujitsu Prize · Reliance Globalcom Prize |
+| Chin Hui Jun | Diploma in Molecular Biology | · Roche Singapore Technical Operations Silver Medal &amp; Prize · Diploma with Merit |
+| Tan Qiu Yan | Diploma in Landscape Design &amp; Horticulture | · Diploma with Merit · CSK Landscape Services Prize |
 | Lim Lay Yin, Doelle | Diploma in Accountancy | · Diploma with Merit |
 | Tan Xian Jun | Diploma in International Supply Chain Management | · Diploma with Merit |
-| Teo Mei Teng | Diploma in Landscape Design & Horticulture | · Diploma with Merit |
-| Tricia Heng | Diploma in Advertising & Public Relations | · Diploma with Merit |
+| Teo Mei Teng | Diploma in Landscape Design &amp; Horticulture | · Diploma with Merit |
+| Tricia Heng | Diploma in Advertising &amp; Public Relations | · Diploma with Merit |
 | Lim Wei Jie Eugene | Diploma in Engineering Science | · Gaylin International Prize |
 
 <br>

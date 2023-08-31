@@ -2,7 +2,6 @@
 title: 2019 'O' Level Examination Results
 permalink: /achievements/Student-Achievements/2019-Olevel-results/
 description: ""
-third_nav_title: Academic Achievements
 ---
 ### ‘O’ Levels Examination Results 2019
 
@@ -68,4 +67,3 @@ Congratulations to our students for their outstanding performance in the 2019 'O
 | Koh Yu Qing | 5N1 |
 | Phoebe Ngai | 4N1 |
 |
-

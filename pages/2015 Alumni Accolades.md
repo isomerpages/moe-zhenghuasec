@@ -2,7 +2,6 @@
 title: 2015 Alumni Accolades
 permalink: /achievements/Alumni-Accolades/2015-alumni-accolades/
 description: ""
-third_nav_title: Alumni Accolades
 ---
 ### Alumni Accolades 2015
 
@@ -26,24 +25,21 @@ third_nav_title: Alumni Accolades
 
 | Student Name | Awards Name |
 |---|---|
-| Liew Dar Win | Diploma in Aerospace Technology Lee Kuan Yew Award Ngee Ann Polytechnic Outstanding Achievement Award Rolls-Royce Gold Medal & Prize Diploma with Merit The Institute of Materials (East Asia) Prize Turbines Technology Prize |
+| Liew Dar Win | Diploma in Aerospace Technology Lee Kuan Yew Award Ngee Ann Polytechnic Outstanding Achievement Award Rolls-Royce Gold Medal &amp; Prize Diploma with Merit The Institute of Materials (East Asia) Prize Turbines Technology Prize |
 | Tan Bao Jie | Diploma in Molecular Biotechnology MP Biomedicals Asia Pacific Prize Diploma with Merit Certificate in Chemistry |
 | Tang Wei Juan Joycelyn | Diploma in Accountancy Diploma with Merit |
-| Teo Jia Min | Diploma in Real Estate Business Knight Frank Real Estate Business Prize Certificate in Workplace Safety & Health |
-| Wong Yong Zheng | Diploma in Engineering Science KIM Technology & Systems Engineering Prize Certificate in Advanced Engineering Mathematics |
+| Teo Jia Min | Diploma in Real Estate Business Knight Frank Real Estate Business Prize Certificate in Workplace Safety &amp; Health |
+| Wong Yong Zheng | Diploma in Engineering Science KIM Technology &amp; Systems Engineering Prize Certificate in Advanced Engineering Mathematics |
 |
 
 **Congratulations to Aqil Luqman B Zamberi for achieving the Republic Polytechnics PFP Scholarship for Outdoor and Adventure Learning**
 
-<img src="/images/aqil_luqman_2015.jpg" 
-     style="width:55%">
+<img src="/images/aqil_luqman_2015.jpg" style="width:55%">
 		 
 **Congratulations to one of our alumni, Jonathan Peh, for his continued success in Singapore Polytechnic.**
 
-<img src="/images/jonathan-peh_lky-award_2015.jpg" 
-     style="width:55%">
+<img src="/images/jonathan-peh_lky-award_2015.jpg" style="width:55%">
 
 **Congratulations to one of our alumni, Liew Dar Win, for his continued success in Ngee Ann Polytechnic.**
 
-<img src="/images/liewdarwin_2015.jpg" 
-     style="width:55%">
+<img src="/images/liewdarwin_2015.jpg" style="width:55%">

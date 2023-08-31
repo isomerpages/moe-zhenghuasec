@@ -49,13 +49,13 @@ third_nav_title: Zhenghua Staff
     <td class="tg-rr8m">1C</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Claudia Tan</span><br><span style="font-style:italic">tan_danwei_claudia@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Isabel Ho</span><br><span style="font-style:italic">ho_shu_chun_isabel@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Widad Wahid</span><br><span style="font-style:italic">widad_wahid@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Teo Jia Wei</span><br><span style="font-style:italic">teo_jia_wei@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1D</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Tamilarasi</span><br><span style="font-style:italic">tamilarasi_ramaiya@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Sebastian Ang</span><br><span style="font-style:italic">sebastian_ang_tau@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mr Roy Tan</span><br><span style="font-style:italic">roy_tan@schools.gov.sg</span></td>
+    <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1E</td>
@@ -65,9 +65,9 @@ third_nav_title: Zhenghua Staff
   </tr>
   <tr>
     <td class="tg-rhkx">1F</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Derrick Lim</span><br><span style="font-style:italic">lim_jun_qiang_derrick@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:700">Ms Marinah Mohdar</span><br><span style="font-style:italic">marinah_mohdar@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mr Shamsul Idris</span><br><span style="font-style:italic">shamsul_idris@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Lim Hun</span><br><span style="font-style:italic">lim_hun_a@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1G</td>
@@ -82,13 +82,13 @@ third_nav_title: Zhenghua Staff
     <td class="tg-rhkx">2A</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Hafida Muhd</span><br><span style="font-style:italic">hafida_muhamad@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Tay Limin</span><br><span style="font-style:italic">tay_limin@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Merilynn</span><br><span style="font-style:italic">tan_yi_hui_merilynn@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Chung Zhiwen</span><br><span style="font-style:italic">chung_zhiwen@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2B</td>
     <td class="tg-poi1"><span style="font-weight:bold">Mr Boo Jia Liang</span><br><span style="font-style:italic">boo_jia_liang@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Valerie Chia</span><br><span style="font-style:italic">chia_wei_ting_valerie@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Widad</span><br><span style="font-style:italic">widad_wahid@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2C</td>
@@ -118,28 +118,28 @@ third_nav_title: Zhenghua Staff
     <td class="tg-rhkx">2G</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Masrena Rahmat</span><br><span style="font-style:italic">masrena_rahmat@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mr Aaron Justin Tan</span><br><span style="font-style:italic">aaron_justin_tan_wen@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mrs Selvam</span><br><span style="font-style:italic">saratha_devi_ramasamy@schools.gov.sg</span></td>
+    <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2H</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mr Dennis Loy</span><br><span style="font-style:italic">loy_suan_doong@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Nurul'Aishah Bte Shuhaimi</span><br><span style="font-style:italic">nurul_aishah_shuhai@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Teo Jia Wei</span><br><span style="font-style:italic">teo_jia_wei@schools.gov.sg</span></td>
+    <td class="tg-z14i"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 3)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 3)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span><br><span style="font-weight:bold">Mr Samuel Lim (Covering)</span><br><span style="font-style:italic">samuel_lim_kok_boon@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">3A</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Darlene John Johney</span><br><span style="font-style:italic">darlene_john_johney@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Mr Sam Soo</span><br><span style="font-style:italic">soo_boon_siang@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">3B</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Nur Elfianie Abdul Samad</span><br><span style="font-style:italic">nur_elfianie_abdul_samad@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Seah Hwee Bing</span><br><span style="font-style:italic">seah_hwee_bing@schools.gov.sg</span></td>
-    <td class="tg-rhkx"></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Scott Lee</span><br><span style="font-style:italic">lee_tze_kerr_scott@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">3C</td>
@@ -168,8 +168,8 @@ third_nav_title: Zhenghua Staff
   <tr>
     <td class="tg-rr8m">3G</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Vivian Koh</span><br><span style="font-style:italic">koh_su_hui_vivian@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Rafidah Yusoff</span><br><span style="font-style:italic">rafidah_yusoff@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Siti Nurbasyirah Azahar</span><br><span style="font-style:italic">siti_nurbasyirah_azahar@schools.gov.sg</span></td>
+    <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Ho Woan Shay (Year Head 4/5)</span><br><span style="font-style:italic">ho_woan_shay@schools.gov.sg</span></td>
@@ -219,14 +219,9 @@ third_nav_title: Zhenghua Staff
   <tr>
     <td class="tg-rr8m">5A</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Rachel Tan</span><br><span style="font-style:italic">tan_hui_leng_rachel@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Grace Chia</span><br><span style="font-style:italic">chia_choo_hui@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
-  <tr>
-    <td class="tg-rhkx">5B</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Grace Chia</span><br><span style="font-style:italic">chia_choo_hui@schools.gov.sg</span></td>
-    <td class="tg-rhkx"></td>
-    <td class="tg-0pky"></td>
-  </tr>
+
 </tbody>
 </table>

@@ -2,13 +2,11 @@
 title: ECHA Awards 2019
 permalink: /achievements/ECHA-Awards/2019/
 description: ""
-third_nav_title: ECHA Awards
 ---
 ### ECHA Awardees 2019
 
 ##### O Level ECHA Awardees
-<img src="/images/2019OLevelECHA.jpg" 
-     style="width:90%">		 
+<img src="/images/2019OLevelECHA.jpg" style="width:90%">		 
 		 		 
 | NO. | NAME | CLASS |
 |:---:|---|---|
@@ -29,8 +27,7 @@ third_nav_title: ECHA Awards
 
 ##### N Level ECHA Awardees
 
-<img src="/images/2019NLevelECHA.jpg" 
-     style="width:90%">
+<img src="/images/2019NLevelECHA.jpg" style="width:90%">
 		 
 | NO. | NAME | CLASS |
 |:---:|---|---|
