@@ -7,7 +7,7 @@ description: ""
 <table>
   <tbody>
 		<tr>
-    <td width="33%"><img src="/images/rhd2302.jpg" alt="Racial Harmony Day"></td>
+    <td width="33%"><img src="/images/nationalday1.png" alt="National Day 2023"></td>
     <td width="33%"></td>
     <td width="33%"></td>
   </tr>
