@@ -27,7 +27,7 @@ description: ""
 
 - Address: 62 Bukit Panjang Ring Road, Singapore 679962 <br>
 - Contact No: 6763 9455 <br>
-- Email: zhenghua\_ss@moe.edu.sg <br>
+- Email: zhenghua_ss@moe.edu.sg <br>
 - Contact Person: Mr Goh Charng Siew 
 
 **How to get there?**
