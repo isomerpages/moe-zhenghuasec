@@ -8,6 +8,33 @@ description: ""
   <tbody>
 		<tr>
     <td width="33%"><img src="/images/rhd2302.jpg" alt="Racial Harmony Day"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
+    <td>
+      <h5>National Day Celebration and Sports Fiesta 2023</h5>
+    </td>
+    <td>
+      <h5></h5>
+    </td>
+    <td>
+       <h5></h5>
+    </td>
+  </tr>
+  <tr>
+    <td>To make National Day 2023 more meaningful and engaging, we collaborated with the PE Department to have Sports FIESTA. The Sports Fiesta was also an avenue to strengthen students's appreciation for Total Defence - in particular, Social Defence and Psychological Defence. <br> <br>
+      <a href="/rhd2023/">Read More</a>
+    </td>
+    <td><br> <br>
+      <a href=""></a>
+    </td>
+    <td><br> <br>
+      <a href=""></a>
+    </td>
+  </tr>
+		<tr>
+    <td width="33%"><img src="/images/rhd2302.jpg" alt="Racial Harmony Day"></td>
     <td width="33%"><img src="/images/ziestasec103.jpg" alt="Sec 1 Cajon and Cricket"></td>
     <td width="33%"><img src="/images/raya2301.jpg" alt="Reignite Raya ZSS"></td>
   </tr>
