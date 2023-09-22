@@ -24,7 +24,7 @@ description: ""
   </tr>
   <tr>
     <td>To make National Day 2023 more meaningful and engaging, we collaborated with the PE Department to have Sports FIESTA. The Sports Fiesta was also an avenue to strengthen students's appreciation for Total Defence - in particular, Social Defence and Psychological Defence. <br> <br>
-      <a href="/rhd2023/">Read More</a>
+      <a href="/nationaldaycelebration2023/">Read More</a>
     </td>
     <td><br> <br>
       <a href=""></a>
