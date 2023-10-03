@@ -4,11 +4,19 @@ permalink: /about-us/school-ethos/
 description: ""
 third_nav_title: School Ethos
 ---
-### School Vision & Mission
+### School Vision &amp; Mission
 
 #### Vision
-**Every Student, a Principled and Future-Ready Leader** <br>
-We aspire to nurture our students into principled and future-ready leaders - leaders grounded in our school values of respect, resilience, responsibility, integrity and compassion; leaders with the right skillsets, able to lead oneself and others well into the future.
+**Dynamic Leaners**<br>
+**Exemplary Leaders**<br>
+**Thoughtful Contributors**<br>
+
+In Zhenghua, we strive to develop every student, regardless of their starting point, to be future-ready individuals, where they would be **Dynamic Leaners, Exemplary Leaders and Thoughtful Contributors.**
+
+Specifically, our students would embody the following attributes:<br>
+Self-directed in their learning, and thinks flexibly<br>
+Forward in their thinking, and inspires others<br>
+Keen sense of awareness, and sees giving as a way of life
 
 #### Mission
 To prepare every student to better meet the challenges of the future by building the student's emotional, ethical, intellectual, physical and social capacity.
