@@ -38,9 +38,9 @@ Values education plays an important role in shaping one’s character. The Schoo
 
 || Name | Class |
 |-|-------  | -------- |
-| 1  | Sarah Lai Eng Kee    | 2A     |
-|2| Isaac Lim Yi An|2A|
-|3|Awitan Matt Yeshua Josh Bides| 2A |
-|4|Nai Si Rui Jazryl|2A|
-|5|Bong Xuan Qing Gracelyn|2B|
-|6|Aaron Shiu Keng Hou|2B|
+| 1  | Neo Xiao Jun, Vienna    | 3A     |
+|2| Janelle Lai Yu Tong|3A|
+|3|Umairah Binte Ali| 3A |
+|4|Chin Yan Yu |3A|
+|5|Boey Yi Chao|3A|
+|6|Ng Hong Sheng Sean|3A|
