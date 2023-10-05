@@ -20,3 +20,5 @@ Values education plays an important role in shaping one’s character. The Schoo
 |4|Skyler Kok|1A|
 |5|Xu Xuanrui|1A|
 |6|Aprillyn Lek|1B|
+
+**School Values Award for Secondary Two**
