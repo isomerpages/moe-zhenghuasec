@@ -26,21 +26,21 @@ Values education plays an important role in shaping one’s character. The Schoo
 
 || Name | Class |
 |-|-------  | -------- |
-| 1  | Ong Yue Xi , Jessica     | 1A     |
-|2| Nurhannah Dafina Binte Hirwan|1A|
-|3|Lim Yu Xuan Gwen| 1A |
-|4|Skyler Kok|1A|
-|5|Xu Xuanrui|1A|
-|6|Aprillyn Lek|1B|
+| 1  | Sarah Lai Eng Kee    | 2A     |
+|2| Isaac Lim Yi An|2A|
+|3|Awitan Matt Yeshua Josh Bides| 2A |
+|4|Nai Si Rui Jazryl|2A|
+|5|Bong Xuan Qing Gracelyn|2B|
+|6|Aaron Shiu Keng Hou|2B|
 
 **School Values Award for Secondary Three**
 ![](/images/svasec3.jpg)
 
 || Name | Class |
 |-|-------  | -------- |
-| 1  | Ong Yue Xi , Jessica     | 1A     |
-|2| Nurhannah Dafina Binte Hirwan|1A|
-|3|Lim Yu Xuan Gwen| 1A |
-|4|Skyler Kok|1A|
-|5|Xu Xuanrui|1A|
-|6|Aprillyn Lek|1B|
+| 1  | Sarah Lai Eng Kee    | 2A     |
+|2| Isaac Lim Yi An|2A|
+|3|Awitan Matt Yeshua Josh Bides| 2A |
+|4|Nai Si Rui Jazryl|2A|
+|5|Bong Xuan Qing Gracelyn|2B|
+|6|Aaron Shiu Keng Hou|2B|
