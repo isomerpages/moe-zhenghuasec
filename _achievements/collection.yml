@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - School Values Award/School Values Award.md
       - School Values Award/.keep
       - Academic Achievements/.keep
       - Academic Achievements/Academic Achievements.md
