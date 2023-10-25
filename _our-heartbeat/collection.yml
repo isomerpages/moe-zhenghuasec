@@ -2,7 +2,6 @@ collections:
   our-heartbeat:
     output: true
     order:
-      - Academic Programmes/.keep
       - Aesthetics/.keep
       - Aesthetics/Programmes Highlights & Enrichment Activities.md
       - Applied Learning Prog ALP/.keep
