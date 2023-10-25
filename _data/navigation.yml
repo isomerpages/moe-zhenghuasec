@@ -6,8 +6,8 @@ links:
     collection: our-heartbeat
   - title: Achievements
     url: /achievements/Academic-Achievements/permalink/
-  - title: CCAs
-    url: /ccas/Uniformed-Groups/ncc-air/
+  - title: CCA
+    collection: ccas
   - title: Direct School Admission
     url: /dsa/
   - title: Parents
