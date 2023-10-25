@@ -2,14 +2,14 @@ collections:
   our-heartbeat:
     output: true
     order:
-      - Academic Programmes/Physical and Outdoor Education.md
-      - Academic Programmes/Craft and Technology.md
-      - Academic Programmes/Science.md
       - Academic Programmes/.keep
       - Academic Programmes/English Language and Literature.md
       - Academic Programmes/Mother Tongue Language.md
       - Academic Programmes/Mathematics.md
+      - Academic Programmes/Science.md
       - Academic Programmes/Humanities.md
+      - Academic Programmes/Craft and Technology.md
+      - Academic Programmes/Physical and Outdoor Education.md
       - Academic Programmes/Aesthetics.md
       - Applied Learning Prog ALP/.keep
       - Applied Learning Prog ALP/Department Information.md
