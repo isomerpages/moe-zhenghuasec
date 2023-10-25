@@ -2,6 +2,8 @@ logo: /images/ZSSLOGONEWwithTEXT.png
 links:
   - title: About Us
     url: /about-us/principal-message/
+  - title: Our Hearbeat
+    collection: our-heartbeat
   - title: Programmes
     url: /programmes/english-language-and-literature/
   - title: Achievements
