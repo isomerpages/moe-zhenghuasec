@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  our-heartbeat:
     output: true
     order:
       - Aesthetics/.keep
