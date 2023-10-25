@@ -1,4 +1,4 @@
 collections:
-  news:
+  our-spotlight:
     output: true
     order: []
