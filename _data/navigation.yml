@@ -1,11 +1,9 @@
 logo: /images/ZSSLOGONEWwithTEXT.png
 links:
   - title: About Us
-    url: /about-us/principal-message/
+    collection: about-us
   - title: Our Hearbeat
     collection: our-heartbeat
-  - title: Programmes
-    url: /programmes/english-language-and-literature/
   - title: Achievements
     url: /achievements/Academic-Achievements/permalink/
   - title: CCAs
@@ -18,3 +16,7 @@ links:
     url: /parents/parenting-tips/
   - title: Quicklinks
     url: /quicklinks/
+  - title: About Us
+    url: /about-us/principal-message/
+  - title: Programmes
+    url: /programmes/english-language-and-literature/
