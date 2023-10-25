@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Vision & Mission.md
       - Our Motto, Crest & School Song/School Motto.md
       - Our Motto, Crest & School Song/School Song.md
       - Our Motto, Crest & School Song/Creed.md
