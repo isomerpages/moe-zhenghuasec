@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Art Club.md
       - NCC Air.md
       - NPCC.md
       - Red Cross.md
