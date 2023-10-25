@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners/Our Alumni.md
       - Our Partners/.keep
       - Principal's Message.md
       - Our Family/.keep
