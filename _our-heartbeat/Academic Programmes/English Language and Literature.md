@@ -64,7 +64,7 @@ third_nav_title: Academic Programmes
 </tbody>
 </table>
 
-### Programmes Highlights and Enrichment
+### Programmes Highlights and Enrichment Activities
 
 The belief that every student is able to grow in their repertoire and knowledge of the English language as they journey with us at Zhenghua Secondary School is a belief that the English and Literature department holds close to our hearts. It forms the crux of how we teach, prepare, develop and nurture our learners into confident, reflective, critical thinkers and communicators of the 21st&nbsp;century.
 
