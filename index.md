@@ -18,4 +18,12 @@ sections:
         - title: ZSS IG
           description: Our Zhenghua IG Page
           url: https://www.instagram.com/zssofficial/?hl=en
+  - infopic:
+      title: Zhenghua Open House 2023
+      id: infopic
+      description: 25th November 2023, 9.00am to 12.30pm
+      button: Click here for more information
+      url: https://www.zhenghuasec.moe.edu.sg/virtual-open-house/Virtual-Open-House/
+      image: /images/zssopenhouse2023.jpeg
+      alt: Image alt text
 ---
