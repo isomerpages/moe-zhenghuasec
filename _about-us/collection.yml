@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - History.md
       - Our Family/2023 CCA Teachers in Charge.md
       - Our Family/2023 Form Teachers.md
       - Our Family/Zhenghua Staff.md
