@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Scouts.md
       - Red Cross.md
       - NPCC.md
       - NCC Air.md
