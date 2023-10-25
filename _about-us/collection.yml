@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Motto, Crest & School Song/.keep
       - History.md
       - Our Family/2023 CCA Teachers in Charge.md
       - Our Family/2023 Form Teachers.md
