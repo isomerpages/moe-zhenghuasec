@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  our-success-stories:
     output: true
     order:
       - Academic Achievements/.keep
