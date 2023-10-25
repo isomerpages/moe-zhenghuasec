@@ -2,5 +2,4 @@ collections:
   parents:
     output: true
     order:
-      - Parent Support Group.md
       - Parenting Tips.md
