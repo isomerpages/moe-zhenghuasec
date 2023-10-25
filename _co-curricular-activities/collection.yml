@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Infocomm.md
       - AV Club.md
       - Art Club.md
       - NCC Air.md
