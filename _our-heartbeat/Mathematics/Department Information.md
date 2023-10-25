@@ -6,8 +6,7 @@ third_nav_title: Mathematics
 ---
 ### Department Information
 
-<img src="/images/Programmes/Mathematics/M1.png" 
-     style="width:85%">
+<img src="/images/Programmes/Mathematics/M1.png" style="width:85%">
 		
 		 
 <style type="text/css">
@@ -87,3 +86,12 @@ third_nav_title: Mathematics
   </tr>
 </tbody>
 </table>
+
+### Programmes Highlights and Enrichment Activities
+
+![](/images/Programmes/Mathematics/M2.png)
+![](/images/Programmes/Mathematics/M3.png)
+![](/images/Programmes/Mathematics/M4.png)
+![](/images/Programmes/Mathematics/M5.png)
+![](/images/Programmes/Mathematics/M6.png)
+![](/images/Programmes/Mathematics/M7.png)
