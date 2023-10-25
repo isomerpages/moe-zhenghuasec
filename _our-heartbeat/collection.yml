@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Programmes/.keep
-      - Humanities Department.md
       - Aesthetics/.keep
       - Aesthetics/Programmes Highlights & Enrichment Activities.md
       - Applied Learning Prog ALP/.keep
