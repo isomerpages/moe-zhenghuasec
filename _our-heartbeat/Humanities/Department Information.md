@@ -20,8 +20,7 @@ third_nav_title: Humanities
 | Ms Tan Pei Wen | Mdm Zanariah Bte Zainal Abiden (AYH) |
 | Mr Tan Kian Hong Edwin | Mr Tan Tian Kiat Roy (SH/SL) |
 | Ms Koh Ming Hui | Ms Teo Siew Hui Jessie |
-| Mdm Siti Nurbasyirah | Mr Sebastian Ang |
-| Mr Glenn Hay
+| Mdm Siti Nurbasyirah | Mr Glenn Hay
 
 ### Programme Highlights and Enrichment Activities
 ![](/images/Programmes/Humanities/H2.png)
