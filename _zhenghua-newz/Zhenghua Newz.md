@@ -9,7 +9,7 @@ description: ""
 		<tr>
     <td width="33%"><img src="/images/td2302.jpeg" alt="Teachers Day 2023"></td>
     <td width="33%"><img src="/images/nationalday1.png" alt="National Day 2023"></td>
-    <td width="33%"></td>
+    <td width="33%"><img src="/images/s23dance01.jpeg"></td>
   </tr>
   <tr>
     <td>
@@ -19,7 +19,7 @@ description: ""
       <h5>National Day Celebration and Sports Fiesta 2023</h5>
     </td>
     <td>
-       <h5></h5>
+       <h5>Super Dance 23 Competition</h5>
     </td>
   </tr>
   <tr>
@@ -30,8 +30,8 @@ description: ""
        <td>To make National Day 2023 more meaningful and engaging, we collaborated with the PE Department to have Sports FIESTA. The Sports Fiesta was also an avenue to strengthen students's appreciation for Total Defence - in particular, Social Defence and Psychological Defence. <br> <br>
       <a href="/nationaldaycelebration2023/">Read More</a>
     </td>
-    <td><br> <br>
-      <a href=""></a>
+    <td>Super 23 is a dance showcase competition in which teams of 24 dancers compete on a 4-sided elevated stage. Our school dancers The Freshmakerz put up an amazing performance during the finals on 12 Aug 2023 held at the Singapore Indoor Stadium!<br> <br>
+      <a href="/s23dance23/">Read More</a>
     </td>
   </tr>
 		<tr>
