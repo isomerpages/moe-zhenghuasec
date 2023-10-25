@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Zhenghua Open House 2023
       id: infopic
-      description: 25th November 2023, 9.00am to 12.30pm
+      description: 25th November 2023, 8.30am to 13.30pm
       button: Click here for more information
       url: https://www.zhenghuasec.moe.edu.sg/virtual-open-house/Virtual-Open-House/
       image: /images/zssopenhouse2023.jpeg
