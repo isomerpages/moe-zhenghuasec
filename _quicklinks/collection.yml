@@ -2,7 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
-      - Acceptable Use Policy for PLDs.md
       - Frequently Asked Questions (FAQ).md
       - Useful links.md
       - School Services.md
