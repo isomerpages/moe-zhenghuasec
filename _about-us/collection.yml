@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - School Vision & Mission.md
-      - Our Motto, Crest & School Song/School Motto.md
-      - Our Motto, Crest & School Song/School Song.md
-      - Our Motto, Crest & School Song/Creed.md
-      - Our Motto, Crest & School Song/.keep
-      - History.md
+      - Principal's Message.md
+      - Our Family/.keep
       - Our Family/2023 CCA Teachers in Charge.md
       - Our Family/2023 Form Teachers.md
       - Our Family/Zhenghua Staff.md
       - Our Family/School Advisory Committee.md
       - Our Family/Management Committee.md
-      - Our Family/.keep
-      - Principal's Message.md
+      - History.md
+      - Our Motto, Crest & School Song/.keep
+      - Our Motto, Crest & School Song/School Motto.md
+      - Our Motto, Crest & School Song/School Song.md
+      - Our Motto, Crest & School Song/Creed.md
+      - School Vision & Mission.md
