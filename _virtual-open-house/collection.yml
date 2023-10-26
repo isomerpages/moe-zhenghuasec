@@ -2,7 +2,6 @@ collections:
   virtual-open-house:
     output: true
     order:
-      - Virtual Open House.md
       - Principal's Message.md
       - School Tour.md
       - Programmes.md
