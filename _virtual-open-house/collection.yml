@@ -2,7 +2,6 @@ collections:
   virtual-open-house:
     output: true
     order:
-      - Programmes.md
       - CCAs.md
       - School Events.md
       - Further Information.md
