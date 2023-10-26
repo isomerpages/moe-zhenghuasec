@@ -1,4 +1,4 @@
 collections:
-  virtual-open-house:
+  open-house:
     output: true
     order: []
