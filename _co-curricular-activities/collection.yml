@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Group/NCC Air.md
       - Uniformed Group/NPCC.md
       - Uniformed Group/.keep
       - Sports/Volleyball.md
