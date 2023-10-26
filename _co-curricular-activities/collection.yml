@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports/.keep
-      - Sports Club.md
       - ODAC.md
       - Basketball.md
       - Volleyball.md
