@@ -2,6 +2,7 @@ collections:
   open-house-web-archive:
     output: true
     order:
+      - Further Information.md
       - School Events.md
       - CCAs.md
       - Programmes.md
