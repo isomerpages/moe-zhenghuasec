@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports/Soccer.md
       - Sports/Netball.md
       - Sports/Basketball.md
       - Sports/ODAC.md
