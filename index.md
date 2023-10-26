@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: 25th November 2023, 8.30am to 13.30pm
       button: Click here for more information
-      url: https://www.zhenghuasec.moe.edu.sg/openhouse2023
+      url: https://www.zhenghuasec.moe.edu.sg/openhouse2023/
       image: /images/zssopenhouse2023.jpeg
       alt: Image alt text
 ---
