@@ -1,0 +1,4 @@
+collections:
+  open-house-web-archive:
+    output: true
+    order: []
