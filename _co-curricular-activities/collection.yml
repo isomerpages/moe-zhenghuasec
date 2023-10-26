@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports Club.md
       - ODAC.md
       - Basketball.md
       - Volleyball.md
