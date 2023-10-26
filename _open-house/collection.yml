@@ -2,4 +2,4 @@ collections:
   open-house:
     output: true
     order:
-      - Virtual Open House.md
+      - Open House.md
