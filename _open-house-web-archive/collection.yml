@@ -2,5 +2,6 @@ collections:
   open-house-web-archive:
     output: true
     order:
+      - School Tour.md
       - Principal's Message.md
       - Virtual Open House.md
