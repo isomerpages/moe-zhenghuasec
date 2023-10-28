@@ -2,6 +2,7 @@ collections:
   our-spotlight:
     output: true
     order:
+      - NewZ/Zhenghua Newz.md
       - NewZ/.keep
       - ZSSOfficial.md
       - NewZ.md
