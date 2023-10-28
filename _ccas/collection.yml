@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/.keep
       - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/.keep
