@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Brochure.md
       - Principal's Message.md
       - Our Family/.keep
       - Our Family/School Advisory Committee.md
@@ -19,3 +18,4 @@ collections:
       - Our Motto, Crest & School Song/School Song.md
       - Our Motto, Crest & School Song/Creed.md
       - School Vision & Mission.md
+      - School Brochure.md
