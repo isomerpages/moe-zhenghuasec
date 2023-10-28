@@ -2,6 +2,7 @@ collections:
   our-heartbeat:
     output: true
     order:
+      - CCAs/.keep
       - Academic Programmes/.keep
       - Academic Programmes/English Language and Literature.md
       - Academic Programmes/Mother Tongue Language.md
