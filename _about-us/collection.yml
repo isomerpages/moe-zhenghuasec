@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Zhenghua E Magazine.md
       - Principal's Message.md
       - Our Family/.keep
       - Our Family/School Advisory Committee.md
@@ -20,3 +19,4 @@ collections:
       - Our Motto, Crest & School Song/Creed.md
       - School Vision & Mission.md
       - School Brochure.md
+      - Zhenghua E Magazine.md
