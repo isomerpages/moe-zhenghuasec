@@ -2,5 +2,6 @@ collections:
   our-spotlight:
     output: true
     order:
+      - NewZ/.keep
       - ZSSOfficial.md
       - NewZ.md
