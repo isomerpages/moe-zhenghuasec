@@ -2,5 +2,4 @@ collections:
   zhenghua-newz:
     output: true
     order:
-      - Zhenghua Newz.md
       - Zhenghua Newz Archive.md
