@@ -1,4 +1,5 @@
 collections:
   our-spotlight:
     output: true
-    order: []
+    order:
+      - NewZ.md
