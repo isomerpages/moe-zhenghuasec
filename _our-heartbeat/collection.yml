@@ -2,7 +2,6 @@ collections:
   our-heartbeat:
     output: true
     order:
-      - CCAs/.keep
       - Academic Programmes/.keep
       - Academic Programmes/English Language and Literature.md
       - Academic Programmes/Mother Tongue Language.md
@@ -24,6 +23,7 @@ collections:
       - Info & Comm Tech/Department Information.md
       - Info & Comm Tech/Programme Highlights & Enrichment Activities.md
       - Learning for Life Program LLP.md
+      - CCAs/.keep
       - Student Leadership/.keep
       - Student Leadership/Department Information.md
       - Student Leadership/Programme Highlights and Enrichment Activities.md
