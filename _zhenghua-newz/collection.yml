@@ -1,5 +1,4 @@
 collections:
   zhenghua-newz:
     output: true
-    order:
-      - Zhenghua Newz Archive.md
+    order: []
