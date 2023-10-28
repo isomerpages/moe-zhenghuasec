@@ -2,6 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
-      - Frequently Asked Questions (FAQ).md
       - Useful links.md
+      - Frequently Asked Questions (FAQ).md
       - School Services.md
