@@ -4,6 +4,8 @@ permalink: /ccas/sports/
 description: ""
 third_nav_title: CCAs
 ---
+**Click on the images to find out more.**
+
 <a href="/ccas/Sports/basketball/"><img src="/images/2023%20CCA_Concept/20230829_155738a_for%20website.png"></a>
 
 <a href="/ccas/Sports/Netball/"><img src="/images/2023%20CCA_Concept/20230829_150237_for%20website.png"></a>
