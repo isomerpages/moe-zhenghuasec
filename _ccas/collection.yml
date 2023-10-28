@@ -1,8 +1,0 @@
-collections:
-  ccas:
-    output: true
-    order:
-      - Uniformed Groups/.keep
-      - Clubs and Societies/.keep
-      - Sports/.keep
-      - Performing Arts/.keep
