@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Our Hearbeat
     collection: our-heartbeat
-  - title: Achievements
-    url: /achievements/Academic-Achievements/permalink/
-  - title: Quicklinks
-    url: /quicklinks/
+  - title: Our Success Stories
+    collection: our-success-stories
+  - title: Our Spotlight
+    collection: our-spotlight
