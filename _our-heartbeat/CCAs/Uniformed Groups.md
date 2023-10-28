@@ -4,6 +4,8 @@ permalink: /ccas/uniformed-groups/permalink/
 description: ""
 third_nav_title: CCAs
 ---
+**Click on the images to find out more.**
+
 <a href="/ccas/Uniformed-Groups/ncc-air/"><img src="/images/2023%20CCA_Concept/20230830_160357_for%20website.png"></a>
 
 <a href="/ccas/Uniformed-Groups/npcc/"><img src="/images/2023%20CCA_Concept/20230830_161331_for%20website.png"></a>
