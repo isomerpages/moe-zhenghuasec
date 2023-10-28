@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - NewZ/.keep
-      - NewZ/Zhenghua Newz.md
+      - NewZ/NewZ.md
       - NewZ/Zhenghua Newz Archive.md
       - ZSSOfficial.md
