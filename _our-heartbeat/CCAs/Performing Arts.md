@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/
 description: ""
 third_nav_title: CCAs
 ---
+**Click on the images to find out more.**
+
 <a href="/ccas/Performing-Arts/Band/"><img src="/images/2023%20CCA_Concept/20230825_134911_for%20website.png"></a>
 
 <a href="/ccas/Performing-Arts/choir/"><img src="/images/2023%20CCA_Concept/20230825_133135_for%20website.png"></a>
