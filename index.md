@@ -12,12 +12,12 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Zhenghua Newz
-          description: ""
-          url: /news/ZhenghuaNewz/
-        - title: ZSS IG
-          description: Our Zhenghua IG Page
-          url: https://www.instagram.com/zssofficial/?hl=en
+        - title: Links
+          description: Useful Links
+          url: /quicklinks/useful-links/
+        - title: FAQ
+          description: Frequently asked Questions
+          url: /quicklinks/faq/
   - infopic:
       title: Zhenghua Open House 2023
       id: infopic
