@@ -2,5 +2,4 @@ collections:
   highlights:
     output: true
     order:
-      - School Brochure.md
       - Highlights.md
