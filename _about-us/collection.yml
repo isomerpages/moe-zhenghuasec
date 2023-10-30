@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Frequently Asked Questions (FAQ).md
       - Principal's Message.md
       - Our Family/.keep
       - Our Family/School Advisory Committee.md
@@ -21,3 +20,4 @@ collections:
       - School Vision & Mission.md
       - School Brochure.md
       - Zhenghua E Magazine.md
+      - Frequently Asked Questions (FAQ).md
