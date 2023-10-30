@@ -2,9 +2,9 @@ collections:
   our-spotlight:
     output: true
     order:
-      - School Services.md
-      - Useful links.md
       - ZSSOfficial.md
       - NewZ/.keep
       - NewZ/NewZ.md
       - "NewZ/Newz (Archive: 2018 to 2022).md"
+      - Useful links.md
+      - School Services.md
