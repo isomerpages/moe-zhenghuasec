@@ -2,6 +2,7 @@ collections:
   our-spotlight:
     output: true
     order:
+      - Useful links.md
       - ZSSOfficial.md
       - NewZ/.keep
       - NewZ/NewZ.md
