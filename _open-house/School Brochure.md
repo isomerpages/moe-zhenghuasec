@@ -3,4 +3,6 @@ title: School Brochure
 permalink: /open-house/schoolbrochure/
 description: ""
 ---
-![](/images/schoolbrochure1.jpg)
+![](/images/zssbrochurewebpage1.jpg)
+<br>
+![](/images/zssbrochurewebpage2.jpg)
