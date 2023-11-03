@@ -29,7 +29,7 @@ third_nav_title: Performing Arts
 *   Public Performance at The Istana for Hari Raya Aidilfitri Open House
 *   Singapore Youth Festival (SYF) 2019 Art Presentation – Certificate of Distinction (Malay Dance Category)
 *   Singapore Youth Festival (SYF) 2019 Art Presentation – Certificate of Distinction (International Dance Category)
-*   Super24 Dance Competition 2019 – 1st Runner-up (White Division)
+*   Super24 Dance Competition 2019 – 1st&nbsp;Runner-up (White Division)
 *   Super24 Dance Competition 2019 – Finalist (Secondary Category)
 *   Singapore Youth Festival (Malay Contemporary) 2017- Distinction Award
 *   Singapore Youth Festival (Street Dance) 2017 - Accomplishment Award
@@ -49,8 +49,6 @@ Apart from developing technical dance skills through practices twice a week, our
 
 Dance Club is proudly helmed by celebrated dance instructors Mr Osman Abdul Hamid and Mr Alif Aircho.
 
-<img src="/images/dance.jpg" 
-     style="width:85%">
+<img src="/images/dance.jpg" style="width:85%">
 
-<img src="/images/dance%201.jpg" 
-     style="width:35%">
+<img src="/images/dance%201.jpg" style="width:35%">

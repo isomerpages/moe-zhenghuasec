@@ -1,0 +1,32 @@
+collections:
+  our-success-stories:
+    output: true
+    order:
+      - Academic Achievements/.keep
+      - Academic Achievements/Academic Achievements.md
+      - Academic Achievements/2022 'O' Level Examination Results.md
+      - Academic Achievements/2022 'N' Level Examination Results.md
+      - Academic Achievements/2021 'O' Level Examination Results.md
+      - Academic Achievements/2021 'N' Level Examination Results.md
+      - Academic Achievements/2020 'O' Level Examination Results.md
+      - Academic Achievements/2020 'N' Level Examination Results.md
+      - Alumni Accolades/.keep
+      - Alumni Accolades/Alumni Accolades.md
+      - Alumni Accolades/2023 Alumni Accolades.md
+      - Alumni Accolades/2022 Alumni Accolades.md
+      - Alumni Accolades/2021 Alumni Accolades.md
+      - ECHA Awards/.keep
+      - ECHA Awards/Edusave Character Awards (ECHA).md
+      - ECHA Awards/ECHA Awards 2022.md
+      - ECHA Awards/ECHA Awards 2021.md
+      - ECHA Awards/ECHA Awards 2020.md
+      - School Values Award/.keep
+      - School Values Award/School Values Award.md
+      - School Values Award/School Values Award Secondary 1.md
+      - School Values Award/School Values Award Secondary 2.md
+      - School Values Award/School Values Award Secondary 3.md
+      - School Values Award/School Values Award Secondary 4.md
+      - Organisational.md
+      - Staff Achievements.md
+      - Student Achievements (By Departments).md
+      - Student Achievements (By CCAs).md

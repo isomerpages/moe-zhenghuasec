@@ -22,9 +22,6 @@ The Drama Club also had the opportunity to do a Values-in-Action project in part
 
 #### Our Activities:
 
-<img src="/images/drama%20club%201.jpg" 
-     style="width:85%">
-		 <img src="/images/drama%20club%202b.jpg" 
-     style="width:85%">
-		 <img src="/images/drama%20club%203.jpg" 
-     style="width:45%">
+<img src="/images/drama%20club%201.jpg" style="width:85%">
+		 <img src="/images/drama%20club%202b.jpg" style="width:85%">
+		 <img src="/images/drama%20club%203.jpg" style="width:45%">

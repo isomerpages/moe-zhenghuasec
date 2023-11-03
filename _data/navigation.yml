@@ -1,18 +1,10 @@
 logo: /images/ZSSLOGONEWwithTEXT.png
 links:
   - title: About Us
-    url: /about-us/principal-message/
-  - title: Programmes
-    url: /programmes/aesthetics/prog-highlights-and-enrichment-activities/
-  - title: Achievements
-    url: /achievements/Academic-Achievements/permalink/
-  - title: CCAs
-    url: /ccas/Uniformed-Groups/ncc-air/
-  - title: Direct School Admission
-    url: /dsa/
-  - title: Sexuality Education
-    url: /programmes/Sexuality-Education/
-  - title: Parents
-    url: /parents/parenting-tips/
-  - title: Quicklinks
-    url: /quicklinks/
+    collection: about-us
+  - title: Our Hearbeat
+    collection: our-heartbeat
+  - title: Our Success Stories
+    collection: our-success-stories
+  - title: Our Spotlight
+    collection: our-spotlight

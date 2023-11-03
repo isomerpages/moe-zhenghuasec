@@ -25,10 +25,8 @@ Despite SMM restrictions on wind instrument CCA practices, we persisted in our t
 
 Through our efforts, we continue to strive for excellence and showcase riveting performances that will cheer and comfort our audiences in these trying times.
 
-<img src="/images/symphonic%20band%201.jpg" 
-     style="width:85%">
-<img src="/images/symphonic%20band%202.jpg" 
-     style="width:85%">
+<img src="/images/symphonic%20band%201.jpg" style="width:85%">
+<img src="/images/symphonic%20band%202.jpg" style="width:85%">
 
 **SYF 2019 – Certificate of Accomplishment**
 
@@ -42,9 +40,6 @@ We are not only a band, but a family too. We always stick to our motto: One Band
 
 The band hopes to be able to continue to share their love for music with the school and community in the years to come.
 
-<img src="/images/symphonic%20band%203.jpg" 
-     style="width:85%">
-<img src="/images/symphonic%20band%204.jpg" 
-     style="width:85%">
-<img src="/images/symphonic%20band%205.jpg" 
-     style="width:35%">
+<img src="/images/symphonic%20band%203.jpg" style="width:85%">
+<img src="/images/symphonic%20band%204.jpg" style="width:85%">
+<img src="/images/symphonic%20band%205.jpg" style="width:35%">

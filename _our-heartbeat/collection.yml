@@ -1,0 +1,39 @@
+collections:
+  our-heartbeat:
+    output: true
+    order:
+      - Academic Programmes/.keep
+      - Academic Programmes/English Language and Literature.md
+      - Academic Programmes/Mother Tongue Language.md
+      - Academic Programmes/Mathematics.md
+      - Academic Programmes/Science.md
+      - Academic Programmes/Humanities.md
+      - Academic Programmes/Craft and Technology.md
+      - Academic Programmes/Physical and Outdoor Education.md
+      - Academic Programmes/Aesthetics.md
+      - CCAs/.keep
+      - CCAs/Clubs and Societies.md
+      - CCAs/Performing Arts.md
+      - CCAs/Sports.md
+      - CCAs/Uniformed Groups.md
+      - CCAs/LEAPS 2.md
+      - Applied Learning Prog ALP/.keep
+      - Applied Learning Prog ALP/Department Information.md
+      - Applied Learning Prog ALP/Programme Highlights & Enrichment Activites.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Department Information.md
+      - Character & Citizenship/Programmes Highlights & Enrichment Activities.md
+      - Character & Citizenship/Cyberwellness.md
+      - Character & Citizenship/Sexuality Education.md
+      - Info & Comm Tech/.keep
+      - Info & Comm Tech/Department Information.md
+      - Info & Comm Tech/Programme Highlights & Enrichment Activities.md
+      - Learning for Life Program LLP.md
+      - Student Leadership/.keep
+      - Student Leadership/Department Information.md
+      - Student Leadership/Programme Highlights and Enrichment Activities.md
+      - Student Management/.keep
+      - Student Management/Department Information.md
+      - Student Management/Programme Highlights and Enrichment Activities.md
+      - Student Management/Acceptable Use Policy for PLDs.md
+      - Direct School Admission.md

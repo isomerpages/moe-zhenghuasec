@@ -10,7 +10,7 @@ third_nav_title: Sports
 |---|---|
 |  | Mdm Karen Choo |
 |  | Ms Nurul'Aishah Bte Shuhaimi |
-| Training / Meeting Days and Time: | Mondays & Thursdays: 3.00pm - 6.00pm |
+| Training / Meeting Days and Time: | Mondays &amp; Thursdays: 3.00pm - 6.00pm |
 |
 
 #### Achievements:
@@ -34,23 +34,19 @@ third_nav_title: Sports
 
 #### Activities
 
-<img src="/images/netball.jpg" 
-     style="width:85%">
+<img src="/images/netball.jpg" style="width:85%">
 		 
 ##### 2019
 
 The B and C division team participated in the West Zone Netball Tournament, the M1 Schools Challenge League, carnivals such as the Neptops Carnival and Active Carnival, as well as friendly matches with other schools
 
-<img src="/images/netball%206.jpg" 
-     style="width:85%">
+<img src="/images/netball%206.jpg" style="width:85%">
 		 
-As a means to forge camaraderie and cooperation among its members, the Netball team organises events such as an annual camp. In addition, a yearly farewell party for the graduating members is also held as a token of appreciation for the service that the senior members have rendered throughout their four to five years in the CCA.
+As a means to forge camaraderie and cooperation among its members, the Netball team organises events such as an annual camp.&nbsp;In addition, a yearly farewell party for the graduating members is also held as a token of appreciation for the service that the senior members have rendered throughout their four to five years in the CCA.
 
-<img src="/images/netball%207.jpg" 
-     style="width:85%">
+<img src="/images/netball%207.jpg" style="width:85%">
 		 
-<img src="/images/netball%208.jpg" 
-     style="width:45%">
+<img src="/images/netball%208.jpg" style="width:45%">
 
 ##### 2018		 
 
@@ -64,8 +60,7 @@ The team also got to participate in various friendly matches and carnivals, such
 
 The team also got together to have fun during the June Holidays. The camp gave the players the opportunity to relax, have fun and get to know each other better!
 
-<img src="/images/netball%203.jpg" 
-     style="width:45%">
+<img src="/images/netball%203.jpg" style="width:45%">
 		 
 ##### 2017
 
@@ -75,5 +70,4 @@ The zonal tournament pushed and motivated the teams further as they looked forwa
 
 ![](/images/netball%204.jpg)
 
-<img src="/images/netball%205.jpg" 
-     style="width:45%">
+<img src="/images/netball%205.jpg" style="width:45%">

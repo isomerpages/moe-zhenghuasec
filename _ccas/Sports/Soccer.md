@@ -45,7 +45,4 @@ With a good year behind us, we hope that we can attain greater heights in 2020.
 
 Our teams participated in the 2017 West Zone Inter-school Soccer Tournament. Although we were placed against challenging opponents in the tournament, we took it in our stride and focused on putting our best foot forward in the competition. With resilience and determination, we gave our best and played hard throughout the competition. It was an enriching experience and a great learning opportunity for us as we learnt from the other soccer teams as well. Furthermore, we learnt much about the importance of teamwork and camaraderie which has strengthened the bond in our team. With the appointment of our new coach, we hope that we can improve our skills, tactics, and results in next year’s tournament.
 
-<img src="/images/soccer.jpg" 
-     style="width:45%">
-		 
-		 
+<img src="/images/soccer.jpg" style="width:45%">

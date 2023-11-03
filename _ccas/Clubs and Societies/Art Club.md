@@ -42,7 +42,7 @@ third_nav_title: Clubs and Societies
 
 | | | 
 |---|:---:|
-|"Do It Right!" Badges were awarded<br> to ZSS students for exhibiting the<br> right values and behaviour. The<br> designs for this year's badges <br>were created by Chai Jean Shuen<br> of 4E3 and Amber Yeap of 3E2.| <img src="/images/artclub7.jpg" style="width:55%">Yes, you did right, Chai Jean Shuen of 4E3!<img src="/images/artclub8.png" style="width:55%">Yes, you got this right, Amber Yeap of 3E2 |
+|"Do It Right!"&nbsp;Badges were awarded<br> to ZSS students for exhibiting the<br> right values and behaviour. The<br> designs for this year's badges <br>were created by Chai Jean Shuen<br> of 4E3 and Amber Yeap of 3E2.| <img src="/images/artclub7.jpg" style="width:55%">Yes, you did right, Chai Jean Shuen of 4E3!<img src="/images/artclub8.png" style="width:55%">Yes, you got this right, Amber Yeap of 3E2 |
 |
 		 
 #### Activities
