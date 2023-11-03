@@ -2,8 +2,9 @@
 title: School Vision & Mission
 permalink: /about-us/school-ethos/
 description: ""
+variant: markdown
 ---
-### School Vision &amp; Mission
+### School Vision, Mission &amp; Values
 
 #### Vision
 **Dynamic Learners**<br>
