@@ -24,7 +24,6 @@ To prepare every student to better meet the challenges of the future by building
 ![](/images/mission.jpg)
 
 #### Values
-
 Respect <br>
 Resilience <br>
 Responsibility <br>
