@@ -22,3 +22,11 @@ Keen sense of awareness, and sees giving as a way of life
 To prepare every student to better meet the challenges of the future by building the student's emotional, ethical, intellectual, physical and social capacity.
 
 ![](/images/mission.jpg)
+
+#### Values
+
+Respect <br>
+Resilience <br>
+Responsibility <br>
+Compassion <br>
+Integrity
