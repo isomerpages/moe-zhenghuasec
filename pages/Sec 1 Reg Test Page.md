@@ -4,25 +4,56 @@ permalink: /sec1regtest/
 variant: markdown
 description: ""
 ---
-```
-/* Style the buttons that are used to open and close the accordion panel \*/  
-.accordion&nbsp;{&nbsp;&nbsp;background-color:&nbsp;#eee;  
-&nbsp;&nbsp;color:&nbsp;#444;  
-&nbsp; cursor:&nbsp;pointer;  
-&nbsp; padding:&nbsp;18px;  
-&nbsp; width:&nbsp;100%;  
-&nbsp; text-align:&nbsp;left;  
-&nbsp;&nbsp;border:&nbsp;none;  
-&nbsp;&nbsp;outline:&nbsp;none;  
-&nbsp; transition:&nbsp;0.4s;}  
-  
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) \*/  
-.active, .accordion:hover&nbsp;{&nbsp; background-color:&nbsp;#ccc;}  
-  
-/* Style the accordion panel. Note: hidden by default \*/  
-.panel&nbsp;{&nbsp;&nbsp;padding:&nbsp;0 18px;  
-&nbsp;&nbsp;background-color:&nbsp;white;  
-&nbsp;&nbsp;display:&nbsp;none;  
-&nbsp;&nbsp;overflow:&nbsp;hidden;}
-```
+
+
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+
+
+
+<h2>Animated Accordion</h2>
+<p>Click on the buttons to open the collapsible content.</p>
+
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+
+
+
 
