@@ -459,7 +459,7 @@ As parents, you may be concerned about your child’s studies and would like to 
 
 We are also inviting interested parents to join us as active PSG members. As active PSG members, you get to help out in school events and lend support for PSG activities. By joining the PSG as active parent volunteers, you will also gain support from other parents in your parenting journey.<br><br>
 
-<b>3) Transition to Secondary School Life Parenting Workshop and PSG Welcome \[4 February 2023, 10:00am-11.30am\]</b><br><br>
+<b>3) Transition to Secondary School Life Parenting Workshop and PSG Welcome [4 February 2023, 10:00am-11.30am]</b><br><br>
 
 Students tend to face a host of emotional and psychological challenges as they transit from primary school to secondary school. While this journey into secondary school can be exciting, some teenagers will require time to adjust and accommodate to the new environment.<br><br>
 
