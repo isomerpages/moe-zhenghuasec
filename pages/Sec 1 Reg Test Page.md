@@ -4,22 +4,22 @@ permalink: /sec1regtest/
 variant: markdown
 description: ""
 ---
-```
+  
 var&nbsp;acc =&nbsp;document.getElementsByClassName("accordion");  
 var&nbsp;i;  
   
 for&nbsp;(i =&nbsp;0; i &lt;&nbsp;acc.length; i++) {  
-&nbsp; acc[i].addEventListener("click",&nbsp;function() {  
+&nbsp; acc\[i\].addEventListener("click",&nbsp;function() {  
 &nbsp;&nbsp;&nbsp;&nbsp;this.classList.toggle("active");  
 &nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;panel =&nbsp;this.nextElementSibling;  
 &nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;(panel.style.maxHeight) {  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;panel.style.maxHeight&nbsp;=&nbsp;null;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;panel.style.maxHeight&nbsp;\=&nbsp;null;  
 &nbsp;&nbsp;&nbsp; }&nbsp;else&nbsp;{  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; panel.style.maxHeight&nbsp;=&nbsp;panel.scrollHeight&nbsp;+&nbsp;"px";  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; panel.style.maxHeight&nbsp;\=&nbsp;panel.scrollHeight&nbsp;+&nbsp;"px";  
 &nbsp;&nbsp;&nbsp; }  
 &nbsp; });  
-}
-```
+}  
+
 <style>
 .accordion {
   background-color: #eee;
