@@ -31,8 +31,6 @@ description: ""
 }
 </style>
 
-
-
 <h2>Animated Accordion</h2>
 <p>Click on the buttons to open the collapsible content.</p>
 
