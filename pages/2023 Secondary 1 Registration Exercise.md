@@ -739,7 +739,7 @@ NA and NT students entering Sec 1 will be offered selected humanities subjects i
 *   Students in the N(A) stream can take Geography, History and/or English Literature at the Express level in Secondary 2 if they have met the criteria of 75% or higher in the specific Humanities subject. For example, to be eligible to offer Express level Geography, he or she must have obtained at least a combined score of 75% in N(A) Geography.<br>
 *   Students in the N(T) stream can take Geography at the Normal (Academic) level in Secondary 2 if they have met the criteria of 75% or higher in English Language, and a pass with distinction for both Performance Tasks in N(T) Social Studies.<br>
 
-<b>2.[For NA / NT students only\] What is the criteria for my child to take SBB subjects from Sec 1?</b><br><br>
+<b>2.[For NA / NT students only] What is the criteria for my child to take SBB subjects from Sec 1?</b><br><br>
 
 For students posted to the N(A) or N(T) course, they have the option to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:<br><br>
 
@@ -747,7 +747,7 @@ For students posted to the N(A) or N(T) course, they have the option to take sub
 
 <b>N(A) level</b>: AL 6 or better in a Standard level subject, or AL A in a Foundation level subject<br><br>
 
-<b>3.[For NA / NT students Only\] What if my child is a late-bloomer who did not qualify for SBB due to his/her PSLE results?</b><br><br>
+<b>3.[For NA / NT students Only] What if my child is a late-bloomer who did not qualify for SBB due to his/her PSLE results?</b><br><br>
 
 Students who perform well in their weighted assessments or end-of-year examinations in Sec 1 can still be offered EL/Math/Science/MTL at a higher level.<br><br>
 
