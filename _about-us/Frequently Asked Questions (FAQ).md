@@ -26,7 +26,7 @@ The School Placement Exercise for Returning Singaporeans (SPERS) was introduced 
 
 4. What is the criteria for Direct School Admission into Zhenghua Secondary School?
 
-	We take in promising Primary 6 students with strong leadership qualities and/or outstanding contributions to their uniformed groups, CCAs or school through the school’s Direct School Admission (DSA) exercise. Further details can be found on our DSA page&nbsp;[here](https://moe-zhenghuasec-staging.netlify.app/dsa/)
+We take in promising Primary 6 students with strong leadership qualities and/or outstanding contributions to their uniformed groups, CCAs or school through the school’s Direct School Admission (DSA) exercise. Further details can be found on our DSA page&nbsp;[here](https://moe-zhenghuasec-staging.netlify.app/dsa/)
 	
 5. What is the criteria for my child to transfer to Express from NA, or to NA from NT?
 
