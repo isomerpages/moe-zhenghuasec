@@ -20,7 +20,7 @@ variant: markdown
 
 Please read the following information on instructions for online registration, purchase of books and uniforms, and the reporting details for the first day of school.<br><br>
 
-For more information on the 2023 Secondary 1 Posting, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting">this MOE Webpage</a><br><br>
+For more information on the 2024 Secondary 1 Posting, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting">this MOE Webpage</a><br><br>
 
 Do note that there may be changes to the information above. For the latest updates, please check the school website again after receiving your posting results as well as the Parents Gateway (PG) application. As many messages will be shared via PG, please ensure that the app’s notification alert is turned on. If you have any questions, do drop us a note at <a href="mailto:zhenghua_ss@moe.edu.sg">zhenghua_ss@moe.edu.sg</a>&nbsp;or you may call the General Office at 67639455. 
 			</p>
