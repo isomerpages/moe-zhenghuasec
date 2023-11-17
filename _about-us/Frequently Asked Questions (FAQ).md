@@ -69,7 +69,7 @@ The school has the flexibility to allow students who do not meet the above crite
 
 (13) My child is taking Tamil language. When and where are the classes held?
 
-Students who are offered Tamil will study at the Tamil Language Centre, Teck Whye Secondary School outside curriculum time. For 2019, depending on the level and stream, Tamil classes will commence at 3pm on the following days:
+Students who are offered Tamil will study at the Tamil Language Centre, Teck Whye Secondary School outside curriculum time. For 2024, depending on the level and stream, Tamil classes will commence at 3pm on the following days:
 
 |Monday|Curriculum Time|Thursday|Curriculum Time|
 |---|---|---|---|
@@ -81,7 +81,7 @@ Students who are offered Tamil will study at the Tamil Language Centre, Teck Why
 
 (14) My child takes part in a competitive sport on a regular basis (e.g. gymnastics, swimming) but this sport is not offered in the school. Can it be counted as my child's CCA?
 
-In order for the child to achieve an excellent grade in CCA, the child must take part in a CCA that is offered by the school, and have attended at least 75% of that CCA’s activities during his or her time in the school. The child’s involvement in outside activities such as competitive sports can help the child achieve higher attainment points in the CCA grading system known as LEAPS. The school can also help to de-conflict the child’s CCA in school with his or her outside commitments if need be.(_For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Ms Sherlyn Goh._)
+In order for the child to achieve an excellent grade in CCA, the child must take part in a CCA that is offered by the school, and have attended at least 75% of that CCA’s activities during his or her time in the school. The child’s involvement in outside activities such as competitive sports can help the child achieve higher attainment points in the CCA grading system known as LEAPS. The school can also help to de-conflict the child’s CCA in school with his or her outside commitments if need be.(_For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Mr Robin Goh._)
 
 ##### Additional FAQs can be found at:
 *   [Student Admissions](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065)
