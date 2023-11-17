@@ -2,17 +2,18 @@
 title: Frequently Asked Questions (FAQ)
 permalink: /quicklinks/faq/
 description: ""
+variant: markdown
 ---
 ### Frequently Asked Questions
 
 1. What is Zhenghua Secondary's cut-off points?  
-For the current 2019 batch of Sec 1s:
+For the current 2023 batch of Sec 1s:
 
-| Stream | Lower | Upper | Median |
-|---|:---:|:---:|:---:|
-| Express | 211 | 239 | 217 |
-| Normal Academic | 162 | 199 | 176 |
-| Normal Technical | 136 | 159 | 145 |
+|  | Affiliated | Non-affiliated |
+|---|:---:|:---:|
+| Express / Posting Group 3 | - | 10 - 20 |
+| Normal Academic / Posting Group 2 | - | 21 - 24 |
+| Normal Technical / Posting Group 1 | - | 25 - 27 |
 |
 
 2. My Child wants to enter this school but was not offered a place during the Sec 1 posting exercise. How can I appeal for a place?
@@ -25,15 +26,15 @@ The School Placement Exercise for Returning Singaporeans (SPERS) was introduced 
 
 4. What is the criteria for Direct School Admission into Zhenghua Secondary School?
 
-	We take in promising Primary 6 students with strong leadership qualities and/or outstanding contributions to their uniformed groups, CCAs or school through the school’s Direct School Admission (DSA) exercise. Further details can be found on our DSA page [here](https://moe-zhenghuasec-staging.netlify.app/dsa/)
+	We take in promising Primary 6 students with strong leadership qualities and/or outstanding contributions to their uniformed groups, CCAs or school through the school’s Direct School Admission (DSA) exercise. Further details can be found on our DSA page&nbsp;[here](https://moe-zhenghuasec-staging.netlify.app/dsa/)
 	
 5. What is the criteria for my child to transfer to Express from NA, or to NA from NT?
 
-The student has to score a minimum of 70% in the combined score in every subject at the end of the year in order to qualify for lateral transfer.  However, while it is possible for these students in NA and NT to transfer to Express and NA respectively, the school will only allow for such a transfer if the child’s form teachers and subject teachers are confident that he or she can cope well in the higher stream. As a school, we would rather the student excel in his or her current stream, rather than find himself or herself struggling to keep up in the higher stream.
+The student has to score a minimum of 70% in the combined score in every subject at the end of the year in order to qualify for lateral transfer.&nbsp; However, while it is possible for these students in NA and NT to transfer to Express and NA respectively, the school will only allow for such a transfer if the child’s form teachers and subject teachers are confident that he or she can cope well in the higher stream. As a school, we would rather the student excel in his or her current stream, rather than find himself or herself struggling to keep up in the higher stream.
 
 6. What is the school's stand on outside tuition?
 
-We do not recommend our students to go for tuition except in exceptional cases.  The students should instead approach their teachers for help.  We also put in place several remedial measures to help our students succeed.
+We do not recommend our students to go for tuition except in exceptional cases.&nbsp; The students should instead approach their teachers for help.&nbsp; We also put in place several remedial measures to help our students succeed.
 
 7. Are handphones allowed in the school? What can the school do to prevent excessive handphone usage?
 
@@ -41,7 +42,7 @@ Handphones are not allowed to be used during curriculum time unless allowed by t
 
 8. Will teachers use Facebook or other social media and Whatsapp to communicate with the students?
 
-While we do not encourage our teachers to use social media to communicate with students, we do recognise that technological platforms can be a useful platform to encourage student online discussions and collaborations.  Hence, unless it is for educational purposes, our teachers will not use social media platforms to communicate with your child.We also recognise that online communication apps like Whatsapp are effective ways to get in touch with students. However, teachers do recognise that not all students have smart phones or data plans and that Whatsapp only serve as an additional form of communication on top of those we already have in class and in school.
+While we do not encourage our teachers to use social media to communicate with students, we do recognise that technological platforms can be a useful platform to encourage student online discussions and collaborations.&nbsp; Hence, unless it is for educational purposes, our teachers will not use social media platforms to communicate with your child.We also recognise that online communication apps like Whatsapp are effective ways to get in touch with students. However, teachers do recognise that not all students have smart phones or data plans and that Whatsapp only serve as an additional form of communication on top of those we already have in class and in school.
 
 9. When my child is sick, can I just write a letter instead of providing an MC as they have medication at home?
 
@@ -49,7 +50,7 @@ We seek your kind understanding to always get a doctor to look into the health a
 
 10. If we want to apply leave for my child, what must we do?
 
-If your child is sick, please consult a doctor to obtain an MC. If there are other forms of emergencies (e.g. bereavement of a family member), please write a letter to inform your child’s form teachers about the duration which your child needs to be away.  We seek your understanding to not take your child out of school for holidays during curriculum time as this would have an impact on his or her studies.
+If your child is sick, please consult a doctor to obtain an MC. If there are other forms of emergencies (e.g. bereavement of a family member), please write a letter to inform your child’s form teachers about the duration which your child needs to be away.&nbsp; We seek your understanding to not take your child out of school for holidays during curriculum time as this would have an impact on his or her studies.
 
 11. Who can opt for Higher MTL and where are the lessons held?
 
@@ -70,18 +71,17 @@ The school has the flexibility to allow students who do not meet the above crite
 
 Students who are offered Tamil will study at the Tamil Language Centre, Teck Whye Secondary School outside curriculum time. For 2019, depending on the level and stream, Tamil classes will commence at 3pm on the following days:
 
-| Monday (3.00pm to 6.00pm) (4.30pm to 4.45pm break) | Thursday |
-|---|---|
-| 4EX | 3NT (3.00pm to 4.45pm) |
-| 4NA | 2EX/2NA (3.00pm to 6.00pm) (4.30pm to 4.45pm break) |
-| 3NA | 4NT |
-| 3EX | - |
-| 1EX/1NA | 1NT/2NT (3.00pm to 4.45pm) |
+|Monday|Curriculum Time|Thursday|Curriculum Time|
+|---|---|---|---|
+|3EX|3.00pm to 6.00pm<br>(4.30pm to 4.45pm break)|1EX / 1NA|3.00pm to 6.00pm<br>(4.30pm to 4.45pm break)|
+|3NA|3.00pm to 6.00pm<br>(4.30pm to 4.45pm break)|2EX / 2NA|3.00pm to 6.00pm<br>(4.30pm to 4.45pm break)|
+|4EX/5NA|3.00pm to 6.00pm<br>(4.30pm to 4.45pm break)|1NT / 2NT|3.00pm to 4.45pm<br>(No break)|
+|4NA|3.00pm to 6.00pm<br>(4.30pm to 4.45pm break)|3NT/4NT|3.00pm to 4.45pm<br>(No break)|
 |
 
 14. My child takes part in a competitive sport on a regular basis (e.g. gymnastics, swimming) but this sport is not offered in the school. Can it be counted as my child's CCA?
 
-In order for the child to achieve an excellent grade in CCA, the child must take part in a CCA that is offered by the school, and have attended at least 75% of that CCA’s activities during his or her time in the school. The child’s involvement in outside activities such as competitive sports can help the child achieve higher attainment points in the CCA grading system known as LEAPS. The school can also help to de-conflict the child’s CCA in school with his or her outside commitments if need be.(_For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&CCA Ms Sherlyn Goh._)
+In order for the child to achieve an excellent grade in CCA, the child must take part in a CCA that is offered by the school, and have attended at least 75% of that CCA’s activities during his or her time in the school. The child’s involvement in outside activities such as competitive sports can help the child achieve higher attainment points in the CCA grading system known as LEAPS. The school can also help to de-conflict the child’s CCA in school with his or her outside commitments if need be.(_For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Ms Sherlyn Goh._)
 
 ##### Additional FAQs can be found at:
 *   [Student Admissions](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065)
@@ -91,4 +91,4 @@ In order for the child to achieve an excellent grade in CCA, the child must take
 *   [CCA Matters](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065)
 *   [SLS Matters](/files/SLS%20student%20learning%20space.pdf)
 
-For specific questions related to Zhenghua Secondary School, please contact the school at 6763 9455 or  email us at [zhenghua_ss@moe.edu.sg](zhenghua_ss@moe.edu.sg)
+For specific questions related to Zhenghua Secondary School, please contact the school at 6763 9455 or &nbsp;email us at&nbsp;[zhenghua_ss@moe.edu.sg](zhenghua_ss@moe.edu.sg)
