@@ -53,7 +53,8 @@ Do note that there may be changes to the information above. For the latest updat
 
 <p> For new applications :<br><br>
 	
-<br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office. 
+<br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office.  
+<br> Upon completion, please submit the application form and the required supporting documents, please go
 	
 
 For information on appeals for transfer for serious medical conditions,&nbsp;<b>please go to this</b> <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer">MOE website</a> 
