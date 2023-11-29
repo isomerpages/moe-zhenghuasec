@@ -32,7 +32,7 @@ Do note that there may be changes to the information above. For the latest updat
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">1. Online Registration by 12pm on 22/12/2022</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">1. Online Registration by 12pm on 22/12/2023</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
