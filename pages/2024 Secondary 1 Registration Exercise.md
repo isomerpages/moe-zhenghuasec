@@ -76,7 +76,7 @@ Please do not purchase the books and uniforms before receiving the approval lett
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> Students who would like to request for a school transfer due to medical reasons will need to submit their appeal through the posted secondary school by 12pm on 22 Dec 2022.<br><br>
+<p> Students who would like to request for a school transfer due to medical reasons will need to submit their appeal through the posted secondary school by 12pm on 22 Dec 2023.<br><br>
 
 For information on appeals for transfer for serious medical conditions,&nbsp;<b>please go to this</b> <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer">MOE website</a>
 			</p>
