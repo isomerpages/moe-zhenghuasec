@@ -125,13 +125,8 @@ Parents are advised to purchase at least 1 set of formal school uniform (school 
 
 NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br><br>
 
-The booklist for students are listed as such:<br><br>
-	
-<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1E-2023.pdf">Sec 1 Express book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NA-2023.pdf">Sec 1 Normal (Academic) book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NA-SBB.pdf">Sec 1 Normal (Academic) with Subject Based Banding book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-2023.pdf">Sec 1 Normal (Technical) book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-SBB-2023.pdf">Sec 1 Normal (Technical) with Subject Based Banding book list</a><br><br>
+Attached is the booklist for the students.<br>
+[FSBB Booklist for students](/files/FSBB_Booklist_OH_2023.pdf)
 	
 <b>Please note:</b><br><br>
 
