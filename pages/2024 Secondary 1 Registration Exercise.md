@@ -55,10 +55,14 @@ Do note that there may be changes to the information above. For the latest updat
 	
 <br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office.  
 <br> Upon completion, please submit the application form and the required supporting documents to the General Office. Do only proceed to purchase the books and uniforms after your FAS application has been approved and you have been issued the FAS letter of approval from our school.
-	
 
-For information on appeals for transfer for serious medical conditions,&nbsp;<b>please go to this</b> <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer">MOE website</a> 
-			</p>
+<u>For Already Approved MOE FAS for  **2024** with Approval Letter from Primary School</u>
+
+Please proceed to the General Office with your approval letter before collecting your books and uniforms.
+
+Please do not purchase the books and uniforms before receiving the approval letter as you will not be reimbursed for any amount spent. For all other queries on FAS, please proceed to the General Office.
+
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
