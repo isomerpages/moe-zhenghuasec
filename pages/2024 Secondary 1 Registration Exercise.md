@@ -169,7 +169,7 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 <p> Zhenghua Secondary School is one of the 28 pilot schools for Full Subject-Based Banding (Full SBB).<br><br>
 <b>Background</b><br><br>
 Zhenghua Secondary School has since 2017 been offering subject-based banding in English, Mother-Tongue Languages, Math and Science for eligible Normal (Academic) and Normal (Technical) students.<br><br>
-To provide an even more customised secondary education experience for students, we have rolled out Full SBB to all Sec 1 students from 2021. Full SBB will provide students with opportunities to study even more subjects at a level better suited to their strengths and interests.<br><br>
+To provide an even more customised secondary education experience for students, we have rolled out Full SBB to all Sec 1 students from 2021. Full SBB provide students with opportunities to study subjects at a level better suited to their strengths and interests.<br><br>
 As part of this pilot, our school will:<br><br>
 1.  Provide Secondary 2 Normal (Academic) and Normal (Technical) students with the opportunity to offer Humanities subjects at a more demanding level; and<br>
 2.  Organise Secondary 1 form classes in new ways.<br>
