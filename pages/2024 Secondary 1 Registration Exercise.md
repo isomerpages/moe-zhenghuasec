@@ -30,6 +30,7 @@ Do note that there may be changes to the information above. For the latest updat
 <li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">1. Online Registration by 12pm on 22/12/2023</label>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <div>
 <p> The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52">here</a>. 
 </p>
