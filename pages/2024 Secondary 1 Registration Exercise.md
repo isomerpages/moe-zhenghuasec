@@ -326,11 +326,8 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 </li>
 	
 <li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion10">
-
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion10">9. First Day of School &amp; Secondary 1 Orientation</label>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> Click on the slide to view the slides. Or click <a href="https://zhenghuasec.moe.edu.sg/wp-content/uploads/2022/12/First-Day-of-School-2023V3.pptx">here</a>&nbsp;to access the slides.<br><br>
@@ -347,33 +344,20 @@ Camp Packing List (click on image to view)<br><br>
 </li>
 	
 <li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion11">
-
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion11">10. Class Posting</label>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-
 <p> Information on class allocation will be made available through Parents Gateway. Please note that the purchase of the PE T-shirt is house-based and is determined by the class that you are allocated to. Do not purchase the PE attire until you have received your class posting.<br><br>
-
-<i>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 22 Dec, 8am</i>
-			</p>
-
-&nbsp;&nbsp;</div>
-
+<i>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 23 Dec, 8am</i>
+</p>
+</div>
 </li>
 	
 <li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion12">
-
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion12">11. Parent Support Group (PSG)</label>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P1.jpg"><br><br>
-					
-A very warm welcome to you and your child!<br><br>
 
 All parents are automatically members of the Zhenghua Secondary School Parent Support Group (ZSS PSG). The ZSS PSG is a network of parents who work in close partnership with the school.<br><br>
 
@@ -428,7 +412,7 @@ Thank you and once again, welcome to the ZSS PSG family!
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> Our first PTM will be conducted on Friday 6 January 2023, at 5pm in school hall followed by camp finale. There will be a welcome talk by our Principal, Mr Ng in the hall. You will get to meet your child's Form Teachers at this PTM. More details will be shared via Parents Gateway. </p>
+<p> Our first PTM will be conducted on Friday 5 January 2024, at 5pm in school hall. There will be a welcome talk by our Principal, Mr Ng in the hall followed by the Form Teacher's sharing in the classrooms. More details will be shared via Parents Gateway. </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
