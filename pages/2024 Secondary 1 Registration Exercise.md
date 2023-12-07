@@ -45,7 +45,7 @@ Do note that there may be changes to the information above. For the latest updat
 <p> <u>For New Applications :</u><br>
 <br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office.  
 <br> Upon completion, please submit the application form and the required supporting documents to the General Office. Do only proceed to purchase the books and uniforms after your FAS application has been approved and you have been issued the FAS letter of approval from our school.
-<br><br><u>For Already Approved MOE FAS for  <b>2024</b> with Approval Letter from Primary School</u>
+<br><br><u>For Already Approved MOE FAS for  <b>2024</b> with Approval Letter from Primary School</u><br>
 <br>Please proceed to the General Office with your approval letter before collecting your books and uniforms.
 <br>Please do not purchase the books and uniforms before receiving the approval letter as you will not be reimbursed for any amount spent. For all other queries on FAS, please proceed to the General Office.
 </p>
