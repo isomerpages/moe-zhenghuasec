@@ -87,7 +87,7 @@ Parents are advised to purchase at least 1 set of formal school uniform (school 
 <b>Purchasing of Textbooks</b><br><br>
 NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br><br>
 Attached is the booklist for the students.<br>
-<a href="/files/FSBB_Booklist_OH_2023.pdf">FSBB Booklist for Students</a>
+<a href="/files/ZHSS_S1_2024_Booklist.pdf">FSBB Booklist for Students</a>
 <br><br><b>Please note:</b><br>
 1. Please strictly keep to the time and date that you have booked.<br><br>
 2. Parents who come at the wrong date or time may be turned away if there is a long queue.<br><br>
