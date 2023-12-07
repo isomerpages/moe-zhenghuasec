@@ -87,11 +87,11 @@ Parents are advised to purchase at least 1 set of formal school uniform (school 
 <b>Purchasing of Textbooks</b><br><br>
 NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br><br>
 Attached is the booklist for the students.<br>
-[FSBB Booklist for students](/files/FSBB_Booklist_OH_2023.pdf)
-<b>Please note:</b><br><br>
-1. Please keep strictly to the time and date that you have booked.<br><br>
-2. Please show&nbsp;<b>the booking confirmation sent to your registered email</b>&nbsp;to the staff at the school gate upon entry to verify your booked time slot and date. Parents who come at the wrong date or time may be turned away if there is a long queue.<br><br>
-3. Please note that parking on the school grounds is limited and you may be directed to the nearest multi-storey carpark once the car park lots in the school are filled up. Entrance and exit will be from the school gate located along Bukit Panjang Ring Road.<br><br>
+<a href="/files/FSBB_Booklist_OH_2023.pdf">FSBB Booklist for Students</a>
+<br><b>Please note:</b><br>
+1. Please keep strictly to the time and date that you have booked.<br>
+2. Please show&nbsp;<b>the booking confirmation sent to your registered email</b>&nbsp;to the staff at the school gate upon entry to verify your booked time slot and date. Parents who come at the wrong date or time may be turned away if there is a long queue.<br>
+3. Please note that parking on the school grounds is limited and you may be directed to the nearest multi-storey carpark once the car park lots in the school are filled up. Entrance and exit will be from the school gate located along Bukit Panjang Ring Road.<br>
 4. You will be guided by student councilors and school staff to the venues:<br>
 Block H (Level 1) for uniform sale<br>
 Block D (Level 1) for Express Textbooks<br>
