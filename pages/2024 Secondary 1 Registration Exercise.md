@@ -405,27 +405,17 @@ Thank you and once again, welcome to the ZSS PSG family!
 </li>
 	
 <li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion13">
-
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion13">12. Parent-Teacher Meeting (1st PTM)</label>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-
 <p> Our first PTM will be conducted on Friday 5 January 2024, at 5pm in school hall. There will be a welcome talk by our Principal, Mr Ng in the hall followed by the Form Teacher's sharing in the classrooms. More details will be shared via Parents Gateway. </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+</div>
 </li>
 	
 <li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion14">
-
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion14">13. Frequently Asked Questions (FAQ)</label>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-
 <p> <b>Frequently Asked Questions by Parents at Sec 1 Registration</b>
 
 <b>1. What is Zhenghua Secondary’s cut-off points (COP)?</b><br><br>
@@ -443,7 +433,7 @@ The indicative PSLE score ranges of 2021 PSLE students posted to 2022 Sec 1.<br>
 <thead>
   <tr>
     <th class="tg-4p8a">Express</th>
-    <th class="tg-4p8a">11 – 20</th>
+    <th class="tg-4p8a">10 – 20</th>
   </tr>
 </thead>
 <tbody>
