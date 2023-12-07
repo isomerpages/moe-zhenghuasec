@@ -152,6 +152,11 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
     <td class="tg-prnc">Heron</td>
     <td class="tg-prnc">Blue</td>
   </tr>
+	 <tr>
+    <td class="tg-prnc">1H</td>
+    <td class="tg-prnc">Hawk</td>
+    <td class="tg-prnc">Red</td>
+  </tr>
 </tbody>
 </table><br>
 			
