@@ -252,17 +252,12 @@ SBB - Offer Letter Video<br><br>
 			
 Please return the hardcopy forms to the General Office or reply acceptance through Parents Gateway by&nbsp;<b>27 December 2023.</b>
 </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+</div>
 </li>
 	
 &nbsp;&nbsp;<li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion8">
-
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">7. Personalised Digital Learning Programme (PDLP)</label>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <b>1. What is PDLP about?</b><br><br>
@@ -279,13 +274,13 @@ In line with our school vision of preparing every student to be principled and f
 
 <b>3. Why Chromebooks?</b><br><br>
 
-In Zhenghua Secondary School, we have been tapping on ICT platforms supported by Chrome OS to prepare our students to be dynamic learners. As such, it is only natural to continue on this platform. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.<br><br>
+In Zhenghua Secondary School, we have been tapping on ICT platforms supported by Chrome OS to prepare our students to be dynamic learners. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.<br><br>
 
 <b>4. How much does my child have to pay for the device?</b><br><br>
 
-MOE will use bulk tenders to keep the PLDs affordable. MOE has also provided a one-off Edusave top-up of $200 in April 2020 to all eligible Singaporean students in primary and secondary schools, to help them purchase the devices selected by the school. This is on top of the annual Edusave contribution of $290 for secondary students. Students who do not have sufficient funds in their Edusave will need to bear some out-of-pocket expenses for the device, but this will not be a big amount as the Chromebooks with the enhanced 3 year warranty will cost less than $580. For students on financial assistance, we will provide further subsidies so that their out-of-pocket expenses is zero. This is to ensure that no student is denied the opportunity to benefit from the programme.<br><br>
+MOE will use bulk tenders to keep the PLDs affordable. The Chromebooks with the enhanced 3 year warranty will cost less than $580. For students on financial assistance, we will provide further subsidies so that their out-of-pocket expenses is zero. This is to ensure that no student is denied the opportunity to benefit from the programme.<br><br>
 
-Specific costs and details will be communicated to all parents in January 2023.<br><br>
+Specific costs and details will be communicated to all parents in January 2024.<br><br>
 
 <b>5. Can my child not purchase the device?</b><br><br>
 
@@ -312,15 +307,12 @@ In addition, through CCE lessons, students will be taught how to embrace the con
 As part of our school’s Cyber Wellness education, students learn how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities. The revised CCE 2021 will also feature cyber wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment.
 			</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+</div>
 </li>
-	<li>
 
+<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion9">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">8. Parents Gateway (PG)</label>
-
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">8. CCA Trial</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> All announcements and information will be shared to parents via the Parents Gateway application. If you are not already on board, please refer to the details below on how you can do so.<br><br>
@@ -329,7 +321,7 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 				<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/8%20Parents%20Gateway/PG3.jpg">
 			</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
