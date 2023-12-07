@@ -88,7 +88,7 @@ Parents are advised to purchase at least 1 set of formal school uniform (school 
 NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br><br>
 Attached is the booklist for the students.<br>
 <a href="/files/FSBB_Booklist_OH_2023.pdf">FSBB Booklist for Students</a>
-<br><b>Please note:</b><br>
+<br><br><b>Please note:</b><br>
 1. Please strictly keep to the time and date that you have booked.<br>
 2. Please show&nbsp;<b>the booking confirmation sent to your registered email</b>&nbsp;to the staff at the school gate upon entry to verify your booked time slot and date. Parents who come at the wrong date or time may be turned away if there is a long queue.<br>
 3. Please note that parking on the school grounds is limited and you may be directed to the nearest multi-storey carpark once the car park lots in the school are filled up. Entrance and exit will be from the school gate located along Bukit Panjang Ring Road.<br>
