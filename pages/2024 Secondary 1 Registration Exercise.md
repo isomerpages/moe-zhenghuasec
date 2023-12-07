@@ -244,8 +244,8 @@ We will be organising Sec 1 form classes in new ways to include students from th
 This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.<br><br>
 
 SBB - Booklist (click on the picture to view slides)<br><br>
-			
-<a href="/files/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBB-Booklist.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a><br><br>
+
+<a href="/files/FSBB_Booklist_OH_2023.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a><br><br>
 			
 SBB - Booklist Video<br><br>
 			
