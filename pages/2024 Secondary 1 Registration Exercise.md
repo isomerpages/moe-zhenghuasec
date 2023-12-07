@@ -250,7 +250,7 @@ SBB - Offer Letter (click on the picture to view slides)<br><br>
 			
 SBB - Offer Letter Video<br><br>
 			
-Please return the hardcopy forms to the General Office or reply acceptance through Parents Gateway by&nbsp;<b>27 December 2022.</b>
+Please return the hardcopy forms to the General Office or reply acceptance through Parents Gateway by&nbsp;<b>27 December 2023.</b>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
