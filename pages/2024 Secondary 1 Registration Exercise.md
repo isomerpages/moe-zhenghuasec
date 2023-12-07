@@ -23,33 +23,22 @@ Please read the following information on instructions for online registration, p
 For more information on the 2024 Secondary 1 Posting, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting">this MOE Webpage</a><br><br>
 
 Do note that there may be changes to the information above. For the latest updates, please check the school website again after receiving your posting results as well as the Parents Gateway (PG) application. As many messages will be shared via PG, please ensure that the app’s notification alert is turned on. If you have any questions, do drop us a note at <a href="mailto:zhenghua_ss@moe.edu.sg">zhenghua_ss@moe.edu.sg</a>&nbsp;or you may call the General Office at 67639455. 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+</p>
+</div>
 </li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">1. Online Registration by 12pm on 22/12/2023</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52">here</a>. 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">1. Online Registration by 12pm on 22/12/2023</label>
+<div>
+<p> The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52">here</a>. 
+</p>
+</div>
 </li>
 	
 <li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application (Online Form)</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<input type="checkbox" id="accordion3">
+<label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application (Online Form)</label>
+<div>
 
 <p> For new applications :<br><br>
 	
