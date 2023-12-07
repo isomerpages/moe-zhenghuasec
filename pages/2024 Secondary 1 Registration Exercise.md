@@ -275,11 +275,11 @@ MOE announced in March 2020 that we will strengthen students’ digital literacy
 
 <b>2. How will this be implemented in Zhenghua Secondary School?</b><br><br>
 
-In line with our school vision of preparing every student to be principled and future-ready leaders, all Sec 1 – 4s will be equipped with a PLD in 2023. Our school has chosen Chromebooks as our preferred PLD.<br><br>
+In line with our school vision of preparing every student to be principled and future-ready leaders, all Sec 1 – 4s will be equipped with a PLD in 2024. Our school has chosen Chromebooks as our preferred PLD.<br><br>
 
 <b>3. Why Chromebooks?</b><br><br>
 
-Using ICT in teaching and learning is not new to our school and our students. We have been tapping on the Google platform for many years in our drive to prepare our students to be collaborative and self-directed learners. As such, it is only natural to continue on this platform. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.<br><br>
+In Zhenghua Secondary School, we have been tapping on ICT platforms supported by Chrome OS to prepare our students to be dynamic learners. As such, it is only natural to continue on this platform. In addition, Chromebooks as compared to laptops tend to be lighter, and with batteries that can last longer. They are also more affordable than tablets as the Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen and dual cameras, unlike tablets which can become quite costly once we include the additional accessories.<br><br>
 
 <b>4. How much does my child have to pay for the device?</b><br><br>
 
