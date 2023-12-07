@@ -26,6 +26,7 @@ Do note that there may be changes to the information above. For the latest updat
 </p>
 </div>
 </li>
+	
 <li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">1. Online Registration by 12pm on 22/12/2023</label>
@@ -39,22 +40,14 @@ Do note that there may be changes to the information above. For the latest updat
 <input type="checkbox" id="accordion3">
 <label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application (Online Form)</label>
 <div>
-
 <p> For new applications :<br><br>
-	
 <br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office.  
 <br> Upon completion, please submit the application form and the required supporting documents to the General Office. Do only proceed to purchase the books and uniforms after your FAS application has been approved and you have been issued the FAS letter of approval from our school.
-
-<u>For Already Approved MOE FAS for  **2024** with Approval Letter from Primary School</u>
-
-Please proceed to the General Office with your approval letter before collecting your books and uniforms.
-
-Please do not purchase the books and uniforms before receiving the approval letter as you will not be reimbursed for any amount spent. For all other queries on FAS, please proceed to the General Office.
-
+<br><u>For Already Approved MOE FAS for  **2024** with Approval Letter from Primary School</u>
+<br>Please proceed to the General Office with your approval letter before collecting your books and uniforms.
+<br>Please do not purchase the books and uniforms before receiving the approval letter as you will not be reimbursed for any amount spent. For all other queries on FAS, please proceed to the General Office.
 </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+</div>
 </li>
 	
 <li>
