@@ -38,8 +38,9 @@ Do note that there may be changes to the information above. For the latest updat
 </li>
 	
 <li>
-<input type="checkbox" id="accordion3">
-<label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application (Online Form)</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application (Online Form)</label>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <div>
 <p> For new applications :<br><br>
 <br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office.  
