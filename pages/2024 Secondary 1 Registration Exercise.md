@@ -174,6 +174,7 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 <img src="/images/SBB1.png"><br>
 <img src="/images/SBB2.png"><br>
 <img src="/images/SBB3.png"><br>
+<a href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img src="/images/SBBvideo.png"></a><br>
 <img src="/images/SBB4.png"><br>
 <img src="/images/SBB5.png"><br>
 <img src="/images/SBB6.png"><br>
