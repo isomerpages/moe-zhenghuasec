@@ -253,7 +253,7 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion9">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">8. CCA Trial</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-<p> Click here to view the details regarding the CCA trials happening in 2024 Term 1 Week 2.
+<p> Click <a href="/files/2024Sec1CCATrials.pdf">here</a> to view the details regarding the CCA trials happening in 2024 Term 1 Week 2.
 </p>
 
 </div>
