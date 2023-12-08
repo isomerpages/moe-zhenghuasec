@@ -182,7 +182,7 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 <img src="/images/SBB9.png"><br>
 <a href="https://go.gov.sg/moe-fsbb"><img src="/images/SBB10.png"></a><br>
 
-SBB - Booklist (click on the picture to view slides)<br><br>
+SBB - Offer Letter &amp; Booklist (click on the picture to view slides)<br><br>
 
 <a href="/files/FSBB_Booklist_OH_2023.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a><br><br>
 			
