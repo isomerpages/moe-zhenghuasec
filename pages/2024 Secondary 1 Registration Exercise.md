@@ -171,7 +171,17 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 - Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.<br><br>
 - With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.
 <br>
-	Zhenghua Secondary School has since 2017 been offering subject-based banding in English, Mother-Tongue Languages, Math and Science for eligible Normal (Academic) and Normal (Technical) students.<br><br>
+<img src="/images/SBB1.png"><br>
+<img src="/images/SBB2.png"><br>
+<img src="/images/SBB3.png"><br>
+<img src="/images/SBB4.png"><br>
+<img src="/images/SBB5.png"><br>
+<img src="/images/SBB6.png"><br>
+<img src="/images/SBB7.png"><br>
+<img src="/images/SBB8.png"><br>
+<img src="/images/SBB9.png"><br>
+<img src="/images/SBB10.png"><br>
+Zhenghua Secondary School has since 2017 been offering subject-based banding in English, Mother-Tongue Languages, Math and Science for eligible Normal (Academic) and Normal (Technical) students.<br><br>
 To provide an even more customised secondary education experience for students, we have rolled out Full SBB to all Sec 1 students from 2021. Full SBB provide students with opportunities to study subjects at a level better suited to their strengths and interests.<br><br>
 As part of this pilot, our school will:<br><br>
 1.  Provide Secondary 2 Normal (Academic) and Normal (Technical) students with the opportunity to offer Humanities subjects at a more demanding level; and<br>
