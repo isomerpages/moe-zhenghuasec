@@ -93,9 +93,7 @@ Attached is the booklist for the students.<br>
 2. Parents who come at the wrong date or time may be turned away if there is a long queue.<br><br>
 3. Please note that parking on the school grounds is limited and you may be directed to the nearest multi-storey carpark once the car park lots in the school are filled up. Entrance and exit will be from the school gate located along Bukit Panjang Ring Road.<br><br>
 4. You will be guided by student leaders and school staff to the venues:<br>
-- Block H (Level 1) for uniform sale<br>
-- Block D (Level 1) for Express Textbooks<br>
-- Block E (Level 1) for Normal(Academic) and Normal (Technical) Textbooks.<br><br>
+- Block H (Level 1) for uniform sale<br><br>
 5. Textbooks and uniform bought can be returned or exchanged as long as they are clean and in original condition. Uniform should not be soiled.<br><br>
 <b>Purchase of Physical Education Attire</b><br><br>
 It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;and&nbsp;school black PE shorts&nbsp;for PE lessons.&nbsp; Please purchase the correct House T-Shirts for your child/ward, as indicated in the table below.&nbsp; It is advisable to purchase a minimum of 2 sets of the PE attire.<br><br>
