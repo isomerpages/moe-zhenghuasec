@@ -157,9 +157,6 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
   </tr>
 </tbody>
 </table><br>
-			
-<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/PE-Shirts.jpg">
-	
 </p>
 </div>
 </li>
