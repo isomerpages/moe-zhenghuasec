@@ -314,9 +314,9 @@ To help parents understand the importance of parental support during this transi
 
 Transition to Secondary School Life Parenting Workshop and PSG Meeting<br><br>
 
-Date: 4 February 2023, Saturday<br>
+Date: 17 February 2024, Saturday<br>
 
-Time: 10am-11.30am<br>
+Time: 9.30am-11am<br>
 
 Venue: School Library<br>
 
@@ -325,8 +325,8 @@ Through the workshop, parents can learn to:<br><br>
 1.  Understand the different expectations and developmental tasks that your child may encounter during this period of time.<br>
 2.  Be equipped with the necessary knowledge to support your child in the secondary school learning environment and help him/her to understand how better to overcome the various challenges in secondary school.<br>
 
-As part of our efforts to go green, all registrations for PSG will be done online. Please take a moment to go to the link below for the registration form for the three programmes stated above. Alternatively, you may scan the QR code for the registration form. Please allow us seven working days to process your registration.<br><br>
-					<img style="width:40%;height:50%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P2.jpeg"><br><br>
+As part of our efforts to go green, all registrations for PSG will be done online. Please take a moment to go to the <a href="https://go.gov.sg/sec1psg24">link</a> for the registration form for the three programmes stated above. Alternatively, you may scan the QR code for the registration form. Please allow us seven working days to process your registration.<br><br>
+<img style="width:40%;height:50%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P2.jpeg"><br><br>
 					
 Or access it here :&nbsp;<a href="https://go.gov.sg/zsspsg2023registration">https://go.gov.sg/zsspsg2023registration</a><br><br>
 
