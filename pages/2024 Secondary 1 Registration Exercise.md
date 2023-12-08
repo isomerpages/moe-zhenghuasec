@@ -310,9 +310,9 @@ We are also inviting interested parents to join us as active PSG members. As act
 
 Students tend to face a host of emotional and psychological challenges as they transit from primary school to secondary school. While this journey into secondary school can be exciting, some teenagers will require time to adjust and accommodate to the new environment.<br><br>
 
-To help parents understand the importance of parental support during this transitional phase of your child, ZSS PSG will be organizing the following parenting workshop in January:<br><br>
+To help parents understand the importance of parental support during this transitional phase of your child, ZSS PSG will be organizing the following parenting workshop in February:<br><br>
 
-Transition to Secondary School Life Parenting Workshop and PSG Welcome<br><br>
+Transition to Secondary School Life Parenting Workshop and PSG Meeting<br><br>
 
 Date: 4 February 2023, Saturday<br>
 
