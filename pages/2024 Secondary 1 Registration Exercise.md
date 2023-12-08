@@ -326,17 +326,14 @@ Through the workshop, parents can learn to:<br><br>
 2.  Be equipped with the necessary knowledge to support your child in the secondary school learning environment and help him/her to understand how better to overcome the various challenges in secondary school.<br>
 
 As part of our efforts to go green, all registrations for PSG will be done online. Please take a moment to go to the <a href="https://go.gov.sg/sec1psg24">link</a> for the registration form for the three programmes stated above. Alternatively, you may scan the QR code for the registration form. Please allow us seven working days to process your registration.<br><br>
-<img style="width:40%;height:50%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P2.jpeg"><br><br>
+<img style="width:40%;height:50%" src="/images/PSGQRCODE.png"><br><br>
 					
-Or access it here :&nbsp;<a href="https://go.gov.sg/zsspsg2023registration">https://go.gov.sg/zsspsg2023registration</a><br><br>
-
 We believe you will find your journey with the ZSS PSG a very enriching and fun-filled experience.<br><br>
 
 Thank you and once again, welcome to the ZSS PSG family!
-			</p>
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
-
 </li>
 	
 <li>
