@@ -188,7 +188,7 @@ SBB - Offer Letter &amp; Booklist (click on the picture to view slides)<br><br>
 			
 SBB - Offer Letter Video<br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QVXEEP--hdU?si=vThhq8dowFg_Yxoe" height="315" width="560"></iframe>			
-			
+<br><br>			
 Please return the hardcopy forms to the General Office or reply acceptance through Parents Gateway by&nbsp;<b>27 December 2023.</b>
 </p>
 </div>
