@@ -436,48 +436,14 @@ At the end of year examination in secondary two, students who have shown keen in
 
 <b>12.&nbsp; My child is taking Tamil language. When and where are the classes held?</b><br><br>
 
-Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu Kang Secondary School outside curriculum time. &nbsp;The current 2023 schedule is as follows:<br><br>
+Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu Kang Secondary School outside curriculum time. &nbsp;The current 2024 schedule is as follows:<br><br>
 			
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c1uv"><span style="font-weight:700">Monday</span></th>
-    <th class="tg-c1uv"><span style="font-weight:700"> Lesson Time</span></th>
-    <th class="tg-c1uv"><span style="font-weight:700">Thursday</span></th>
-    <th class="tg-c1uv"><span style="font-weight:700">Lesson Time </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-prnc">3 Exp</td>
-    <td class="tg-prnc" rowspan="4">3.00 − 6.00 pm<br><br><span style="font-weight:inherit;font-style:inherit">(4.30 − 4.45 pm break)</span></td>
-    <td class="tg-prnc">1 Exp and 1 NA</td>
-    <td class="tg-prnc" rowspan="2">3.00 − 6.00 pm<br><br><span style="font-weight:inherit;font-style:inherit">(4.30 − 4.45pm break)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">3 NA</td>
-    <td class="tg-prnc">2 Exp / 2 NA</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">4 Exp / 5 NA</td>
-    <td class="tg-prnc">1 NT / 2 NT</td>
-    <td class="tg-prnc" rowspan="2">3.00 − 4.45pm<br><br><span style="font-weight:inherit;font-style:inherit">( no break)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">4NA</td>
-    <td class="tg-prnc">3 NT / 4 NT</td>
-  </tr>
-</tbody>
-</table><br>
+|Monday|Curriculum Time|Thursday|Curriculum Time|
+|---|---|---|---|
+|Sec 3 Express|3.00pm to 6.00pm<br>|Sec 1 &amp; Sec 2 Express|Sec 1 G2 and G3<br>Sec 1&amp;2 Express/NA<br>3 pm to 6.pm.<br>Sec 1 G1<br> 3.00pm to 4.45pm|
+|Sec 3 NA|3.00pm to 6.00pm<br>|Sec 2 NA/NT|3.00pm to 6.00pm|
+|Sec 4 Express/5NA|3.00pm to 6.00pm<br>|Sec 3/4 NT|3.00pm to 4.45pm|
+|<br>
 			
 <b>FAQ on CCA</b>
 
