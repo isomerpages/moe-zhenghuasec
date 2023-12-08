@@ -184,15 +184,10 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 
 SBB - Offer Letter &amp; Booklist (click on the picture to view slides)<br><br>
 
-<a href="/files/FSBB_Booklist_OH_2023.pdf"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBBooklist-300x224.jpg"></a><br><br>
-			
-SBB - Booklist Video<br><br>
-			
-SBB - Offer Letter (click on the picture to view slides)<br><br>
-			
-<img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/6%20FSBB%20and%20SBB/SBBOfferLetter-300x225.jpg"><br><br>
+<a href="/files/FSBB_Booklist_OH_2023.pdf"><img style="width:50%;height:50%" src="/images/SBBofferletterandbooklist.png"></a><br><br>
 			
 SBB - Offer Letter Video<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QVXEEP--hdU?si=vThhq8dowFg_Yxoe" height="315" width="560"></iframe>			
 			
 Please return the hardcopy forms to the General Office or reply acceptance through Parents Gateway by&nbsp;<b>27 December 2023.</b>
 </p>
