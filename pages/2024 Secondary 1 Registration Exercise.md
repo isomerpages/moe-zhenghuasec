@@ -437,13 +437,35 @@ At the end of year examination in secondary two, students who have shown keen in
 <b>12.&nbsp; My child is taking Tamil language. When and where are the classes held?</b><br><br>
 
 Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu Kang Secondary School outside curriculum time. &nbsp;The current 2024 schedule is as follows:<br><br>
-			
-|Monday|Curriculum Time|Thursday|Curriculum Time|
-|---|---|---|---|
-|Sec 3 Express|3.00pm to 6.00pm<br>|Sec 1 &amp; Sec 2 Express|Sec 1 G2 and G3<br>Sec 1&amp;2 Express/NA<br>3 pm to 6.pm.<br>Sec 1 G1<br> 3.00pm to 4.45pm|
-|Sec 3 NA|3.00pm to 6.00pm<br>|Sec 2 NA/NT|3.00pm to 6.00pm<br>|
-|Sec 4 Express/5NA|3.00pm to 6.00pm<br>|Sec 3/4 NT|3.00pm to 4.45pm|
-|<br>
+
+<table>
+	<tbody><tr>
+	<td>Monday</td>
+		<td>Curriculum Time</td>
+		<td>Thursday</td>
+		<td>Curriculum Time</td>
+	</tr>
+	<tr>
+	<td>Sec 3 Express</td>
+		<td>3.00pm to 6.00pm</td>
+		<td>Sec 1 &amp; Sec 2 Express</td>
+		<td>Sec 1 G2 and G3<br>Sec 1&amp;2 Express/NA<br>3 pm to 6.pm.<br>Sec 1 G1<br> 3.00pm to 4.45pm</td>
+	</tr>
+	<tr>
+		<td>Sec 3 NA</td>
+		<td>3.00pm to 6.00pm</td>
+		<td>Sec 2 NA/NT</td>
+		<td>3.00pm to 6.00pm</td>
+	</tr>
+	<tr>
+		<td>Sec 4 Express/5NA</td>
+		<td>3.00pm to 6.00pm</td>
+		<td>Sec 3/4 NT</td>
+		<td>3.00pm to 4.45pm</td>
+	</tr>
+	</tbody></table>
+
+<br>
 		
 </p></div></li>
 </ul>
