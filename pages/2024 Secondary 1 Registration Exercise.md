@@ -441,7 +441,7 @@ Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu
 |Monday|Curriculum Time|Thursday|Curriculum Time|
 |---|---|---|---|
 |Sec 3 Express|3.00pm to 6.00pm<br>|Sec 1 &amp; Sec 2 Express|Sec 1 G2 and G3<br>Sec 1&amp;2 Express/NA<br>3 pm to 6.pm.<br>Sec 1 G1<br> 3.00pm to 4.45pm|
-|Sec 3 NA|3.00pm to 6.00pm<br>|Sec 2 NA/NT|3.00pm to 6.00pm|
+|Sec 3 NA|3.00pm to 6.00pm<br>|Sec 2 NA/NT|3.00pm to 6.00pm<br>|
 |Sec 4 Express/5NA|3.00pm to 6.00pm<br>|Sec 3/4 NT|3.00pm to 4.45pm|
 |<br>
 			
