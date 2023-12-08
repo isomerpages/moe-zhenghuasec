@@ -167,10 +167,9 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 <div>
 <p><br>
-<br>
 - Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.<br><br>
 - With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.
-<br>
+<br><br>
 <img src="/images/SBB1.png"><br>
 <img src="/images/SBB2.png"><br>
 <img src="/images/SBB3.png"><br>
