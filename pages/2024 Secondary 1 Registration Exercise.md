@@ -253,12 +253,8 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion9">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">8. CCA Trial</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> All announcements and information will be shared to parents via the Parents Gateway application. If you are not already on board, please refer to the details below on how you can do so.<br><br>
-				<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/8%20Parents%20Gateway/PG1.jpg">
-				<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/8%20Parents%20Gateway/PG2.jpg">
-				<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/8%20Parents%20Gateway/PG3.jpg">
-			</p>
+<p> Click here to view the details regarding the CCA trials happening in 2024 Term 1 Week 2.
+</p>
 
 </div>
 
