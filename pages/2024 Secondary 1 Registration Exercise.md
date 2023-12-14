@@ -85,7 +85,6 @@ Please note the booking is on a first come first served basis and is for parents
 <b>Purchasing Uniform</b><br><br>
 Parents are advised to purchase at least 1 set of formal school uniform (school shirt and pants for boys/school blouse and skirt for girls) for formal occasion and also could be worn for daily lessons and at least 1 set of school red polo-T shirt (this can be worn during daily lessons due to the hot weather).<br><br>
 <b>Purchasing of Textbooks</b><br><br>
-NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br><br>
 Attached is the booklist for the students.<br>
 <a href="/files/ZHSS_S1_2024_Booklist.pdf">Booklist for Students</a>
 <br><br><b>Please note:</b><br>
