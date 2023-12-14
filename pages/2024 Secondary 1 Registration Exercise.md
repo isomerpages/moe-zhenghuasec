@@ -282,7 +282,7 @@ Camp Packing List (click on image to view)<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion11">10. Class Posting</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 <p> Information on class allocation will be made available through Parents Gateway. Please note that the purchase of the PE T-shirt is house-based and is determined by the class that you are allocated to. Do not purchase the PE attire until you have received your class posting.<br><br>
-<i>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 23 Dec, 8am</i>
+<i>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 21 Dec, 8am</i>
 </p>
 </div>
 </li>
