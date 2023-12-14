@@ -80,7 +80,7 @@ For information on appeals for transfer for serious medical conditions,&nbsp;<b>
 <p> The purchase of books and uniforms can be made from 21st Dec to 29th Dec. However, for on-site purchase on 21st and 22nd Dec, you will need to book a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform &amp; Textbooks, directly below).<br><br>
 You can also purchase the textbooks and uniforms online, and have the items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/">here</a> to purchase online.<br><br>
 <b>On-SITE Purchase of Uniform &amp; Textbooks</b><br><br>
-For parents who wish to make their purchase on-site in school or students who are under FAS, please book a time slot on 22 Dec (9am – 3.30pm) and 23 Dec(9am - 3.30pm) <a href="https://sagenda.net/Frontend/Calendar/5fc5b645701dd42d28dd4c7b">here</a>.<br><br>
+For parents who wish to make their purchase on-site in school or students who are under FAS, please book a time slot on 21 Dec (9am – 3.30pm) and 22 Dec(9am - 3.30pm) <a href="https://sagenda.net/Frontend/Calendar/5fc5b645701dd42d28dd4c7b">here</a>.<br><br>
 Please note the booking is on a first come first served basis and is for parents who are NOT ordering online.<br><br>
 <b>Purchasing Uniform</b><br><br>
 Parents are advised to purchase at least 1 set of formal school uniform (school shirt and pants for boys/school blouse and skirt for girls) for formal occasion and also could be worn for daily lessons and at least 1 set of school red polo-T shirt (this can be worn during daily lessons due to the hot weather).<br><br>
