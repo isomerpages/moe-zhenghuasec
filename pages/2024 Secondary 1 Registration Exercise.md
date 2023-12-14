@@ -77,7 +77,7 @@ For information on appeals for transfer for serious medical conditions,&nbsp;<b>
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">5. Purchase of Uniform and Textbooks</label>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <div>
-<p> The purchase of books and uniforms can be made from 22nd Dec to 30th Dec. However, for on-site purchase on 22nd and 23rd Dec, you will need to book a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform &amp; Textbooks, directly below).<br><br>
+<p> The purchase of books and uniforms can be made from 21st Dec to 29th Dec. However, for on-site purchase on 21st and 22nd Dec, you will need to book a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform &amp; Textbooks, directly below).<br><br>
 You can also purchase the textbooks and uniforms online, and have the items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/">here</a> to purchase online.<br><br>
 <b>On-SITE Purchase of Uniform &amp; Textbooks</b><br><br>
 For parents who wish to make their purchase on-site in school or students who are under FAS, please book a time slot on 22 Dec (9am – 3.30pm) and 23 Dec(9am - 3.30pm) <a href="https://sagenda.net/Frontend/Calendar/5fc5b645701dd42d28dd4c7b">here</a>.<br><br>
