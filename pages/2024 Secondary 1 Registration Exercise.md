@@ -266,7 +266,7 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 
 <p> Click on the slide to view the slides. Or click <a href="https://zhenghuasec.moe.edu.sg/wp-content/uploads/2022/12/First-Day-of-School-2023V3.pptx">here</a>&nbsp;to access the slides.<br><br>
 	
-<a href="https://zhenghuasec.moe.edu.sg/wp-content/uploads/2022/12/First-Day-of-School-2023V3.pptxs"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/9%20First%20Day%20of%20School/F1.jpg"></a><br><br>
+<a href="https://cms.isomer.gov.sg/sites/moe-zhenghuasec/media/images/mediaDirectory/images%2F2023%20Sec%201%20Exercise"><img style="width:50%;height:50%" src="/images/2023%20Sec%201%20Exercise/9%20First%20Day%20of%20School/F1.jpg"></a><br><br>
 	
 Camp Packing List (click on image to view)<br><br>
 	
