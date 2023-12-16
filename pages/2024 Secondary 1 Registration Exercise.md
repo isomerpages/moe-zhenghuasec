@@ -268,7 +268,7 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 <a href="/files/FirstDayofSchool2024Final.pdf"><img style="width:50%;height:50%" src="/images/firstdayofsch2024.png"></a><br><br>
 	
 Camp Packing List (click on image to view)<br><br>
-<a href="/files/2024%20Sec%201%20Exercise/9%20First%20Day%20of%20School/Campers-Packing-List.pdf"><img style="width:50%;height:50%" src="/images/packinglistforsec1camp2024.png"></a>
+<a href="/files/2024%20Sec%201%20Exercise/9%20First%20Day%20of%20School/PackingListforSec1Camp.pdf"><img style="width:50%;height:50%" src="/images/packinglistforsec1camp2024.png"></a>
 			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
