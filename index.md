@@ -23,4 +23,11 @@ sections:
       url: https://www.zhenghuasec.moe.edu.sg/openhouse2023/
       image: /images/zssopenhouse2023.jpeg
       alt: Image alt text
+  - infopic:
+      title: Secondary 1 Registration Exercise
+      id: infopic
+      button: Click here for more information
+      url: https://www.zhenghuasec.moe.edu.sg/2024-secondary-1-registration-exercise/
+      image: /images/2023 Secondary 1 Registration Exercise 1.jpg
+      alt: Image alt text
 ---
