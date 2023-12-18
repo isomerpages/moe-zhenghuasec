@@ -183,7 +183,7 @@ It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;
 
 SBB - Offer Letter &amp; Booklist (click on the picture to view slides)<br><br>
 
-<a href="/files/FSBB_Booklist_OH_2023.pdf"><img style="width:50%;height:50%" src="/images/SBBofferletterandbooklist.png"></a><br><br>
+<a href="/files/2024_fsbb_booklist.pdf"><img style="width:50%;height:50%" src="/images/2024_SBB_offer_letter_and_booklist.png"></a><br><br>
 			
 SBB - Offer Letter Video<br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QVXEEP--hdU?si=vThhq8dowFg_Yxoe" height="315" width="560"></iframe>			
