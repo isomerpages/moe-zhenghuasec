@@ -1,0 +1,6 @@
+collections:
+  open-house:
+    output: true
+    order:
+      - Open House.md
+      - School Brochure.md

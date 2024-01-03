@@ -1,0 +1,11 @@
+collections:
+  open-house-web-archive:
+    output: true
+    order:
+      - FAQs.md
+      - Further Information.md
+      - School Events.md
+      - CCAs.md
+      - Programmes.md
+      - School Tour.md
+      - Principal's Message.md

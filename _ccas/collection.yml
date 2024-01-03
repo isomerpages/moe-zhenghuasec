@@ -1,0 +1,28 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Handbells.md
+      - Performing Arts/Drums Ensemble.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Band.md
+      - Performing Arts/.keep
+      - Clubs and Societies/Art Club.md
+      - Clubs and Societies/AV Club.md
+      - Clubs and Societies/Infocomm.md
+      - Clubs and Societies/Library Club.md
+      - Clubs and Societies/.keep
+      - Uniformed Group/Red Cross.md
+      - Uniformed Group/Scouts.md
+      - Uniformed Group/NCC Air.md
+      - Uniformed Group/NPCC.md
+      - Uniformed Group/.keep
+      - Sports/Volleyball.md
+      - Sports/Soccer.md
+      - Sports/Netball.md
+      - Sports/Basketball.md
+      - Sports/ODAC.md
+      - Sports/Sports Club.md
+      - Sports/.keep

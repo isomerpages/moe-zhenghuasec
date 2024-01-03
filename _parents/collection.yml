@@ -1,0 +1,5 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parenting Tips.md

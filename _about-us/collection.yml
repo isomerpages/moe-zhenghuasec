@@ -1,0 +1,23 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Family/.keep
+      - Our Family/School Advisory Committee.md
+      - Our Family/Management Committee.md
+      - Our Family/2023 Form Teachers.md
+      - Our Family/2023 CCA Teachers in Charge.md
+      - Our Family/Zhenghua Staff.md
+      - Our Partners/.keep
+      - Our Partners/Parent Support Group.md
+      - Our Partners/Our Alumni.md
+      - History.md
+      - Our Motto, Crest & School Song/.keep
+      - Our Motto, Crest & School Song/School Motto.md
+      - Our Motto, Crest & School Song/School Song.md
+      - Our Motto, Crest & School Song/Creed.md
+      - School Vision, Mission & Values.md
+      - School Brochure.md
+      - Zhenghua E magazine.md
+      - Frequently Asked Questions (FAQ).md

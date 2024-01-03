@@ -1,0 +1,10 @@
+collections:
+  our-spotlight:
+    output: true
+    order:
+      - Our Instagram.md
+      - NewZ/.keep
+      - NewZ/NewZ.md
+      - "NewZ/Newz (Archive: 2018 to 2022).md"
+      - Useful links.md
+      - School Services.md
