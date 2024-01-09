@@ -68,7 +68,7 @@ variant: markdown
 | Loy Suan Doong<br>Senior Teacher (Design &amp; Technology) | 327 |
 | Marinah Binte Mohdar | 303 |
 | Masrena Rahmat | 310 |
-| Natalie Tan Li Er<br>Senior Teacher (Chemistry) | 304 |
+| Natalie Tan Li Er<br>Lead Teacher (Chemistry) | 304 |
 | Ng Seng Huat | 322 |
 | Nur Elfianie Bte Abdul Samad | 309 |
 | Nurul'Aishah Bte Shuhaimi | 308 |
