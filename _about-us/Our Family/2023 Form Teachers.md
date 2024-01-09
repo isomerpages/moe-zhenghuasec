@@ -99,8 +99,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">2D</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Tan Pei Wen</span><br><span style="font-style:italic">tan_pei_wen_a@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Chee Pey Jiun</span><br><span style="font-style:italic">chee_pey_jiun_a@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Tamilarasi</span><br><span style="font-style:italic">tamilarasi_ramaiya@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Roy Tan</span><br><span style="font-style:italic">roy_tan@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
