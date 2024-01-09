@@ -189,8 +189,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">4C</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Lee Yung Wen</span><br><span style="font-style:italic">lee_yung-wen@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Natalie Tan</span><br><span style="font-style:italic">tan_li_er_natalie@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Andrew Kan</span><br><span style="font-style:italic">kan_andrew@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Rosmawati Alwi</span><br><span style="font-style:italic">rosmawati_alwi@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
