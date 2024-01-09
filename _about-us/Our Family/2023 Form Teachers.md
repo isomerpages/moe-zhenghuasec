@@ -60,21 +60,21 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">1E</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Felicity Lim</span><br><span style="font-style:italic">lim_sy_hing_felicity@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Yeo Yen Hua</span><br><span style="font-style:italic">yeo_yen_hua@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Christiann Priyanka Augustine</span><br><span style="font-style:italic">christiann_priyanka_augustine@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Yong Wai Teng</span><br><span style="font-style:italic">yong_wai_teng@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Liang Kar Weng</span><br><span style="font-style:italic">liang_kar_weng@schools.gov.sg</span></td>
+    <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1F</td>
-    <td class="tg-z14i"><span style="font-weight:700">Ms Marinah Mohdar</span><br><span style="font-style:italic">marinah_mohdar@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Shamsul Idris</span><br><span style="font-style:italic">shamsul_idris@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Lim Hun</span><br><span style="font-style:italic">lim_hun_a@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:700">Ms Sakinah</span><br><span style="font-style:italic">sakinah_mohamed_supiyan@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Patrick Lim</span><br><span style="font-style:italic">lim_cheng_huat@schools.gov.sg</span></td>
+    <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1G</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Tan Cheng Cheng Angela</span><br><span style="font-style:italic">tan_cheng_cheng_angela@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Chia Boon Ling Randy</span><br><span style="font-style:italic">chia_boon_ling_randy@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Berton Tan</span><br><span style="font-style:italic">tan_ee_siang_berton@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Lee Yung-Wen</span><br><span style="font-style:italic">lee_yung-wen@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Dennis Loy</span><br><span style="font-style:italic">loy_suan_doong@schools.gov.sg</span></td>
+    <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Koh Khee Hoon (Year Head 2)</span><br><span style="font-style:italic">koh_khee_hoon@schools.gov.sg</span></td>
