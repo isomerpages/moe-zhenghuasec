@@ -104,8 +104,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Drama Club</span></td>
-    <td class="tg-prnc">Ms Darlene John Johney</td>
-    <td class="tg-52wp"><span style="font-style:italic">darlene_john_johney@schools.gov.sg</span></td>
+    <td class="tg-prnc">Mr Boo Jia Liang</td>
+    <td class="tg-52wp"><span style="font-style:italic">boo_jia_liang@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Drums</span></td>
