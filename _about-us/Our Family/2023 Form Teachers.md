@@ -83,7 +83,7 @@ variant: markdown
     <td class="tg-rhkx">2A</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Hafida Muhd</span><br><span style="font-style:italic">hafida_muhamad@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Tay Limin</span><br><span style="font-style:italic">tay_limin@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Chung Zhiwen</span><br><span style="font-style:italic">chung_zhiwen@schools.gov.sg</span></td>
+    <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2B</td>
