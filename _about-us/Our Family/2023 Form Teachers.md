@@ -177,8 +177,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">4A</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Serene Howe</span><br><span style="font-style:italic">howe_joo-li_serene@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Anna Low</span><br><span style="font-style:italic">low_li_leen_anna@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Sam Soo</span><br><span style="font-style:italic">soo_boon_siang@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Tetty</span><br><span style="font-style:italic">tetty_juliana_sujono@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
