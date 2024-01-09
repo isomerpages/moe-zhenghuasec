@@ -81,15 +81,15 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">2A</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Hafida Muhd</span><br><span style="font-style:italic">hafida_muhamad@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Tay Limin</span><br><span style="font-style:italic">tay_limin@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Li Jiao</span><br><span style="font-style:italic">li_jiao@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Rachel Tan</span><br><span style="font-style:italic">tan_hui_leng_rachel@schools.gov.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2B</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Boo Jia Liang</span><br><span style="font-style:italic">boo_jia_liang@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Valerie Chia</span><br><span style="font-style:italic">chia_wei_ting_valerie@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Widad</span><br><span style="font-style:italic">widad_wahid@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Ivan Tan</span><br><span style="font-style:italic">tan_jiang_rui_ivan@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Xin Ping</span><br><span style="font-style:italic">xin_ping@schools.gov.sg</span></td>
+    <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2C</td>
