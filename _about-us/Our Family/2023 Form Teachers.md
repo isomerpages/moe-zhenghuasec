@@ -42,20 +42,20 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">1B</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Xin Ping</span><br><span style="font-style:italic">xin_ping_a@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Ivan Tan</span><br><span style="font-style:italic">tan_jiang_rui_ivan@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Gay Wei Zhuang</span><br><span style="font-style:italic">gay_wei_zhuang@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Widad Wahid</span><br><span style="font-style:italic">widad_wahid@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1C</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Claudia Tan</span><br><span style="font-style:italic">tan_danwei_claudia@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Isabel Ho</span><br><span style="font-style:italic">ho_shu_chun_isabel@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Teo Jia Wei</span><br><span style="font-style:italic">teo_jia_wei@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Tan Fong Yee</span><br><span style="font-style:italic">tan_fong_yee@schools.gov.sg</span></td>
+    <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1D</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Tamilarasi</span><br><span style="font-style:italic">tamilarasi_ramaiya@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Roy Tan</span><br><span style="font-style:italic">roy_tan@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Sharifah</span><br><span style="font-style:italic">sharifah_nazihah_sulaiman@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Ng Seng Huat Peter</span><br><span style="font-style:italic">ng_seng_huat@schools.gov.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
