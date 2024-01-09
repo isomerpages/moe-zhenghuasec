@@ -46,7 +46,6 @@ variant: markdown
 | Boo Jia Liang | 339 |
 | Chee Pey Jiun | 340 |
 | Claudia Tan Danwei | 314 |
-| Darlene John Johney | 317 |
 | Edwin Tan Kian Hong | 309 |
 | Emilia Mohamed Ali | 323 |
 | Felicity Lim Sy Hing | 315 |
@@ -73,7 +72,6 @@ variant: markdown
 | Nur Elfianie Bte Abdul Samad | 309 |
 | Nurul'Aishah Bte Shuhaimi | 308 |
 | Rachel Tan Hui Leng<br>Senior Teacher (English) | 325 |
-| Randy Chia Boon Ling | 337 |
 | Rosmawati Bte Alwi | 301 |
 | Sakinah Bte Mohamed Supiyan | 318 |
 | Seah Hwee Bing | 312 |
