@@ -144,8 +144,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">3C</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Andrew Kan</span><br><span style="font-style:italic">kan_andrew@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Rosmawati Alwi</span><br><span style="font-style:italic">rosmawati_alwi@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Lee Weiqi</span><br><span style="font-style:italic">lee_weiqi@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Nurul'Aishah Bte Shuhaimi</span><br><span style="font-style:italic">nurul_aishah_shuhai@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
