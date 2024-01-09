@@ -132,15 +132,15 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">3A</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Darlene John Johney</span><br><span style="font-style:italic">darlene_john_johney@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Sam Soo</span><br><span style="font-style:italic">soo_boon_siang@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Amerlyn Ong</span><br><span style="font-style:italic">ong_wei_lin_amerlyn@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Boo Jia Liang</span><br><span style="font-style:italic">boo_jia_liang@schools.gov.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">3B</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Nur Elfianie Abdul Samad</span><br><span style="font-style:italic">nur_elfianie_abdul_samad@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Tan Pei Wen</span><br><span style="font-style:italic">tan_pei_wen_a@schools.gov.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Seah Hwee Bing</span><br><span style="font-style:italic">seah_hwee_bing@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Scott Lee</span><br><span style="font-style:italic">lee_tze_kerr_scott@schools.gov.sg</span></td>
+    <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">3C</td>
