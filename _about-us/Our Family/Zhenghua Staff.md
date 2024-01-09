@@ -3,6 +3,7 @@ title: Zhenghua Staff
 permalink: /about-us/zhenghua-staff/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 ### Zhenghua Staff
 
@@ -30,11 +31,11 @@ third_nav_title: Our Family
 | Roy Tan Tian Kiat<br>SH Student leadership | 218 |
 | Ivan Tan Jiang Rui <br>SH Bio | 213 |
 | Soo Boon Siang Sam<br>SH GEOG/NE | 216 |
-| Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 1) | 221 |
-| Magdalene Tan Li Ping<br>Year Head (Sec 2) | 223 |
-| Zanariah Zainal Abiden<br>Year Head (Sec 3) | 220 |
-| Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 4) | 215 |
-| Derrick Lim Jun Qiang<br>Asst Year Head (Sec 1) | 302 |
+| Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 2) | 221 |
+| Magdalene Tan Li Ping<br>Year Head (Sec 3) | 223 |
+| Zanariah Zainal Abiden<br>Year Head (Sec 4) | 220 |
+| Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 1) | 215 |
+| Derrick Lim Jun Qiang<br>SH CCE | 302 |
 | **TEACHING STAFF** |  |
 | Aaron Justin Tan Wen Jie | 322 |
 | Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
