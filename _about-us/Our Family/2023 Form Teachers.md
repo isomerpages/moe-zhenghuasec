@@ -157,13 +157,13 @@ variant: markdown
   <tr>
     <td class="tg-rr8m">3E</td>
     <td class="tg-poi1"><span style="font-weight:bold">Mdm Hafida Muhd</span><br><span style="font-style:italic">hafida_muhamad@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Cynthia Loh</span><br><span style="font-style:italic">loh_so_boey@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Natalie Tan</span><br><span style="font-style:italic">tan_li_er_natalie@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">3F</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Koh Ming Hui</span><br><span style="font-style:italic">koh_ming_hui@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Karen Choo</span><br><span style="font-style:italic">choo_karen@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Aaron Justin Tan</span><br><span style="font-style:italic">aaron_justin_tan_wen@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Masrena Rahmat</span><br><span style="font-style:italic">masrena_rahmat@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
