@@ -105,8 +105,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">2E</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Lee Weiqi</span><br><span style="font-style:italic">lee_weiqi@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Sakinah Mohamed Supiyan</span><br><span style="font-style:italic">sakinah_mohamed_supiyan@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Felicity Lim</span><br><span style="font-style:italic">lim_sy_hing_felicity@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Yeo Yen Hua</span><br><span style="font-style:italic">yeo_yen_hua@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
