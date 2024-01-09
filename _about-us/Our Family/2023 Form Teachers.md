@@ -3,6 +3,7 @@ title: 2023 Form Teachers
 permalink: /about-us/Zhenghua-Staff/2023-form-teachers/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 ### Form Teachers
 
@@ -31,7 +32,7 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Koh Khee Hoon (Year Head)</span><br><span style="font-style:italic">koh_khee_hoon@schools.gov.sg</span><br><span style="font-weight:bold">Mr Derrick Lim (Year Head (Covering))</span><br><span style="font-style:italic">lim_jun_qiang_derrick@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Ho Woan Shay (Year Head 1)</span><br><span style="font-style:italic">ho_woan_shay@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1A</td>
@@ -76,7 +77,7 @@ third_nav_title: Our Family
     <td class="tg-poi1"><span style="font-weight:bold">Mr Berton Tan</span><br><span style="font-style:italic">tan_ee_siang_berton@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Magdalene Tan (Year Head 2)</span><br><span style="font-style:italic">tan_li_ping_magdalene@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Koh Khee Hoon (Year Head 2)</span><br><span style="font-style:italic">koh_khee_hoon@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2A</td>
@@ -127,7 +128,7 @@ third_nav_title: Our Family
     <td class="tg-z14i"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 3)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span><br><span style="font-weight:bold">Mr Samuel Lim (Covering)</span><br><span style="font-style:italic">samuel_lim_kok_boon@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Magdalene Tan (Year Head 3)</span><br><span style="font-style:italic">tan_li_ping_magdalene@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-rr8m">3A</td>
@@ -172,7 +173,7 @@ third_nav_title: Our Family
     <td class="tg-poi1"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Ho Woan Shay (Year Head 4/5)</span><br><span style="font-style:italic">ho_woan_shay@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 4)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">4A</td>
