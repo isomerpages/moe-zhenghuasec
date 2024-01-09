@@ -183,8 +183,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">4B</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Sri Diana</span><br><span style="font-style:italic">sri_diana_subari@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Ng Seng Huat</span><br><span style="font-style:italic">ng_seng_huat@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Seah Hwee Bing</span><br><span style="font-style:italic">seah_hwee_bing@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Nur Elfianie</span><br><span style="font-style:italic">nur_elfianie_abdul_samad@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
