@@ -111,20 +111,14 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">2F</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Amerlyn Ong</span><br><span style="font-style:italic">ong_wei_lin_amerlyn@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Liang Kar Weng</span><br><span style="font-style:italic">liang_kar_weng@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Marinah</span><br><span style="font-style:italic">marinah_mohdar@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Shamsul</span><br><span style="font-style:italic">shamsul_idris@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2G</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Masrena Rahmat</span><br><span style="font-style:italic">masrena_rahmat@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Aaron Justin Tan</span><br><span style="font-style:italic">aaron_justin_tan_wen@schools.gov.sg</span></td>
-    <td class="tg-z14i"></td>
-  </tr>
-  <tr>
-    <td class="tg-rhkx">2H</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Dennis Loy</span><br><span style="font-style:italic">loy_suan_doong@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Nurul'Aishah Bte Shuhaimi</span><br><span style="font-style:italic">nurul_aishah_shuhai@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Angela Tan</span><br><span style="font-style:italic">tan_cheng_cheng_angela@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Berton Tan</span><br><span style="font-style:italic">tan_ee_siang_berton@schools.gov.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
