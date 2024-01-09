@@ -213,8 +213,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">4G</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Gay Wei Zhuang</span><br><span style="font-style:italic">gay_wei_zhuang@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Justina</span><br><span style="font-style:italic">goh_lay_ping_justina@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Siti Nurbasyirah</span><br><span style="font-style:italic">siti_nurbasyirah_azahar@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Vivian Koh</span><br><span style="font-style:italic">koh_su_hui_vivian@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
