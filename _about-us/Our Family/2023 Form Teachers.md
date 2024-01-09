@@ -156,7 +156,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">3E</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Jacobe Lim</span><br><span style="font-style:italic">lim_chen_guo@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Hafida Muhd</span><br><span style="font-style:italic">hafida_muhamad@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Cynthia Loh</span><br><span style="font-style:italic">loh_so_boey@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
