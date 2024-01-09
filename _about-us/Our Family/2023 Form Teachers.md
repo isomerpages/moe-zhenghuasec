@@ -150,8 +150,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">3D</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Tan Mei Ying</span><br><span style="font-style:italic">tan_mei_ying@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Glenn Hay</span><br><span style="font-style:italic">glenn_hay_hui_jie@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Godwin Tan</span><br><span style="font-style:italic">tan_ling_godwin@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Kwek Co Hui</span><br><span style="font-style:italic">kwek_co_hui@schools.gov.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
