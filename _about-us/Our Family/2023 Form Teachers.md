@@ -36,8 +36,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">1A</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Li Jiao</span><br><span style="font-style:italic">li_jiao@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Gloria Boey</span><br><span style="font-style:italic">gloria_boey_li_ling@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Sri Diana Subari</span><br><span style="font-style:italic">sri_diana_subari@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Tan Li Leng Agnes</span><br><span style="font-style:italic">tan_li_leng@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
