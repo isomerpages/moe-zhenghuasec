@@ -175,7 +175,7 @@ variant: markdown
 	<tr>
     <td class="tg-rr8m">3H</td>
     <td class="tg-poi1"><span style="font-weight:bold">Mr Chung Zhiwen</span><br><span style="font-style:italic">chung_zhiwen@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Serene Howe</span><br><span style="font-style:italic">howe_joo-li_serene@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Emilia Ali</span><br><span style="font-style:italic">emilia_mohamed_ali@schools.gov.sg@schools.gov.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
   <tr>
