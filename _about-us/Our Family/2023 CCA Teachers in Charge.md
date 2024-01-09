@@ -51,8 +51,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Basketball</span></td>
-    <td class="tg-prnc">Ms Tan Mei Ying</td>
-    <td class="tg-52wp"><span style="font-style:italic">tan_mei_ying@schools.gov.sg</span></td>
+    <td class="tg-prnc">Mr Chung Zhiwen</td>
+    <td class="tg-52wp"><span style="font-style:italic">chung_zhiwen@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Football</span></td>
@@ -71,8 +71,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Sports Club</span></td>
-    <td class="tg-prnc">Mr Gay Wei Zhuang</td>
-    <td class="tg-52wp"><span style="font-style:italic">gay_wei_zhuang@schools.gov.sg</span></td>
+    <td class="tg-prnc">Ms Sakinah</td>
+    <td class="tg-52wp"><span style="font-style:italic">sakinah_mohamed_supiyan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Volleyball</span></td>
