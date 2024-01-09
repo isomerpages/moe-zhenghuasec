@@ -3,6 +3,7 @@ title: 2023 CCA Teachers in Charge
 permalink: /about-us/Zhenghua-Staff/2023-cca-teachers-in-charge/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 ### CCA Teachers-In-Charge
 
@@ -37,8 +38,8 @@ third_nav_title: Our Family
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Infocomm</span></td>
-    <td class="tg-prnc">Ms Claudia Tan</td>
-    <td class="tg-52wp"><span style="font-style:italic">tan_danwei_claudia@schools.gov.sg</span></td>
+    <td class="tg-prnc">Mr Godwin Tan</td>
+    <td class="tg-52wp"><span style="font-style:italic">tan_ling_godwin@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Library</span></td>
