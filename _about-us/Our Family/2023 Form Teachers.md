@@ -207,8 +207,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">4F</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Edwin Tan</span><br><span style="font-style:italic">tan_kian_hong_edwin@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Tetty</span><br><span style="font-style:italic">tetty_juliana_sujono@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Koh Ming Hui</span><br><span style="font-style:italic">koh_ming_hui@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Karen Choo</span><br><span style="font-style:italic">choo_karen@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
