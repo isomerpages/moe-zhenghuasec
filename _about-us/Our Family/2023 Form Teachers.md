@@ -139,7 +139,7 @@ variant: markdown
   <tr>
     <td class="tg-rhkx">3B</td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Tan Pei Wen</span><br><span style="font-style:italic">tan_pei_wen_a@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Seah Hwee Bing</span><br><span style="font-style:italic">seah_hwee_bing@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Chee Pey Jiun</span><br><span style="font-style:italic">chee_pey_jiun_a@schools.gov.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
