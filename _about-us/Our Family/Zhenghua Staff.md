@@ -3,6 +3,7 @@ title: Zhenghua Staff
 permalink: /about-us/zhenghua-staff/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 ### Zhenghua Staff
 
@@ -30,11 +31,11 @@ third_nav_title: Our Family
 | Roy Tan Tian Kiat<br>SH Student leadership | 218 |
 | Ivan Tan Jiang Rui <br>SH Bio | 213 |
 | Soo Boon Siang Sam<br>SH GEOG/NE | 216 |
-| Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 1) | 221 |
-| Magdalene Tan Li Ping<br>Year Head (Sec 2) | 223 |
-| Zanariah Zainal Abiden<br>Year Head (Sec 3) | 220 |
-| Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 4) | 215 |
-| Derrick Lim Jun Qiang<br>Asst Year Head (Sec 1) | 302 |
+| Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 2) | 221 |
+| Magdalene Tan Li Ping<br>Year Head (Sec 3) | 223 |
+| Zanariah Zainal Abiden<br>Year Head (Sec 4) | 220 |
+| Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 1) | 215 |
+| Derrick Lim Jun Qiang<br>SH CCE | 302 |
 | **TEACHING STAFF** |  |
 | Aaron Justin Tan Wen Jie | 322 |
 | Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
@@ -45,7 +46,6 @@ third_nav_title: Our Family
 | Boo Jia Liang | 339 |
 | Chee Pey Jiun | 340 |
 | Claudia Tan Danwei | 314 |
-| Darlene John Johney | 317 |
 | Edwin Tan Kian Hong | 309 |
 | Emilia Mohamed Ali | 323 |
 | Felicity Lim Sy Hing | 315 |
@@ -67,12 +67,11 @@ third_nav_title: Our Family
 | Loy Suan Doong<br>Senior Teacher (Design &amp; Technology) | 327 |
 | Marinah Binte Mohdar | 303 |
 | Masrena Rahmat | 310 |
-| Natalie Tan Li Er<br>Senior Teacher (Chemistry) | 304 |
+| Natalie Tan Li Er<br>Lead Teacher (Chemistry) | 304 |
 | Ng Seng Huat | 322 |
 | Nur Elfianie Bte Abdul Samad | 309 |
 | Nurul'Aishah Bte Shuhaimi | 308 |
 | Rachel Tan Hui Leng<br>Senior Teacher (English) | 325 |
-| Randy Chia Boon Ling | 337 |
 | Rosmawati Bte Alwi | 301 |
 | Sakinah Bte Mohamed Supiyan | 318 |
 | Seah Hwee Bing | 312 |
