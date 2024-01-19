@@ -88,7 +88,7 @@ variant: markdown
   <tr>
     <td class="tg-rr8m">2B</td>
     <td class="tg-poi1"><span style="font-weight:bold">Mr Ivan Tan</span><br><span style="font-style:italic">tan_jiang_rui_ivan@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Xin Ping</span><br><span style="font-style:italic">Xin_ping_a@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Xin Ping</span><br><span style="font-style:italic">xin_ping_a@schools.gov.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
   <tr>
