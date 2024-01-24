@@ -25,13 +25,3 @@ variant: markdown
 
 *   ['O' Levels Examination Results 2020](/achievements/Student-Achievements/2020-Olevel-results/)
 *   ['N' Levels Examination Results 2020](/achievements/Student-Achievements/2020-Nlevel-results/)
-
-2019
-
-*   ['O' Levels Examination Results 2019](/achievements/Student-Achievements/2019-Olevel-results/)
-*   ['N' Levels Examination Results 2019](/achievements/Student-Achievements/2019-Nlevel-results/)
-
-2018
-
-*   ['O' Levels Examination Results 2018](/achievements/Student-Achievements/2018-Olevel-results/)
-*   ['N' Levels Examination Results 2018](/achievements/Student-Achievements/2018-Nlevel-results/)
