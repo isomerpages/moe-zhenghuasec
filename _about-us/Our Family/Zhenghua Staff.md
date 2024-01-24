@@ -7,9 +7,6 @@ variant: markdown
 ---
 ### Zhenghua Staff
 
-[2023 Form Teachers](/about-us/Zhenghua-Staff/2023-form-teachers/) <br>
-[2023 CCA Teachers In Charge](/about-us/Zhenghua-Staff/2023-cca-teachers-in-charge/)
-
 | List of Names | Tel Ext. |
 |---|---|
 | **KEY PERSONNEL** |  |
@@ -24,9 +21,11 @@ variant: markdown
 | Soh Bee Kim<br>HOD MTL | 209 |
 | Hamidah Bte Ali<br>HOD C&amp;T | 207 |
 | Robin Goh Jin Quan<br>HOD PE &amp; CCA | 201 |
-| Phay Pei Joo<br>School Staff Developer | 210 |
-| Ang Lien Lee Jonathan<br>SH ICT | 214 |
+| Stanley Tan<br>HOD Science| 203 |
 | Ashar Ahmad<br>HOD Student Management | 206 |
+| Phay Pei Joo<br>School Staff Developer | 210 |
+| Ang Lien Lee Jonathan<br>SH ICT | 217 |
+| Patrick Lim<br>SH Maths | 214 |
 | Yeo Yen Hua<br>SH OE &amp; Special Projects | 219 |
 | Roy Tan Tian Kiat<br>SH Student leadership | 218 |
 | Ivan Tan Jiang Rui <br>SH Bio | 213 |
@@ -51,7 +50,7 @@ variant: markdown
 | Felicity Lim Sy Hing | 315 |
 | Gay Wei Zhuang | 331 |
 | Grace Chia Choo Hui | 317 |
-| Gloria Boey Li Ling | 338 |
+| Godwin Tan | 311 |
 | Hafida Bte Muhamad | 332 |
 | Isabel Ho Shu Chun | 304 |
 | Justina Goh Lay Ping | 330 |
@@ -92,6 +91,7 @@ variant: markdown
 | Xin Ping | 328 |
 | Yong Wai Teng | 338 |
 | **EAS** |  |
+| Foo Yeong Kiang<br>Admin Manager | 105 |
 | Peh Choon Kuan<br>Operations Manager | 106 |
 | Goh Charng Siew<br>Operations Manager |6762 4266|
 | Chee Kuan Hoe Sharon<br>Admin Executive |113 |
@@ -123,11 +123,10 @@ variant: markdown
 | Chee Jialing Serena | 126 |
 | Shirley Leong Choy Kow | 125 |
 | Noor Nisah D/O T Karasu | 121 |
-| Chang Ngiet Moi | 120 |
-| Goh Wei Na | 335 |
 | Teo Siew Hui Jessie | 121 |
 | Tan Soo Heng | 123 |
-| Nathaniel Chia Wei Long | 126 |
+| Han Si Hui Josephine | 120 |
+
 
 
 For all enquiries, please email us at&nbsp;[zhenghua\_ss@moe.edu.sg](mailto:zhenghua_ss@moe.edu.sg)
