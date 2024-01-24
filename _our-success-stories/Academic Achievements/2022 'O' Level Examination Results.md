@@ -1,8 +1,9 @@
 ---
 title: 2022 'O' Level Examination Results
-permalink: /achievements/Academic-Achievements/permalink/
+permalink: /achievements/academic-achievements/2022olevel/
 description: ""
 third_nav_title: Academic Achievements
+variant: tiptap
 ---
 Our heartiest congratulations to the O level cohort of 2022 for their good performance.
 Our students overcame the challenges they faced with grit and determination to achieve excellence results at the O levels. We would like to express our gratitude and appreciation to all the parents and teachers who have supported our students throughout their journey! We are truly proud of them!
@@ -92,7 +93,7 @@ Presenting the Edusave Character Award recipients
 </tr>
 </tbody>
 </table>
-<strong> </strong>
+<strong>&nbsp;</strong>
 
 4E Students who scored L1R5 equal to or less than 12 and 5N students who scored L1B4 equal to or less than 12
 

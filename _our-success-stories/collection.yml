@@ -4,6 +4,8 @@ collections:
     order:
       - Academic Achievements/.keep
       - Academic Achievements/Academic Achievements.md
+      - Academic Achievements/2023 'O' Level Examination Results.md
+      - Academic Achievements/2023 'N' Level Examination Results.md
       - Academic Achievements/2022 'O' Level Examination Results.md
       - Academic Achievements/2022 'N' Level Examination Results.md
       - Academic Achievements/2021 'O' Level Examination Results.md
@@ -17,6 +19,7 @@ collections:
       - Alumni Accolades/2021 Alumni Accolades.md
       - ECHA Awards/.keep
       - ECHA Awards/Edusave Character Awards (ECHA).md
+      - ECHA Awards/ECHA Awards 2023.md
       - ECHA Awards/ECHA Awards 2022.md
       - ECHA Awards/ECHA Awards 2021.md
       - ECHA Awards/ECHA Awards 2020.md
