@@ -3,9 +3,11 @@ title: Academic Achievements
 permalink: /achievements/Academic-Achievements/Academic-Achievements/
 description: ""
 third_nav_title: Academic Achievements
+variant: markdown
 ---
 2022
 
+*   ['O' Levels Examination Results 2022](/achievements/academic-achievements/2022olevel/)
 *   ['N' Levels Examination Results 2022](/achievements/Academic-Achievements/2022-N-Level-Examination-Results/)
 
 2021
