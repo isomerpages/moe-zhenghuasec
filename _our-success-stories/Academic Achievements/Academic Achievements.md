@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Academic Achievements
 variant: markdown
 ---
+2023
+
+*   ['O' Levels Examination Results 2023](/our-success-stories/academic-achievements/2023olevel/)
+*   ['N' Levels Examination Results 2023](/our-success-stories/academic-achievements/2023nlevel/)
+
+
 2022
 
 *   ['O' Levels Examination Results 2022](/achievements/academic-achievements/2022olevel/)
