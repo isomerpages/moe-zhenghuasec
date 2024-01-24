@@ -2,6 +2,7 @@ collections:
   our-success-stories:
     output: true
     order:
+      - Academic Achievements/2023 'O' Level Examination Results.md
       - Academic Achievements/.keep
       - Academic Achievements/Academic Achievements.md
       - Academic Achievements/2023 'N' Level Examination Results.md
