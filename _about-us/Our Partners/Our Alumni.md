@@ -33,4 +33,18 @@ Ali</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Alumni participated in the school’s Sports Fiesta 2023 for a game of netball!" src="/images/alumni3.png">
 </div>
+<p>Mr Ng addressing the alumni at ZSS Alumni Day 2023.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni4.png">
+</div>
+<p>Alumni networking session during ZSS Alumni Day 2023.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni5.png">
+</div>
+<p>If you are interested to help out in any of the events, do contact us
+via this form!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumniqr.png">
+</div>
 <p></p>
