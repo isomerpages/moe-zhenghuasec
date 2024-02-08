@@ -4,6 +4,6 @@ permalink: /quicklinks/emag/
 description: ""
 variant: tiptap
 ---
-### Zhenghua E-Magazine 2022
-<a href="https://xd.adobe.com/view/91f0383b-74b7-4347-989b-3c2570007184-c4a3/?fullscreen">![](/images/emag2022.jpg)</a>
-(Click on the image to view the e-magazine)
+<h3>Zhenghua E-Magazine 2023</h3>
+<p></p><a class="isomer-image-wrapper" href="https://xd.adobe.com/view/b10ea465-67fd-4e8a-98e7-2b13e374de31-e45d/?fullscreen"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/zssyearbook2023.png"></a>
+<p>(Click on the image to view the e-magazine)</p>
