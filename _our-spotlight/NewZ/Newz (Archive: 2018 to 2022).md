@@ -6,7 +6,6 @@ third_nav_title: NewZ
 variant: tiptap
 ---
 <hr>
-<p></p>
 <p>Zhenghua Newz 2022</p>
 <p><u>January</u>
 </p>
