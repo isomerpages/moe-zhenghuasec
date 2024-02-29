@@ -36,6 +36,7 @@ variant: tiptap
 </p>
 <p><a href="/zhenghua-newz/nav/awards-day-2022" rel="noopener noreferrer nofollow" target="_blank">Awards Day 2022</a>
 </p>
+<hr>
 <p>Zhenghua Newz 2021</p>
 <p><a href="/zhenghua-newz/nav/sec-1-orientation-camp-2021" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Orientation Camp 2021</a>
 </p>
@@ -57,6 +58,7 @@ variant: tiptap
 </p>
 <p><a href="/zhenghua-newz/nav/national-day" rel="noopener noreferrer nofollow" target="_blank">National Day</a>
 </p>
+<hr>
 <p>Zhenghua Newz 2020 &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><u>January</u>
 </p>
@@ -76,6 +78,7 @@ variant: tiptap
 </p>
 <p><a href="/zhenghua-newz/nav/awards-day-2020" rel="noopener noreferrer nofollow" target="_blank">Awards Day 2020</a>
 </p>
+<hr>
 <p>Zhenghua Newz 2019 &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><u>January</u>
 </p>
