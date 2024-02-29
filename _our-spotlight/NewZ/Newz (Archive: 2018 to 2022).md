@@ -5,6 +5,43 @@ description: ""
 third_nav_title: NewZ
 variant: tiptap
 ---
+<p>Zhenghua Newz 2023</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/2022-N-Level-Examination-Results/" rel="noopener noreferrer nofollow" target="_blank">N Level Results Release 2022</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/achievements/academic-achievements/2022olevel/" rel="noopener noreferrer nofollow" target="_blank">O Level Results Release 2022</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/CampFearless2023/" rel="noopener noreferrer nofollow" target="_blank">Secondary One Orientation </a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/sharethejoyzss/" rel="noopener noreferrer nofollow" target="_blank">Share the Joy @ ZSS</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/cny2023/" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebration 2023</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/totaldefence2023/" rel="noopener noreferrer nofollow" target="_blank">ZSS Fire-Fighters to the Rescue!</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/mtfortnightml2023/" rel="noopener noreferrer nofollow" target="_blank">MT Fortnight - Malay Language</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/mtfortnightcl2023/" rel="noopener noreferrer nofollow" target="_blank">MT Fortnight - Chinese Language</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/zhenghua-newz/nav/sec-1-sab/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Sabbatical 2023</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/sec3expedition2023/" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Expedition</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/slinvest2023/" rel="noopener noreferrer nofollow" target="_blank">Student Leaders Investiture 2023</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/awardsday2023/" rel="noopener noreferrer nofollow" target="_blank">Awards Day 2023</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/hariraya2023/" rel="noopener noreferrer nofollow" target="_blank">Reignite Raya! ZSS Hari Raya Concert</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/ziesta2023/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Cajon and Cricket Programme</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/rhd2023/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day 2023</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/s23dance23/" rel="noopener noreferrer nofollow" target="_blank">Super Dance 23 Competition</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/nationaldaycelebration2023/" rel="noopener noreferrer nofollow" target="_blank">National Day Celebration and Sports Fiesta 2023</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day Celebration 2023</a>
+</p>
 <hr>
 <p>Zhenghua Newz 2022</p>
 <p><u>January</u>
