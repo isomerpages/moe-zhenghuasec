@@ -5,12 +5,12 @@ description: ""
 third_nav_title: NewZ
 variant: tiptap
 ---
-<p>Zhenghua Newz 2023</p>
+<h4><strong><u>Zhenghua Newz 2023</u></strong></h4>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/2022-N-Level-Examination-Results/" rel="noopener noreferrer nofollow" target="_blank">N Level Results Release 2022</a>
 </p>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/achievements/academic-achievements/2022olevel/" rel="noopener noreferrer nofollow" target="_blank">O Level Results Release 2022</a>
 </p>
-<p><a href="https://www.zhenghuasec.moe.edu.sg/CampFearless2023/" rel="noopener noreferrer nofollow" target="_blank">Secondary One Orientation </a>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/CampFearless2023/" rel="noopener noreferrer nofollow" target="_blank">Secondary One Orientation</a>
 </p>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/sharethejoyzss/" rel="noopener noreferrer nofollow" target="_blank">Share the Joy @ ZSS</a>
 </p>
@@ -43,7 +43,7 @@ variant: tiptap
 <p><a href="https://www.zhenghuasec.moe.edu.sg/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day Celebration 2023</a>
 </p>
 <hr>
-<p>Zhenghua Newz 2022</p>
+<h4><strong><u>Zhenghua Newz 2022</u></strong></h4>
 <p><u>January</u>
 </p>
 <p><a href="/zhenghua-newz/nav/Secondary-One-Orientation-Camp-2022/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Orientation Camp 2022</a>
@@ -73,7 +73,7 @@ variant: tiptap
 <p><a href="/zhenghua-newz/nav/awards-day-2022" rel="noopener noreferrer nofollow" target="_blank">Awards Day 2022</a>
 </p>
 <hr>
-<p>Zhenghua Newz 2021</p>
+<h4><strong><u>Zhenghua Newz 2021</u></strong></h4>
 <p><a href="/zhenghua-newz/nav/sec-1-orientation-camp-2021" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Orientation Camp 2021</a>
 </p>
 <p><u>February</u>
@@ -95,7 +95,7 @@ variant: tiptap
 <p><a href="/zhenghua-newz/nav/national-day" rel="noopener noreferrer nofollow" target="_blank">National Day</a>
 </p>
 <hr>
-<p>Zhenghua Newz 2020 &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h4><u>Zhenghua Newz 2020 &nbsp;&nbsp;&nbsp;&nbsp;</u></h4>
 <p><u>January</u>
 </p>
 <p><a href="/zhenghua-newz/nav/camp-valorous" rel="noopener noreferrer nofollow" target="_blank">Camp Valorous!</a>
@@ -115,7 +115,7 @@ variant: tiptap
 <p><a href="/zhenghua-newz/nav/awards-day-2020" rel="noopener noreferrer nofollow" target="_blank">Awards Day 2020</a>
 </p>
 <hr>
-<p>Zhenghua Newz 2019 &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h4><strong><u>Zhenghua Newz 2019 &nbsp;&nbsp;&nbsp;&nbsp;</u></strong></h4>
 <p><u>January</u>
 </p>
 <p><a href="/zhenghua-newz/nav/camp-dauntless-2019" rel="noopener noreferrer nofollow" target="_blank">Camp Dauntless 2019</a>
