@@ -33,3 +33,20 @@ who might not have had the chance to do so before. For me, the class cheer
 was the best part of the camp as it made me feel like everyone was getting
 along as a class.</p>
 <p>Briny Lim En (1D)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1orient2404.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1orient2402.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1orient2401.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1orient2405.jpg">
+</div>
+<p></p>
