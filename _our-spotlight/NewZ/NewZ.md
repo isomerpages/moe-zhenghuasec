@@ -10,24 +10,30 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tdcg2401.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD202406.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1orient2404.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Total Defence Day Card Game Challenge 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Total Defence Day 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Secondary 1 Orientation Camp 2024</h5>
 </td>
 </tr>
 <tr>
@@ -316,60 +322,6 @@ together with the teachers. ZSS collected a total of 67 food hampers and
 27 gift packages for the residents in our neighbourhood!
 <br>
 <br><a href="/sharethejoyzss/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Camp%20Fearless%20Campfire" src="/images/Camp%20Fearless%20Campfire.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P1011262" src="/images/P1011262.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2022NLEVELRESULSTSRELEASE" src="/images/2022NLEVELRESULSTSRELEASE.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Secondary One Orientation</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>O Level Results Release 2022</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>N Level Results Release 2022</h5>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our secondary 1 students experienced a 3-day, 1-night orientation camp.
-Conducted by our student councillors, students enjoyed camping activities
-like outdoor cooking, a nature hike, mass dance and to top it off, a campfire.
-<br>
-<br><a href="/CampFearless2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our heartiest congratulations to the O level cohort of 2022 for their
-good performance. Our students overcame the challenges they faced with
-grit and determination to achieve excellence results at the O levels.
-<br>
-<br><a href="/achievements/Academic-Achievements/permalink/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>We would like to congratulate the N level classes of 2022 for their good
-performance at the GCE N level examination. Heartiest congratulations to
-the NA and NT students shown in the group photo for their outstanding results.
-<br>
-<br><a href="/achievements/Academic-Achievements/2022-N-Level-Examination-Results/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
