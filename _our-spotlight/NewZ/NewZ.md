@@ -38,13 +38,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Uniformed group members conducted a Total Defence Card Game Challenge
+on 29 Feb 2024 to raise awareness on how they can better prepare themselves
+for emergencies and protect Singapore.</p>
 <p></p>
+<p><a href="/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Total Defence 2024 commemorated the 40th Anniversary of Total Defence
+in Singapore with interesting and engaging activities such as Food Resilience
+Experience and Drama performance.&nbsp;</p>
 <p></p>
+<p><a href="/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The annual Secondary 1 Orientation Camp was filled with much fun, excitement
+and laughter. Themed ‘Team Venture’, it symbolises the Secondary One students
+advancing to a new chapter, the beginning of a new journey.</p>
 <p></p>
+<p><a href="/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 <tr>
