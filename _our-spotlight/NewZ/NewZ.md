@@ -42,7 +42,7 @@ variant: tiptap
 on 29 Feb 2024 to raise awareness on how they can better prepare themselves
 for emergencies and protect Singapore.</p>
 <p></p>
-<p><a href="/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/td2024card/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ for emergencies and protect Singapore.</p>
 in Singapore with interesting and engaging activities such as Food Resilience
 Experience and Drama performance.&nbsp;</p>
 <p></p>
-<p><a href="/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/td2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +58,7 @@ Experience and Drama performance.&nbsp;</p>
 and laughter. Themed ‘Team Venture’, it symbolises the Secondary One students
 advancing to a new chapter, the beginning of a new journey.</p>
 <p></p>
-<p><a href="/teachersday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/sec1orientation2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
