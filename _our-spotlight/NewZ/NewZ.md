@@ -43,7 +43,7 @@ variant: tiptap
 <p>Our secondary one students went through a 4-day programme during Ziesta
 to help them discover and develop their strengths and areas for growth.</p>
 <p></p>
-<p><a href="/sec1orientation2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/secondary-1-ziesta-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
