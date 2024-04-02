@@ -35,7 +35,7 @@ variant: markdown
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
 |Lim Cheng Huat Patrick  <br> SH Maths |    
 |Lim Jun Qiang Derrick <br> SH CCE |      
-|Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 4)|215|
+|Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 1)|215|
 |Koh Khee Hoon <br> Asst Year Head (Sec 2) | 221|
 |Magdalene Tan Li Ping <br> Year Head (Sec 3)|223|
 |Zanariah Zainal Abiden <br> Year Head (Sec 4)|220|
