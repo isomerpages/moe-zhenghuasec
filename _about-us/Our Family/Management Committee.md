@@ -19,17 +19,17 @@ variant: markdown
 |He Aifen <br> Vice-Principal (Admin) | 116|
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
 |Lim Chee Hui Derek <br> HOD ICT | 212|
-|Mazri Misawar <br> HOD Mathematics | 202|
+|Mazri Misawar <br> HOD Mathematics | 211|
 |Rafiyah Begum Bte Sharif Mohd <br> HOD English Language | 204|
 |Samuel Lim Kok Boon <br> HOD CCE | 224|
 |Soh Bee Kim <br> HOD MTL | 209 |
 |Hamidah Bte Ali <br> HOD C&amp;T | 207 |
 |Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
-|Phay Pei Joo <br> School Staff Developer | 208|
+|Phay Pei Joo <br> School Staff Developer | 210|
 |Tan Liang Chye Stanley <br> HOD Science | 203 |
-|Ashar Ahmad <br> HOD Student Management | 222 |
+|Ashar Ahmad <br> HOD Student Management | 206 |
 |Yeo Yen Hua <br> SH OE &amp; Special Projects | 219 |
-|Ang Lien Lee Jonathan <br> SH ICT | 214 |
+|Ang Lien Lee Jonathan <br> SH ICT | 217 |
 |Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
