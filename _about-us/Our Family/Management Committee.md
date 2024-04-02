@@ -3,6 +3,7 @@ title: Management Committee
 permalink: /about-us/management-committee/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 ### Management Committee
 
@@ -13,7 +14,7 @@ third_nav_title: Our Family
 
 | List of Names| Tel Ext. | 
 | -------- | -------- | 
-| Ng Hock Soon <br>Principal     | 103     | 
+|Ng Hock Soon <br>Principal     | 103     | 
 |Elaine Tan Pei Lee <br> Vice-Principal | 117|
 |He Aifen <br> Vice-Principal (Admin) | 116|
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
@@ -25,13 +26,16 @@ third_nav_title: Our Family
 |Hamidah Bte Ali <br> HOD C&amp;T | 207 |
 |Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
 |Phay Pei Joo <br> School Staff Developer | 208|
-|Ang Lien Lee Jonathan <br> SH ICT | 214 |
+|Tan Liang Chye Stanley <br> HOD Science | 203 |
 |Ashar Ahmad <br> HOD Student Management | 222 |
 |Yeo Yen Hua <br> SH OE &amp; Special Projects | 219 |
+|Ang Lien Lee Jonathan <br> SH ICT | 214 |
 |Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
-|Koh Khee Hoon <br> Year Head (Sec 1) | 221|
-|Magdalene Tan Li Ping <br> Year Head (Sec 2)|223|
-|Zanariah Zainal Abiden <br> Year Head (Sec 3)|220|
-|Ho Woan Shay <br> SH Student Well-being / Year Head (Sec 4)|215|
+|Lim Cheng Huat Patrick  <br> SH Maths |    
+|Lim Jun Qiang Derrick <br> SH CCE |      
+|Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 4)|215|
+|Koh Khee Hoon <br> Asst Year Head (Sec 2) | 221|
+|Magdalene Tan Li Ping <br> Year Head (Sec 3)|223|
+|Zanariah Zainal Abiden <br> Year Head (Sec 4)|220|
