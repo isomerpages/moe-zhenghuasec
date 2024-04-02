@@ -2,41 +2,102 @@
 title: Student Achievements (By Departments)
 permalink: /achievements/student-achievement-department/
 description: ""
+variant: tiptap
 ---
-### Department Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5"><span style="font-style:inherit">Department</span></th>
-    <th class="tg-dgl5"><span style="font-style:inherit">Accolades/Achievements</span></th>
-  </tr>
-</thead>
+<h3>Department Achievements</h3>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="font-style:inherit">English Language &amp; Literature</span></td>
-    <td class="tg-ktyi"><span style="font-weight:bold;font-style:inherit">Orator's Trophy 2021</span><br><span style="font-style:inherit">Neo Lance Supatrio (3E3) - Top 5 Finalist</span><br><span style="font-style:inherit">Orator's Trophy 2020</span><br><span style="font-style:inherit">Quistyna Raphaelle Abdullah Sullivan (2E1) - Overall Champion (Junior League)</span><br><span style="font-style:inherit">Viyana Lee (4E2) - Top 5 Finalist (Senior League)</span><br><span style="font-style:inherit">2020 ACJC Speech Arts Competition</span><br><span style="font-style:inherit">Comic Speech (Lower Sec Category)</span><br><span style="font-style:inherit">Zylia Tan (2E1) - 4th</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-style:inherit">Comic Monologue (Lower Sec Category)</span><br><span style="font-style:inherit">Quistyna Raphaelle Abdullah Sullivan (2E1) - 5th</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-style:inherit">Comic Duologue (Lower Sec)</span><br><span style="font-style:inherit">Chua Herng Siang Brayden &amp; Lim Jun Rui (2E1) - 1st</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-style:inherit">Comic Duologue (Upper Sec)</span><br><span style="font-style:inherit">Jevon Lee Yok Seng &amp; Lim Zheng Xi (3E3)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-style:inherit">Mother Tongue Languages</span></td>
-    <td class="tg-ktyi"><span style="font-weight:bold;font-style:inherit">2021</span><br><br><span style="font-style:inherit">4th Text Recital Competition organized by Committee to Promote Chinese Language Learning (CPCLL)</span><br><span style="font-weight:bold;font-style:inherit">Individual</span><br><span style="font-style:inherit">- Cesy Angelin Martyus (1G) - Silver- Sor Zhi Guang, Zackary (1C) - Silver</span><br><span style="font-style:inherit">- Lim Si En (3E4) - Silver</span><br><span style="font-style:inherit">- Ngoi Wan Ying (4N2) - Silver</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 1 - Bronze</span><br><span style="font-style:inherit">- Zhang Jiayi (2N1)- Clouwdia Martyus (2N2)</span><br><span style="font-style:inherit">- Trina Choong Jia Le (2N2)</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 2 - Bronze</span><br><span style="font-style:inherit">- Low Le Xuan (3E1)- Xu Lian (3E2)</span><br><span style="font-style:inherit">- Koh Chui Shyuan (3E3)</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 3 - Bronze </span><br><span style="font-style:inherit">- Lee Hao Xuan, Brandon (4E3)- Chua Gwyn (4E4)</span><br><br><span style="font-weight:bold;font-style:inherit">2020</span><br><span style="font-style:inherit">The 11th "Global Village" Children &amp; Youths Bilingual Speech Competition - Bronze</span><br><span style="font-style:inherit">Chua Zhun Kai (3E1)</span><br><span style="font-style:inherit">3rd Text Recital Competition for Primary and Secondary Schools</span><br><span style="font-weight:bold;font-style:inherit">Individual</span><br><span style="font-style:inherit">- Lim Si En (2E4) - Silver- Kylie Yeo Jing Ni (3E4) - Bronze</span><br><span style="font-style:inherit">- Lee Hao Xuan, Brandon (3E3) - Bronze</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 1 - Bronze</span><br><span style="font-style:inherit">- Seow Wan Shuen (2E1)- Valerie Ho Yu Shan (2E4)</span><br><span style="font-style:inherit">- Siah Xing Rong (2E4)</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 2 - Silver</span><br><span style="font-style:inherit">- Feng Xi (3N2)- Adeline Tay Jie Ying (3N2)</span><br><span style="font-style:inherit">- Zhang Li Xin (3N2)</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 3 - Bronze</span><br><span style="font-style:inherit">- Chua Gwyn (3E4)- Javier Goh Song Heng (3E4)</span><br><span style="font-style:inherit">5th National Chinese Mini Fiction Creative Writing Competition 2020 - Consolation Prize</span><br><span style="font-style:inherit">Poh Yawen (4E2)</span><br><span style="font-style:inherit">2020 Fight Against Covid-19 National Essay Writing Competition for Primary and Secondary School - Consolation Prize</span><br><span style="font-style:inherit">Lim Si En (2E4)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-style:inherit">Craft &amp; Technology</span></td>
-    <td class="tg-ktyi"><span style="font-style:inherit">D&amp;T: Innovation Programme 2020 - 6 Merit Awards</span><br><span style="font-style:inherit">16 3E2 D &amp; T students:</span><br><br><span style="font-weight:bold;font-style:inherit">Team 1</span><br><span style="font-style:inherit">- Jiang Yujie- Oh Shu Xian</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 2</span><br><span style="font-style:inherit">- Gabriel Bong Jun Han- Khoo Jing Xiang</span><br><span style="font-style:inherit">- Ryan Wee Yung Hao</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 3</span><br><span style="font-style:inherit">- Ang Wei Ze Brendan- Lim Jing Yang</span><br><span style="font-style:inherit">- Dai Zehao</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 4</span><br><span style="font-style:inherit">- Nur Abyana Binte Mohd Herman- Teoh Yan-mae</span><br><span style="font-style:inherit">- Muhammad Airyl Qusyairy Bin Yahya</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 5</span><br><span style="font-style:inherit">- Chua Rui Zhe- Jaeden Tan</span><br><span style="font-style:inherit;color:#FFF">-</span><br><span style="font-weight:bold;font-style:inherit">Team 6</span><br><span style="font-style:inherit">- Poh Jia Jun, Edmund- Mervyn Teo Chen Yu</span><br><span style="font-style:inherit">- Bryan Teo Tze En</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-style:inherit">Aesthetics</span></td>
-    <td class="tg-ktyi"><span style="font-style:inherit">Singapore Youth Fesitval 2020 The Youth Station Project - Original Songs</span><br><br><span style="font-style:inherit">Lim Si En (2E4)</span><br><span style="font-style:inherit">Chee Shenghui Christian Joel (4E3)</span><br><span style="font-style:inherit">National Teachers' Day Virtual Choir Video - Chorus Group</span><br><span style="font-style:inherit">Valerie Ho Yu Shan (2E4)</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Accolades/Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Secondary School Debating Championships</strong> 
+<br><em>Best Speaker (Top 20 in the Preliminary Rounds)</em> 
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daphne Sim Shi Yun (Shen Shiyun) (3D)</p>
+<p><strong>Impromptu Round of the Senja-Cashew Debate Invitationals </strong>
+<br><em>Best Speaker</em> 
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neo Jing Ru (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pertandingan Penulisan Cerpen dan Sajak Peringkat Nusantara 2022 (Kategori Menengah Rendah)<br>Regional Short Stories and Poetry Competition 2022 (Lower Secondary Category)</strong> 
+<br><em>5th place</em> 
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qistina Maisarah Jumali (4F)</p>
+<p><strong>2023年“全国中学生灯谜赛” - </strong>华文组冠军
+<br><strong>2nd <a href="https://www.moe.gov.sg/news/press-releases/20230622-more-than-250-students-test-their-wits-at-the-2nd-national-chinese-riddle-competition" rel="noopener noreferrer nofollow" target="_blank">National Chinese Riddle Competition</a></strong> 
+<br><em>Champion</em> 
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selina Loh Xuan Hui (3C)
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nicholas Mok Kin Fong (3C)
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Victoria Chang En Min (3C)</p>
+<p>&nbsp;<strong>第六届全国课文朗诵比赛(个人组）- </strong>银奖
+<br><strong>6th National Text Recital Competition</strong> 
+<br><em>Silver</em> 
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Zi Ling (3D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NUS Geography Challenge 2023</strong>
+<br><em>Individual Performance - Bronze</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Su Shiyan (4D)</p>
+<p><em>Creative Component (Team) - 1st</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Su Shiyan (4D)
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaitlyn Chan (4D)
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Yong Xuan (4D)
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Jek Kian (4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Mathematical Olympiad</strong>
+<br><em>Bronze</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chong Wan Tong (4C)</p>
+<p>&nbsp;<em>Honourable Mention</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clarence Lee Hao Lin (2F)
+<br>● Royston Toh Jun Yi (Zhuo Junyi) (2E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chemistry Olympia</strong>
+<br><em>2 Bronze</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joel Tan Jun An (4C)
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elliot Yeoh Jian Yin (4C)</p>
+<p>&nbsp;<strong>Biology Olympia</strong>
+</p>
+<p>&nbsp;<em>1 Silver</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Andre Leong Wei Ze (4C)
+<br><em>1 Honorable Mention</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jovin Ong Jing Rui (4C)</p>
+<p><strong>Physics Olympia</strong> 
+<br><em>1 Silver</em>
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joel Tan Jun An (4C)
+<br><em>1 Bronze</em>
+<br>Marcus Chan Jia Le (4C)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
