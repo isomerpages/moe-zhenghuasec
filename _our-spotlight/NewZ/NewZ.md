@@ -10,34 +10,38 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cny2404.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ziesta2407.jpg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Chinese New Year 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Secondary 1 Ziesta 2024</h5>
 </td>
+<td rowspan="1" colspan="1">
+<h5></h5>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>To commemorate ZSS's 25th anniversary this year, we extended invitations
+to the members of the School Advisory Committee, Parent Support Group,
+and alumni to join us in celebrating the Lunar New Year at the parade square.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/chinese-new-year-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our secondary one students went through a 4-day programme during Ziesta
@@ -45,6 +49,9 @@ to help them discover and develop their strengths and areas for growth.</p>
 <p></p>
 <p><a href="/secondary-1-ziesta-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -324,58 +331,6 @@ Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM
 and learning journeys to Chinatown and Lorong Buangkok.
 <br>
 <br><a href="/mtfortnightml2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TotalDefence" src="/images/TD1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CNY1" src="/images/CNY1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sharethejoy%20mainpic" src="/images/sharethejoy%20mainpic.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>ZSS Fire-Fighters to the Rescue!</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Chinese New Year Celebration 2023</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Share the Joy @ ZSS</h5>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ZSS provided an opportunity for students to learn more about civil defence
-and how to react in times of emergency. Having a firetruck in school gave
-students a hands-on experience on how to put out fire with a watering hose.
-<br>
-<br><a href="/totaldefence2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>时隔三年，全校师生再次齐聚礼堂参加期盼已久的华人新年庆祝会。
-<br>
-<br><a href="/cny2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For this year's CNY Values in Action project, Class 5A managed the project
-together with the teachers. ZSS collected a total of 67 food hampers and
-27 gift packages for the residents in our neighbourhood!
-<br>
-<br><a href="/sharethejoyzss/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
