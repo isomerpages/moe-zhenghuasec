@@ -98,88 +98,11 @@ talent areas:</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<h5>DSA-Sec Application Process:</h5>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open&nbsp;<strong>from 4 May 2023, 11am to 31 May 2023, 3pm.</strong>
-</p>
-<p>For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p>Below is the brief timeline for the whole application process.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Application Process</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan to May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents and students explore preferred schools for DSA.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 4 May 2023 to Wednesday 31 May 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Submission of your child's application online through the DSA-Sec Portal
-by <u>3pm on Wednesday, 31 May 2023.</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Late Jun to mid Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants are to attend interview and selection session conducted by
-the school. We will inform all applicants their interview and selection
-dates once we process all the applications.
-<br>
-<br>All applicants will be informed of the outcome of their application after
-the interview and selection. Selected students will receive DSA-Sec offers
-directly from schools by mid September.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Late Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants to choose up to 3 school choices in order of preference via
-the DSA-Sec portal.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Late Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants will receive school allocation along with PSLE results.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
-<p>For enquiries and clarifications, please contact the following personnel,</p>
-<p>Mr Robin Goh Jin Quan, <em>HOD / PE and CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for during their time in Zhenghua
+Secondary.</p>
+<p>For enquiries and clarifications, please contact the following personnel,
+<br>Mr Robin Goh Jin Quan, <em>HOD / PE and CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
 </p>
+<p></p>
