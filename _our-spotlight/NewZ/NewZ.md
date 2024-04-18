@@ -10,6 +10,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cny2404.jpg">
 </div>
@@ -19,22 +22,22 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ziesta2407.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<h5>Secondary 3 Expedition 2024</h5>
+</td>
 <td rowspan="1" colspan="1">
 <h5>Chinese New Year 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Secondary 1 Ziesta 2024</h5>
 </td>
-<td rowspan="1" colspan="1">
-<h5></h5>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>To commemorate ZSS's 25th anniversary this year, we extended invitations
 to the members of the School Advisory Committee, Parent Support Group,
@@ -49,9 +52,6 @@ to help them discover and develop their strengths and areas for growth.</p>
 <p></p>
 <p><a href="/secondary-1-ziesta-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -274,63 +274,6 @@ bountiful opportunities for them to lead and develop resilience, our secondary
 3 students went on a 3-day-2-night outdoor camp after months of preparation.
 <br>
 <br><a href="/sec3expedition2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MT Fortnight" src="/images/sec1sab4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MT Fortnight" src="/images/mainpic.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MT Fortnight" src="/images/mtfortnightmlmainpic.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Secondary 1 Sabbatical 2023</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>MT Fortnight - Chinese Language</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>MT Fortnight - Malay Language</h5>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Secondary 1 sabbatical program was successful in improving students'
-leadership and teamwork skills through a variety of team-building activities
-such as kinball, archery tag, scavenger hunt, amazing race and station
-games.
-<br>
-<br><a href="/zhenghua-newz/nav/sec-1-sab/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To deepen understanding and appreciation of Mother Tongue language and
-culture, our MTL Department planned special programmes for our students:
-Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM
-and learning journeys to Chinatown and Lorong Buangkok.
-<br>
-<br><a href="/mtfortnightcl2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To deepen understanding and appreciation of Mother Tongue language and
-culture, our MTL Department planned special programmes for our students:
-Cultural Exhibit and Fair, DJs in Town from YES 933FM &amp; Ria 89.7FM
-and learning journeys to Chinatown and Lorong Buangkok.
-<br>
-<br><a href="/mtfortnightml2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>
