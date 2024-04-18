@@ -2,14 +2,15 @@
 title: Direct School Admission
 permalink: /dsa/
 description: ""
+variant: markdown
 ---
 ### Direct School Admission
 
 ##### DSA Application
-In Zhenghua Secondary, we envision every student in the school to be a Principled and Future-Ready Leader. We create ample opportunities for our students to develop their leadership competencies and take on leadership roles through CCA and other school signature programmes. Students who join us through DSA will have the opportunities to further develop their talent areas under the guidance of our dedicated teachers, experienced instructors, and enjoy the camaraderie of committed peers. Prospective students can also look forward to representing the school in competitions, performances and overseas trips.
+In Zhenghua Secondary, we envision every student in the school to be Dynamic Learners, Exemplary Leaders and Thoughtful Contributors. We create ample opportunities for our students to develop their leadership competencies and take on leadership roles through CCA and other school signature programmes. Students who join us through DSA will have the opportunities to further develop their talent areas under the guidance of our dedicated teachers, experienced instructors, and enjoy the camaraderie of committed peers. Prospective students can also look forward to representing the school in competitions, performances and overseas trips.
 
 ##### Talent areas offered
-Zhenghua welcomes promising Primary 6 students with strong leadership attributes and of exemplary conduct to participate in the school’s 2023 Direct School Admission (DSA) exercise for admission to the 2024 Secondary One intake.
+Zhenghua Secondary welcomes promising Primary 6 students with strong leadership attributes and of exemplary conduct to participate in the school’s 2023 Direct School Admission (DSA) exercise for admission to the 2024 Secondary One intake.
 
 Zhenghua will be offering DSA places for boys and girls in the following talent areas:
 
