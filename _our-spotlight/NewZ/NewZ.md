@@ -43,7 +43,7 @@ provide bountiful opportunities for them to lead and develop resilience,
 our secondary 3 students went on a 4-day 2-night outdoor camp after months
 of preparation.</p>
 <p></p>
-<p><a href="/chinese-new-year-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/sec-3-expedition-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
