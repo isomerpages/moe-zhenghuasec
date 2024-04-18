@@ -10,7 +10,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Expd_4.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -36,7 +38,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>As part of our endeavour to develop Zhenghua students holistically and
+provide bountiful opportunities for them to lead and develop resilience,
+our secondary 3 students went on a 4-day 2-night outdoor camp after months
+of preparation.</p>
 <p></p>
+<p><a href="/chinese-new-year-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To commemorate ZSS's 25th anniversary this year, we extended invitations
