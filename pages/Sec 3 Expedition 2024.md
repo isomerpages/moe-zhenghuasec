@@ -35,3 +35,16 @@ team were absent and there weren’t enough people but our classmates were
 willing to work together and and help one another. I made more friends
 during this camp and it strengthened my relationship with my class.
 <br>Jervis Tay (3A)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Expd_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Expd_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Expd_3.jpg">
+</div>
+<p></p>
