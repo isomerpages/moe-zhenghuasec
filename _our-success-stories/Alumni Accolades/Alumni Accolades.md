@@ -7,6 +7,10 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/achievements/alumni-accolades/2024-alumni-accolades/" rel="noopener noreferrer nofollow" target="_blank">2024 Alumni Accolades</a>
+</p>
+</li>
+<li>
 <p><a href="/achievements/alumni-accolades/2023-alumni-accolades/" rel="noopener noreferrer nofollow" target="_blank">2023 Alumni Accolades</a>
 </p>
 </li>
