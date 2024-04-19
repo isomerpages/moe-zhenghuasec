@@ -109,8 +109,8 @@ Secondary.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" bgcolor="red">
-<p align="center"><strong><u>Student Leaders Exco members</u></strong>
+<td rowspan="1" colspan="1" bgcolor="pink">
+<p align="center" style="color: skyblue"><strong><u>Student Leaders Exco members</u></strong>
 </p>
 </td>
 </tr>
