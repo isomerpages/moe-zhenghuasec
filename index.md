@@ -4,8 +4,7 @@ title: Zhenghua Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: 'Awards Day 2024 click here : <a
-  href="/achievements/Alumni-Accolades/Alumni-Accolades/">Website</a>'
+notification: ""
 sections:
   - hero:
       background: /images/ISOMERBANNERNEW.gif
@@ -16,4 +15,12 @@ sections:
         - title: ZSSofficial
           description: our Instagram
           url: https://www.instagram.com/zssofficial/?hl=en
+  - infopic:
+      title: Awards Day 2024
+      subtitle: 3rd May 2024
+      id: infopic
+      description: Click on the button below for more information on Awards Day 2024.
+      button: Click here
+      url: /achievements/Alumni-Accolades/Alumni-Accolades/
+      alt: Image alt text
 ---
