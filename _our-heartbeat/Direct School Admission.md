@@ -109,9 +109,13 @@ Secondary.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" bgcolor="red">
 <p align="center"><strong><u>Student Leaders Exco members</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_1_Exco_Members.jpg">
 </div>
