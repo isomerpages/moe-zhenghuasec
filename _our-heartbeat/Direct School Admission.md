@@ -110,60 +110,65 @@ Secondary.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leadership:</p>
+<p><strong><u>Student Leaders Exco members</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_1_Exco_Members.jpg">
 </div>
-<p>Exco Members</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><u>Launch of a student-led initiative during assembly by Student Leaders</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2_Launch_of_a_student_led_initiative_during_assembly.jpg">
 </div>
-<p>Launch of a student-led initiative during assembly</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><u>Malay Dance</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_3_Dance___Malay.jpg">
 </div>
-<p>Dance - Malay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><u>Modern / Contemporary Dance</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_4_Dance___Modern_Contemporary.jpg">
 </div>
-<p>Dance - Modern/Contemporary</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volleyball</p>
+<p><strong><u>Volleyball Boys Team</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_5_Volleyball___Boys_Team.jpg">
 </div>
-<p>Boys Team</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><u>Volleyball Girls Team</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_6_Volleyball___Girls_Team.jpg">
 </div>
-<p>Girls Team</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><u>Volleyball Girls team in action</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_7_Volleyball_Girls_team_in_action.jpg">
 </div>
-<p>Volleyball Girls team in action</p>
 </td>
 </tr>
 </tbody>
