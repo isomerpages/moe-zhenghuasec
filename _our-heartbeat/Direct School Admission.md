@@ -164,7 +164,7 @@ Secondary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Volleyball Girls team in action</u></strong>
+<p align="center"><strong><u>Volleyball Girls team in action</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_7_Volleyball_Girls_team_in_action.jpg">
@@ -173,7 +173,7 @@ Secondary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Volleyball practice session</u></strong>
+<p align="center"><strong><u>Volleyball practice session</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_volleyball_1.jpg">
