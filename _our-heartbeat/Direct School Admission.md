@@ -148,36 +148,52 @@ Secondary.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" bgcolor="pink">
 <p align="center"><strong><u>Modern / Contemporary Dance</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_4_Dance___Modern_Contemporary.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" bgcolor="pink">
 <p align="center"><strong><u>Volleyball Boys Team</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_5_Volleyball___Boys_Team.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" bgcolor="pink">
 <p align="center"><strong><u>Volleyball Girls Team</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_6_Volleyball___Girls_Team.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" bgcolor="pink">
 <p align="center"><strong><u>Volleyball Girls team in action</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_7_Volleyball_Girls_team_in_action.jpg">
 </div>
