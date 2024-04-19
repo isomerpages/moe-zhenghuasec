@@ -110,7 +110,7 @@ Secondary.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1" bgcolor="pink">
-<p align="center" style="color: skyblue"><strong><u>Student Leaders Exco members</u></strong>
+<p align="center"><strong><u>Student Leaders Exco members</u></strong>
 </p>
 </td>
 </tr>
@@ -122,9 +122,13 @@ Secondary.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" bgcolor="pink">
 <p align="center"><strong><u>Launch of a student-led initiative during assembly by Student Leaders</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2_Launch_of_a_student_led_initiative_during_assembly.jpg">
 </div>
