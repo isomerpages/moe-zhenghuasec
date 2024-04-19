@@ -171,6 +171,15 @@ Secondary.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Volleyball practice session</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_volleyball_1.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
