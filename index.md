@@ -23,5 +23,5 @@ sections:
       button: Click here
       url: /achievements/Alumni-Accolades/Alumni-Accolades/
       alt: Image alt text
-      image: /images/awardsday2024.jpg
+      image: /images/AD_24_announcment_page.jpg
 ---
