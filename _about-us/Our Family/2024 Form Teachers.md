@@ -37,7 +37,7 @@ variant: markdown
   <tr>
     <td class="tg-rr8m">1A</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Sri Diana Subari</span><br><span style="font-style:italic">sri_diana_subari@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Tan Li Leng Agnes</span><br><span style="font-style:italic">tan_li_leng@schools.gov.sg</span></td>
+		 <td class="tg-poi1"><span style="font-weight:bold">Mr Edwin Tan</span><br><span style="font-style:italic">tan_kian_hong@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ variant: markdown
   <tr>
     <td class="tg-rr8m">3G</td>
     <td class="tg-poi1"><span style="font-weight:bold">Mdm Grace Chia</span><br><span style="font-style:italic">chia_choo_hui@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Serene Howe</span><br><span style="font-style:italic">howe_joo-li_serene@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Miss Valerie Chia</span><br><span style="font-style:italic">chia_wei_ting_valerie@schools.gov.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
 	<tr>
@@ -219,7 +219,6 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">5A</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Edwin Tan</span><br><span style="font-style:italic">tan_kian_hong@schools.gov.sg</span></td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Anna Low</span><br><span style="font-style:italic">low_li_leen_anna@schools.gov.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
