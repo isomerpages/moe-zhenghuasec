@@ -102,13 +102,13 @@ Photos for the different talent areas:
 <table class="tg">
   <tbody>
 		<tr>
-		<td align="center" bgcolor="pink"><b>Student Leaders Exco Members</b></td>
+			<td bgcolor="pink"><p align="center"><strong><u>Student Leaders Exco Members</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_1_Exco_Members.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Launch of a student-led initiative during assembly by Student Leaders</b></td>
+		<td bgcolor="pink"><p align="center"><u>Launch of a student-led initiative during assembly by Student Leaders</u></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_2_Launch_of_a_student_led_initiative_during_assembly.jpg"></td>
