@@ -102,49 +102,49 @@ Photos for the different talent areas:
 <table class="tg">
   <tbody>
 		<tr>
-		<td align="center" bgcolor="pink"><b>Student Leaders Exco Members</b></td>
+		<td align="middle" bgcolor="pink"><b>Student Leaders Exco Members</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_1_Exco_Members.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Launch of a student-led initiative during assembly by Student Leaders</b></td>
+		<td align="middle" bgcolor="pink"><b>Launch of a student-led initiative during assembly by Student Leaders</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_2_Launch_of_a_student_led_initiative_during_assembly.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Malay Dance</b></td>
+		<td align="middle" bgcolor="pink"><b>Malay Dance</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_3_Dance___Malay.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Modern / Contemporary Dance</b></td>
+		<td align="middle" bgcolor="pink"><b>Modern / Contemporary Dance</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_4_Dance___Modern_Contemporary.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball Boys Team</b></td>
+		<td align="middle" bgcolor="pink"><b>Volleyball Boys Team</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_5_Volleyball___Boys_Team.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball Girls Team</b></td>
+		<td align="middle" bgcolor="pink"><b>Volleyball Girls Team</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_6_Volleyball___Girls_Team.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball Girls Team in action</b></td>
+		<td align="middle" bgcolor="pink"><b>Volleyball Girls Team in action</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_7_Volleyball_Girls_team_in_action.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball practice session</b></td>
+		<td align="middle" bgcolor="pink"><b>Volleyball practice session</b></td>
   </tr>
 	<tr>
 		<td><img src="/images/dsa_volleyball_1.jpg"></td>
