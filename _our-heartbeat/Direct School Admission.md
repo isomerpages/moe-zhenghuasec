@@ -108,25 +108,25 @@ Photos for the different talent areas:
 		<td><img src="/images/DSA_1_Exco_Members.jpg"></td>
   </tr>
 				<tr>
-		<td bgcolor="pink"><p align="center"><u>Launch of a student-led initiative during assembly by Student Leaders</u></p></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Launch of a student-led initiative during assembly by Student Leaders</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_2_Launch_of_a_student_led_initiative_during_assembly.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Malay Dance</b></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Malay Dance</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_3_Dance___Malay.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Modern / Contemporary Dance</b></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Modern / Contemporary Dance</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_4_Dance___Modern_Contemporary.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball Boys Team</b></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Volleyball Boys Team</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_5_Volleyball___Boys_Team.jpg"></td>
