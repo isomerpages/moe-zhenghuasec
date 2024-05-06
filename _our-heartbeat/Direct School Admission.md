@@ -96,3 +96,15 @@ For enquiries and clarifications, please contact the following personnel,
 
 
 Mr Robin Goh Jin Quan, *HOD / PE and CCA* | [robin_goh@schools.gov.sg](robin_goh@schools.gov.sg)
+
+Photos for the different talent areas:
+
+<table class="tg">
+  <tbody><tr>
+		<td align="center" bgcolor="pink"><b>Student Leaders Exco Members</b></td>
+  </tr>
+	<tr>
+		<td><img src="/images/DSA_1_Exco_Members.jpg"></td>
+  </tr>
+</tbody></table>
+
