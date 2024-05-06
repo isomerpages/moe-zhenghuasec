@@ -82,15 +82,15 @@ Below is the brief timeline for the whole application process.
 | Period | Application Process |
 |---|---|
 | Jan to May | Parents and students explore preferred schools for DSA. |
-| Thursday, 4 May 2023 to Wednesday 31 May 2023 | Submission of your child's application online through the DSA-Sec Portal by <u>3pm on Wednesday, 31 May 2023.</u> |
-| Late Jun to mid Sep | Applicants are to attend interview and selection session conducted by the school. We will inform all applicants their interview and selection dates once we process all the applications. <br><br>All applicants will be informed of the outcome of their application after the interview and selection. Selected students will receive DSA-Sec offers directly from schools by mid September. |
-| Late Oct | Applicants to choose up to 3 school choices in order of preference via the DSA-Sec portal. |
+| Thursday, 7 May 2024 to Monday 3 June 2024 | Submission of your child's application online through the DSA-Sec Portal by <u>3pm on Monday, 3 June 2024.</u> |
+| 24 June 2024 to 9 September 2024 | Applicants are to attend interview and selection session conducted by the school. We will inform all applicants their interview and selection dates once we process all the applications. <br><br>All applicants will be informed of the outcome of their application after the interview and selection. Selected students will receive DSA-Sec offers directly from schools by early September. |
+| 21 to 25 October 2024 | Applicants to choose up to 3 school choices in order of preference via the DSA-Sec portal. |
 | Late Nov | Applicants will receive school allocation along with PSLE results. |
 |
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4 in Zhenghua Secondary.
 
 For enquiries and clarifications, please contact the following personnel,
 
