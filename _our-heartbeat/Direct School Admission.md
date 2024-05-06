@@ -132,19 +132,19 @@ Photos for the different talent areas:
 		<td><img src="/images/DSA_5_Volleyball___Boys_Team.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball Girls Team</b></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Volleyball Girls Team</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_6_Volleyball___Girls_Team.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball Girls Team in action</b></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Volleyball Girls Team in action</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/DSA_7_Volleyball_Girls_team_in_action.jpg"></td>
   </tr>
 				<tr>
-		<td align="center" bgcolor="pink"><b>Volleyball practice session</b></td>
+		<td bgcolor="pink"><p align="center"><strong><u>Volleyball practice session</u></strong></p></td>
   </tr>
 	<tr>
 		<td><img src="/images/dsa_volleyball_1.jpg"></td>
