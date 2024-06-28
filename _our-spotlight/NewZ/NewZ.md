@@ -6,8 +6,53 @@ third_nav_title: NewZ
 variant: tiptap
 ---
 <h1>Newz</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AD202401.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>Awards Day 2024</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This year’s Awards Day took place on the 3 May 2024. We celebrated the
+academic success and contributions from the 2023 batch of students.</p>
+<p></p>
+<p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -226,62 +271,6 @@ customary habits of the festivities, so as to cultivate in everyone a deeper
 appreciation of the Hari Raya celebration.
 <br>
 <br><a href="/hariraya2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leaders Investiture" src="/images/ad2023main.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leaders Investiture" src="/images/slinvest202300.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MT Fortnight" src="/images/sec3exp1.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Awards Day 2023</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Student Leaders Investiture 2023</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Secondary 3 Expedition</h5>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Awards Day 2023 took place on 5 May 2023. It was a simple yet significant
-occasion to celebrate the sucess of last year's graduates. It was the first
-Awards Day where guests and parents were invited.
-<br>
-<br><a href="/awardsday2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A student-led event, Student Leaders' Investiture 2023, shows our appreciation
-for outgoing leaders. WIth confident march-ins by new leaders, symbolic
-object exchanges, and a rousing school song that united the entire school,
-it was a wonderful showcase of Zhenghua Secondary School's leadership and
-excellence.
-<br>
-<br><a href="/slinvest2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As part of our endeavour to develop our students holistically and provide
-bountiful opportunities for them to lead and develop resilience, our secondary
-3 students went on a 3-day-2-night outdoor camp after months of preparation.
-<br>
-<br><a href="/sec3expedition2023/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 </tr>

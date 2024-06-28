@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQ)
-permalink: /quicklinks/faq/
+permalink: /faq/
 description: ""
 variant: markdown
 ---
