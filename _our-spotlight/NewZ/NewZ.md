@@ -43,7 +43,7 @@ variant: tiptap
 <p>This year’s Awards Day took place on the 3 May 2024. We celebrated the
 academic success and contributions from the 2023 batch of students.</p>
 <p></p>
-<p><a href="/sec-3-expedition-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
