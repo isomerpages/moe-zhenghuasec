@@ -54,7 +54,7 @@ academic success and contributions from the 2023 batch of students.</p>
 Square). Students from all levels ran a 2.8km route from the Sports hub
 to Tanjong Rhu Promenade and back.</p>
 <p></p>
-<p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/zhenghua-road-race-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
