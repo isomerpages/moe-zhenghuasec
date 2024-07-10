@@ -113,7 +113,7 @@ variant: markdown
     <td class="tg-rhkx">2E</td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Felicity Lim</span><br><span style="font-style:italic">lim_sy_hing_felicity@moe.edu.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Mdm Yeo Yen Hua</span><br><span style="font-style:italic">yeo_yen_hua@moe.edu.sg</span></td>
-    <td class="tg-rhkx"><span style="font-weight:bold">Mdm Ng Shu Ting Melissa</span><br><span style="font-style:italic">melissa_ng_shu_ting@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Ng Shu Ting Melissa</span><br><span style="font-style:italic">melissa_ng_shu_ting@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2F</td>
@@ -221,7 +221,7 @@ variant: markdown
     <td class="tg-rhkx">4G</td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Siti Nurbasyirah</span><br><span style="font-style:italic">siti_nurbasyirah_azahar@moe.edu.sg</span></td>
     <td class="tg-z14i"><span style="font-weight:bold">Ms Vivian Koh</span><br><span style="font-style:italic">koh_su_hui_vivian@moe.edu.sg</span></td>
-    <td class="tg-rhkx"><span style="font-weight:bold">Ms Chew Jia Lin Lynn</span><br><span style="font-style:italic">chew_jia_lin_lynn@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Chew Jia Lin Lynn</span><br><span style="font-style:italic">chew_jia_lin_lynn@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">5A</td>
