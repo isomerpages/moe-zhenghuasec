@@ -83,48 +83,48 @@ variant: markdown
     <td class="tg-z14i"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Koh Khee Hoon (Year Head 2)</span><br><span style="font-style:italic">koh_khee_hoon@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Koh Khee Hoon (Year Head 2)</span><br><span style="font-style:italic">koh_khee_hoon@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2A</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Li Jiao</span><br><span style="font-style:italic">li_jiao@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Rachel Tan</span><br><span style="font-style:italic">tan_hui_leng_rachel@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Li Jiao</span><br><span style="font-style:italic">li_jiao@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Rachel Tan</span><br><span style="font-style:italic">tan_hui_leng_rachel@moe.edu.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2B</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Ivan Tan</span><br><span style="font-style:italic">tan_jiang_rui_ivan@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Xin Ping</span><br><span style="font-style:italic">xin_ping_a@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Ivan Tan</span><br><span style="font-style:italic">tan_jiang_rui_ivan@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Xin Ping</span><br><span style="font-style:italic">xin_ping_a@moe.edu.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2C</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Isabel Ho</span><br><span style="font-style:italic">ho_shu_chun_isabel@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Teo Jia Wei</span><br><span style="font-style:italic">teo_jia_wei@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Isabel Ho</span><br><span style="font-style:italic">ho_shu_chun_isabel@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Teo Jia Wei</span><br><span style="font-style:italic">teo_jia_wei@moe.edu.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2D</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Tamilarasi</span><br><span style="font-style:italic">tamilarasi_ramaiya@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Roy Tan</span><br><span style="font-style:italic">roy_tan@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Tamilarasi</span><br><span style="font-style:italic">tamilarasi_ramaiya@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Roy Tan</span><br><span style="font-style:italic">roy_tan@moe.edu.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2E</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Felicity Lim</span><br><span style="font-style:italic">lim_sy_hing_felicity@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Yeo Yen Hua</span><br><span style="font-style:italic">yeo_yen_hua@schools.gov.sg</span></td>
-    <td class="tg-rhkx"></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Felicity Lim</span><br><span style="font-style:italic">lim_sy_hing_felicity@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Yeo Yen Hua</span><br><span style="font-style:italic">yeo_yen_hua@moe.edu.sg</span></td>
+    <td class="tg-rhkx"><span style="font-weight:bold">Mdm Ng Shu Ting Melissa</span><br><span style="font-style:italic">melissa_ng_shu_ting@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">2F</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Marinah</span><br><span style="font-style:italic">marinah_mohdar@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Shamsul</span><br><span style="font-style:italic">shamsul_idris@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Marinah</span><br><span style="font-style:italic">marinah_mohdar@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Shamsul</span><br><span style="font-style:italic">shamsul_idris@moe.edu.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">2G</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Angela Tan</span><br><span style="font-style:italic">tan_cheng_cheng_angela@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Berton Tan</span><br><span style="font-style:italic">tan_ee_siang_berton@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Angela Tan</span><br><span style="font-style:italic">tan_cheng_cheng_angela@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Berton Tan</span><br><span style="font-style:italic">tan_ee_siang_berton@moe.edu.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
