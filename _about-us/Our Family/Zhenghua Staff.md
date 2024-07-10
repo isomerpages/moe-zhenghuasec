@@ -39,11 +39,11 @@ variant: markdown
 | **TEACHING STAFF** |  |
 | Aaron Justin Tan Wen Jie | 322 |
 | Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
+| Arockiadoss Jency Gracia  | 326 |
 | Amerlyn Ong Wei Lin | 316 |
 | Andrew Kan | 305 |
 | Anna Low Li Leen | 318 |
 | Angela Tan Cheng Cheng | 321 |
-| Boo Jia Liang | 339 |
 | Chee Pey Jiun | 340 |
 | Claudia Tan Danwei | 314 |
 | Edwin Tan Kian Hong | 309 |
@@ -58,6 +58,7 @@ variant: markdown
 | Karen Choo | 303 |
 | Koh Ming Hui | 307 |
 | Kwek Co Hui Lynn | 321 |
+| Lai Chien Siew | 307 |
 | Lee Weiqi | 312 |
 | Lee Yung-Wen | 329 |
 | Li Jiao | 330 |
@@ -65,10 +66,13 @@ variant: markdown
 | Lim Chen Guo Jacobe | 339 |
 | Loh So Boey Cynthia | 337 |
 | Loy Suan Doong<br>Senior Teacher (Design &amp; Technology) | 327 |
+| Chew Jia Lin Lynn | 338 |
 | Marinah Binte Mohdar | 303 |
 | Masrena Rahmat | 310 |
+| Melissa Ng Shu Ting | 317 |
 | Natalie Tan Li Er<br>Lead Teacher (Chemistry) | 304 |
 | Ng Seng Huat | 322 |
+| Nur Azri Iqmal Bin Mahadir | 323|
 | Nur Elfianie Bte Abdul Samad | 309 |
 | Nurul'Aishah Bte Shuhaimi | 308 |
 | Rachel Tan Hui Leng<br>Senior Teacher (English) | 325 |
@@ -82,7 +86,6 @@ variant: markdown
 | Sri Diana Subari | 319 |
 | Tamilarasi D/O Ramaiya | 302 |
 | Tan Fong Yee<br>Senior Teacher (Chinese Language) | 329 |
-| Tan Mei Ying | 322 |
 | Tan Pei Wen | 340 |
 | Tay Limin | 305 |
 | Tan Soh Hua (Mrs Wong) | 124 |
