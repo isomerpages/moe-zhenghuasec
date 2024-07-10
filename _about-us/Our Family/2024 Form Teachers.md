@@ -54,26 +54,26 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">1D</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Sharifah</span><br><span style="font-style:italic">sharifah_nazihah_sulaiman@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Ng Seng Huat Peter</span><br><span style="font-style:italic">ng_seng_huat@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Sharifah</span><br><span style="font-style:italic">sharifah_nazihah_sulaiman@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Ng Seng Huat Peter</span><br><span style="font-style:italic">ng_seng_huat@moe.edu.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1E</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Yong Wai Teng</span><br><span style="font-style:italic">yong_wai_teng@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Liang Kar Weng</span><br><span style="font-style:italic">liang_kar_weng@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Yong Wai Teng</span><br><span style="font-style:italic">yong_wai_teng@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Liang Kar Weng</span><br><span style="font-style:italic">liang_kar_weng@moe.edu.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1F</td>
-    <td class="tg-z14i"><span style="font-weight:700">Ms Sakinah</span><br><span style="font-style:italic">sakinah_mohamed_supiyan@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Patrick Lim</span><br><span style="font-style:italic">lim_cheng_huat@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:700">Ms Sakinah</span><br><span style="font-style:italic">sakinah_mohamed_supiyan@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Patrick Lim</span><br><span style="font-style:italic">lim_cheng_huat@moe.edu.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1G</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Lee Yung-Wen</span><br><span style="font-style:italic">lee_yung-wen@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Dennis Loy</span><br><span style="font-style:italic">loy_suan_doong@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Lee Yung-Wen</span><br><span style="font-style:italic">lee_yung-wen@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Dennis Loy</span><br><span style="font-style:italic">loy_suan_doong@moe.edu.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
 	 <tr>
