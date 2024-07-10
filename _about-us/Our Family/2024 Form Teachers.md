@@ -207,25 +207,25 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rhkx">4E</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Cynthia Loh</span><br><span style="font-style:italic">loh_so_boey@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Jacobe Lim </span><br><span style="font-style:italic">lim_chen_guo@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Cynthia Loh</span><br><span style="font-style:italic">loh_so_boey@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Jacobe Lim </span><br><span style="font-style:italic">lim_chen_guo@moe.edu.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">4F</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Koh Ming Hui</span><br><span style="font-style:italic">koh_ming_hui@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Karen Choo</span><br><span style="font-style:italic">choo_karen@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Koh Ming Hui</span><br><span style="font-style:italic">koh_ming_hui@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Karen Choo</span><br><span style="font-style:italic">choo_karen@moe.edu.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">4G</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Siti Nurbasyirah</span><br><span style="font-style:italic">siti_nurbasyirah_azahar@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Vivian Koh</span><br><span style="font-style:italic">koh_su_hui_vivian@schools.gov.sg</span></td>
-    <td class="tg-rhkx"></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Siti Nurbasyirah</span><br><span style="font-style:italic">siti_nurbasyirah_azahar@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Vivian Koh</span><br><span style="font-style:italic">koh_su_hui_vivian@moe.edu.sg</span></td>
+    <td class="tg-rhkx"><span style="font-weight:bold">Ms Chew Jia Lin Lynn</span><br><span style="font-style:italic">chew_jia_lin_lynn@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rr8m">5A</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Anna Low</span><br><span style="font-style:italic">low_li_leen_anna@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Anna Low</span><br><span style="font-style:italic">low_li_leen_anna@moe.edu.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
 
