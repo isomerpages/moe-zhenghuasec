@@ -13,6 +13,7 @@ variant: markdown
 | Ng Hock Soon<br>Principal | 103 |
 | Elaine Tan Pei Lee<br>Vice-Principal | 117 |
 | He Aifen<br>Vice-Principal (Admin) | 116 |
+| Samuel Lim Kok Boon<br>Vice-Principal | 106 |
 | Cha Boon Hon Danny<br>HOD Humanities | 205 |
 | Lim Chee Hui, Derek<br>HOD ICT | 212 |
 | Mazri Misawar<br>HOD Mathematics | 211 |
@@ -38,11 +39,11 @@ variant: markdown
 | **TEACHING STAFF** |  |
 | Aaron Justin Tan Wen Jie | 322 |
 | Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
+| Arockiadoss Jency Gracia  | 326 |
 | Amerlyn Ong Wei Lin | 316 |
 | Andrew Kan | 305 |
 | Anna Low Li Leen | 318 |
 | Angela Tan Cheng Cheng | 321 |
-| Boo Jia Liang | 339 |
 | Chee Pey Jiun | 340 |
 | Claudia Tan Danwei | 314 |
 | Edwin Tan Kian Hong | 309 |
@@ -57,6 +58,7 @@ variant: markdown
 | Karen Choo | 303 |
 | Koh Ming Hui | 307 |
 | Kwek Co Hui Lynn | 321 |
+| Lai Chien Siew | 307 |
 | Lee Weiqi | 312 |
 | Lee Yung-Wen | 329 |
 | Li Jiao | 330 |
@@ -64,10 +66,13 @@ variant: markdown
 | Lim Chen Guo Jacobe | 339 |
 | Loh So Boey Cynthia | 337 |
 | Loy Suan Doong<br>Senior Teacher (Design &amp; Technology) | 327 |
+| Chew Jia Lin Lynn | 338 |
 | Marinah Binte Mohdar | 303 |
 | Masrena Rahmat | 310 |
+| Melissa Ng Shu Ting | 317 |
 | Natalie Tan Li Er<br>Lead Teacher (Chemistry) | 304 |
 | Ng Seng Huat | 322 |
+| Nur Azri Iqmal Bin Mahadir | 323|
 | Nur Elfianie Bte Abdul Samad | 309 |
 | Nurul'Aishah Bte Shuhaimi | 308 |
 | Rachel Tan Hui Leng<br>Senior Teacher (English) | 325 |
@@ -81,7 +86,6 @@ variant: markdown
 | Sri Diana Subari | 319 |
 | Tamilarasi D/O Ramaiya | 302 |
 | Tan Fong Yee<br>Senior Teacher (Chinese Language) | 329 |
-| Tan Mei Ying | 322 |
 | Tan Pei Wen | 340 |
 | Tay Limin | 305 |
 | Tan Soh Hua (Mrs Wong) | 124 |
@@ -92,10 +96,11 @@ variant: markdown
 | Yong Wai Teng | 338 |
 | **EAS** |  |
 | Foo Yeong Kiang<br>Admin Manager | 105 |
-| Peh Choon Kuan<br>Operations Manager | 106 |
+| Peh Choon Kuan<br>Operations Manager | 115 |
 | Goh Charng Siew<br>Operations Manager |6762 4266|
 | Chee Kuan Hoe Sharon<br>Admin Executive |113 |
 | Nur Faiezah Osman<br>Admin Executive |109|
+| Alawiyah Bte Nadin<br>Admin Executive |112|
 | Eve Sim Joo Lan<br>MSO | 110 |
 | Flora Heng Ah Choo<br>CSO | 112 |
 | Michael Lim<br>AED (T&amp;L) | 333 |
@@ -108,6 +113,7 @@ variant: markdown
 | Loh Yam Wah James<br>TSO (EDN WKSHOP INSTRUCTOR) | 504 |
 | Muhd Rushdi<br>TSO (EDN WKSHOP INSTRUCTOR) | 504 |
 | Cheng Sim Kit<br>OSO | - |
+| Alagu Athimulam<br>OSO |-|
 | Samsiah Bte Jais<br>OSO | 101 |
 | Jayanthi Kandasamy<br>OSO | 507 |
 | Ramachandram Susila<br>OSO | 102 |
@@ -124,8 +130,9 @@ variant: markdown
 | Shirley Leong Choy Kow | 125 |
 | Noor Nisah D/O T Karasu | 121 |
 | Teo Siew Hui Jessie | 121 |
-| Tan Soo Heng | 123 |
-| Han Si Hui Josephine | 120 |
+| Tan Soo Heng | 125 |
+| Goh Wei Na | 120 |
+| Tan Chu Sing | 123 |
 
 
 
