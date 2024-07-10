@@ -78,8 +78,8 @@ variant: markdown
   </tr>
 	 <tr>
     <td class="tg-rhkx">1H</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Goh Lay Ping Justina</span><br><span style="font-style:italic">goh_lay_ping_justina@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Tay Limin</span><br><span style="font-style:italic">tay_limin@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Goh Lay Ping Justina</span><br><span style="font-style:italic">goh_lay_ping_justina@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Tay Limin</span><br><span style="font-style:italic">tay_limin@moe.edu.sg</span></td>
     <td class="tg-z14i"></td>
   </tr>
   <tr>
