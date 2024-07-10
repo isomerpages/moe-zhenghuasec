@@ -32,25 +32,25 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Ho Woan Shay (Year Head 1)</span><br><span style="font-style:italic">ho_woan_shay@schools.gov.sg</span><br></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Ho Woan Shay (Year Head 1)</span><br><span style="font-style:italic">ho_woan_shay@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1A</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Sri Diana Subari</span><br><span style="font-style:italic">sri_diana_subari@schools.gov.sg</span></td>
-		 <td class="tg-poi1"><span style="font-weight:bold">Mr Edwin Tan</span><br><span style="font-style:italic">tan_kian_hong@schools.gov.sg</span></td>
-    <td class="tg-rr8m"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Sri Diana Subari</span><br><span style="font-style:italic">sri_diana_subari@moe.edu.sg</span></td>
+		 <td class="tg-poi1"><span style="font-weight:bold">Mr Edwin Tan</span><br><span style="font-style:italic">tan_kian_hong_edwin@moe.edu.sg</span></td>
+    <td class="tg-rr8m"><span style="font-weight:bold">Mdm Agnes Tan</span><br><span style="font-style:italic">tan_li_leng@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1B</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Gay Wei Zhuang</span><br><span style="font-style:italic">gay_wei_zhuang@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Ms Widad Wahid</span><br><span style="font-style:italic">widad_wahid@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Gay Wei Zhuang</span><br><span style="font-style:italic">gay_wei_zhuang@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Widad Wahid</span><br><span style="font-style:italic">widad_wahid@moe.edu.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">1C</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Claudia Tan</span><br><span style="font-style:italic">tan_danwei_claudia@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Tan Fong Yee</span><br><span style="font-style:italic">tan_fong_yee@schools.gov.sg</span></td>
-    <td class="tg-poi1"></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Claudia Tan</span><br><span style="font-style:italic">tan_danwei_claudia@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Tan Fong Yee</span><br><span style="font-style:italic">tan_fong_yee@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Nur Azri Iqmal</span><br><span style="font-style:italic">nur_azri_iqmal_mahadir@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1D</td>
