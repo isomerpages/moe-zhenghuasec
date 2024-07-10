@@ -38,7 +38,7 @@ variant: markdown
     <td class="tg-rr8m">1A</td>
     <td class="tg-poi1"><span style="font-weight:bold">Ms Sri Diana Subari</span><br><span style="font-style:italic">sri_diana_subari@moe.edu.sg</span></td>
 		 <td class="tg-poi1"><span style="font-weight:bold">Mr Edwin Tan</span><br><span style="font-style:italic">tan_kian_hong_edwin@moe.edu.sg</span></td>
-    <td class="tg-rr8m"><span style="font-weight:bold">Mdm Agnes Tan</span><br><span style="font-style:italic">tan_li_leng@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Agnes Tan</span><br><span style="font-style:italic">tan_li_leng@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">1B</td>
