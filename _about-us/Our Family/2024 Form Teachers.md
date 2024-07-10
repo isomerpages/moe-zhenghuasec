@@ -179,12 +179,12 @@ variant: markdown
     <td class="tg-poi1"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 4)</span><br><span style="font-style:italic">zanariah_zainal_abiden@schools.gov.sg</span></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Zanariah Bte Zainal Abiden (Year Head 4)</span><br><span style="font-style:italic">zanariah_zainal_abiden@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-rhkx">4A</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Sam Soo</span><br><span style="font-style:italic">soo_boon_siang@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Tetty</span><br><span style="font-style:italic">tetty_juliana_sujono@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Sam Soo</span><br><span style="font-style:italic">soo_boon_siang@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Ms Natalie Tan</span><br><span style="font-style:italic">tan_li_er_natalie@moe.edu.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
