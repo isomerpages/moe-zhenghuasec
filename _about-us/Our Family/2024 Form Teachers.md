@@ -189,20 +189,20 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-rr8m">4B</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Seah Hwee Bing</span><br><span style="font-style:italic">seah_hwee_bing@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mdm Nur Elfianie</span><br><span style="font-style:italic">nur_elfianie_abdul_samad@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Seah Hwee Bing</span><br><span style="font-style:italic">seah_hwee_bing@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Nur Elfianie</span><br><span style="font-style:italic">nur_elfianie_abdul_samad@moe.edu.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
     <td class="tg-rhkx">4C</td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mr Andrew Kan</span><br><span style="font-style:italic">kan_andrew@schools.gov.sg</span></td>
-    <td class="tg-z14i"><span style="font-weight:bold">Mdm Rosmawati Alwi</span><br><span style="font-style:italic">rosmawati_alwi@schools.gov.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mr Andrew Kan</span><br><span style="font-style:italic">kan_andrew@moe.edu.sg</span></td>
+    <td class="tg-z14i"><span style="font-weight:bold">Mdm Rosmawati Alwi</span><br><span style="font-style:italic">rosmawati_alwi@moe.edu.sg</span></td>
     <td class="tg-rhkx"></td>
   </tr>
   <tr>
     <td class="tg-rr8m">4D</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Tan Mei Ying</span><br><span style="font-style:italic">tan_mei_ying@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Lim Hun</span><br><span style="font-style:italic">lim_hun_a@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Serene Howe</span><br><span style="font-style:italic">howe_joo-li_serene@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mr Lim Hun</span><br><span style="font-style:italic">lim_hun_a@moe.edu.sg</span></td>
     <td class="tg-rr8m"></td>
   </tr>
   <tr>
