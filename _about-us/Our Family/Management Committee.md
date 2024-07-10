@@ -17,6 +17,7 @@ variant: markdown
 |Ng Hock Soon <br>Principal     | 103     | 
 |Elaine Tan Pei Lee <br> Vice-Principal | 117|
 |He Aifen <br> Vice-Principal (Admin) | 116|
+|Samuel Lim Kok Boon <br> Vice-Principal | 106|
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
 |Lim Chee Hui Derek <br> HOD ICT | 212|
 |Mazri Misawar <br> HOD Mathematics | 211|
