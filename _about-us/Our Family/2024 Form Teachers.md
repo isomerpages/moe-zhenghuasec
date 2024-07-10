@@ -128,12 +128,12 @@ variant: markdown
     <td class="tg-z14i"></td>
   </tr>
   <tr>
-    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Magdalene Tan (Year Head 3)</span><br><span style="font-style:italic">tan_li_ping_magdalene@schools.gov.sg</span><br></td>
+    <td class="tg-ht7a" colspan="4"><span style="font-weight:bold">Mdm Magdalene Tan (Year Head 3)</span><br><span style="font-style:italic">tan_li_ping_magdalene@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-rr8m">3A</td>
-    <td class="tg-poi1"><span style="font-weight:bold">Ms Amerlyn Ong</span><br><span style="font-style:italic">ong_wei_lin_amerlyn@schools.gov.sg</span></td>
-    <td class="tg-poi1"><span style="font-weight:bold">Mr Boo Jia Liang</span><br><span style="font-style:italic">boo_jia_liang@schools.gov.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Ms Amerlyn Ong</span><br><span style="font-style:italic">ong_wei_lin_amerlyn@moe.edu.sg</span></td>
+    <td class="tg-poi1"><span style="font-weight:bold">Mdm Lai Chien Siew</span><br><span style="font-style:italic">lai_chien_siew@moe.edu.sg</span></td>
     <td class="tg-poi1"></td>
   </tr>
   <tr>
