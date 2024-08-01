@@ -73,15 +73,44 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Syahrizal Bin Isnin</p>
+<p>Mr Muhammad Syahrizal Bin Isnin
+<br>Partner/Principal Consultant, D'Synergy LLP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Muhammad Faisal Bin Johandi
-<br>Alumni, Medical Doctor</p>
+<p>Mr Ong Jenn Shyan
+<br>Group Vice President of Information Technology,
+<br>Boustead Singapore Limited</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Janice Chew
 <br>Ex-PSG Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SAC Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SAC Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Teck Hwee
+<br>Digital Ambassador, Cornerstone Global Partners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Peh Zhuang Sheng
+<br>Engineer, Land Transport Authority
+<br>Zhenghua Sec Alumni Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
