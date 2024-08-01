@@ -6,7 +6,10 @@ third_nav_title: Our Family
 variant: tiptap
 ---
 <h3>School Advisory Committee</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -15,26 +18,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Roy Hwa-Yong Kee
-<br>MD, JRW International Pte Ltd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Chairman</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Chua Bee Leng
-<br>Associate Dean, Professional Practice
-<br>National Institute of Education</p>
+<br>Chief Learning and Innovation Officer, Director's Office
+<br>Associate Professor, Psychology and Child &amp; Human Development
+<br>National Institute of Education, Nanyang Technological University, Singapore</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,7 +53,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
