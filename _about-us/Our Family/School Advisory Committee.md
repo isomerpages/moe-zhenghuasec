@@ -6,7 +6,10 @@ third_nav_title: Our Family
 variant: tiptap
 ---
 <h3>School Advisory Committee</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -15,26 +18,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Roy Hwa-Yong Kee
-<br>MD, JRW International Pte Ltd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Chairman</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Chua Bee Leng
-<br>Associate Dean, Professional Practice
-<br>National Institute of Education</p>
+<br>Chief Learning and Innovation Officer, Director's Office
+<br>Associate Professor, Psychology and Child &amp; Human Development
+<br>National Institute of Education, Nanyang Technological University, Singapore</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,7 +53,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,15 +73,44 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Syahrizal Bin Isnin</p>
+<p>Mr Muhammad Syahrizal Bin Isnin
+<br>Partner/Principal Consultant, D'Synergy LLP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Muhammad Faisal Bin Johandi
-<br>Alumni, Medical Doctor</p>
+<p>Mr Ong Jenn Shyan
+<br>Group Vice President of Information Technology,
+<br>Boustead Singapore Limited</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Janice Chew
 <br>Ex-PSG Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SAC Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SAC Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Teck Hwee
+<br>Digital Ambassador, Cornerstone Global Partners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Peh Zhuang Sheng
+<br>Engineer, Land Transport Authority
+<br>Zhenghua Sec Alumni Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
