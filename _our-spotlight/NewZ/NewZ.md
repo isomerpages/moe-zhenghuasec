@@ -28,6 +28,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/RHD202401.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -38,7 +41,7 @@ variant: tiptap
 <h5>Road Race 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Racial Harmony Day 2024</h5>
 </td>
 </tr>
 <tr>
@@ -58,7 +61,12 @@ to Tanjong Rhu Promenade and back.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Racial Harmony 2024 in Singapore is a celebration of multi-culturalism.
+This fosters unity and understanding among diverse ethnic groups, strengthening
+national cohesion and mutual respect.</p>
 <p></p>
+<p><a href="/racial-harmony-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 <tr>
