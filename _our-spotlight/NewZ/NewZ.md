@@ -55,7 +55,7 @@ those around us.</p>
 together and enjoy the spirit of togetherness and friendly competition,
 as they put their learning to the test in a tournament across all classes.</p>
 <p></p>
-<p><a href="/national-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+<p><a href="/sports-fiesta-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
