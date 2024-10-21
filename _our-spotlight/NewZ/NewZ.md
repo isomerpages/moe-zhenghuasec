@@ -22,6 +22,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sf202404.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -32,7 +35,7 @@ variant: tiptap
 <h5>National Day 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Sports Fiesta 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,7 +51,12 @@ those around us.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Sports Fiesta is a sport festival for all students in our school to come
+together and enjoy the spirit of togetherness and friendly competition,
+as they put their learning to the test in a tournament across all classes.</p>
 <p></p>
+<p><a href="/national-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
