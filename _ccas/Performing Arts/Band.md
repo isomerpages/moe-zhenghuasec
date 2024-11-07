@@ -70,6 +70,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Band Major:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abbie Aw Jia Xuan (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Master:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qi Lin (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keevan Tan Jun Wei (3D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Quarter Master (QM):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Kar How Julian (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Librarian:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Amran Bin Mohammed Moktar (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Officer:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurhannah Dafina Binte Hirwan (2A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>IG Account:</p>
 </td>
 <td rowspan="1" colspan="1">
