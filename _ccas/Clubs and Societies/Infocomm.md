@@ -3,30 +3,127 @@ title: Infocomm
 permalink: /ccas/Clubs-and-Societies/infocomm/
 description: ""
 third_nav_title: Clubs and Societies
+variant: tiptap
 ---
-### Infocomm Club
-
-| Teachers in-charge: | Ms Cynthia Loh |
-|---|---|
-|  | Ms Claudia Tan |
-| Trainer: | Mr Chan Deqi |
-| Training / Meeting Days and Time: | Thursdays: 2.30pm - 4.30pm Block B, Computer Lab 1 |
-|
-
-##### CCA Objectives:
-
-*   To inculcate problem solving skills in students
-*   To nurture leadership skills and responsibilities amongst students
-*   To build a sense of belonging amongst members
-
-##### Infocomm Club
-
-|  |  | 
-|---|:---:|
-| The Infocomm Club started off 2017 fruitfully by honing <br>their skills in videography, video <br>editing, Photoshop skills and photography. | <img src="/images/infocomm%201.jpg" style="width:65%">|
-| The students participated in the Singapore<br> Digital Media Awards (SDMA). This year, to<br> further challenge themselves, the<br> members participated in two <br>categories:&nbsp; Video and Photo Essay.<br> The students worked hard to<br> produce an original video that<br> takes a closer look at the issue<br> of cyberbullying. The video even <br>starred one of the teachers-in<br>-charge, Mr Koh Eng Huat, who<br> plays a villainous principal! | <img src="/images/infocomm%202.jpg" style="width:95%"> |
-| The Photo Essay team spent a <br>productive day at Sungei Buloh<br> Nature Reserve over the March<br> holidays. Besides soaking in<br> the tranquil environment, the<br> team captured some beautiful <br>shots of this paradise on earth, <br>depicting their message of the<br> importance of conservation of <br>Singapore’s natural environment.|<img src="/images/infocomm%203.jpg" style="width:95%"> |
-|The club also contributes to various <br>school events by sending out<br> student videographers, capturing<br> the spirit of each moment.|<img src="/images/infocomm%204.jpg" style="width:95%"> |
-| The Infocomm Club offers various<br> engaging modules where members<br> gain valuable and relevant ICT <br>skills. The club contributes actively<br> to various school programmes <br>and events by being budding <br>photographers and videographers. Each member is<br> involved in the pre-production, production, and post-production process. |<img src="/images/infocomm%205.jpg" style="width:95%"> 
-| Learning Journey to MBS | <img src="/images/infocomm%206.jpg" style="width:95%"> |
-|
+<h3>Infocomm Club</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in-charge:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Godwin Tan</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Khee Hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Michael Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trainer:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Immanuel Roszini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays: 2.30pm - 5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Farisha Alia Binte Mohamad Affendi (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aloysius Seah Yi Hang (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>See Xing Yi (4D)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Zhenghua Infocomm Club empowers students with digital media and technology
+skills through hands-on training by industry professionals. Members explore
+photography, videography, and basic programming while documenting school
+events and participating in national competitions. As a forward-looking
+CCA, we nurture creativity, technical competency, and leadership abilities.
+Through collaborative projects and real-world applications, our members
+develop crucial digital literacy skills while building lasting friendships
+with like-minded peers passionate about technology and digital media.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_11.png">
+</div>
+<p></p>
