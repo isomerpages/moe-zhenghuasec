@@ -3,52 +3,155 @@ title: Dance
 permalink: /ccas/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-### Dance
-
-| Teachers in-charge: | Mdm Sharifah Nazihah W M Sulaiman |
-|---|---|
-|  | Mdm Liu Fen |
-|  | Mdm Elfianie |
-| Coaches / Instructors: | Mr Osman Abdul Hamid (Malay/Contemporary) |
-|  | Mr Alif Aircho (Street Dance) |
-| Training / Meeting Days and Time: | Monday 4.00PM to 6.00PM |
-| additional practices are conducted for selected students on Wednesdays and Fridays to prepare them for competitions.  | Thursday 2.30PM to 5.45PM |
-|
-
-#### Achievements:
-
-##### 2021
-
-*   Opening Performance at Public Service Transformation Awards Ceremony
-*   Chinese Streetdance Competition - Best Theme Award
-*   D:2 Dance Competition Chingay Celebrations - Top 5 Finalists (Secondary Category)
-
-##### 2019
-
-*   Public Performance at The Istana for Hari Raya Aidilfitri Open House
-*   Singapore Youth Festival (SYF) 2019 Art Presentation – Certificate of Distinction (Malay Dance Category)
-*   Singapore Youth Festival (SYF) 2019 Art Presentation – Certificate of Distinction (International Dance Category)
-*   Super24 Dance Competition 2019 – 1st&nbsp;Runner-up (White Division)
-*   Super24 Dance Competition 2019 – Finalist (Secondary Category)
-*   Singapore Youth Festival (Malay Contemporary) 2017- Distinction Award
-*   Singapore Youth Festival (Street Dance) 2017 - Accomplishment Award
-*   Singapore Youth Festival (Malay Contemporary) 2015 - Distinction Award
-*   Singapore Youth Festival (Malay Contemporary) 2013 - Distinction Award
-*   Singapore Youth Festival (Malay Contemporary) 2011 - Gold Award
-*   Singapore Youth Festival (Malay Contemporary) 2009 - Bronze Award
-*   Singapore Youth Festival (Malay Contemporary) 2007 - Silver Award
-*   Singapore Youth Festival (Malay Contemporary) 2005 - Gold with Honours Award
-*   Singapore Youth Festival (Malay Contemporary) 2003 - Gold Award
-
-#### Zhenghua Dance Club
-
-In Dance Club, our dancers are being trained in both Streetdance and Malay Contemporary Dance. Our members are a team of energetic youth who find joy in expressing their thoughts and feelings through choreographed and freestyle dance moves. Every single member is committed to giving his best to the Club and that is key to us obtaining the various accolades over the years.
-
-Apart from developing technical dance skills through practices twice a week, our dance programme includes performing for various school and public performances and competitions, creating self-choreographed routines as well as participating in learning journeys to watch and appreciate live and online performances of other dance companies. In addition, opportunities for leadership development are also available as our dancers can take up different leadership roles such as Executive Committee members of the Club, Dance Captains and Level Leaders.
-
-Dance Club is proudly helmed by celebrated dance instructors Mr Osman Abdul Hamid and Mr Alif Aircho.
-
-<img src="/images/dance.jpg" style="width:85%">
-
-<img src="/images/dance%201.jpg" style="width:35%">
+<h3>Dance</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in-charge:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Sharifah Nazihah W M Sulaiman</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Agnes Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Elfianie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Aishah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coaches / Instructors:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Norhaizad Adam (Malay)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alif Aircho (Street Dance)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Dance Practice - Monday 4.00PM to 6.00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional practices are conducted for selected students for competitions
+and performances.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Street Dance Practice - Thursday 3.00PM to 5.30PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Maisarah Affiendi (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President &amp; Malay Dance Captain:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ily Naurah Binte Yusman (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Street Dance Captain:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Aaliyah Isabelle Binte Saiful Bahri (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Events Manager:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huma Aymen Arshad (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Manager:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Jing Xuan Arissa (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarah Lai Eng Kee (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instagram Account:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>@the_freshmakerzss</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Affectionately known as The Freshmakerz, our dancers dance with passion
+and pride, embracing both Contemporary Malay Dance and Street Dance. From
+national competitions to school performances, our dancers immerse themselves
+in the art, growing in skill and confidence. But it’s more than just dance—we
+build friendships with those who share our love for this art form. Supporting
+one another and having fun, we push our limits and make every moment, on
+and off the dance floor, meaningful and memorable.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/3.jpg">
+</div>
+<p></p>
