@@ -94,26 +94,31 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Achievements:</h4>
-<p>SYF 2019 Arts Presentation – Certificate of Accomplishment</p>
-<p>The Drama Club achieved a Certificate of Accomplishment at SYF Arts Presentation
-2019 with a performance centred on the theme of special needs. The club
-worked hard on their roles to portray the challenges faced by people with
-special needs in an impactful way. Through the process of preparing for
-the presentation, the actors, who were committed to put up an exemplary
-performance, honed their acting skills and grew more united as a club.</p>
-<p>The Drama Club also had the opportunity to do a Values-in-Action project
-in partnership with Bo Tien Day Activity Centre. Students planned the activities
-for the visit to the centre and had a rich learning experience interacting
-with the elderly there.</p>
-<h4>Our Activities:</h4>
+<p>The Drama Club aims to nurture students’ creativity, confidence, and communication
+skills through hands-on experiences in acting, scriptwriting, and production.
+Through collaborative projects and performances, members develop teamwork,
+empathy, and emotional awareness, while gaining an appreciation for local
+and global theatrical traditions. With opportunities to perform at school
+events and community showcases, the Drama Club prepares students for a
+well-rounded, enriching experience in the performing arts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/drama%20club%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/drama%20club%202b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/drama%20club%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_7.jpg">
 </div>
 <p></p>
