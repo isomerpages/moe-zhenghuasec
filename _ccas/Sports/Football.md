@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h3>Soccer</h3>
+<h3>Football</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
