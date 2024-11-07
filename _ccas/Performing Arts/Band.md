@@ -41,7 +41,15 @@ variant: tiptap
 <p>Coaches / Instructors:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Takehiro Oura, Mr Vincent Lee</p>
+<p>Mr Takehiro Oura</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Lee</p>
 </td>
 </tr>
 <tr>
