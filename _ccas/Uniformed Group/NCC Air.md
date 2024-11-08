@@ -3,52 +3,183 @@ title: NCC Air
 permalink: /ccas/Uniformed-Groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Group
+variant: tiptap
 ---
-### National Cadet Corp (Air)
-
-| Advisor: | Mr Ivan Tan Jiang Rui |
-|---|---|
-| Teachers in-charge: | Mr Edwin Tan |
-|  | Mr Andrew Kan |
-| Training / Meeting Days and Time: | Thursday, 2.30PM to 6.00PM |
-|
-
-#### Achievements:
-
-*   NCC Sports Championship – Soccer (Air District) – 3rd
-*   Air Competition 2019:
-    *   Cpl Tan Zi Xuan (2E3) – 1st&nbsp;in the Balsa Wood Catapult Launched Glider category
-    *   3SG Ng Ray Zin (3E2) – 2nd&nbsp;in the Quadcopter Drone Obstacle Course Race category
-*   3SG Tee Chin Shian (3E1) and 3SG Ng Ray Zin (3E2) took part in Exercise Puncak – Mt Ophir trek in June 2019
-*   Unit Recognition Award for 2018 – Accomplishment
-*   Best Unit Competition - Silver (2018)
-*   Best Unit Competition -&nbsp;Gold (2016)
-*   Aeromodelling Competition 2016 - Overall 3rd
-*   Best Unit Competition - Silver (2015)
-*   Best Unit Competition - Gold (2006 - 2014)
-
-#### Activities:
-
-| Aeromodelling | Advanced Drill Course | Archery | Battlefield Trail |
-|---|---|---|---|
-| Camp Forge for Junior Cadets | Camp Steel for Senior Cadets | Combined UG National Day Parade | Energy Conservation Course |
-| Freestyle Drill Course | Gold Wings | Mobile Explorer | NCC Adventure &amp; Leadership Camps |
-| NCC Affirmation Ceremony for Junior Cadets | NCC Annual Kayaking Expedition | NCC Day Parade | Orienteering |
-| Overseas Expeditions &amp; International Cadet Exchange Programmes (ICEP) | Overseas Trips | Passing Out Parade for Senior Cadet Leaders | Physical Training Course |
-| RSAF Flight Familiarisation Programmes | SAR 21 Rifle Shooting | SANA Course | Silver Wings |
-| Total Defence Programmes (National Education) | Specialist &amp; Senior Specialist Courses for Cadet Leaders | Water Ambassador Course | 1-star Kayaking |
-|
-
-#### Activities:
-
-2019 has been an exciting year for Zhenghua NCC (Air) Unit.
-
-Two of our Cadet Leaders, 3SG Tee Chin Shian and 3SG Ng Ray Zin, had the opportunity to go for Exercise Puncak in June where they trekked Mount Ophir, the sixth most difficult mountain in Malaysia. They forged new friendships with fellow cadet leaders from other Air units and enjoyed the memorable experiences during the trek.
-
-<img src="/images/ncc%20air%201.jpg" style="width:45%">
-
-Our cadets also took part in the annual Air Competition and participated in the various categories such as the Spot Landing Computer Simulator, Balsa Wood Catapult Launched Glider and the new Quadcopter Drone Obstacle Course Race. Through the trainings and guidance from their seniors and teachers, our cadets performed well as two of them came in top 3 in their respective categories.
-
-<img src="/images/Ncc%20air%202.jpg" style="width:45%">
-
-<img src="/images/ncc%20air%203.jpg" style="width:45%">
+<h3>National Cadet Corp (Air)</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers in-charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Kan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Valerie Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Arockiadoss Jency Gracia Lourdes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 2.30PM to 5.30PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koey Tan Chee Kay (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jensen Ong Say Kiat (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Drill Instructors:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darius Pang (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amber Aulia Binte Mohamed Effendy (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Shan Kai (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dania Humairah Binte Mohamad Darus (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Yusof Bin Mohammed Idris (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xu Yanwen (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aaron Shiu Keng Hou (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics 2IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dania Humairah Binte Mohamad Darus (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Training IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chai Yu Jie (3G)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The National Cadet Corps (NCC) fosters dedication, discipline, and teamwork
+among its cadets, preparing them for future challenges. Through rigorous
+training, these young individuals develop leadership skills, resilience,
+and a solid grasp of aviation and military principles. The programme combines
+academic instruction with practical exercises, emphasising integrity and
+service to both country and community. At Zhenghua NCC, there is a special
+focus on proficiency in drone operations, equipping cadets with valuable
+skills in this exciting field of engineering and technology.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Tossing_of_berets_for_Passing_Out_Parade.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Successful_drone_flight_during_25th_Anniversary_Concert.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Outstanding_cadet_award_ceremony.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC__Scouts_Skills_Exchange.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC_day_unit_photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC___Scouts_Skills_Exchange_teaching_drone_flying.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Drone_instructors_with_Participants_of_ALP.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Total_Defence_Silver_with_NPCC.jpg">
+</div>
+<p></p>
