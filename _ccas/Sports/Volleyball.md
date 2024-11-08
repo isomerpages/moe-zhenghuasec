@@ -3,45 +3,122 @@ title: Volleyball
 permalink: /ccas/Sports/Volleyball/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-### Volleyball
-
-| Teachers in-charge: | Ms Koh Ming Hui |
-|---|---|
-|  | Ms Lee Yung-Wen |
-|  | Mr Randy Chia Boon Ling |
-|  | Mr Liang Kar Weng |
-| Coaches / Instructors: | Mr Eric Lee |
-| Training / Meeting Days and Time: | Boys: Monday 3.00PM to 6.00PM and Friday 3.00PM to 5.00PM Girls: Wednesday 3.00PM to 6.00PM and Friday 1.00PM to 3.00PM |
-|
-
-#### CCA Objectives:
-
-*   To uphold and inculcate sports values and ethics in every athlete
-*   To foster camaraderie and team spirit among players
-*   To finish at a top four standing at the zonal level
-
-#### Activities:
-
-*   Anually Bonding Camp
-*   Twice weekly training
-*   Friendly matches
-*   Inter-schools national tournament
-
-#### Key Achievements:
-
-*   National Schools Games B Division Volleyball Tournament \[Girls Team\]
-*   National Schools Games B Division Volleyball Tournament \[Boys Team\]
-*   National Schools Games Sportsmanship Award \[To be announced\]
-
-2022 was the year that the Volleyball team members are looking forward to. With the relaxation of safe management measures, National Schools Games were able to resume. Our B Division boys team and B Division girls team trained very hard for the National School Games, which were held in April 2022. The teams played their very best against strong opponents. Currently, the teams are training for upcoming friendlies with other schools as well as C Division Volleyball tournament which is set to start in July 2022. The volleyball players are also looking forward to more bonding activities as well as the Volleyball camp at the end of the year.
-
-<img src="/images/volleyball.jpg" style="width:90%">
-![](/images/volleyball%201.jpg)
-
-##### 2019
-
-It has been an exciting year for our Volleyball team members. Our boy teams and girl teams trained extremely hard to prepare for the West Zone B Division Volleyball Championships that were held in January 2019 as well as the West Zone C Division Volleyball Championships held in July 2019. The teams did their best against strong opponents. In addition to trainings and competitions, our teams also had friendly matches with other schools to learn from one another. In order to build team work and help the team members bond, we look forward to our volleyball camp in November as well as an overseas trip to Malaysia at the end of the year.
-
-![](/images/volleyball%202.jpg)
-<img src="/images/volleyball%203.jpg" style="width:45%">
+<h3>Volleyball</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in-charge:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Koh Ming Hui</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yung-Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aaron Justin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coaches / Instructors:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Eric Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Brandy Seah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys : Tuesday, 3.00pm to 6.00pm, Friday, 3.30pm to 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls : Wednesday, 3.00pm to 6.00pm, Friday, 1.00pm to 3.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Zhenghua Volleyball provides students with the opportunity to participate
+in volleyball trainings which are overseen by professional coaches. This
+allows students to develop their passion for the sport. As a team sport,
+we hope to foster the importance of team spirit and sportsmanship. Through
+the CCA, we aim for our volleyball students to be committed and to forge
+strong, lifelong friendships with their teammates.</p>
+<p>Trainings are conducted twice a week during off-season. During National
+Schools Games season, there will be more trainings. We participate in both
+the B Division National Schools Games (January) and C Division National
+Schools Games (July). During the school holidays, we also continue to train
+and participate in friendly competitions with other schools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_Division_Boys_Team.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_DIvision_Girls_team_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_Division_Girls_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_Volleyball_Championship_League_4_group_overall_champion.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_VB_Team_2024___Champion_of_League_4_group.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Boys_Team_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/Sec_4s_2024___Last_day_of_training.jpg">
+</div>
+<p></p>
