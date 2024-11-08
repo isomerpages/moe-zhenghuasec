@@ -3,30 +3,131 @@ title: Choir
 permalink: /ccas/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-### Choir
-
-| Teachers in-charge: | Mdm Emilia |
-|---|---|
-|  | Mr Derrick Lim |
-| Conductor: | Ms Tan Jing Yi |
-| Training / Meeting Days and Time: | Monday 4.00PM to 6.00PM |
-|  | Thursday 2.30PM to 5.30PM |
-|
-
-#### Achievements:
-
-1.  Singapore Youth Festival (SYF) 2017 - Certificate of Accomplishment
-2.  Associate Board of Royal Schools of Music (ABRSM) Choral  
-    Singing Initial Level – Distinction
-		
-2019 was a significant and memorable year for the school choir. One main event in the choir calendar was the SYF Arts Presentation. As a part of our preparations, the choristers participated in the Choral Exchange at Serangoon Garden Secondary School. &nbsp;_ZEST_&nbsp;was another key event for us. We embarked on a fund-raising project; we sold notebooks that were painted and handmade by us.
-
-We gamely participated in the National Day school concert. The choristers sang a medley of traditional National Day songs which included ‘Home’ and ‘We Will Get There’. We also led the audience in the singing of the national anthem.
-
-Yet another significant programme was the CIP&nbsp;_at_&nbsp;Bo Tien Day Activity Centre. The choir sang several folk songs and bonded with the seniors there through story-telling and a game of bingo.
-
-<img src="/images/choir%201.jpg" style="width:85%">
-<img src="/images/choir%202.jpg" style="width:85%">
-<img src="/images/choir%203.jpg" style="width:85%">
-<img src="/images/choir%204.jpg" style="width:85%">
+<h3>Choir</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in-charge:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Emilia</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Derrick Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Conductor:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hu Zheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gloriana Fu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday 4.00PM to 6.00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday 2.30PM to 4.30PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Yi Xuan (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raeanne Lai Cheng Xuan (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Section Leaders:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bernice Wong Jia Xuan (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amely Pok Shi Yun (3A)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Zhenghua Secondary School Choir embodies the spirit of unity and musical
+excellence. With "One Choir, One Voice" as our guiding philosophy, we strive
+to create a harmonious blend of diverse voices. Through rigorous rehearsals
+and performances, our students develop vocal technique, teamwork, and stage
+presence. From classical to pop and cultural music, our diverse repertoire
+broadens musical perspectives and fosters a lifelong appreciation for the
+diversity of musical expression. With regular concerts, competitions, and
+collaborations, our choir builds school spirit and promotes self-expression.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Performance_at_One_Zhenghua_Fiesta_Community_Celebrations__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Community_Singing_on_National_Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choristers_in_harmony__poised_for_their_community_performance___1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Segment_during_Tapestry.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir___Dance_Cultural_Immersion_Trip_to_Taiwan.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/ZSS_Open_House.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/SICF_Participation_in_2018.jpg">
+</div>
+<p></p>
