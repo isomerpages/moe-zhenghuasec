@@ -3,34 +3,145 @@ title: Sports Club
 permalink: /ccas/Sports/sports-club/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-### Sports Club
-
-| Teachers in-charge | Mr Gay Weizhuang |
-|---|---|
-|  | Ms Sakinah |
-|
-
-##### Achievements:
-
-*   West 6 Cluster Games Basketball Girls - 2nd
-*   Inter-School Games 2017 Tchoukball Tournament Boys - 11th
-*   Inter-School Games 2017 Tchoukball Tournament Girls - 11th
-*   National Age Group Bowling Tournament 2017 - Joseph Soon (4T1) 10th Placing
-*   Urban Challenge 2017 My Senior My Friend, Boys Team - 1st
-*   Urban Challenge 2017 My Senior My Friend, Girls Team - 1st
-
-The sporting season of Sports Club for the year 2017 was one filled with excitement and joy. Having represented the school at a multitude of sports, Sports Club saw Zhenghua Secondary School represented at the Tchoukball Tournament for the first time in its history, achieving a remarkable 11th&nbsp;position for boys and girls.
-
-The year also witnessed Zhenghua Secondary School represented at the National Schools Bowling Tournament. Our representative, Joseph Soon (4T1), was ranked 10th&nbsp;for his age group.
-
-With such a good haul of titles this year, it has certainly been a good season for Zhenghua Secondary School Sports Club.
-
-![](/images/sports%20club%201.jpg)
-![](/images/sports%20club%202.jpg)
-
-The sporting season of Sports Club for the year 2019 was one filled with excitement and joy. We represented the school at a multitude of sports events; the highlights were Touch Rugby National Schools 2019 and Team-Nila Volunteer Programme at Jurong Lake, which saw us collaborating with Class 3T1 and Active@SG.
-
-The students also organised and took part in a multitude of sports matches in school such as soccer, badminton, volleyball, and floorball. It has certainly been a fruitful year of opportunities for our students.
-
-<img src="/images/sports%20club%203.jpg" style="width:95%">
+<h3>Sports Club</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Sakinah</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Liang Kar Weng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday: 2.30pm to 5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Rui Yang Randall (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Phin Boon (2B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nick Teoh Tian Yao (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Veronique Wong Rui En (2B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chloe Xu Xinyi (2A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Anisa Alyani Binte Zairan (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kho Rui Hen, Rayden (4G)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Sports Club aims to promote physical fitness, teamwork, and personal growth
+through a variety of sports activities. It provides members with opportunities
+to develop their athletic skills, foster discipline, and build lasting
+relationships. The club encourages participation in both competitive and
+recreational sports, promoting a healthy lifestyle and sportsmanship. With
+a focus on inclusivity, the club welcomes individuals of all skill levels,
+fostering a supportive environment where members can achieve their fitness
+goals while enjoying camaraderie and teamwork. The club has engaged in
+sports such as Touch Rugby and Ultimate Frisbee. We aim to introduce more
+sports in the future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Our_weekly_sessions.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Nice_catch_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/In_action_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Group_photo_after_the_competition_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Getting_ready_to_face_our_competitors.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Game_face_on_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Frisbee_competition_at_Jurong_West_Secondary_Sch_20th_April_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Doing_passing_and_catching_drills.jpg">
+</div>
+<p></p>
