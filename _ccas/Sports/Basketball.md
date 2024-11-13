@@ -85,20 +85,31 @@ them for both recreational and competitive play.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_End_of_B_Division_2024_Celebrations.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>End of B-Division 2024 Celebrations</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_C_Division_Match_at_SBC_2024.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>C-Division Match at SBC 2024</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_C_Division_Friendly_Match_at_CCKSS.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>C-Division Friendly Match at CCKSS</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_B_Division_Friendly_Match_at_KRSS.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>B-Division Friendly Match at KRSS</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_End_of_C_Division_2024_Celebrations.jpg">
 </div>
+<blockquote>
+<p>End of C-Division 2024 Celebrations</p>
+</blockquote>
 <p></p>
