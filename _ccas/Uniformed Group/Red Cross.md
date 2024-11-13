@@ -135,20 +135,32 @@ and professionalism for the service of mankind.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/1.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Interacting with cadets from other UGs in a game of 'Guardians of the
+City'</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/2.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Participants of the First Aid Championships (FAC) 2024, Junior Category</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/3.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Participants of the First Aid Championships (FAC) 2024, Senior Category</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/4.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Treating casualties at the nerve-wracking FAC 2024</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/5.jpg">
 </div>
+<blockquote>
+<p>We attained the Excellent Unit Gold Award in 2023!</p>
+</blockquote>
 <p></p>
