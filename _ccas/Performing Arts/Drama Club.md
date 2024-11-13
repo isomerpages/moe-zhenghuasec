@@ -105,20 +105,39 @@ well-rounded, enriching experience in the performing arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_5.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Students are thoughtfully reflecting on their experiences after the debriefing
+session!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_4.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Behind the scenes of how we choose the right person for each role – it
+requires our students to step up and have the confidence to take part in
+an audition.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_3.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Saying farewell to our Secondary 4 students who have stepped down from
+CCA this semester! It was a heartfelt event where we appreciate and honour
+the seniors of the club for all that they have done!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_2.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Drama students putting up their first major performance of the year! The
+performance for ZSS 25<sup>th</sup> Anniversary Day was a resounding success!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_7.jpg">
 </div>
+<blockquote>
+<p>Weekly training with our instructor – our students are being attentive
+and brainstorming ideas for the Singapore Youth Festival that will happen
+in 2025!</p>
+</blockquote>
 <p></p>
