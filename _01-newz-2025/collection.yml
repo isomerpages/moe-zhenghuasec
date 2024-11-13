@@ -1,5 +1,4 @@
 collections:
   01-newz-2025:
     output: true
-    order:
-      - Pictures for individual events/.keep
+    order: []
