@@ -93,11 +93,15 @@ and participate in friendly competitions with other schools.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_Division_Boys_Team.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>B Division Boys Team</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_DIvision_Girls_team_2024.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>B Division Girls Team 2024</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_Division_Girls_2024.jpg">
 </div>
