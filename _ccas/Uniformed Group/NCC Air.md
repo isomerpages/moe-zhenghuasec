@@ -154,32 +154,49 @@ skills in this exciting field of engineering and technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Tossing_of_berets_for_Passing_Out_Parade.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Tossing of berets for Passing Out Parade</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Successful_drone_flight_during_25th_Anniversary_Concert.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Successful drone flight during 25th Anniversary Concert</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Outstanding_cadet_award_ceremony.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Outstanding cadet award ceremony</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC__Scouts_Skills_Exchange.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>NCC- Scouts Skills Exchange</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC_day_unit_photo.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>NCC day unit photo</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC___Scouts_Skills_Exchange_teaching_drone_flying.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>NCC - Scouts Skills Exchange teaching drone flying</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Drone_instructors_with_Participants_of_ALP.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Drone instructors with Participants of ALP</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Total_Defence_Silver_with_NPCC.jpg">
 </div>
+<blockquote>
+<p>Total Defence Silver with NPCC</p>
+</blockquote>
 <p></p>
