@@ -5,41 +5,127 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-### AV Club
-
-| Teachers in-charge: | Mr Ng Seng Huat |
-|---|---|
-|  | Ms Vaishnavi |
-|  | Mdm Sri Diana Subari |
-| Training / Meeting Days and Time: | Thursday, 2.30PM |
-|
-
-##### CCA Objectives:
-
-*   To provide AV support for morning assembly and school events.
-*   To build team spirit among members.
-*   To build the capacity in event and stage management.
-*   To expose the members to many other aspects of event management through learning journeys.
-*   To instill Safety, Accountability and Professionalism
-*   “We are at the heart of every event and will continue to do so” is the promise made by our AVA club.
-
-##### Key Achievements:
-
-*   Concert Management (ZEST)
-*   Various Event Management (The Fox Scout Group’s 55th Anniversary Campfire)
-
-##### Activities:
-
-The AVA Club provides audio-visual support for the daily running of the school as well as during school concerts and events. This year, apart from morning assemblies, our members facilitated the smooth flow of the Chinese New Year Concert, Awards Day ceremonies and virtual SYF practices.
-
-Due to Covid-19, these events had to be run synchronously online as the entire school community watched on. Nevertheless, our members rose to the challenge and proficiently coordinated between live and pre-produced videos for broadcast, allowing the virtual events to proceed without a hitch. Through these experiences, our students learnt how to respond to unforeseen challenges swiftly, work as a cohesive team and built on their capacities in event and stage management.
-
-Our members also receive weekly training, so that they can better refine their technical skills and put them to good use in supporting future school events.
-
-![](/images/av%20club%201a.jpg)
-![](/images/av%20club%202a.jpg)
-![](/images/av%20club%203.jpg)
-![](/images/av%20club%204.jpg)
-![](/images/av%20club%205.jpg)
-![](/images/av%20club%206.jpg)
-![](/images/av%20club%207.jpg)
+<h3>AV Club</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers in Charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Loy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 2.30PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Aiman (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rian Peh Xuan Wei (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aloysius Ang (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ryan Wong (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Destinee Teo (3B)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Republic polytechnic learning journey to media school to acquire advance
+light and sound technology.</p>
+<p>Service to school’s daily morning assembly.</p>
+<p>Supported the various concerts of school events such as&nbsp; Chinese
+New Year, Hari Raya, Awards Day, National Day, Teachers day, Firedrill,
+NCC day, Scout Founders Day, SCDF talk, NSmen talk, ECG talk, Cyberwellness
+talk, SEAB exam briefing, Sec 1 camp, National exam result release, daily
+morning assembly, Year head meeting, Gear up students event and many more.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Troubleshooting__1_.jpg">
+</div>
+<blockquote>
+<p>Troubleshooting</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Training_the_Secondary_1_members.jpg">
+</div>
+<blockquote>
+<p>Training the Secondary 1 members</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Stage_management_training.jpg">
+</div>
+<blockquote>
+<p>Stage management training</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Lighting_effects.jpg">
+</div>
+<blockquote>
+<p>Lighting effects</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Controlling_the_outdoor_sound_system.jpg">
+</div>
+<blockquote>
+<p>Controlling the outdoor sound system</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Weekly_Assembly.jpg">
+</div>
+<blockquote>
+<p>Weekly Assembly</p>
+</blockquote>
+<p></p>
