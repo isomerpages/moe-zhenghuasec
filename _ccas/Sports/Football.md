@@ -184,36 +184,62 @@ in friendly matches with other schools during off-season and school holidays.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/1.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Facilitators for Sec 1 CCA Trials for Football</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/2.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Half-time briefing - Players getting motivated by coach's words for B
+Division match</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/3.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Our first 11 members in the team - they persevered on relentlessly - B
+Division match</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/4.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Our full team for B Division matches</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/5.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Pre-match briefing - despite the hot weather, players were on form for
+B Divison match</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/6.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Pre-match_Stretching togther, bonding together - C Division Football Boys
+Championships (Prelim Rounds)</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/7.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Pre-match_the lineup just before match commences - B Division Football
+Boys Championships</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/8.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Pre-match_Together we strive on! Team Huddle and Cheer for motivation
+- C Division match</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/9.jpg">
 </div>
+<blockquote>
+<p>Preparation stage- Players in focus- listening intently on coach_s briefing
+for B Division matches</p>
+</blockquote>
 <p></p>
