@@ -35,7 +35,29 @@ variant: tiptap
 <h5>National Day 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
+<h5>Sports Fiesta 2024</h5>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>“Together, As One United People” is the theme for this year’s celebrations.
+It highlights the collective strength of our people and underscores the
+importance of every citizen rallying together to share our future and uplift
+those around us.</p>
+<p></p>
+<p><a href="/national-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports Fiesta is a sport festival for all students in our school to come
+together and enjoy the spirit of togetherness and friendly competition,
+as they put their learning to the test in a tournament across all classes.</p>
+<p></p>
+<p><a href="/sports-fiesta-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
