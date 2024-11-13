@@ -106,20 +106,31 @@ greater appreciation and enjoyment of handbell music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/1.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>After our 25th anniversary concert performance.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/2.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Introducing Handbells to the visitors at the Open House.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/3.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Our Handbells Ensemble with our Handbells instructor, Mr Mak.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/4.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Our Secondary 4 seniors with Mr Mak.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/5.jpg">
 </div>
+<blockquote>
+<p>Secondary 1 girls learning more about Handbells during the Sec 1 Tryout.</p>
+</blockquote>
 <p></p>
