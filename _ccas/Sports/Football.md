@@ -239,7 +239,7 @@ Boys Championships</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/9.jpg">
 </div>
 <blockquote>
-<p>Preparation stage- Players in focus- listening intently on coach_s briefing
+<p>Preparation stage- Players in focus- listening intently on coach's briefing
 for B Division matches</p>
 </blockquote>
 <p></p>
