@@ -9,7 +9,7 @@ variant: markdown
 
 <a href="/ccas/Clubs-and-Societies/art-club/"><img src="/images/2023%20CCA_Concept/20230828_150602_for%20website.png"></a>
 
-<a href="/ccas/Clubs-and-Societies/ava-club/"><img src="/images/2023%20CCA_Concept/20230828_155654_for%20website.png"></a>
+<a href="/ccas/clubs-and-societies/ava-club/"><img src="/images/2023%20CCA_Concept/20230828_155654_for%20website.png"></a>
 
 <a href="/ccas/Clubs-and-Societies/infocomm/"><img src="/images/2023%20CCA_Concept/20230828_153118_for%20website.png"></a>
 
