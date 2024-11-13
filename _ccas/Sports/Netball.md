@@ -149,20 +149,31 @@ excel in various games and competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/C_Div_NSG_2024.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>C Div NSG 2024</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Naval_Base_Sec_Sch.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Friendly Game with Naval Base Sec Sch</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Our_B_Division_Players.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Our B Division Players</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Open_House_Games_2023.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Open House Games 2023</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Christchurch_Sec_Sch.jpg">
 </div>
+<blockquote>
+<p>Friendly Game with Christchurch Sec Sch</p>
+</blockquote>
 <p></p>
