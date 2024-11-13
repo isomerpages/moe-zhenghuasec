@@ -138,20 +138,31 @@ reading platforms and different genres of books</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Class_Library.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Class Library</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Civica_Assembly_Talk.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Civica Assembly Talk</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Choosing_books_for_class_library.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Choosing books for class library</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Blind_Date_with_a_Book.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Blind Date with a Book</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/New_Arrivals_Event.jpg">
 </div>
+<blockquote>
+<p>New Arrivals Event</p>
+</blockquote>
 <p></p>
