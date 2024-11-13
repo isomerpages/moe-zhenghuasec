@@ -165,3 +165,11 @@ percussion instruments during MTL Cultural Fair.</p>
 Tong and Mr Quek Swee Kuan, CEO of Kallang Alive Sport Management.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/With_our_Principal__Mr_Ng_who_came_to_support_us_for_our_Hari_Raya_performance_at_Cleme.jpg">
+</div>
+<blockquote>
+<p>With our Principal, Mr Ng who came to support us for our Hari Raya performance
+at Clementi.</p>
+</blockquote>
+<p></p>
