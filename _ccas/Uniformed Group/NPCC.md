@@ -3,83 +3,121 @@ title: NPCC
 permalink: /ccas/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Group
+variant: tiptap
 ---
-### National Police Cadet Corps (NPCC)
-
-| Area Commandant Area 20 / OC Unit | Mr Shamsul Idris |
-|---|---|
-| Deputy OC Unit / Training-Field /  | Mr Edwin Tan Kian Hong |
-| Deputy OC Unit / Training-Development /  | Miss Lynn Kwek Co Hui |
-|  | Mdm Rosmawati Alwi |
-|  | Mdm Tamilarasi D/O Ramaiya |
-| Training / Meeting Days and Time: | Thursdays : 2.30pm – 6.00pm |
-|
-
-#### Unit Overall Proficiency Award
-
-| Year | Award |
-|---|---|
-| 2018 | Gold |
-| 2017 | Gold |
-| 2016 | Gold |
-| 2015 | Gold |
-| 2014 | Gold |
-| 2013 | Gold |
-| 2012 | Gold |
-| 2011 | Silver |
-|
-
-##### Singapore Police Force - NPCC Award Recipients
-
-| Year | Name of Recipient |
-|---|---|
-| 2018 | Jaafar Siddiq (4N1) |
-| 2018 | Nina Shameera (4N2) |
-| 2017 | SI Nur Liyana Afiqah (4E1) |
-| 2017 | SI Annissa Idris Lim (4E4) |
-| 2016 | Nurdiyanah Jumari (4E2) |
-| 2015 | Timothy Tham (4E3) |
-| 2014 | Farzaana Bte Roslan (4E3) |
-| 2014 | Tey Ming Chuan (4E4) |
-| 2014 | Yap Cheng You Clement (4E3) |
-| 2012 | Michelle Hong Min (4E4) |
-| 2011 | Muhammad Farhan Abdul Rahman (5N3) |
-|
-
-#### CCA Objectives:
-
-The&nbsp;**Vision**&nbsp;of the National Police Cadet Corps is to mould the builders of a safe &amp; secure home. <br>
-The&nbsp;**Mission**&nbsp;of the National Police Cadet Corps is to develop its cadets into caring and responsible citizens.
-
-#### Achievements:
-
-1.  Gold Award in the (UOPA) Unit Overall Proficiency Award.
-2.  Area 20 Games Day 2018 - 1st Runner Up
-3.  Recipient of NPCC Long Service Medal (1st Clasp - 15 Years) - A/DSP Shamsul Idris
-4.  Area 20 Games Day 2017 - 1st Runner Up
-5.  Area 18 Games Day 2017 - 2nd Runner Up
-6.  Inter-Unit .22 Revolver Shooting Competition 2017  
-    Individual Boys - 9th Position, Ja'afar Siddiq (4N1)
-		
-#### Activities
-
-*   **Sec 1:**&nbsp;Unit Camp, Road Marshal Training, Total Defence (Bronze), Crime Prevention, Campcraft, Police Heritage Centre Visit, Police Coast Guard Visit
-*   **Sec 2:**&nbsp;SANA, Third Class Drill, Total Defence Silver, Community Safety &amp; Security Programme, Adventure Training Camp, Unarmed Tactics, .22" Revolver Practice Shoot, Neighbourhood Police Centre, Olive Run 2016
-*   **Sec 3:**&nbsp;Crime Scene Investigation, First &amp; Second Drills, Home Front Security, Police Youth Ambassador, Total Defence Gold, Survival Training Camp, Leadership Mentoring Skills Course, Classification Shoot, Unit Overseas Trip
-*   **Sec 4:**&nbsp;High Ropes Challenge,&nbsp;**Area 20 POP**
-
-<img src="/images/npcc%20ndp%202018%20pop.jpg" style="width:45%">
-		 
-2019 has been an exciting year for Zhenghua NPCC Unit. The Unit achieved the gold award in the Unit Overall Proficiency Award (UOPA) for 7 consecutive years.
-
-In addition, 2 of our cadets received the highest accolades for an NPCC cadet, THE SPF Award. They are Station Inspectors Lim Xin Hui (4E3) and Toh Suen Yu (4E2).
-
-Apart from achievements, our cadets have also been active in serving the community. SSgt Haryani bte Hamir (3N1) represented us in the Annual National Day Parade 2018 at The Float at Marina Bay. SSgt Muhammad Yazeed Zdan (3T1) participated in the NPCC Harmony Camp co-organised by the People’s Association.
-
-![](/images/npcc%201a.jpg)
-![](/images/npcc%202.jpg)
-![](/images/npcc%203.jpg)
-![](/images/npcc%204.jpg)
-![](/images/npcc%205.jpg)
-![](/images/npcc%206.jpg)
-![](/images/npcc%207.jpg)
+<h3>National Police Cadet Corps (NPCC)</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers in Charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shamsul Idris Mawar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lynn Kwek Co Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosmawati Alwi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azri Iqmal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays : 2.30pm – 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Commander:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSGT Sebastian Joshua Deng (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deputy Unit Commander:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSGT Aloysius Ng Yong Ren (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 NCO IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSGT Zaccheus Goh Wei Qiang (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2 NCO IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSGT Ng Shi Yun (3D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instagram Page:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>@zhenghuanpcc</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The National Police Cadet Corps (NPCC) is dedicated to training cadets
+to become responsible leaders for the future. Through practical training
+and mentorship, NPCC equips cadets with the skills to lead with confidence
+and integrity. It fosters a sense of civic duty, encouraging cadets to
+understand and value their role in society, and inspiring them to make
+meaningful contributions.&nbsp; Zhenghua NPCC emphasises a growth mindset,
+respect, teamwork and empathy - qualities essential for future leaders
+who will impact our communities positively. By focusing on current and
+emerging challenges, NPCC prepares cadets to become adaptable and forward
+thinking individuals capable of leading change in the future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One of our unit enrichment activities was bowling which the cadets enjoyed very much." src="/images/CCA/NPCC/One_of_our_unit_s_enrichment_activities_was_bowling_which_the_cadets_enjoyed_very_much.jpg">
+</div>
+<blockquote>
+<p>One of our unit's enrichment activities was bowling which the cadets enjoyed
+very much.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/SSgt_Chua_Jia_Wei_of_class_4B__our_receipient_of_the_SPF_NPCC_award_with_our_Principal_Mr_Ng_.jpg">
+</div>
+<blockquote>
+<p>SSgt Chua Jia Wei of class 4B, our receipient of the SPF-NPCC award with
+our Principal Mr Ng.</p>
+</blockquote>
+<p></p>
