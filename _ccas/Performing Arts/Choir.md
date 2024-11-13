@@ -106,28 +106,43 @@ collaborations, our choir builds school spirit and promotes self-expression.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Performance_at_One_Zhenghua_Fiesta_Community_Celebrations__1_.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Performance at One Zhenghua Fiesta Community Celebrations</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Community_Singing_on_National_Day.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Community Singing on National Day</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choristers_in_harmony__poised_for_their_community_performance___1_.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Choristers in harmony, poised for their community performance.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Segment_during_Tapestry.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Choir Segment during Tapestry</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir___Dance_Cultural_Immersion_Trip_to_Taiwan.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Choir &amp; Dance Cultural Immersion Trip to Taiwan</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/ZSS_Open_House.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>ZSS Open House</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/SICF_Participation_in_2018.jpg">
 </div>
+<blockquote>
+<p>SICF Participation in 2018</p>
+</blockquote>
 <p></p>
