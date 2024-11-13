@@ -146,12 +146,19 @@ and off the dance floor, meaningful and memorable.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/1.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Malay Dance performance for Singapore Youth Festival 2023.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/2.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Street Dance performance for Singapore Youth Festival 2023.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/3.jpg">
 </div>
+<blockquote>
+<p>The Freshmakerz performing at Super24 Dance Competition.</p>
+</blockquote>
 <p></p>
