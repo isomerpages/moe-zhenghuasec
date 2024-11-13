@@ -116,32 +116,49 @@ sports in the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Our_weekly_sessions.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Our weekly sessions</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Nice_catch_.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Nice catch!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/In_action_.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>In action!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Group_photo_after_the_competition_.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Group photo after the competition</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Getting_ready_to_face_our_competitors.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Getting ready to face our competitors</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Game_face_on_.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Game face on!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Frisbee_competition_at_Jurong_West_Secondary_Sch_20th_April_2024.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Frisbee competition at Jurong West Secondary Sch</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Doing_passing_and_catching_drills.jpg">
 </div>
+<blockquote>
+<p>Doing passing and catching drills</p>
+</blockquote>
 <p></p>
