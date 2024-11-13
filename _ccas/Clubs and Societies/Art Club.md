@@ -135,3 +135,10 @@ new possibilities.&nbsp;</p>
 <p>Viewing the illustration books</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Our_Students__SYF_Artwork_at_National_Gallery_Singapore.jpg">
+</div>
+<blockquote>
+<p>Our Students' SYF Artwork at National Gallery Singapore</p>
+</blockquote>
+<p></p>
