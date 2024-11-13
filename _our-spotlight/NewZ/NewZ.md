@@ -44,7 +44,7 @@ variant: tiptap
 It highlights the collective strength of our people and underscores the
 importance of every citizen rallying together to share our future and uplift
 those around us.</p>
-<p><u>Read more</u>
+<p><a href="/national-day-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
