@@ -123,12 +123,45 @@ to the school and local community through engaging performances.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/1.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Delighted to fuse ethnic and Chinese New Year music.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/2.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Incredible experience performing with diverse ensembles at Singa Drums
+Gaia Fiesta.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/3.jpg">
 </div>
+<blockquote>
+<p>Significant 25th Anniversary performance, overcame challenges and delivered
+excellence.</p>
+<p></p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/ANTICI_1.jpg">
+</div>
+<blockquote>
+<p>Anticipating the arrival of Minister Edwin Tong with eager expectation
+before the Opening Ceremony of Harmony Fest ‘24.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/CELEBR_1.jpg">
+</div>
+<blockquote>
+<p>Celebrating Diversity through Music and Tradition. Showcasing our multi-ethnic
+percussion instruments during MTL Cultural Fair.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drums/OURDRU_1.jpg">
+</div>
+<blockquote>
+<p>Our drummers, Shariff and Afina presenting the momento to Minister Edwin
+Tong and Mr Quek Swee Kuan, CEO of Kallang Alive Sport Management.</p>
+</blockquote>
 <p></p>
