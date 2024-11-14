@@ -13,12 +13,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teachers in-charge:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Miss Tan Pei Wen</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Pei Wen</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -26,6 +26,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seah Hwee Bing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shirley Leong</p>
 </td>
 </tr>
 <tr>
