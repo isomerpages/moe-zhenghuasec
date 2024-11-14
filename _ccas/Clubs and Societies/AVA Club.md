@@ -33,7 +33,7 @@ variant: tiptap
 <p>Training / Meeting Days and Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday, 2.30PM</p>
+<p>Thursday, 2.30PM to 4.30PM</p>
 </td>
 </tr>
 <tr>
