@@ -78,14 +78,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Republic polytechnic learning journey to media school to acquire advance
-light and sound technology.</p>
-<p>Service to school’s daily morning assembly.</p>
-<p>Supported the various concerts of school events such as&nbsp; Chinese
-New Year, Hari Raya, Awards Day, National Day, Teachers day, Firedrill,
-NCC day, Scout Founders Day, SCDF talk, NSmen talk, ECG talk, Cyberwellness
-talk, SEAB exam briefing, Sec 1 camp, National exam result release, daily
-morning assembly, Year head meeting, Gear up students event and many more.</p>
+<p>The objective of the AVA&nbsp; Club is to help students learn about the
+use of audio and video equipment. It provides a space for students to be
+creative, work on projects like videos and sound tracks. We also support
+school events like assemblies, concerts, or plays. The club also encourages
+teamwork and inculcates school values while helping students build technical
+skills, and gives them opportunities to explore careers in media and technology.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Troubleshooting__1_.jpg">
