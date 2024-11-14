@@ -41,7 +41,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Basyirah</p>
+<p>Ms Siti Nurbasyirah</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5></h5>
+<p><strong>CCA Objectives:</strong>
+<br>- provide opportunities for students to participate in physical activities
+in the outdoors&nbsp;
+<br>- foster collaboration and leadership among students through various outdoor
+sports and activities
+<br>- encourage students to appreciate nature when having activities in the
+outdoors</p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Cheeseee__We_made_it_to_the_boardwalk.jpg">
 </div>
