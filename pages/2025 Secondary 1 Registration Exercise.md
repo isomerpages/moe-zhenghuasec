@@ -104,7 +104,7 @@ items delivered to your home. Please click&nbsp;<a href="https://www.pacificbook
 <br>
 <br>For parents who wish to make their purchase on-site in school or students
 who are under FAS, please book a time slot on 21 Dec (9am – 3.30pm) and
-22 Dec(9am - 3.30pm) <a href="https://sagenda.net/Frontend/Calendar/5fc5b645701dd42d28dd4c7b" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+22 Dec(9am - 3.30pm) <a href="https://zhenghuass.simplybook.asia/v2/#" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>Please note the booking is on a first come first served basis and is for
 parents who are NOT ordering online.
