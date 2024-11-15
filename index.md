@@ -4,7 +4,7 @@ title: Zhenghua Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: <img src="/images/2024 Open House/2024_Open_House_Banner_Website.jpg">
 sections:
   - hero:
       background: /images/ISOMERBANNERNEW.gif
