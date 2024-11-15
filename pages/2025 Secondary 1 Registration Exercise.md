@@ -8,13 +8,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2024_Sec_1_Registration_Website_Final.jpg">
 </div>
+<h4>Introduction</h4>
 <ul>
 <li>
-<p>Introduction</p>
 <p>Congratulations on your posting to Zhenghua Secondary School! Here, we
 strive to develop every student into a Principled and Future-Ready Leader
 – leaders who are grounded in the values of respect, resilience, responsibility,
-integrity and compassion; leaders who are able to lead self and others
+integrity and compassion; leaders who are able to lead themselves and others
 well into the future.
 <br>
 <br>
@@ -25,7 +25,7 @@ day of school.
 <br>
 <br>
 </p>
-<p>For more information on the 2024 Secondary 1 Posting, please refer to
+<p>For more information on the 2025 Secondary 1 Posting, please refer to
 <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">this MOE Webpage</a>
 <br>
 <br>
@@ -40,7 +40,7 @@ you may call the General Office at 67639455.</p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;1. Online Registration
-by 12pm on 22/12/2023 &nbsp;&nbsp;&nbsp;&nbsp;</p>
+by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
