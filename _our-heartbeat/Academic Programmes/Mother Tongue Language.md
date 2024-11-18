@@ -170,6 +170,29 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities_3.png">
+</div>
+<p><strong>Chinese Tea Appreciation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/language_workshops_2.png">
+</div>
+<p><strong>CL Language Workshop</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/oracy_workshop.png">
+</div>
+<p><strong>Oracy Workshop</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
