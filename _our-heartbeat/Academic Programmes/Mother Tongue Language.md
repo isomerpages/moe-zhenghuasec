@@ -127,6 +127,7 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programmes Highlights and Enrichment Activities</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M2.png">
 </div>
