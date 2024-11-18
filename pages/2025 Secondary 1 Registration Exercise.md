@@ -71,9 +71,10 @@ queries on FAS, please proceed to the General Office.</p>
 due to serious medical conditions &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-by 12pm on 21 Dec 2023.
+by 12pm on 22 Dec 2024.(pending confirmation - by 12pm on the following
+working day after the release of S1 posting results. )
 <br>
-<br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please go to this</strong> 
+<br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please visit</strong> 
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
 </p>
 <hr>
