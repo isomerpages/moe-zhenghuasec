@@ -151,6 +151,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Program Dwiminggu Bahasa</p>
+<p></p>
+<p>Menengah 1 dan 2 menghadiri bengkel lukisan batik dan gamelan fusion yang
+menggabungkan gamelan dengan kompang serta angklung. Manakala para pelajar
+Menengah 3 pula didedahkan kepada sastera melalui Program Drama di mana
+mereka juga berpeluang menonton pementasan "How Did The Cat Get So Fat'
+dalam di Esplanade. Pelajar Menengah 4 pula menjalani bengkel lisan dan
+penulisan kreatif bagi persiapan peperiksaan nasional.</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Creative Writing Workshop</p>
 <div class="isomer-image-wrapper">
