@@ -139,6 +139,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup2.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -173,14 +176,6 @@ variant: tiptap
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/language_workshops.png">
 </div>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup2.png">
-</div>
 </td>
 </tr>
 <tr>
