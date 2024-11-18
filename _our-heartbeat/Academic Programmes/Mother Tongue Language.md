@@ -145,6 +145,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup3.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup4.png">
+</div>
 </td>
 </tr>
 <tr>
