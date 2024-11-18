@@ -135,8 +135,8 @@ be directed to the nearest multi-storey carpark once the car park lots
 in the school are filled up. Entrance and exit will be from the school
 gate located along Bukit Panjang Ring Road.
 <br>
-<br>4. You will be guided by student leaders and school staff to the venues:
-<br>- Block H (Level 1) for uniform sale
+<br>4. Please follow the signages in the school to purchase the books and
+uniforms.
 <br>
 <br>5. Textbooks and uniform bought can be returned or exchanged as long as
 they are clean and in original condition. Uniform should not be soiled.
