@@ -3,27 +3,129 @@ title: Department Information
 permalink: /programmes/Character-and-Citizenship/department-information/
 description: ""
 third_nav_title: Character & Citizenship
+variant: tiptap
 ---
-### Department Information
-
-<img src="/images/Programmes/Character%20and%20Citizenship/C1.png" style="width:85%">
+<h3>Department Information</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/CHARACTER___CITIZENSHIP_0575.jpg">
+</div>
+<p>
 <br>
-
-|  |  |
-|---|---|
-| Name of Head of Department |  |
-| Mr Samuel Lim Kok Boon |  |
-| Names of Subject Heads |  |
-| Mr Soo Boon Siang (SH Geog/NE) |  |
-| Mdm Rafidah Yusoff (SH EL) |  |
-| Mdm Tan Fong Yee (ST CL) |  |
-| Names of Members of the Department |  |
-| Ms Claudia Tan | Mdm Masrena Rahmat |
-| Mr Derrick Lim | Ms Tan Peiwen |
-| Mdm Emilia Mohamed Ali | Ms Kwek Co Hui |
-| Mdm Felicity Lim | Mdm Lee Weiqi |
-| Mdm Gloria Boey | Ms Vivian Koh |
-| Mdm Grace Chia | Ms Siti Nurbasyirah |
-| Ms Karen Choo | Ms Koh Ming Hui |
-| Ms Tan Mei Ying |  |
-| | |
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Head of Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Names of Subject Heads</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Derrick Lim (SH CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sam Soo (SH Geog/NE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Khee Hoon (Asst. Year Head)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Names of Members of the Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Limin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Widad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Fong Yee (ST CL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Felicity Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kwek Co Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vivian Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Grace Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nurbasyirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tetty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

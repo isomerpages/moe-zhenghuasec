@@ -2,27 +2,22 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Announcements
-
-##### Dear 2024 Sec 1 parents, 
-
-A warm welcome to Zhenghua Secondary!
-
-Due to the delay at the Parent Gateway (PG) system, the class allocation will be informed through PG as soon as possible.
-
-Alternatively, if you are in school to purchase the textbooks and uniform, you can check with the school uniform vendor on the correct House T-Shirts to purchase.
-
-Thank you.
-
-##### Dear parents, the cut-off point for 2024 Sec 1 cohort for our school is:
-Posting Group 3: **19**
-
-Posting Group 2: **24**
-
-Posting Group 1: **27**
-
-##### Awards Day 2023
-
-[Awards Day 2023 Programme Booklet](/awardsday2023/)
+<h3>Announcements</h3>
+<h5>Dear 2024 Sec 1 parents,</h5>
+<p>A warm welcome to Zhenghua Secondary!</p>
+<p>Due to the delay at the Parent Gateway (PG) system, the class allocation
+will be informed through PG as soon as possible.</p>
+<p>Alternatively, if you are in school to purchase the textbooks and uniform,
+you can check with the school uniform vendor on the correct House T-Shirts
+to purchase.</p>
+<p>Thank you.</p>
+<h5>Dear parents, the cut-off point for 2024 Sec 1 cohort for our school is:</h5>
+<p>Posting Group 3: <strong>19</strong>
+</p>
+<p>Posting Group 2: <strong>24</strong>
+</p>
+<p>Posting Group 1: <strong>27</strong>
+</p>
+<p></p>

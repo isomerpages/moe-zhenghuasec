@@ -3,53 +3,142 @@ title: Art Club
 permalink: /ccas/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: tiptap
 ---
-### Art Club
-
-| Teachers in-charge: | Ms Tay Limin |
-|---|---|
-|  | Mdm Masrena Rahmat |
-| Training / Meeting Days and Time: | Thursday, 2.30PM to 5.30PM |
-|
-
-#### CCA Objectives:
-
-*   To explore and create refreshing ideas for school events’  
-    stage decorations and beautifying the school’s environment.
-*   To expose and create awareness that Art can be expressed in many  
-    forms.
-*   To develop the art skills and techniques of members.
-*   To produce artworks for tokens of appreciation for overseas  
-    visits or G.O.H gifts
-		
-#### Key Achievements
-
-##### Live On Design Competition 2020 - Third Prize
-
-| | | 
-|---|:---:|
-| Art Club members hone their skills<br> and exercise their creativity by learning<br> a variety of art forms in a year. This year, <br>in the Ceramics programme, they learnt to <br>shape clay into intricate figurines, wind<br> chimes and teapots.<br><br>As the Club moved our weekly sessions <br>online, members also organized meaningful <br>online projects, like the “Fold a Heart” <br>initiative to encourage each other during<br> home-based learning. Zylia Tan (3E3) even<br> came forward to plan online workshops for<br> the Club on text and character designs.<br><br>The Club is also becoming a home for <br>members who are enthusiastic about <br>digital art. They have applied their skills <br>in designing the “Do it Right” badges to<br> commend exemplary students, and <br>submitted their creations fo the “Live<br> On Festival” organized by the Ministry of Health. | <img src="/images/artclub1.jpg" style="width:45%">PutriNarafferina\_2N1 <img src="/images/artclub2.jpg" style="width:45%">EvangelynCai\_4E1 <img src="/images/artclub3.jpg" style="width:45%"> ceramic teapot<br><img src="/images/artclub4.jpg" style="width:65%"> 2E3 Lee Jia Wen LiveOn<img src="/images/artclub5.jpeg" style="width:45%">2E2 Melinda Tio LiveOn |
-|
-
-##### Live On Design Competition 2019
-
-|  |  |  |
-|---|---|:---:|
-| This was a meaningful nationwide<br> competition centered on the theme<br> of organ transplantation. It was<br> organised by the Organ Transplant Unit,<br> Health Promotion Board. We beat 262<br> other entries and bagged 4 awards!<br>The awardees are Jolie Ng Wei Zhen of<br> 4E1 (High Distinction), Ching Phebe of 4E1<br> (Distinction), Chai Jean Shuen of 4E3 <br>(Merit) and Lydia Aluko of 3T1 (Merit)|  | <img src="/images/artclub5.jpg" style="width:65%">Another great piece of work by Chai Jean Shuen of 4E3!<img src="/images/artclub6.jpg" style="width:55%">A profound piece by Lydia Aluko of 3T1 <br><img src="/images/Ching%20Phebe%204E1%20Art%20Club.jpg" style="width:65%">Image by Ching Phebe 4E1<br>
-|
-
-##### Do It Right! Badge Design 2019
-
-| | | 
-|---|:---:|
-|"Do It Right!"&nbsp;Badges were awarded<br> to ZSS students for exhibiting the<br> right values and behaviour. The<br> designs for this year's badges <br>were created by Chai Jean Shuen<br> of 4E3 and Amber Yeap of 3E2.| <img src="/images/artclub7.jpg" style="width:55%">Yes, you did right, Chai Jean Shuen of 4E3!<img src="/images/artclub8.png" style="width:55%">Yes, you got this right, Amber Yeap of 3E2 |
-|
-		 
-#### Activities
-
-##### Manga Art Watercolour Illustration Workshop 2019
-
-| | | 
-|---|:---:|
-| In this workshop, members learn about the basic history of manga art and the basic watercolour technique.They added colour to their creations with their personal touches. | <img src="/images/artclub9.jpg" style="width:85%">Manga always! By budding artist, Anuolu Ogunyale of 2E4<img src="/images/artclub10.jpg" style="width:85%">Manga art by Lydia Aluko of 3T1 |
-|
+<h3>Art Club</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers in Charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Limin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Masrena Rahmat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training / Meeting Days and Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 2.30PM to 5.30PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aszleena Binte Hairoman (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ulfah Farysha Binte Adam (4B)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>ZSS Art Club provides a creative and inclusive space where our young artists
+come together to explore, experiment, and express themselves through art.
+Through hands-on projects, competitions and exhibitions, they will have
+the opportunity to develop their talents, express their ideas, and gain
+confidence.</p>
+<p>In ZSS Art Club, our young artists are encouraged to push their artistic
+boundaries, develop their unique styles, as well as collaborate with peers
+and build their leadership skills. No matter their background or experience,
+every student has a place here to grow, share their work, and discover
+new possibilities.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Looking_from_an_angle.jpg">
+</div>
+<blockquote>
+<p>Looking from an angle</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Healthy_vs_Unhealthy.jpg">
+</div>
+<blockquote>
+<p>Healthy vs Unhealthy</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Experiencing_the_interactive_installation.jpg">
+</div>
+<blockquote>
+<p>Experiencing the interactive installation</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Elite_vs_Inferior.jpg">
+</div>
+<blockquote>
+<p>Elite vs Inferior</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Discussing_the_artwork.jpg">
+</div>
+<blockquote>
+<p>Discussing the artwork</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Disaster_vs_Miracle.jpg">
+</div>
+<blockquote>
+<p>Disaster vs Miracle</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Artificial_vs_Natural.png">
+</div>
+<blockquote>
+<p>Artificial vs Natural</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/War_vs_Peace_artwork_from_Upper_Secondary_category.jpg">
+</div>
+<blockquote>
+<p>War vs Peace artwork from Upper Secondary category</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/War_vs_Peace_artwork_from_Lower_Secondary_category.jpg">
+</div>
+<blockquote>
+<p>War vs Peace artwork from Lower Secondary category</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Viewing_the_illustration_books.jpg">
+</div>
+<blockquote>
+<p>Viewing the illustration books</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Our_Students__SYF_Artwork_at_National_Gallery_Singapore.jpg">
+</div>
+<blockquote>
+<p>Our Students' SYF Artwork at National Gallery Singapore</p>
+</blockquote>
+<p></p>

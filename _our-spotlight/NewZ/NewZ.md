@@ -47,6 +47,7 @@ variant: tiptap
 It highlights the collective strength of our people and underscores the
 importance of every citizen rallying together to share our future and uplift
 those around us.</p>
+<p></p>
 <p><a href="/national-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>

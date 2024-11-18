@@ -1,0 +1,5 @@
+collections:
+  newz-2025:
+    output: true
+    order:
+      - national day 2025.md
