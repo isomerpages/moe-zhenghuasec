@@ -135,64 +135,64 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Creative Writing Workshop</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/creative_writing_workshop.png">
 </div>
-<p>Creative Writing Workshop</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Painting Workshop</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities_2.png">
 </div>
-<p>Chinese Painting Workshop</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Cultural Activities - Angklung</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities.png">
 </div>
-<p><strong>Cultural Activities - Angklung</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>ML Language Workshop</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/language_workshops.png">
 </div>
-<p><strong>ML Language Workshop</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Chinese Tea Appreciation</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities_3.png">
 </div>
-<p><strong>Chinese Tea Appreciation</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>CL Language Workshop</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/language_workshops_2.png">
 </div>
-<p><strong>CL Language Workshop</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Oracy Workshop</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/oracy_workshop.png">
 </div>
-<p><strong>Oracy Workshop</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
