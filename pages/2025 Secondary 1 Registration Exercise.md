@@ -93,10 +93,10 @@ within three working days and we will inform you by the end of Jan 2025.</p>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;5. Purchase of Uniform
 and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>The purchase of books and uniforms can be made from 21st Dec to 28th Dec.
-However, for on-site purchase on 21st and 22nd Dec, you will need to book
-a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform
-&amp; Textbooks, directly below).
+<p>The purchase of books and uniforms can be made from 19th, 20th, 23rd,
+26th and 27th Dec. However, for on-site purchase on 19th and 20th Dec,
+you will need to book a slot prior. Please refer to the link below (see
+On-SITE Purchase of Uniform &amp; Textbooks, directly below).
 <br>
 <br>You can also purchase the textbooks and uniforms online, and have the
 items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">here</a> to purchase online.
