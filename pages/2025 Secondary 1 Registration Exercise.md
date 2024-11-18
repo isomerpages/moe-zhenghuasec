@@ -115,9 +115,8 @@ parents who are NOT ordering online.
 <br>
 <br>Parents are advised to purchase at least 1 set of formal school uniform
 (school shirt and pants for boys/school blouse and skirt for girls) for
-formal occasion and also could be worn for daily lessons and at least 1
-set of school red polo-T shirt (this can be worn during daily lessons due
-to the hot weather).
+formal occasion and at least 1 set of school red polo-T shirt. Both can
+be worn for school.
 <br>
 <br><strong>Purchasing of Textbooks</strong>
 <br>
