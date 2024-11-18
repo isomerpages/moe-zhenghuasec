@@ -3,88 +3,145 @@ title: Department Information
 permalink: /programmes/Info-and-Comm-Tech/department-information/
 description: ""
 third_nav_title: Info & Comm Tech
+variant: tiptap
 ---
-### Department Information
-
-<img src="/images/Programmes/ICT/I1.png">
-
+<h3>Department Information</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Programmes/ICT/I1.png">
+</div>
+<p>
 <br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig" colspan="2"><span style="font-weight:700">Name of Head of Department:</span></th>
-  </tr>
-</thead>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-cly1" colspan="2">Mr Derek Lim</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" colspan="2"><span style="font-weight:700">Names of Subject Head:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" colspan="2">Mr Jonathan Ang</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" colspan="2"><span style="font-weight:700">Names of Members of the Department:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT (Champion) Science:</td>
-    <td class="tg-cly1">Mdm Rosmawati</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT (Champion) Mother Tongue:</td>
-    <td class="tg-cly1">Miss Yong Wai Teng</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1">Miss Lee Yung-Wen</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT Champion (EL):</td>
-    <td class="tg-cly1">Mdm Emilia Mohamed Ali</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT Champion (Math):</td>
-    <td class="tg-cly1">Mr Boo Jia Liang</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT Champion (Humanities):</td>
-    <td class="tg-cly1">Mr Edwin Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT Champion (Craft &amp; Tech):</td>
-    <td class="tg-cly1">Ms Cynthia Loh</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT Manager:</td>
-    <td class="tg-cly1">Mr Rozaini Muhaimin Bin Rozlan</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Desktop Engineer:</td>
-    <td class="tg-cly1">Mr Hairin</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Name of Head of Department:</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Derek Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Names of Subject Head:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Jonathan Ang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Names of Members of the Department:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT (Champion) Science:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosmawati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT (Champion) Mother Tongue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Yong Wai Teng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Yung-Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Champion (EL):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Emilia Mohamed Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Champion (Math):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Champion (Humanities):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Champion (Craft &amp; Tech):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cynthia Loh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rozaini Muhaimin Bin Rozlan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hairin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ruzaini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
