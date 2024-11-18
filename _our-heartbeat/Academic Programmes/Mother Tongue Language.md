@@ -129,62 +129,9 @@ variant: tiptap
 <h3>Programmes Highlights and Enrichment Activities</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/creative_writing_workshop.png">
 </div>
+<blockquote>
+<p>Creative Writing Workshop</p>
+</blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M6.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M7.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M8.png">
-</div>
-<p><strong>Program Dwiminggu Bahasa</strong>
-</p>
-<p>Menengah 1 dan 2 menghadiri bengkel lukisan batik dan gamelan&nbsp;<em>fusion</em>&nbsp;yang
-menggabungkan gamelan dengan kompang serta angklung. Manakala para pelajar
-Menengah 3 pula didedahkan kepada sastera melalui Program Drama di mana
-mereka juga berpeluang menonton pementasan “<em>How Did The Cat Get So Fat</em>”
-dalam di Esplanade. Pelajar Menengah 4 pula menjalani bengkel lisan dan
-penulisan kreatif bagi persiapan peperiksaan nasional. Kunjungan&nbsp;<em>Skuad Serbu Sekolah</em>&nbsp;oleh
-barisan juruhebah daripada stesen Radio RIA 89.7FM serta Duta Bahasa, Encik
-Megat Firdaus, telah menggalakkan penggunaan Bahasa Melayu dalam kehidupan
-harian.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M9.png">
-</div>
-<p>Seni Lukisan Batik</p>
-<p><strong>P</strong>ara pelajar Menengah Satu tahun ini berpeluang untuk
-mempelajari seni lukisan batik. Mereka telah berjaya menghasilkan lukisan
-yang menarik melalui teknik melukis dengan lilin cair menggunakan canting
-dan kemudian mewarnakan motif masing-masing.&nbsp; Nantikan pameran hasil
-kraftangan para pelajar yang berwarna-warni ini di acara yang akan datang
-ya!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M10.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M11.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother%20Tongue%20Languages/M12.png">
-</div>
-<p>M</p>
