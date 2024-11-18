@@ -84,9 +84,9 @@ working day after the release of S1 posting results. )
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4. Appeal for transfer
 to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Dear parent and student, please note that we can only accept students
-whose PSLE score meet the cut-off points of our school. <strong>Only shortlisted students will be notified.</strong> Please
+whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong> Please
 refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
-within three working days.</p>
+within three working days and we will inform you by the end of Jan 2025.</p>
 <hr>
 <p></p>
 </li>
