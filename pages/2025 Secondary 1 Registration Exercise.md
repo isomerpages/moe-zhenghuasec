@@ -121,8 +121,9 @@ be worn for school.
 <br><strong>Purchasing of Textbooks</strong>
 <br>
 <br>Attached is the booklist for the students.
-<br><a href="/files/ZHSS_S1_2024_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Students</a> 
-<br>
+<br><a href="/files/Sec_1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Booklist for Students</a>
+</p>
+<p>
 <br><strong>Please note:</strong>
 <br>1. Please strictly keep to the time and date that you have booked.
 <br>
