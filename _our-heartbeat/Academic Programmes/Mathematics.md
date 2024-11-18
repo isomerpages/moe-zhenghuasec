@@ -100,7 +100,7 @@ variant: tiptap
 <p>Mr Tan Soo Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chung Zhiwen</p>
 </td>
 </tr>
 <tr>
