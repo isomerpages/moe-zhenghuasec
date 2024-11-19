@@ -1,7 +1,21 @@
 ---
 title: Open House
-permalink: /openhouse2023/
+permalink: /openhouse2024/
 description: ""
+variant: tiptap
 ---
-![](/images/zssopenhouseinfographicspage1.jpg)![](/images/zssopenhouseinfographicspage2.jpg)![](/images/zssopenhouseinfographicspage3.jpg)![](/images/zssopenhouseinfographicspage4.jpg)
-[Click here for the open house infographics pdf file.](/files/zss%20open%20house%202023_infographics.pdf)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Open House/Entering_Sec_1_in_2025_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Open House/Entering_Sec_1_in_2025_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Open House/Entering_Sec_1_in_2025_Page_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Open House/Entering_Sec_1_in_2025_Page_4.jpg">
+</div>
+<p><a href="/files/Virtual open house/Entering_Sec_1_in_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the Open House infographics file.</a>
+</p>

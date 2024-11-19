@@ -71,9 +71,10 @@ queries on FAS, please proceed to the General Office.</p>
 due to serious medical conditions &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-by 12pm on 21 Dec 2023.
+by 12pm on 22 Dec 2024.(pending confirmation - by 12pm on the following
+working day after the release of S1 posting results. )
 <br>
-<br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please go to this</strong> 
+<br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please visit</strong> 
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
 </p>
 <hr>
@@ -83,28 +84,29 @@ by 12pm on 21 Dec 2023.
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4. Appeal for transfer
 to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Dear parent and student, please note that we can only accept students
-whose PSLE score meet the cut-off points of our school. <strong>Only shortlisted students will be notified.</strong> Please
+whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong> Please
 refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
-within three working days.</p>
+within three working days and we will inform you by the end of Jan 2025.</p>
 <hr>
 <p></p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;5. Purchase of Uniform
 and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>The purchase of books and uniforms can be made from 21st Dec to 28th Dec.
-However, for on-site purchase on 21st and 22nd Dec, you will need to book
-a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform
-&amp; Textbooks, directly below).
+<p>The purchase of books and uniforms can be made from 19th, 20th, 23rd,
+26th and 27th Dec. However, for on-site purchase on 19th and 20th Dec,
+you will need to book a slot prior. Please refer to the link below (see
+On-SITE Purchase of Uniform &amp; Textbooks, directly below).
 <br>
 <br>You can also purchase the textbooks and uniforms online, and have the
-items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">here</a> to purchase online.
+items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">here</a> to purchase online from
+17th Dec to 24th Dec 2024.
 <br>
 <br><strong>On-SITE Purchase of Uniform &amp; Textbooks</strong>
 <br>
 <br>For parents who wish to make their purchase on-site in school or students
-who are under FAS, please book a time slot on 21 Dec (9am – 3.30pm) and
-22 Dec(9am - 3.30pm) <a href="https://zhenghuass.simplybook.asia/v2/#" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+who are under FAS, please book a time slot on 19 Dec (9am – 3pm) and 20
+Dec(9am - 3.30pm) <a href="https://zhenghuass.simplybook.asia/v2/#" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>Please note the booking is on a first come first served basis and is for
 parents who are NOT ordering online.
@@ -113,15 +115,15 @@ parents who are NOT ordering online.
 <br>
 <br>Parents are advised to purchase at least 1 set of formal school uniform
 (school shirt and pants for boys/school blouse and skirt for girls) for
-formal occasion and also could be worn for daily lessons and at least 1
-set of school red polo-T shirt (this can be worn during daily lessons due
-to the hot weather).
+formal occasion and at least 1 set of school red polo-T shirt. Both can
+be worn for school.
 <br>
 <br><strong>Purchasing of Textbooks</strong>
 <br>
 <br>Attached is the booklist for the students.
-<br><a href="/files/ZHSS_S1_2024_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Students</a> 
-<br>
+<br><a href="/files/Sec_1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Booklist for Students</a>
+</p>
+<p>
 <br><strong>Please note:</strong>
 <br>1. Please strictly keep to the time and date that you have booked.
 <br>
@@ -133,8 +135,8 @@ be directed to the nearest multi-storey carpark once the car park lots
 in the school are filled up. Entrance and exit will be from the school
 gate located along Bukit Panjang Ring Road.
 <br>
-<br>4. You will be guided by student leaders and school staff to the venues:
-<br>- Block H (Level 1) for uniform sale
+<br>4. Please follow the signages in the school to purchase the books and
+uniforms.
 <br>
 <br>5. Textbooks and uniform bought can be returned or exchanged as long as
 they are clean and in original condition. Uniform should not be soiled.
