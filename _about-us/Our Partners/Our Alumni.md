@@ -16,12 +16,27 @@ graduates to rekindle connections and give back to their alma mater.</p>
 <p>By curating diverse activities, the Alumni Club aims to forge strong bonds
 among graduates, actively engage them in school events, and create a platform
 for sustained connections among alumni.</p>
+<h2><strong>Our Vision</strong></h2>
+<p>
+<br><strong><em>Rooted Connections, Steadfast Support</em></strong>
+</p>
+<h3><strong>Our Mission</strong><br></h3>
+<p>To volunteer and serve the school.
+<br>To build and maintain a strong ZSS alumni network with the school through
+momentous events and activities.
+<br>To foster connections from different sectors for sharing of
+<br>relevant experiences to the ZSS family.
+<br>To be role models for ZSS students by upholding the highest standards
+of ethics and the school values.</p>
+<h3>Our Shared Values</h3>
+<p>Respect, Resilience, Responsibility, Compassion and Integrity</p>
+<p></p>
 <p><strong>Alumni Executive Committee 2024</strong>
 </p>
-<p>Chairperson: Jonathan Peh
-<br>Vice-chairperson: Aw Wei Jun
-<br>Teachers in Charge: Mdm Natalie Tan, Mdm Yeo Yen Hua, Mdm Emilia Bte Mohamed
-Ali</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/AlumniOrgChart.png">
+</div>
 <p><strong>Alumni Activities</strong>
 </p>
 <p>Here are some photographs of our Alumni Club activities.</p>
@@ -44,7 +59,4 @@ Ali</p>
 <p>If you are interested to help out in any of the events, do contact us
 via this form!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumniqr.png">
-</div>
 <p></p>
