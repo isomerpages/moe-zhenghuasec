@@ -31,14 +31,12 @@ of ethics and the school values.</p>
 <h3>Our Shared Values</h3>
 <p>Respect, Resilience, Responsibility, Compassion and Integrity</p>
 <p></p>
-<p><strong>Alumni Executive Committee 2024</strong>
-</p>
+<h3><strong>Alumni Executive Committee 2024</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/AlumniOrgChart.png">
 </div>
-<p><strong>Alumni Activities</strong>
-</p>
+<h3><strong>Alumni Activities</strong></h3>
 <p>Here are some photographs of our Alumni Club activities.</p>
 <p>Alumni networking session before the school's Sports Fiesta.&nbsp;</p>
 <div class="isomer-image-wrapper">
