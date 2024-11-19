@@ -68,3 +68,24 @@ of ethics and the school values.</p>
 <p>Alumni networking session before the school's Sports Fiesta.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_participated_in_the_school_s_Sports_Fiesta_for_a_game_of_netball_.png">
+</div>
+<blockquote>
+<p>Alumni participated in the school’s Sports Fiesta for a game of netball!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Mr_Ng_addressing_the_alumni_at_ZSS_Alumni_Day_2023_.png">
+</div>
+<blockquote>
+<p>Mr Ng addressing the alumni at ZSS Alumni Day.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_networking_session_during_ZSS_Alumni_Day_2023_.png">
+</div>
+<blockquote>
+<p>Alumni networking session during ZSS Alumni Day</p>
+</blockquote>
+<p></p>
