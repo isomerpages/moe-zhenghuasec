@@ -38,23 +38,33 @@ of ethics and the school values.</p>
 </div>
 <h3><strong>Alumni Activities</strong></h3>
 <p>Here are some photographs of our Alumni Club activities.</p>
-<p>Alumni networking session before the school's Sports Fiesta.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alumni networking session before the school's Sports Fiesta." src="/images/alumni2.png">
-</div>
-<p>Alumni participated in the school’s Sports Fiesta 2023 for a game of netball!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alumni participated in the school’s Sports Fiesta 2023 for a game of netball!" src="/images/alumni3.png">
-</div>
-<p>Mr Ng addressing the alumni at ZSS Alumni Day 2023.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni4.png">
-</div>
-<p>Alumni networking session during ZSS Alumni Day 2023.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni5.png">
-</div>
-<p>If you are interested to help out in any of the events, do contact us
-via this form!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Chairperson_Jonathan_at_Road_Run_2024.jpg">
+</div>
+<blockquote>
+<p>Chairperson Jonathan at Road Run Event.</p>
+<p></p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_participated_in_the_school_s_Road_Run_2024_.jpg">
+</div>
+<blockquote>
+<p>Alumni participated in the school's Road Run event.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_at_Sports_Fiesta_2023_.png">
+</div>
+<blockquote>
+<p>Alumni at Sports Fiesta event.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_networking_session_before_the_school_s_Sports_Fiesta.png">
+</div>
+<blockquote>
+<p>Alumni networking session before the school's Sports Fiesta.</p>
+</blockquote>
 <p></p>
