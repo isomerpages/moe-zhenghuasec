@@ -89,3 +89,18 @@ of ethics and the school values.</p>
 <p>Alumni networking session during ZSS Alumni Day</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/qrcode.png">
+</div>
+<blockquote>
+<p>If you are interested to help out in any of the events, do contact us
+via this form!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Picture11.jpg">
+</div>
+<blockquote>
+<p>Also, do add us on instagram!</p>
+</blockquote>
+<p></p>
