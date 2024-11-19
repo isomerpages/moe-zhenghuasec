@@ -21,4 +21,6 @@ sections:
       description: 23rd November, 8.30am to 1.00pm
       image: /images/2024 Open House/2024_Open_House_Banner_Website.jpg
       alt: Image alt text
+      url: /openhouse2024/
+      button: Click here to find out more
 ---
