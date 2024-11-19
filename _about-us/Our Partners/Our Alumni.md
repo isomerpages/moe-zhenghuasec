@@ -9,8 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni1.png">
 </div>
-<p><strong>About ZSS Alumni Club</strong>
-</p>
+<h2><strong>About ZSS Alumni Club</strong></h2>
 <p>The ZSS Alumni Club, established in 2023, serves as a haven for Zhenghua
 graduates to rekindle connections and give back to their alma mater.</p>
 <p>By curating diverse activities, the Alumni Club aims to forge strong bonds
