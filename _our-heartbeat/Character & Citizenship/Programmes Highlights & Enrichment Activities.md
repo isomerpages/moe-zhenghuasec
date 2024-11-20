@@ -36,3 +36,12 @@ decisions about their educational and career paths. Additionally, our Work
 Experience Programme collaborates with various organisations to provide
 hands-on learning opportunities for students, allowing them to gain valuable
 work experience and insights into various sectors.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Students_giving_out_food_and_groceries.jpg">
+</div>
+<blockquote>
+<p>Students giving out food and groceries to low-income residents during
+the Share the Joy @ ZSS CNY Community Project</p>
+</blockquote>
+<p></p>
