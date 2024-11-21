@@ -36,7 +36,7 @@ of ethics and the school values.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/AlumniOrgChart.png">
 </div>
 <h3><strong>Alumni Activities</strong></h3>
-<p>Here are some photographs of our Alumni Club activities.</p>
+<p>Here are some photographs of our Alumni Network activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Chairperson_Jonathan_at_Road_Run_2024.jpg">
