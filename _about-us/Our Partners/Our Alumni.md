@@ -9,12 +9,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni1.png">
 </div>
-<h2><strong>About ZSS Alumni Club</strong></h2>
-<p>The ZSS Alumni Club, established in 2023, serves as a haven for Zhenghua
+<h2><strong>About ZSS Alumni Network</strong></h2>
+<p>The ZSS Alumni Network, established in 2023, serves as a haven for Zhenghua
 graduates to rekindle connections and give back to their alma mater.</p>
-<p>By curating diverse activities, the Alumni Club aims to forge strong bonds
-among graduates, actively engage them in school events, and create a platform
-for sustained connections among alumni.</p>
+<p>By curating diverse activities, the Alumni Network aims to forge strong
+bonds among graduates, actively engage them in school events, and create
+a platform for sustained connections among alumni.</p>
 <h2><strong>Our Vision</strong></h2>
 <p>
 <br><strong><em>Rooted Connections, Steadfast Support</em></strong>
@@ -36,7 +36,7 @@ of ethics and the school values.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/AlumniOrgChart.png">
 </div>
 <h3><strong>Alumni Activities</strong></h3>
-<p>Here are some photographs of our Alumni Club activities.</p>
+<p>Here are some photographs of our Alumni Network activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Chairperson_Jonathan_at_Road_Run_2024.jpg">
