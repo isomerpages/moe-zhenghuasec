@@ -228,7 +228,7 @@ strengths, interests and learning needs.
 <p>
 <br>
 </p>
-<p>SBB - Offer Letter &amp; Booklist (click on the picture to view slides)
+<p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)
 <br>
 <br>
 </p><a class="isomer-image-wrapper" href="/files/FSBB_Booklistnew.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SBB_offer_letter_and_booklist.png"></a>
@@ -236,7 +236,8 @@ strengths, interests and learning needs.
 <br>
 <br>
 </p>
-<p>SBB - Offer Letter Video (click on image to view video)
+<p>SBB - Offer Letter Video (Please click on the image for the Video for
+futher explanation.)
 <br>
 <br>
 </p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=2D-iB8M6Ny8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbbofferletterbookvid.png"></a>
@@ -244,11 +245,11 @@ strengths, interests and learning needs.
 <br>
 <br>
 <br>
-<br>Please return the hardcopy forms to the General Office or reply acceptance
-through Parents Gateway by&nbsp;<strong>27 December 2023.</strong>
+<br>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2024.</strong>
 </p>
 <p></p>
-<p></p>
+<p>Parents who have no access to Parent Gateway, the school will contact
+you separately.</p>
 <hr>
 <p></p>
 </li>
