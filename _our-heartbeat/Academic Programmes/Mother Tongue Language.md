@@ -134,35 +134,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/MT_writeup4.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Program Dwiminggu Bahasa</p>
-<p></p>
-<p>Menengah 1 dan 2 menghadiri bengkel lukisan batik dan gamelan fusion yang
-menggabungkan gamelan dengan kompang serta angklung. Manakala para pelajar
-Menengah 3 pula didedahkan kepada sastera melalui Program Drama di mana
-mereka juga berpeluang menonton pementasan "How Did The Cat Get So Fat'
-dalam di Esplanade. Pelajar Menengah 4 pula menjalani bengkel lisan dan
-penulisan kreatif bagi persiapan peperiksaan nasional.</p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p>Creative Writing Workshop</p>
 <div class="isomer-image-wrapper">
