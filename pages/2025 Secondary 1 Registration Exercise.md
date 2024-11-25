@@ -299,8 +299,8 @@ and skills to thrive in the digital environment.
 <br>
 </p>
 <p>In line with our school vision of preparing every student to be principled
-and future-ready leaders, all Sec 1 – 4s will be equipped with a PLD in
-2024. Our school has chosen Chromebooks as our preferred PLD.
+and future-ready leaders, all Sec 1 – 5s will be equipped with a PLD in
+2025. Our school has chosen Chromebooks as our preferred PLD.
 <br>
 <br>
 </p>
