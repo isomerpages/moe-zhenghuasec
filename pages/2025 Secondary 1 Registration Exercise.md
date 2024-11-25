@@ -143,10 +143,9 @@ they are clean and in original condition. Uniform should not be soiled.
 <br>
 <br><strong>Purchase of Physical Education Attire</strong>
 <br>
-<br>It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;and&nbsp;school
-black PE shorts&nbsp;for PE lessons.&nbsp; Please purchase the correct
-House T-Shirts for your child/ward, as indicated in the table below.&nbsp;
-It is advisable to purchase a minimum of 2 sets of the PE attire.
+<br>It is compulsory to wear the&nbsp;Zhenghua Secondary School PE T-shirts
+and&nbsp;school black PE shorts&nbsp;for PE lessons.&nbsp;It is advisable
+to purchase a minimum of 2 sets of the PE attire.
 <br>
 <br>
 </p>
