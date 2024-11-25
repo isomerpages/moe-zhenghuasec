@@ -56,7 +56,7 @@ Assistance Scheme (FAS) Application (Online Form) &nbsp;&nbsp;&nbsp;&nbsp;</p>
 has been approved and you have been issued the FAS letter of approval from
 our school.
 <br>
-<br><u>For Already Approved MOE FAS for </u><strong><u>2024</u></strong><u> with Approval Letter from Primary School</u>
+<br><u>For Already Approved MOE FAS for </u><strong><u>2025</u></strong><u> with Approval Letter from Primary School</u>
 <br>
 <br>Please proceed to the General Office with your approval letter before
 collecting your books and uniforms.
