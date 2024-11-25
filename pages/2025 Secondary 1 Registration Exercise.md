@@ -331,7 +331,7 @@ the opportunity to benefit from the programme.
 <br>
 </p>
 <p>Specific costs and details will be communicated to all parents in January
-2024.
+2025.
 <br>
 <br>
 </p>
