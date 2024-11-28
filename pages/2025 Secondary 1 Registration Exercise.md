@@ -455,11 +455,9 @@ access the slides.
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Information on class allocation will be made available through Parents
-Gateway. Please note that the purchase of the PE T-shirt is house-based
-and is determined by the class that you are allocated to. Do not purchase
-the PE attire until you have received your class posting.
+Gateway.
 <br>
-<br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway. Due to the delay at the Parent Gateway system, the class allocation will be informed through PG as soon as possible.</em>
+<br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 23 Dec 2024, 8am.</em>
 </p>
 <hr>
 <p></p>
