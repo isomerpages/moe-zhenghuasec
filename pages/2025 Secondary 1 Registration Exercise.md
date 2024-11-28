@@ -537,9 +537,9 @@ Leaders and our PSG leaders, followed by a CNY Lunch.&nbsp;&nbsp;</p>
 <br>
 </p>
 <p>As part of our efforts to go green, all registrations for PSG will be
-done online. Please take a moment to go to the <a href="https://go.gov.sg/sec1psg24" rel="noopener noreferrer nofollow" target="_blank">link</a> for the registration form for
-the three programmes stated above. Alternatively, you may scan the QR code
-for the registration form. Please allow us seven working days to process
+done online. Please take a moment to go to the <a href="https://go.gov.sg/psgregistration25" rel="noopener noreferrer nofollow" target="_blank">link</a> for the registration
+form for the programmes stated above. Alternatively, you may scan the QR
+code for the registration form. Please allow us seven working days to process
 your registration.
 <br>
 <br>
