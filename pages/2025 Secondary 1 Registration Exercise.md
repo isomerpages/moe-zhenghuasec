@@ -776,8 +776,19 @@ below for the 2025 schedule.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/tlschedule.png">
 </div>
 <p>
-<br>
+<br><strong>13. When will I know the class of my child?</strong>
 </p>
+<p>The school will inform you via Parent Gateway by 23<sup>rd</sup> December.</p>
+<p>&nbsp;</p>
+<p><strong>14.&nbsp; Is it compulsory for my child to attend the Orientation Camp?</strong>
+</p>
+<p>As the camp is held during school term, attendance of the student is compulsory.
+Your child/ward will have to attend the activities planned for them from
+0730 onwards.</p>
+<p>We would like to strongly encourage all students to participate in the
+Sec 1 Orientation Camp where they will be staying in school for 3 days
+2 nights. In the event if your child/ward is unable to stay overnight,
+please kindly inform the school.</p>
 <p>
 <br>
 </p>
