@@ -448,17 +448,7 @@ access the slides.
 </div>
 <p>
 <br>
-<br>
-<br>
 </p>
-<p>Camp Packing List (click on image to view)
-<br>
-</p><a class="isomer-image-wrapper" href="/images/packinglistforsec1camp2024.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/packinglistforsec1camp2024.png"></a>
-<p>
-<br>
-</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <hr>
 <p></p>
 </li>
