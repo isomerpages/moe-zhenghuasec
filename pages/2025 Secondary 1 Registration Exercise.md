@@ -565,7 +565,7 @@ and fun-filled experience.
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;12. Parent-Teacher Meeting
 (1st PTM) &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Our first PTM will be conducted on Friday 5 January 2024, at 5pm in school
+<p>Our first PTM will be conducted on Friday 10 January 2025, at 5pm in school
 hall. There will be a welcome talk by our Principal, Mr Ng in the hall
 followed by the Form Teacher's sharing in the classrooms. More details
 will be shared via Parents Gateway.</p>
@@ -577,11 +577,9 @@ Questions (FAQ) &nbsp;&nbsp;&nbsp;&nbsp;</p>
 </p>
 <p><strong>1. What is Zhenghua Secondary’s cut-off points (COP)?</strong>
 <br>
-<br>
 </p>
-<p>The indicative PSLE score ranges of 2021 PSLE students posted to 2022
+<p>The indicative PSLE score ranges of 2023 PSLE students posted to 2024
 Sec 1.
-<br>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -591,12 +589,12 @@ Sec 1.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Express</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>10 – 20</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 - 19</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -616,21 +614,19 @@ Sec 1.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2.&nbsp;My child wants to enter this school but was not offered a place. How can I appeal for a place?</strong>
-<br>
 <br>
 </p>
 <p>You can register your appeal by submitting the online form linked in Section
 4 of this Microsite. In the event there is a vacancy and your child meets
 our school's cut-off point, we will contact you as soon as we can.
 <br>
+</p>
+<p>Please kindly note that only shortlisted students will be contacted.
 <br>
 </p>
 <p><strong>3.&nbsp; Can I appeal if my child does not meet the cut-off point?</strong>
-<br>
 <br>
 </p>
 <p>You can still register your appeal by submitting the online form linked
@@ -654,11 +650,10 @@ of the Direct School Admissions Exercise.
 <p>Annually, we send students for all sorts of competitions and workshops
 beyond the school. Subject specific ones include Math and Science Olympiads,
 EL Debating and oratorical competitions, MTL oratorical and creative writing
-workshops, Humanities Talent Development Programmes. Beyond specific subject
-areas, we also identify students to be in our Stretch Programme, where
-they are trained to debate on contemporary issues, solve future problems,
-and come up with creative solutions. You can read up more on the many awards
-that our students have received over the years on our website: /student-achievements/
+workshops, Humanities Talent Development Programmes and etc.</p>
+<p></p>
+<p>You can read up more on the many awards that our students have received
+over the years on our website <a href="https://www.zhenghuasec.moe.edu.sg/achievements/student-achievement-department/" rel="noopener nofollow" target="_blank">here</a>
 <br>
 <br>
 </p>
