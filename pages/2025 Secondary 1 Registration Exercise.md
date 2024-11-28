@@ -39,16 +39,16 @@ you may call the General Office at 67639455.</p>
 <hr>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;1. Online Registration
-by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;1. Online Registration by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <hr>
 <ul>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2. Information for Financial
-Assistance Scheme (FAS) Application (Online Form) &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;2. Information for Financial Assistance Scheme (FAS) Application (Online Form) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p><u>For New Applications :</u>
 <br>
 <br>If you wish to apply for for financial assistance, you may apply <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">online.</a> 
@@ -67,8 +67,7 @@ queries on FAS, please proceed to the General Office.</p>
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3. Appeal for transfer
-due to serious medical conditions &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong> &nbsp;&nbsp;&nbsp;&nbsp;3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
 by 12pm on 22 Dec 2024.(pending confirmation - by 12pm on the following
@@ -81,8 +80,8 @@ working day after the release of S1 posting results. )
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;4. Appeal for transfer
-to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>Dear parent and student, please note that we can only accept students
 whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong> Please
 refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
@@ -91,8 +90,8 @@ within three working days and we will inform you by the end of Jan 2025.</p>
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;5. Purchase of Uniform
-and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;5. Purchase of Uniform and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>The purchase of books and uniforms can be made from 19th, 20th, 23rd,
 26th and 27th Dec. However, for on-site purchase on 19th and 20th Dec,
 you will need to book a slot prior. Please refer to the link below (see
@@ -155,8 +154,8 @@ to purchase a minimum of 2 sets of the PE attire.
 </p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;6. Full Subject Based
-Banding (FSBB) and Subject Based Banding (SBB) &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;6. Full Subject Based Banding (FSBB) and Subject Based Banding (SBB) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>
 <br>- Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts
 to nurture the joy of learning and develop multiple pathways to cater to
@@ -254,8 +253,8 @@ you separately.</p>
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;7. Personalised Digital
-Learning Programme (PDLP) &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<strong>&nbsp;7. Personalised Digital Learning Programme (PDLP) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p></p>
 <p><strong>1. What is PDLP about?</strong>
 <br>
@@ -425,7 +424,8 @@ online spaces safely and help develop a more supportive cyber environment.</p>
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;8. CCA Trial &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;8. CCA Trial &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Trial.png">
 </div>
@@ -436,16 +436,13 @@ view the details regarding the CCA trials happening in 2025 Term 1 Week
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;9. First Day of School
-&amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>Click on the slide to view the slides. Or click <a href="/files/First_Day_of_School_Slides_for_Students_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the slides.
 <br>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/First_Day_of_School_Slides_for_Students_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png"></a>
 <p>
 <br>
 </p>
@@ -453,7 +450,8 @@ access the slides.
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<strong>&nbsp;&nbsp;10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>Information on class allocation will be made available through Parents
 Gateway.
 <br>
@@ -463,8 +461,8 @@ Gateway.
 <p></p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;11. Parent Support Group
-(PSG) &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<strong>11. Parent Support Group (PSG) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -558,21 +556,20 @@ and fun-filled experience.
 <br>
 </p>
 <p>Thank you and once again, welcome to the ZSS PSG family!</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+<hr>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;12. Parent-Teacher Meeting
-(1st PTM) &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<strong>&nbsp;&nbsp;12. Parent-Teacher Meeting (1st PTM) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>Our first PTM will be conducted on Friday 10 January 2025, at 5pm in school
 hall. There will be a welcome talk by our Principal, Mr Ng in the hall
 followed by the Form Teacher's sharing in the classrooms. More details
 will be shared via Parents Gateway.</p>
+<hr>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;13. Frequently Asked
-Questions (FAQ) &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<strong>&nbsp;13. Frequently Asked Questions (FAQ) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p><strong>Frequently Asked Questions by Parents at Sec 1 Registration</strong>
 </p>
 <p><strong>1. What is Zhenghua Secondary’s cut-off points (COP)?</strong>
