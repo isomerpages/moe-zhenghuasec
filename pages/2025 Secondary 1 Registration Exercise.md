@@ -771,8 +771,9 @@ below for the 2025 schedule.
 <br>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/tamilschedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/tlschedule.png">
 </div>
 <p>
 <br>
