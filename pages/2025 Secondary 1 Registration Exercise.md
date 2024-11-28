@@ -741,7 +741,7 @@ immediately after the release of the PSLE results.
 <br>
 </p>
 <p>HML courses will be held in Bukit Panjang Government High, outside curriculum
-time and HCL courses will held in our school.
+time and HCL courses will be held in our school.
 <br>
 <br>
 </p>
@@ -754,21 +754,11 @@ criteria to offer HMTL, if they are assessed to have exceptional ability
 in MTL and are able to do HMTL without affecting their performance in other
 subjects.
 <br>
-<br>
-</p>
-<p>Based on students’ performance in the various weighted assessments throughout
+<br>Based on students’ performance in the various weighted assessments throughout
 the year, teachers will be able to have a good gauge of their progress.
-Students who obtain a grade of A2 and above in MTL in Semester 1 with an
-overall average of 60 will be offered HCL in semester 2 in secondary one
-in our school.
-<br>
-<br>
-</p>
-<p>At the end of year examination in secondary two, students who have shown
-keen interest and have exceptional ability in MTL will be invited to take
-a diagnostic test to gauge their ability to cope with the higher level
-subject. They will then be offered HMTL in secondary three.
-<br>
+At the end of year examination in secondary two, students who have shown
+keen interest and have exceptional ability in MTL will be invited to offer
+HMTL in secondary three.
 <br>
 </p>
 <p><strong>12.&nbsp; My child is taking Tamil language. When and where are the classes held?</strong>
@@ -779,78 +769,14 @@ subject. They will then be offered HMTL in secondary three.
 Chua Chu Kang Secondary School outside curriculum time. &nbsp;The current
 2024 schedule is as follows:
 <br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/tamilschedule.png">
+</div>
+<p>
 <br>
 </p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Time</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Express</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 &amp; Sec 2 Express</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 G2 and G3
-<br>Sec 1&amp;2 Express/NA
-<br>3 pm to 6.pm.
-<br>Sec 1 G1
-<br>3.00pm to 4.45pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 NA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 NA/NT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Express/5NA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3/4 NT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00pm to 4.45pm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>
 <br>
 </p>
