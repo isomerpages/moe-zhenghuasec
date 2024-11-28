@@ -442,6 +442,10 @@ view the details regarding the CCA trials happening in 2025 Term 1 Week
 access the slides.
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png">
+</div>
 <p>
 <br>
 <br>
