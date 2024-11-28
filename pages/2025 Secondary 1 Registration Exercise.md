@@ -438,11 +438,14 @@ view the details regarding the CCA trials happening in 2025 Term 1 Week
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>Click on the slide to view the slides. Or click <a href="/files/First_Day_of_School_Slides_for_Students_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/First_Day_of_School_Slides_for_Students_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the slides.
 <br>
 </p>
-<p></p><a class="isomer-image-wrapper" href="files/First_Day_of_School_Slides_for_Students_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png">
+</div>
 <p>
 <br>
 </p>
