@@ -653,7 +653,7 @@ EL Debating and oratorical competitions, MTL oratorical and creative writing
 workshops, Humanities Talent Development Programmes and etc.</p>
 <p></p>
 <p>You can read up more on the many awards that our students have received
-over the years on our website <a href="https://www.zhenghuasec.moe.edu.sg/achievements/student-achievement-department/" rel="noopener nofollow" target="_blank">here</a>
+over the years on our website <a href="https://www.zhenghuasec.moe.edu.sg/achievements/student-achievement-department/" rel="noopener nofollow" target="_blank">here.</a>
 <br>
 <br>
 </p>
@@ -687,7 +687,7 @@ of integrity.
 and cut fruit stall, and 1 hot drinks and snack stall.&nbsp; Out of the
 6 cooked food stalls, 3 are halal certified. Our hot drinks and snack stall
 also only sells halal certified snacks such as sandwiches, buns, biscuits,
-cakes. We unfortunately do not have a fully vegetarian stall, but the cooked
+cakes. Unfortunately we do not have a fully vegetarian stall, but the cooked
 food stalls do serve purely vegetarian dishes.
 <br>
 <br>
