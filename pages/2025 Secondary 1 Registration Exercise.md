@@ -442,7 +442,7 @@ view the details regarding the CCA trials happening in 2025 Term 1 Week
 access the slides.
 <br>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/First_Day_of_School_Slides_for_Students_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png"></a>
+<p></p><a class="isomer-image-wrapper" href="files/First_Day_of_School_Slides_for_Students_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png"></a>
 <p>
 <br>
 </p>
