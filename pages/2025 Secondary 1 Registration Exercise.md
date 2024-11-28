@@ -510,16 +510,12 @@ transitional phase of your child, ZSS PSG will be organizing the following
 parenting workshop in February:
 <br>
 </p>
-<p><strong>Transition to Secondary School Life Parenting Workshop and PSG Meeting </strong>
+<p><strong><em>Transition to Secondary School Life Parenting Workshop</em></strong>
 <br>
 </p>
 <p>Date: 8 February 2025, Saturday
-<br>
-</p>
-<p>Time: 9.30am-11am
-<br>
-</p>
-<p>Venue: AVA Room (Level 2, above school libray)
+<br>Time: 9.30am-11am
+<br>Venue: AVA Room (Level 2, above school libray)
 <br>
 </p>
 <p>Through the workshop, parents can learn to:
@@ -530,8 +526,8 @@ your child may encounter during this period of time.
 secondary school learning environment and help him/her to understand how
 better to overcome the various challenges in secondary school.</p>
 <p></p>
-<p>3) Registration for 1st PSG Meeting and CNY Lunch (8 February 2025, 11.00am
-- 12.00pm)</p>
+<p><strong>3) Registration for 1st PSG Meeting and CNY Lunch (8 February 2025, 11.00am - 12.00pm)</strong>
+</p>
 <p>After the workshop, we will be having our 1st PSG Meeting with our School
 Leaders and our PSG leaders, followed by a CNY Lunch.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
