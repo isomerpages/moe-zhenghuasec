@@ -475,28 +475,16 @@ Gateway.
 <br>
 </p>
 <p>All parents are automatically members of the Zhenghua Secondary School
-Parent Support Group (ZSS PSG). The ZSS PSG is a network of parents who
-work in close partnership with the school.
-<br>
-<br>
-</p>
-<p>We are currently inviting interested parents to sign up for the following:
-<br>
-<br>
-</p>
-<p><strong>1) Class WhatsApp Chatgroup (for Parents)</strong>
-<br>
-<br>
-</p>
-<p>As parents, you may be concerned about your child’s studies and would
-like to keep yourself abreast of the upcoming school programmes and activities.
-The ZSS PSG will be forming WhatsApp chatgroup for each of the Secondary
-One classes as a platform to provide parents from the same class an avenue
-to receive information from the school and the PSG.
-<br>
-<br>
-</p>
-<p><strong>2) As active PSG members</strong>
+Parent Support Group (ZSS PSG). The ZSS PSG is a network of parents working
+in close partnership with the school. Being part of the PSG is a great
+opportunity to be closer to our children, understand them better, and support
+them in their educational journey. Members can participate in school activities
+and events, contribute to initiatives, network with other parents, and
+learn more about helping our children thrive in society.</p>
+<p></p>
+<p>We are currently inviting interested parents to sign up for the following:</p>
+<p></p>
+<p><strong>1) As active PSG members</strong>
 <br>
 <br>
 </p>
@@ -507,7 +495,7 @@ will also gain support from other parents in your parenting journey.
 <br>
 <br>
 </p>
-<p><strong>3) Transition to Secondary School Life Parenting Workshop and PSG Welcome [17 February 2024, 9:30am-11.00am]</strong>
+<p><strong>2) Transition to Secondary School Life Parenting Workshop and PSG Welcome [8 February 2025, 9:30am-11.00am]</strong>
 <br>
 <br>
 </p>
@@ -516,46 +504,42 @@ as they transit from primary school to secondary school. While this journey
 into secondary school can be exciting, some teenagers will require time
 to adjust and accommodate to the new environment.
 <br>
-<br>
 </p>
 <p>To help parents understand the importance of parental support during this
 transitional phase of your child, ZSS PSG will be organizing the following
 parenting workshop in February:
 <br>
+</p>
+<p><strong>Transition to Secondary School Life Parenting Workshop and PSG Meeting </strong>
 <br>
 </p>
-<p>Transition to Secondary School Life Parenting Workshop and PSG Meeting
-<br>
-<br>
-</p>
-<p>Date: 17 February 2024, Saturday
+<p>Date: 8 February 2025, Saturday
 <br>
 </p>
 <p>Time: 9.30am-11am
 <br>
 </p>
-<p>Venue: School Library
+<p>Venue: AVA Room (Level 2, above school libray)
 <br>
 </p>
 <p>Through the workshop, parents can learn to:
 <br>
-<br>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Understand the different expectations and developmental tasks that your
-child may encounter during this period of time.
-<br>
-</p>
-</li>
-<li>
-<p>Be equipped with the necessary knowledge to support your child in the
+<br>1. Understand the different expectations and developmental tasks that
+your child may encounter during this period of time.
+<br>2. Be equipped with the necessary knowledge to support your child in the
 secondary school learning environment and help him/her to understand how
-better to overcome the various challenges in secondary school.
+better to overcome the various challenges in secondary school.</p>
+<p></p>
+<p>3) Registration for 1st PSG Meeting and CNY Lunch (8 February 2025, 11.00am
+- 12.00pm)</p>
+<p>After the workshop, we will be having our 1st PSG Meeting with our School
+Leaders and our PSG leaders, followed by a CNY Lunch.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Date: 8/2/2025, Saturday&nbsp;&nbsp;</p>
+<p>Time: 11am-12pm&nbsp;&nbsp;</p>
+<p>Venue: Rifle Range (Level 4)&nbsp;
 <br>
 </p>
-</li>
-</ol>
 <p>As part of our efforts to go green, all registrations for PSG will be
 done online. Please take a moment to go to the <a href="https://go.gov.sg/sec1psg24" rel="noopener noreferrer nofollow" target="_blank">link</a> for the registration form for
 the three programmes stated above. Alternatively, you may scan the QR code
@@ -564,8 +548,9 @@ your registration.
 <br>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;height:50%" height="auto" width="100%" src="/images/PSGQRCODE.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PSG.png">
 </div>
 <p>
 <br>
