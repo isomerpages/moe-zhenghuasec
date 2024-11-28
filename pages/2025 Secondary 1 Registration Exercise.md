@@ -766,8 +766,8 @@ HMTL in secondary three.
 <br>
 </p>
 <p>Students who are offered Tamil will study at the Tamil Language Centre,
-Chua Chu Kang Secondary School outside curriculum time. &nbsp;The current
-2024 schedule is as follows:
+Chua Chu Kang Secondary School outside curriculum time. &nbsp;Please see
+below for the 2025 schedule.
 <br>
 </p>
 <p></p>
