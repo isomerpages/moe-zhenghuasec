@@ -144,10 +144,10 @@ they are clean and in original condition. Uniform should not be soiled.
 <br>
 <br>It is compulsory to wear the&nbsp;Zhenghua Secondary School PE T-shirts
 and&nbsp;school black PE shorts&nbsp;for PE lessons.&nbsp;It is advisable
-to purchase a minimum of 2 sets of the PE attire.
-<br>
-<br>
-</p>
+to purchase a minimum of 2 sets of the PE attire.</p>
+<p>Please note that starting from 2025, we will be having a new design for
+the school PE attire. The new PE attire will be on sale from 20th December
+2025 (tentative) onwards for the incoming Secondary One students.</p>
 <hr>
 <p>
 <br>
