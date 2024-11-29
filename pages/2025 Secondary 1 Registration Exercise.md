@@ -70,7 +70,7 @@ queries on FAS, please proceed to the General Office.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong> &nbsp;&nbsp;&nbsp;&nbsp;3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-by 12pm on 22 Dec 2024.(pending confirmation - by 12pm on the following
+by 12pm on 19 Dec 2024.(pending confirmation - by 12pm on the following
 working day after the release of S1 posting results. )
 <br>
 <br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please visit</strong> 
