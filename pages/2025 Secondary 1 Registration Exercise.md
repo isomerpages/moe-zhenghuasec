@@ -624,7 +624,7 @@ of integrity.
 <br>
 <br>
 </p>
-<p><strong>7.&nbsp; How many of your canteen stalls are Halal? Do your school cater to students who are on vegetarian diet?</strong>
+<p><strong>7.&nbsp; How many of your canteen stalls are halal-certified? Does your school cater to students who are on a vegetarian diet?</strong>
 <br>
 <br>
 </p>
