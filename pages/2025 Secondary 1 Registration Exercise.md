@@ -81,7 +81,7 @@ by 12pm on 19 Dec 2024.
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Dear parent and student, please note that we can only accept students
-whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong> 
+whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
 <p></p>
 <p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
@@ -114,8 +114,8 @@ parents who are NOT ordering online.
 <br>
 <br>Parents are advised to purchase at least 1 set of formal school uniform
 (school shirt and pants for boys/school blouse and skirt for girls) for
-formal occasion and at least 1 set of school red polo-T shirt. Both can
-be worn for school.
+formal occasion and at least 1 set of school red polo-T shirt. Both the
+school shirt and red polo can be worn for school.
 <br>
 <br><strong>Purchasing of Textbooks</strong>
 <br>
@@ -145,9 +145,7 @@ they are clean and in original condition. Uniform should not be soiled.
 <br>It is compulsory to wear the&nbsp;Zhenghua Secondary School PE T-shirts
 and&nbsp;school black PE shorts&nbsp;for PE lessons.&nbsp;It is advisable
 to purchase a minimum of 2 sets of the PE attire.</p>
-<p>Please note that starting from 2025, we will be having a new design for
-the school PE attire. The new PE attire will be on sale from 20th December
-2025 (tentative) onwards for the incoming Secondary One students.</p>
+<p></p>
 <hr>
 <p>
 <br>
