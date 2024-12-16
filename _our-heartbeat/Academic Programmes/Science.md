@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Lim Chee Hui (HOD Inforcomm)</p>
+<p>Mr Derek Lim Chee Hui (HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Lien Lee Jonathan (SH ICT)</p>
@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Khee Hoon (YH Sec 4/5)</p>
+<p>Mdm Koh Khee Hoon (YH Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Kan</p>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>Miss Goh Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Michael Lim</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>Mdm Chia Mei Fong (Lab Technician)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Lim</p>
+<p>Mdm Farihah (Lab Technician)</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>Mdm Jaya (Lab Assistant)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farihah (Lab Technician)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
