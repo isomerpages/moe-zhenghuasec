@@ -727,13 +727,17 @@ below for the 2025 schedule.
 <p>&nbsp;</p>
 <p><strong>14.&nbsp; Is it compulsory for my child to attend the Orientation Camp?</strong>
 </p>
-<p>As the camp is held during school term, attendance of the student is compulsory.
+<p>The Orientation Camp is a milestone event as your child embarks on his/her
+next phase of education in Zhenghua Secondary School. As this 3D2N overnight
+camp is held during school term, attendance of the student is compulsory.
 Your child/ward will have to attend the activities planned for them from
 0730 onwards.</p>
-<p>We would like to strongly encourage all students to participate in the
-Sec 1 Orientation Camp where they will be staying in school for 3 days
-2 nights. In the event if your child/ward is unable to stay overnight,
-please kindly inform the school.</p>
+<p></p>
+<p>In the event if your child/ward has extenuating circumstances rendering
+him/her unable to stay overnight, kindly get in touch with the school.</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
