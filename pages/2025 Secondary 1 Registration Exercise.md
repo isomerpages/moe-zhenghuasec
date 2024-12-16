@@ -12,22 +12,21 @@ variant: tiptap
 <ul>
 <li>
 <p>Congratulations on your posting to Zhenghua Secondary School! Here, we
-strive to develop every student into a Principled and Future-Ready Leader
-– leaders who are grounded in the values of respect, resilience, responsibility,
-integrity and compassion; leaders who are able to lead themselves and others
-well into the future.
-<br>
+strive to prepare our students to be future-ready by develop them as Dynamic
+Learners, Exemplary Leaders and Thoughtful Contributors. A dynamic learner
+is one who learns because he wants to, not because he has to. An exemplary
+leader does not only execute a task well but is also a good role model
+and inspires others. Lastly, a thoughtful contributor does not just take
+and receive but sees giving as a way of life.
 <br>
 </p>
 <p>Please read the following information on instructions for online registration,
 purchase of books and uniforms, and the reporting details for the first
 day of school.
 <br>
-<br>
 </p>
 <p>For more information on the 2025 Secondary 1 Posting, please refer to
 <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">this MOE Webpage</a>
-<br>
 <br>
 </p>
 <p>Do note that there may be changes to the information above. For the latest
@@ -70,8 +69,7 @@ queries on FAS, please proceed to the General Office.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong> &nbsp;&nbsp;&nbsp;&nbsp;3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-by 12pm on 19 Dec 2024.(pending confirmation - by 12pm on the following
-working day after the release of S1 posting results. )
+by 12pm on 19 Dec 2024.
 <br>
 <br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please visit</strong> 
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
@@ -83,8 +81,10 @@ working day after the release of S1 posting results. )
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Dear parent and student, please note that we can only accept students
-whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong> Please
-refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
+whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong> 
+</p>
+<p></p>
+<p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
 within three working days and we will inform you by the end of Jan 2025.</p>
 <hr>
 <p></p>
