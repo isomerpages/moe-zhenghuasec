@@ -449,7 +449,7 @@ Sec 1.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Express</p>
+<p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 - 19</p>
@@ -457,7 +457,7 @@ Sec 1.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Normal Academic</p>
+<p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 – 24</p>
@@ -465,7 +465,7 @@ Sec 1.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Normal Technical</p>
+<p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>25 – 27</p>
