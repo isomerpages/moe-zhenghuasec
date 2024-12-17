@@ -405,8 +405,16 @@ your registration.
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PSG.png">
 </div>
-<p>
+<p><strong>4) Interest Group for Parents</strong>
 <br>
+<br>The school would like to find out if parents would like to learn from
+one another in their parenting journey on specific areas of interest. These
+groups are meant for parents, led by parents. The school will support by
+playing the facilitator role and providing the necessary resources. The
+suggested areas of interest are on Special Educational Needs (SEN), Education
+and Career Guidance (ECG) or cyberwellness. Would you be interested in
+joining? If you have other areas of interest, please specify them under
+'Others'.
 <br>
 </p>
 <p>We believe you will find your journey with the ZSS PSG a very enriching
