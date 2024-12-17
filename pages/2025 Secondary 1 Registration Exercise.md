@@ -34,21 +34,12 @@ is turned on. If you have any questions, do drop us a note at <a href="mailto:zh
 you may call the General Office at 67639455.
 <br>
 </p>
-<ul>
-<li>
-<p></p>
 <hr>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;1. Online Registration by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>1. Online Registration by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</li>
-</ul>
 <hr>
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;2. Information for Financial Assistance Scheme (FAS) Application (Online Form) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>2. Information for Financial Assistance Scheme (FAS) Application (Online Form) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p><u>For New Applications :</u>
 <br>
@@ -65,10 +56,7 @@ collecting your books and uniforms.
 letter as you will not be reimbursed for any amount spent. For all other
 queries on FAS, please proceed to the General Office.</p>
 <hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong> &nbsp;&nbsp;&nbsp;&nbsp;3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
+<p><strong>3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
 by 12pm on 19 Dec 2024.
@@ -77,15 +65,13 @@ by 12pm on 19 Dec 2024.
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
 </p>
 <hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Dear parent and student, please note that we can only accept students
 whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
-<p></p>
+<ul>
+<li>
 <p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
 within three working days and we will inform you by the end of Jan 2025.</p>
 <hr>
