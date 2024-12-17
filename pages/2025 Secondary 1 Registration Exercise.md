@@ -143,8 +143,7 @@ strengths, interests and learning needs.
 <br>
 </p>
 <p>Youtube video for FSBB (click on picture to view video)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
-<p>FSBB Microsite from MOE (click on picture to access site)</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbbsite.png"></a>
+<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbbsite.png"></a>
 <p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)</p>
 <a class="isomer-image-wrapper" href="/files/FSBB_Booklistnew.pdf">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SBB_offer_letter_and_booklist.png">
@@ -432,7 +431,7 @@ will be shared via Parents Gateway.</p>
 <p><strong>1. What is Zhenghua Secondary’s cut-off points (COP)?</strong>
 <br>
 </p>
-<p>The indicative PSLE score ranges of 2024 PSLE students posted to 2024
+<p>The indicative PSLE score ranges of 2023 PSLE students posted to 2024
 Sec 1.
 <br>
 </p>
