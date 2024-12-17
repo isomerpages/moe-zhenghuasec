@@ -514,8 +514,7 @@ over the years on our website <a href="https://www.zhenghuasec.moe.edu.sg/achiev
 <br>
 </p>
 <p>Students who need extra help can seek our their subject teachers for after
-school consultation.&nbsp; We also have after school remedial lessons to
-help those who need that extra academic guidance.
+school consultation.&nbsp;
 <br>
 <br>
 </p>
