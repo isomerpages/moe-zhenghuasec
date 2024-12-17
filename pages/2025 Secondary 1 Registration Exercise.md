@@ -70,15 +70,11 @@ by 12pm on 19 Dec 2024.
 <p>Dear parent and student, please note that we can only accept students
 whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
-<ul>
-<li>
 <p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
-within three working days and we will inform you by the end of Jan 2025.</p>
+within three working days and we will inform you by the end of Jan 2025.&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;5. Purchase of Uniform and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>5. Purchase of Uniform and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>The purchase of books and uniforms can be made from 19th, 20th, 23rd,
 26th and 27th Dec. However, for on-site purchase on 19th and 20th Dec,
@@ -133,14 +129,8 @@ they are clean and in original condition. Uniform should not be soiled.
 <br>It is compulsory to wear the&nbsp;Zhenghua Secondary School PE T-shirts
 and&nbsp;school black PE shorts&nbsp;for PE lessons.&nbsp;It is advisable
 to purchase a minimum of 2 sets of the PE attire.</p>
-<p></p>
 <hr>
-<p>
-<br>
-</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;6. Full Subject Based Banding (FSBB) and Subject Based Banding (SBB) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>6. Full Subject Based Banding (FSBB) and Subject Based Banding (SBB) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>
 <br>- Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts
@@ -152,13 +142,10 @@ students learn each subject at the level that best caters to their overall
 strengths, interests and learning needs.
 <br>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
-<p>
-<br>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SBB10.png"></a>
-<p>
-<br>
-</p>
+<p>Youtube video for FSBB (click on picture to view video)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
+<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SBB10.png"></a>
+<ul>
+<li>
 <p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)
 <br>
 <br>
