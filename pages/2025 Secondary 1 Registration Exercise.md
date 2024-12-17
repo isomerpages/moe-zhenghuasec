@@ -452,7 +452,7 @@ Sec 1.
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 - 19</p>
+<p>13 - 19</p>
 </td>
 </tr>
 <tr>
