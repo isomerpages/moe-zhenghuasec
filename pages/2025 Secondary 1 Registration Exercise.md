@@ -437,7 +437,7 @@ will be shared via Parents Gateway.</p>
 <p><strong>1. What is Zhenghua Secondary’s cut-off points (COP)?</strong>
 <br>
 </p>
-<p>The indicative PSLE score ranges of 2023 PSLE students posted to 2024
+<p>The indicative PSLE score ranges of 2024 PSLE students posted to 2025
 Sec 1.
 <br>
 </p>
