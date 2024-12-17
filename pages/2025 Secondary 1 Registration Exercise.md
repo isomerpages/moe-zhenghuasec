@@ -509,7 +509,7 @@ over the years on our website <a href="https://www.zhenghuasec.moe.edu.sg/achiev
 <br>
 <br>
 </p>
-<p><strong>5.&nbsp; How is the school going to provide assistance for academically weaker students?</strong>
+<p><strong>5.&nbsp; How can students who may need additional support get the help they need?</strong>
 <br>
 <br>
 </p>
