@@ -143,87 +143,56 @@ strengths, interests and learning needs.
 <br>
 </p>
 <p>Youtube video for FSBB (click on picture to view video)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
-<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SBB10.png"></a>
-<ul>
-<li>
-<p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)
-<br>
-<br>
-</p><a class="isomer-image-wrapper" href="/files/FSBB_Booklistnew.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SBB_offer_letter_and_booklist.png"></a>
-<p>
-<br>
-<br>
-</p>
+<p>FSBB Microsite from MOE (click on picture to access site)</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbbsite.png"></a>
+<p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)</p>
+<a class="isomer-image-wrapper" href="/files/FSBB_Booklistnew.pdf">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SBB_offer_letter_and_booklist.png">
+</a>
 <p>SBB - Offer Letter Video (Please click on the image for the Video for
-futher explanation.)
-<br>
-<br>
-</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=2D-iB8M6Ny8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbbofferletterbookvid.png"></a>
-<p>
-<br>
-<br>
-<br>
-<br>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2024.</strong>
+futher explanation.)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=2D-iB8M6Ny8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbbofferletterbookvid.png"></a>
+<p>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2024.</strong>
 </p>
-<p></p>
 <p>Parents who have no access to Parent Gateway, the school will contact
 you separately.</p>
 <hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<strong>&nbsp;7. Personalised Digital Learning Programme (PDLP) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>7. Personalised Digital Learning Programme (PDLP) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p></p>
 <p><strong>1. What is PDLP about?</strong>
 <br>
-<br>
-</p>
-<p>MOE announced in March 2020 that we will strengthen students’ digital
+<br>MOE announced in March 2020 that we will strengthen students’ digital
 literacy through the launch of a National Digital Literacy Programme (NDLP)
 for our schools. This better enables our students, at different stages
 of their education journey, to acquire the digital skills required to navigate
 the digital age. As part of the NDLP, all Secondary School students will
 be equipped with a Personal Learning Device (PLD). &nbsp;By equipping students
-with their own PLD, we can:
-<br>
-<br>
-</p>
+with their own PLD, we can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Enhance Teaching and Learning</strong>: PLDs harness technology
 for greater effectiveness in teaching and learning, enabled by teachers’
-use of e-Pedagogy to provide active learning experiences for students.
-<br>
-</p>
+use of e-Pedagogy to provide active learning experiences for students.</p>
 </li>
 <li>
 <p><strong>Support Self-Directed and Collaborative Learning</strong>: PLDs
 enable students to learn online according to their needs and interests,
-and to collaborate with each other, anytime and anywhere.
-<br>
-</p>
+and to collaborate with each other, anytime and anywhere.</p>
 </li>
 <li>
 <p><strong>Support the Development of Digital Literacies</strong>: PLDs provide
 an immersive environment for students to develop the dispositions, knowledge
-and skills to thrive in the digital environment.
-<br>
-</p>
+and skills to thrive in the digital environment.</p>
 </li>
 </ul>
 <p><strong>2. How will this be implemented in Zhenghua Secondary School?</strong>
-<br>
 <br>
 </p>
 <p>In line with our school vision of preparing every student to be principled
 and future-ready leaders, all Sec 1 – 5s will be equipped with a PLD in
 2025. Our school has chosen Chromebooks as our preferred PLD.
 <br>
-<br>
 </p>
 <p><strong>3. Why Chromebooks?</strong>
-<br>
 <br>
 </p>
 <p>In Zhenghua Secondary School, we have been tapping on ICT platforms supported
@@ -234,10 +203,8 @@ Chromebooks we have chosen include the keyboard, stylus, mouse, touchscreen
 and dual cameras, unlike tablets which can become quite costly once we
 include the additional accessories.
 <br>
-<br>
 </p>
 <p><strong>4. How much does my child have to pay for the device?</strong>
-<br>
 <br>
 </p>
 <p>MOE will use bulk tenders to keep the PLDs affordable. The Chromebooks
@@ -246,15 +213,12 @@ on financial assistance, we will provide further subsidies so that their
 out-of-pocket expenses is zero. This is to ensure that no student is denied
 the opportunity to benefit from the programme.
 <br>
-<br>
 </p>
 <p>Specific costs and details will be communicated to all parents in January
 2025.
 <br>
-<br>
 </p>
 <p><strong>5. Can my child not purchase the device?</strong>
-<br>
 <br>
 </p>
 <p>Every student is required to have a device for teaching and learning purposes
@@ -264,7 +228,6 @@ as the uniformity of systems and software would ensure a smooth learning
 experience for everyone. The device purchased through the school will come
 with the necessary warranty and insurance as well.
 <br>
-<br>
 </p>
 <p>Students who do not wish to purchase a device because they already have
 their own devices will have to check with the school to ascertain whether
@@ -272,10 +235,8 @@ the specifications of their existing devices meet our school’s requirements.
 These existing devices must also be installed with a Device Management
 Application (DMA) software to manage the student’s access and usage.
 <br>
-<br>
 </p>
 <p><strong>6. How will the device be used by my child?</strong>
-<br>
 <br>
 </p>
 <p>The devices will be used to complement classroom teaching by promoting
@@ -288,10 +249,8 @@ beyond the classroom for home-based and self-directed learning, so that
 students can benefit from a seamless learning experience in school and
 outside of school.
 <br>
-<br>
 </p>
 <p><strong>7. How will the school help my child to manage the use of the device?</strong>
-<br>
 <br>
 </p>
 <p>All PLDs will have a Device Management Application (DMA) installed. The
@@ -304,7 +263,6 @@ applications, will all be restricted. We will also disable the device from
 a certain time at night so that students do not spend excessive amounts
 of time on their devices at home.
 <br>
-<br>
 </p>
 <p>The DMA would allow the school to remotely download appropriate teaching
 and learning applications, as well as security patches, into every student’s
@@ -313,13 +271,11 @@ to assist teachers in actively monitoring and controlling the students’
 screens during lesson time, for better student management and effective
 teaching.
 <br>
-<br>
 </p>
 <p>Parents will be informed of the activation of Parent's DMA portal and
 choice of DMA options which will give parents different levels of control
 over their child's device after school hours (6 pm to 7 am the following
 day)
-<br>
 <br>
 </p>
 <p>In addition, through CCE lessons, students will be taught how to embrace
@@ -327,10 +283,8 @@ the convenience of technology while maintaining a balanced lifestyle between
 online and offline activities, and to be a safe and responsible user of
 technology.
 <br>
-<br>
 </p>
 <p><strong>8. How will the school help my child to manage possible cyber risks and cyber addiction?</strong>
-<br>
 <br>
 </p>
 <p>As part of our school’s Cyber Wellness education, students learn how to
@@ -339,6 +293,9 @@ role models to others in creating safe and kind online communities. The
 revised CCE 2021 will also feature cyber wellness education more strongly,
 with updated authentic scenarios used, to better equip students to navigate
 online spaces safely and help develop a more supportive cyber environment.</p>
+<ul>
+<li>
+<p></p>
 <hr>
 <p></p>
 </li>
