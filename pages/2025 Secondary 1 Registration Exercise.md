@@ -520,7 +520,7 @@ over the years on our website <a href="https://www.zhenghuasec.moe.edu.sg/achiev
 <br>
 <br>
 </p>
-<p>Students who need extra help can seek our their subject teachers for after
+<p>Students who need extra help can seek out their subject teachers for after
 school consultation.&nbsp;
 <br>
 <br>
