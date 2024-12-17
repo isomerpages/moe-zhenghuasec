@@ -37,7 +37,7 @@ you may call the General Office at 67639455.
 <hr>
 <p><strong>1. Online Registration by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The form for online registration can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <p><strong>2. Information for Financial Assistance Scheme (FAS) Application (Online Form) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
