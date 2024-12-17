@@ -557,10 +557,13 @@ should instead approach their teachers for help.
 <br>
 <br>
 </p>
-<p>Mobile phones are not allowed to be used during curriculum time and will
-have to be kept in the student’s locker during lesson time. Phones will
-be confiscated by teachers when misused. Students are only allowed to use
-their phones before school, during recess and after school.
+<p>Mobile phones are part of our daily lives and have practical benefits.
+However, they can also be a source of distraction and even addiction. In
+order to help students manage their phone use, phones are not allowed in
+the classrooms at all times, even after school. Students are expected to
+have their phones switched off and kept in the lockers outside the classrooms
+when they are in class. Any phones found in the classrooms will be confiscated
+and handed to the Student Management Committee.
 <br>
 <br>
 </p>
