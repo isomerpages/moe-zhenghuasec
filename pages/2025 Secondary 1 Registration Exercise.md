@@ -549,8 +549,7 @@ food stalls do serve purely vegetarian dishes.
 </p>
 <p>We do not recommend our students to go for tuition except for exceptional
 cases, e.g. international student struggling with English.&nbsp; The students
-should instead approach their teachers for help.&nbsp; We also put in place
-several remedial measures for all our students to succeed.
+should instead approach their teachers for help.
 <br>
 <br>
 </p>
