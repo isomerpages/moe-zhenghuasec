@@ -4,7 +4,7 @@ title: Zhenghua Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: <img src="/images/2024 Open House/2024_Open_House_Banner_Website.jpg">
+notification: ""
 sections:
   - hero:
       background: /images/ISOMERBANNERNEW.gif
@@ -16,11 +16,10 @@ sections:
           description: our Instagram
           url: https://www.instagram.com/zssofficial/?hl=en
   - infopic:
-      title: Zhenghua Secondary School Open House 2024
+      title: 2025  Secondary 1 Registration
       id: infopic
-      description: 23rd November, 8.30am to 1.00pm
-      image: /images/2024 Open House/2024_Open_House_Banner_Website.jpg
+      button: Click here to access the microsite
+      url: /2025-secondary-1-registration-exercise/
+      image: /images/Sec 1 Registration/2024_Sec_1_Registration_Website_Final.jpg
       alt: Image alt text
-      url: /openhouse2024/
-      button: Click here to find out more
 ---
