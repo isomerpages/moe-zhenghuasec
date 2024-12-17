@@ -16,7 +16,7 @@ sections:
           description: our Instagram
           url: https://www.instagram.com/zssofficial/?hl=en
   - infopic:
-      title: Secondary 1 Registration
+      title: 2025  Secondary 1 Registration
       id: infopic
       button: Click here to access the microsite
       url: /2025-secondary-1-registration-exercise/
