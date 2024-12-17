@@ -70,8 +70,7 @@ by 12pm on 19 Dec 2024.
 <p>Dear parent and student, please note that we can only accept students
 whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
-<p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> Please submit the appeal form
-within three working days and we will inform you by the end of Jan 2025.&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> &nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <hr>
 <p><strong>5. Purchase of Uniform and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</strong>
