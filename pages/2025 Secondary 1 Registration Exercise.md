@@ -295,12 +295,7 @@ with updated authentic scenarios used, to better equip students to navigate
 online spaces safely and help develop a more supportive cyber environment.</p>
 <ul>
 <li>
-<p></p>
-<hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;8. CCA Trial &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>8. CCA Trial &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Trial.png">
@@ -308,6 +303,9 @@ online spaces safely and help develop a more supportive cyber environment.</p>
 <p>Click <a href="https://docs.google.com/presentation/d/1PT8mDfZJV3PG1Q_yw_LNt9CNsrUXdD7G/edit#slide=id.p1" rel="noopener nofollow" target="_blank">here </a>to
 view the details regarding the CCA trials happening in 2025 Term 1 Week
 1 &amp; 2.</p>
+</li>
+<li>
+<p></p>
 <hr>
 <p></p>
 </li>
