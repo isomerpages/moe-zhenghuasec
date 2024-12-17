@@ -570,7 +570,7 @@ order to help students manage their phone use, phones are not allowed in
 the classrooms at all times, even after school. Students are expected to
 have their phones switched off and kept in the lockers outside the classrooms
 when they are in class. Any phones found in the classrooms will be confiscated
-and handed to the Student Management Committee.
+and handed to the Guidance Committee.
 <br>
 <br>
 </p>
