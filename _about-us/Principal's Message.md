@@ -14,7 +14,6 @@ Having previously served as a School Leader in a Junior College and another
 Secondary School, as well as a stint in MOE Headquarters, I believe that
 I will be able to apply my experience to build on the strong foundation
 of the school.</p>
-<p>**</p>
 <p>We are living in an increasingly uncertain and fragmented world, and it
 is critically important to prepare our students to be future-ready. Through
 the collective input from teachers, students and our stakeholders, we have&nbsp;
