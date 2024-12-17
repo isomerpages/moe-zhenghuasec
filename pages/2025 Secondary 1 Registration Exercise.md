@@ -416,11 +416,11 @@ and fun-filled experience.
 </p>
 <p>Thank you and once again, welcome to the ZSS PSG family!</p>
 <hr>
-<p><strong>12. Parent-Teacher Meeting (1st PTM) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>12. Parents-Child-Teacher-Conference (1st PCTC) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>Our first PTM will be conducted on Friday 10 January 2025, at 5pm in school
-hall. There will be a welcome talk by our Principal, Mr Ng in the hall
-followed by the Form Teacher's sharing in the classrooms. More details
+<p>Our first PCTC will be conducted on Friday 10 January 2025, at 5pm in
+school hall. There will be a welcome talk by our Principal, Mr Ng in the
+hall followed by the Form Teacher's sharing in the classrooms. More details
 will be shared via Parents Gateway.</p>
 <hr>
 <p><strong>13. Frequently Asked Questions (FAQ) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
