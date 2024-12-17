@@ -9,8 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2024_Sec_1_Registration_Website_Final.jpg">
 </div>
 <h4>Introduction</h4>
-<ul>
-<li>
 <p>Congratulations on your posting to Zhenghua Secondary School! Here, we
 strive to prepare our students to be future-ready by develop them as Dynamic
 Learners, Exemplary Leaders and Thoughtful Contributors. A dynamic learner
@@ -27,14 +25,18 @@ day of school.
 </p>
 <p>For more information on the 2025 Secondary 1 Posting, please refer to
 <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">this MOE Webpage</a>
-<br>
 </p>
 <p>Do note that there may be changes to the information above. For the latest
 updates, please check the school website again after receiving your posting
 results as well as the Parents Gateway (PG) application. As many messages
 will be shared via PG, please ensure that the app’s notification alert
 is turned on. If you have any questions, do drop us a note at <a href="mailto:zhenghua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhenghua_ss@moe.edu.sg</a>&nbsp;or
-you may call the General Office at 67639455.</p>
+you may call the General Office at 67639455.
+<br>
+</p>
+<ul>
+<li>
+<p></p>
 <hr>
 </li>
 <li>
@@ -104,8 +106,8 @@ items delivered to your home. Please click&nbsp;<a href="https://www.pacificbook
 <br><strong>On-SITE Purchase of Uniform &amp; Textbooks</strong>
 <br>
 <br>For parents who wish to make their purchase on-site in school or students
-who are under FAS, please book a time slot on 19 Dec (9am – 3pm) and 20
-Dec(9am - 3.30pm) <a href="https://zhenghuass.simplybook.asia/v2/#" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+who are under FAS, please book a time slot on 19 and 20 Dec (9am – 3pm)
+<a href="https://zhenghuass.simplybook.asia/v2/#" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>Please note the booking is on a first come first served basis and is for
 parents who are NOT ordering online.
