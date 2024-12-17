@@ -284,9 +284,6 @@ online and offline activities, and to be a safe and responsible user of
 technology.
 <br>
 </p>
-<p><strong>8. How will the school help my child to manage possible cyber risks and cyber addiction?</strong>
-<br>
-</p>
 <p>As part of our school’s Cyber Wellness education, students learn how to
 take responsibility for their online well-being, and how to be positive
 role models to others in creating safe and kind online communities. The
