@@ -293,9 +293,8 @@ role models to others in creating safe and kind online communities. The
 revised CCE 2021 will also feature cyber wellness education more strongly,
 with updated authentic scenarios used, to better equip students to navigate
 online spaces safely and help develop a more supportive cyber environment.</p>
-<ul>
-<li>
-<p><strong>8. CCA Trial &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<hr>
+<p><strong>8. CCA Trial</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Trial.png">
@@ -303,31 +302,19 @@ online spaces safely and help develop a more supportive cyber environment.</p>
 <p>Click <a href="https://docs.google.com/presentation/d/1PT8mDfZJV3PG1Q_yw_LNt9CNsrUXdD7G/edit#slide=id.p1" rel="noopener nofollow" target="_blank">here </a>to
 view the details regarding the CCA trials happening in 2025 Term 1 Week
 1 &amp; 2.</p>
-</li>
-<li>
-<p></p>
 <hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>&nbsp;&nbsp;&nbsp;9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Click <a href="/files/First_Day_of_School_Slides_for_Students_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the slides.
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png">
 </div>
-<p>
-<br>
-</p>
-<hr>
 <p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<strong>&nbsp;&nbsp;10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<hr>
+<p><strong>10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Information on class allocation will be made available through Parents
 Gateway.
@@ -335,10 +322,7 @@ Gateway.
 <br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 23 Dec 2024, 8am.</em>
 </p>
 <hr>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<strong>11. Parent Support Group (PSG) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>11. Parent Support Group (PSG) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
@@ -434,18 +418,14 @@ and fun-filled experience.
 </p>
 <p>Thank you and once again, welcome to the ZSS PSG family!</p>
 <hr>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<strong>&nbsp;&nbsp;12. Parent-Teacher Meeting (1st PTM) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>12. Parent-Teacher Meeting (1st PTM) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Our first PTM will be conducted on Friday 10 January 2025, at 5pm in school
 hall. There will be a welcome talk by our Principal, Mr Ng in the hall
 followed by the Form Teacher's sharing in the classrooms. More details
 will be shared via Parents Gateway.</p>
 <hr>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<strong>&nbsp;13. Frequently Asked Questions (FAQ) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>13. Frequently Asked Questions (FAQ) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p><strong>Frequently Asked Questions by Parents at Sec 1 Registration</strong>
 </p>
@@ -671,6 +651,4 @@ him/her unable to stay overnight, kindly get in touch with the school.</p>
 <br>
 </p>
 <p></p>
-</li>
-</ul>
 <p></p>
