@@ -163,10 +163,9 @@ the different strengths and interests of our students.
 students learn each subject at the level that best caters to their overall
 strengths, interests and learning needs.
 <br>
-<br>
-</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SBBvideo.png"></a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
 <p>
-<br>
 <br>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SBB10.png"></a>
 <p>
