@@ -248,7 +248,7 @@ students can benefit from a seamless learning experience in school and
 outside of school.
 <br>
 </p>
-<p><strong>7. How will the school help my child to manage the use of the device?</strong>
+<p><strong>7. How can parents partner the school to ensure that students use their PLDs appropriately?</strong>
 <br>
 </p>
 <p>All PLDs will have a Device Management Application (DMA) installed. The
