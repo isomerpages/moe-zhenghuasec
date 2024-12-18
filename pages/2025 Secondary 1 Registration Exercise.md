@@ -10,12 +10,12 @@ variant: tiptap
 </div>
 <h4>Introduction</h4>
 <p>Congratulations on your posting to Zhenghua Secondary School! Here, we
-strive to prepare our students to be future-ready by develop them as Dynamic
-Learners, Exemplary Leaders and Thoughtful Contributors. A dynamic learner
-is one who learns because he wants to, not because he has to. An exemplary
-leader does not only execute a task well but is also a good role model
-and inspires others. Lastly, a thoughtful contributor does not just take
-and receive but sees giving as a way of life.
+strive to prepare our students to be future-ready by developing them as
+Dynamic Learners, Exemplary Leaders and Thoughtful Contributors. A dynamic
+learner is one who learns because he wants to, not because he has to. An
+exemplary leader does not only execute a task well but is also a good role
+model and inspires others. Lastly, a thoughtful contributor does not just
+take and receive but sees giving as a way of life.
 <br>
 </p>
 <p>Please read the following information on instructions for online registration,
