@@ -401,10 +401,13 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Xin Ping</strong>
+<br><em>xin_ping@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ivan Tan
+<br>tan_jiang_rui_ivan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
