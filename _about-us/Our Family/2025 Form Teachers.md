@@ -406,8 +406,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ivan Tan
-<br>tan_jiang_rui_ivan@moe.edu.sg</p>
+<p><strong>Mr Ivan Tan</strong> 
+<br><em>tan_jiang_rui_ivan@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -418,10 +419,14 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Yeo Yen Hua</strong>
+<br><em>yeo_yen_hua@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Berton Tan</strong>
+<br><em>tan_ee_siang_berton@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -432,10 +437,14 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Li Jiao</strong>
+<br><em>li_jiao@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Noor Nisah</strong>
+<br><em>noor_nisah_thirunauc_karasu@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -446,10 +455,14 @@ variant: tiptap
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Roy Tan</strong>
+<br><em>roy_tan@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Tetty Juliana</strong>
+<br><em>tetty_juliana_sujono@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
