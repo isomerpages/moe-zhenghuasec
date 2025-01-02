@@ -322,12 +322,18 @@ variant: tiptap
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Justina Goh</strong>
+<br><em>goh_lay_ping_justina@moe.edu.sg</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Teo Jia Wei</strong>
+</p>
+<p><em>teo_jia_wei@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
