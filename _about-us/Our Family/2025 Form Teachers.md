@@ -44,19 +44,17 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sri Diana Subari</strong>
-<br><em>sri_diana_subari@moe.edu.sg</em>
+<p><strong>Mdm Seah Hwee Bing</strong>
+<br><em>seah_hwee_bing@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Edwin Tan</strong>
-<br><em>tan_kian_hong_edwin@moe.edu.sg</em>
+<p><strong>Ms Lynn Chew</strong>
+<br><em>chew_jia_lin_lynn@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Agnes Tan</strong>
-<br><em>tan_li_leng@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
