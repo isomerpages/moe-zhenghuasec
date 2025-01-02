@@ -152,13 +152,13 @@ variant: tiptap
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Yung-Wen</strong>
-<br><em>lee_yung-wen@moe.edu.sg</em>
+<p><strong>Mr Shamsul</strong>
+<br><em>shamsul_idris@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Dennis Loy</strong>
-<br><em>loy_suan_doong@moe.edu.sg</em>
+<p><strong>Mdm Koh Ming Hui</strong>
+<br><em>koh_ming_hui@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,12 +170,14 @@ variant: tiptap
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Goh Lay Ping Justina</strong>
-<br><em>goh_lay_ping_justina@moe.edu.sg</em>
+<p><strong>Mdm Cynthia Loh</strong>
+<br><em>loh_so_boey@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Jonathan Ang</strong>
+<br><em>ang_lien_lee@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -288,9 +290,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Shamsul</strong>
-<br><em>shamsul_idris@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -541,9 +541,7 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cynthia Loh</strong>
-<br><em>loh_so_boey@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jacobe Lim </strong>
@@ -559,9 +557,7 @@ variant: tiptap
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Ming Hui</strong>
-<br><em>koh_ming_hui@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
