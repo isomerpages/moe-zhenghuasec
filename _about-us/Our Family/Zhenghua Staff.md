@@ -100,7 +100,6 @@ variant: markdown
 | Peh Choon Kuan<br>Operations Manager | 115 |
 | Goh Charng Siew<br>Operations Manager |6762 4266|
 | Chee Kuan Hoe Sharon<br>Admin Executive |113 |
-| Nur Faiezah Osman<br>Admin Executive |109|
 | Alawiyah Bte Nadin<br>Admin Executive |112|
 | Eve Sim Joo Lan<br>MSO | 110 |
 | Flora Heng Ah Choo<br>CSO | 112 |
@@ -126,7 +125,7 @@ variant: markdown
 | **CONTRACT &amp; FLEXI-ADJUNCT TEACHERS** |  |
 | Tan Soh Hua | 124 |
 | Tan Sock Mui | 124 |
-| Chee Jialing Serena | 126 |
+| Boo Jia Liang | 126 |
 | Shirley Leong Choy Kow | 125 |
 | Noor Nisah D/O T Karasu | 121 |
 | Teo Siew Hui Jessie | 121 |
