@@ -195,13 +195,13 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Li Jiao</strong>
-<br><em>li_jiao@moe.edu.sg</em>
+<p><strong>Mdm Agnes Tan</strong>
+<br><em>tan_li_leng@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Rachel Tan</strong>
-<br><em>tan_hui_leng_rachel@moe.edu.sg</em>
+<p><strong>Ms Natalie Tan</strong>
+<br><em>tan_li_er_natalie@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,13 +213,13 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ivan Tan</strong>
-<br><em>tan_jiang_rui_ivan@moe.edu.sg</em>
+<p><strong>Mr Gay Wei Zhuang</strong>
+<br><em>gay_wei_zhuang@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Xin Ping</strong>
-<br><em>xin_ping_a@moe.edu.sg</em>
+<p><strong>Mdm Widad Wahid</strong>
+<br><em>widad_wahid@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -480,9 +480,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Natalie Tan</strong>
-<br><em>tan_li_er_natalie@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
