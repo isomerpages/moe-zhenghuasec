@@ -98,13 +98,13 @@ variant: tiptap
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sharifah</strong>
-<br><em>sharifah_nazihah_sulaiman@moe.edu.sg</em>
+<p><strong>Mdm Rosmawati Alwi</strong>
+<br><em>rosmawati_alwi@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Seng Huat Peter</strong>
-<br><em>ng_seng_huat@moe.edu.sg</em>
+<p><strong>Mr Sam Soo</strong>
+<br><em>soo_boon_siang@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,13 +116,13 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yong Wai Teng</strong>
-<br><em>yong_wai_teng@moe.edu.sg</em>
+<p><strong>Mr Andrew Kan</strong>
+<br><em>kan_andrew@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Liang Kar Weng</strong>
-<br><em>liang_kar_weng@moe.edu.sg</em>
+<p><strong>Mdm Felicity Lim</strong>
+<br><em>lim_sy_hing_felicity@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,13 +134,13 @@ variant: tiptap
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sakinah</strong>
-<br><em>sakinah_mohamed_supiyan@moe.edu.sg</em>
+<p><strong>Mdm Karen Choo</strong>
+<br><em>choo_karen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Patrick Lim</strong>
-<br><em>lim_cheng_huat@moe.edu.sg</em>
+<p><strong>Ms Tay Limin</strong>
+<br><em>tay_limin@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,9 +175,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tay Limin</strong>
-<br><em>tay_limin@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -267,9 +265,7 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Felicity Lim</strong>
-<br><em>lim_sy_hing_felicity@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Yeo Yen Hua</strong>
@@ -481,9 +477,7 @@ variant: tiptap
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sam Soo</strong>
-<br><em>soo_boon_siang@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Natalie Tan</strong>
@@ -515,14 +509,10 @@ variant: tiptap
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Andrew Kan</strong>
-<br><em>kan_andrew@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Rosmawati Alwi</strong>
-<br><em>rosmawati_alwi@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -574,9 +564,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Karen Choo</strong>
-<br><em>choo_karen@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
