@@ -62,13 +62,13 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Gay Wei Zhuang</strong>
-<br><em>gay_wei_zhuang@moe.edu.sg</em>
+<p><strong>Mr Edwin Tan</strong>
+<br><em>tan_kian_hong_edwin@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Widad Wahid</strong>
-<br><em>widad_wahid@moe.edu.sg</em>
+<p><strong>Mdm Tamilarasi</strong>
+<br><em>tamilarasi_ramaiya@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,19 +80,17 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Claudia Tan</strong>
-<br><em>tan_danwei_claudia@moe.edu.sg</em>
+<p><strong>Mdm Nur Elfianie</strong>
+<br><em>nur_elfianie_abdul_samad@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Fong Yee</strong>
-<br><em>tan_fong_yee@moe.edu.sg</em>
+<p><strong>Mr Derrick Lim</strong>
+<br><em>lim_jun_qiang_derrick@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Nur Azri Iqmal</strong>
-<br><em>nur_azri_iqmal_mahadir@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -506,9 +504,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nur Elfianie</strong>
-<br><em>nur_elfianie_abdul_samad@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
