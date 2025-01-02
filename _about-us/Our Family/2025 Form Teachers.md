@@ -347,7 +347,9 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Angela Tan</strong>
+<br><em>tan_cheng_cheng_angela@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lim Hun</strong>
