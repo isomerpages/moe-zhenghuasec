@@ -35,6 +35,7 @@ variant: markdown
 |Ang Lien Lee Jonathan <br> SH ICT | 217 |
 |Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
+|Koh Su Hui Vivian<br> SH English |313|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
 |Lim Cheng Huat Patrick  <br> SH Maths |214|  
 |Lim Jun Qiang Derrick <br> SH CCE |222|      
