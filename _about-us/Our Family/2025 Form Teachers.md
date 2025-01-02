@@ -272,14 +272,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yeo Yen Hua</strong>
-<br><em>yeo_yen_hua@moe.edu.sg</em>
+<p><strong>Mdm Claudia Tan</strong>
+<br><em>tan_danwei_claudia@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Shu Ting Melissa</strong>
-<br><em>melissa_ng_shu_ting@moe.edu.sg</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -287,12 +285,15 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Marinah</strong>
-<br><em>marinah_mohdar@moe.edu.sg</em>
+<p><strong>Ms Sakinah</strong>
+</p>
+<p><em>sakinah_mohamed_supiyan@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Patrick Lim</strong>
+<br><em>lim_cheng_huat@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -303,14 +304,28 @@ variant: tiptap
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Angela Tan</strong>
-<br><em>tan_cheng_cheng_angela@moe.edu.sg</em>
+<p><strong>Ms Lee Yung-Wen</strong>
+<br><em>lee_yung_wen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Berton Tan</strong>
-<br><em>tan_ee_siang_berton@moe.edu.sg</em>
+<p><strong>Mr Dennis Loy</strong>
+<br><em>loy_suan_doong@moe.edu.sg</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
