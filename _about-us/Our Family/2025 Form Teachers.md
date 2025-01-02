@@ -288,7 +288,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p><strong>Mdm Koh Khee Hoon (Year Head Secondary 3)</strong>
 <br><em>koh_khee_hoon@moe.edu.sg</em>
 </p>
@@ -400,7 +403,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p><strong>Mdm Magdalene Tan (Year Head Secondary 4/5)</strong>
 <br><em>tan_li_ping_magdalene@moe.edu.sg</em>
 </p>
