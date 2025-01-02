@@ -131,7 +131,6 @@ variant: markdown
 | Teo Siew Hui Jessie | 121 |
 | Tan Soo Heng | 125 |
 | Goh Wei Na | 120 |
-| Tan Chu Sing | 123 |
 
 
 
