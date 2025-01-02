@@ -365,7 +365,9 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Marinah Mohdar</strong>
+<br><em>marinah_mohdar@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jacobe Lim </strong>
@@ -386,7 +388,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Isabel Ho</strong>
+<br><em>ho_shu_chun_isabel@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
