@@ -231,13 +231,13 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Isabel Ho</strong>
-<br><em>ho_shu_chun_isabel@moe.edu.sg</em>
+<p><strong>Mdm Tan Fong Yee</strong>
+<br><em>tan_fong_yee@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Teo Jia Wei</strong>
-<br><em>teo_jia_wei@moe.edu.sg</em>
+<p><strong>Mr Nur Azri Iqmal</strong>
+<br><em>nur_azri_iqmal_mahadir@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
