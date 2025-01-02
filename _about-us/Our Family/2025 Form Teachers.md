@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Mdm Zanariah Bte Zainal Abiden (Year Head 1)</strong>
+<p><strong>Mdm Zanariah Bte Zainal Abiden (Year Head Secondary 1)</strong>
 <br><em>zanariah_zainal_abiden@moe.edu.sg</em>
 </p>
 </td>
