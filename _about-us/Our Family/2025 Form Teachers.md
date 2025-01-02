@@ -187,7 +187,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
 <p><strong>Mdm Ho Woan Shay (Year Head Secondary 2)</strong>
 <br><em>ho_woan_shay@moe.edu.sg</em>
 </p>
