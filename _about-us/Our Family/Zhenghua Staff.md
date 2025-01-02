@@ -107,7 +107,7 @@ variant: markdown
 | Michael Lim<br>AED (T&amp;L) | 333 |
 | Rozaini Muhaimin Bin Rozlan<br>ICT Manager | - |
 | Eng Yong Chye<br>AED (Senior School Counsellor) | 262 |
-| Srirangini D/O Vesuvasam<br>AED (School Counsellor) | 261 |
+| Nandika Sirish<br>AED (School Counsellor) | 261 |
 | Mohammad Elmi Bin Anwar<br>SEN Officer | 263 |
 | Chia Mei Fong<br>TSO (Lab Tech) | 507 |
 | Farihah Mohamed Farouk<br>TSO (Lab Tech) | 507 |
@@ -118,7 +118,6 @@ variant: markdown
 | Samsiah Bte Jais<br>OSO | 101 |
 | Jayanthi Kandasamy<br>OSO | 507 |
 | Ramachandram Susila<br>OSO | 102 |
-| Asher Pang Eng Chuan<br>OSO | - |
 |  |  |
 | **SUPPORT STAFF**|  |
 | Noor Hairin Misri<br>Desktop Engineer | 502 |
