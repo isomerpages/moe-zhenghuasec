@@ -348,7 +348,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Xin Ping</strong>
-<br><em>xin_ping@moe.edu.sg</em>
+<br><em>xin_ping_a@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
