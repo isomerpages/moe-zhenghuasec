@@ -286,8 +286,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Sakinah</strong>
-</p>
-<p><em>sakinah_mohamed_supiyan@moe.edu.sg</em>
+<br><em>sakinah_mohamed_supiyan@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,8 +327,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Teo Jia Wei</strong>
-</p>
-<p><em>teo_jia_wei@moe.edu.sg</em>
+<br><em>teo_jia_wei@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
