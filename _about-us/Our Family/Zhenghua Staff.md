@@ -31,6 +31,7 @@ variant: markdown
 | Roy Tan Tian Kiat<br>SH Student leadership | 218 |
 | Ivan Tan Jiang Rui <br>SH Bio | 213 |
 | Soo Boon Siang Sam<br>SH GEOG/NE | 216 |
+| Koh Su Hui Vivian <br>SH English | 313 |
 | Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 2) | 221 |
 | Magdalene Tan Li Ping<br>Year Head (Sec 3) | 223 |
 | Zanariah Zainal Abiden<br>Year Head (Sec 4) | 220 |
