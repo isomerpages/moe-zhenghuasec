@@ -462,7 +462,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Mdm Magdalene Tan (Year Head 4)</strong>
+<p><strong>Mdm Magdalene Tan (Year Head Secondary 4/5)</strong>
 <br><em>tan_li_ping_magdalene@moe.edu.sg</em>
 </p>
 </td>
