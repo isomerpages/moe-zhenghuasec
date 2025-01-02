@@ -249,13 +249,13 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tamilarasi</strong>
-<br><em>tamilarasi_ramaiya@moe.edu.sg</em>
+<p><strong>Mr Peter Ng</strong>
+<br><em>ng_seng_huat@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Roy Tan</strong>
-<br><em>roy_tan@moe.edu.sg</em>
+<p><strong>Mdm Tan Sock Mui</strong>
+<br><em>tan_sock_mui@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,7 +267,9 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Yong Wai Teng</strong>
+<br><em>yong_wai_teng@moe.edu.sg</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Yeo Yen Hua</strong>
