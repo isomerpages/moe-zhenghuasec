@@ -31,6 +31,7 @@ variant: markdown
 | Roy Tan Tian Kiat<br>SH Student leadership | 218 |
 | Ivan Tan Jiang Rui <br>SH Bio | 213 |
 | Soo Boon Siang Sam<br>SH GEOG/NE | 216 |
+| Koh Su Hui Vivian <br>SH English | 313 |
 | Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 2) | 221 |
 | Magdalene Tan Li Ping<br>Year Head (Sec 3) | 223 |
 | Zanariah Zainal Abiden<br>Year Head (Sec 4) | 220 |
@@ -99,14 +100,13 @@ variant: markdown
 | Peh Choon Kuan<br>Operations Manager | 115 |
 | Goh Charng Siew<br>Operations Manager |6762 4266|
 | Chee Kuan Hoe Sharon<br>Admin Executive |113 |
-| Nur Faiezah Osman<br>Admin Executive |109|
 | Alawiyah Bte Nadin<br>Admin Executive |112|
 | Eve Sim Joo Lan<br>MSO | 110 |
 | Flora Heng Ah Choo<br>CSO | 112 |
 | Michael Lim<br>AED (T&amp;L) | 333 |
 | Rozaini Muhaimin Bin Rozlan<br>ICT Manager | - |
 | Eng Yong Chye<br>AED (Senior School Counsellor) | 262 |
-| Srirangini D/O Vesuvasam<br>AED (School Counsellor) | 261 |
+| Nandika Sirish<br>AED (School Counsellor) | 261 |
 | Mohammad Elmi Bin Anwar<br>SEN Officer | 263 |
 | Chia Mei Fong<br>TSO (Lab Tech) | 507 |
 | Farihah Mohamed Farouk<br>TSO (Lab Tech) | 507 |
@@ -117,7 +117,6 @@ variant: markdown
 | Samsiah Bte Jais<br>OSO | 101 |
 | Jayanthi Kandasamy<br>OSO | 507 |
 | Ramachandram Susila<br>OSO | 102 |
-| Asher Pang Eng Chuan<br>OSO | - |
 |  |  |
 | **SUPPORT STAFF**|  |
 | Noor Hairin Misri<br>Desktop Engineer | 502 |
@@ -126,13 +125,12 @@ variant: markdown
 | **CONTRACT &amp; FLEXI-ADJUNCT TEACHERS** |  |
 | Tan Soh Hua | 124 |
 | Tan Sock Mui | 124 |
-| Chee Jialing Serena | 126 |
+| Boo Jia Liang | 126 |
 | Shirley Leong Choy Kow | 125 |
 | Noor Nisah D/O T Karasu | 121 |
 | Teo Siew Hui Jessie | 121 |
 | Tan Soo Heng | 125 |
 | Goh Wei Na | 120 |
-| Tan Chu Sing | 123 |
 
 
 
