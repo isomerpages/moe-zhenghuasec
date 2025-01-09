@@ -639,7 +639,7 @@ and should be avoided
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -697,7 +697,7 @@ relationship
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ of their marriage
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
