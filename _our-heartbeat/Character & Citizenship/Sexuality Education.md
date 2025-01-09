@@ -774,7 +774,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 4 Week 3</p>
 </td>
 </tr>
 </tbody>
