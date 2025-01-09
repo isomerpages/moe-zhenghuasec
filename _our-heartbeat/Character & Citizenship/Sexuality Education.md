@@ -189,7 +189,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
