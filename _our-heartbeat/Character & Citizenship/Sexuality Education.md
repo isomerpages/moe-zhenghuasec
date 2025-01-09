@@ -866,7 +866,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At ZHENGHUA Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At ZHENGHUA Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -891,7 +891,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -909,7 +909,7 @@ correct, and consistent condom use).</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>Term 3 Week 1</p>
+<br>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -927,7 +927,7 @@ of assertiveness and responsible decision-making
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -936,18 +936,16 @@ of assertiveness and responsible decision-making
 </p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form is downloadable&nbsp;<a href="/files/SEd_opt_out_form_2024_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .
+<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_A_SEd_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by 26/01/2024.</p>
-<p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
-to complete an opt-out form. This form is downloadable <a href="/files/eteens_opt_out_form_2024_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .
+the school office by 31/01/2025.</p>
+<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_B_Eteens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a> .
 A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by 26/01/2024.</p>
-<ul data-tight="true" class="tight">
-<li>
+the school office by 31/01/2025.</p>
 <p>13. Parents can contact the school at zhenghua_ss@moe.edu.sg for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
-</li>
-</ul>
 <p></p>
