@@ -40,6 +40,6 @@ variant: markdown
 |Lim Cheng Huat Patrick  <br> SH Maths |214|  
 |Lim Jun Qiang Derrick <br> SH CCE |222|      
 |Zanariah Zainal Abiden <br> Year Head (Sec 1)|220|
-|Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 2|215|
+|Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 2)|215|
 |Koh Khee Hoon <br> Asst Year Head (Sec 3) | 221|
 |Magdalene Tan Li Ping <br> Year Head (Sec 4)|223|
