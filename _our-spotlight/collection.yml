@@ -2,6 +2,7 @@ collections:
   our-spotlight:
     output: true
     order:
+      - School Services/School Services.md
       - School Services/.keep
       - Our Instagram.md
       - NewZ/.keep
