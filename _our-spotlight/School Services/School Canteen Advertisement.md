@@ -1,7 +1,9 @@
 ---
-title: School Services
-permalink: /quicklinks/schoolservices/
+title: School Canteen Advertisement
+permalink: /quicklinks/schoolcanteenadvertisement/
 description: ""
+third_nav_title: School Services
+variant: tiptap
 ---
 #### School Canteen Advertisement
 
