@@ -39,7 +39,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Zenith is the name of the secondary orientation camp 2025, chosen for
+its meaning of reaching peak success. The cohort bonded through outdoor
+cooking and flag making, with the highlight being the mass dance performance
+for parents during the camp's finale campfire.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/2025-secondary-one-orientation-camp/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
