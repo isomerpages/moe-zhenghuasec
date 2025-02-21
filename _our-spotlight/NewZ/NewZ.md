@@ -51,9 +51,6 @@ for parents during the camp's finale campfire.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <p>Our school's Lunar New Year celebration was a day filled with excitement
 and meaningful activities, with special invitations extended to the Parent
 Support Group and alumni to join in the festivities. In the morning, students
@@ -64,9 +61,9 @@ Two of our very own students were part of the spectacular Lion Dance segment,
 adding an electrifying energy to the event that had everyone cheering!
 It was a wonderful blend of fun, culture, and giving back to the community,
 made even more memorable by the teamwork and dedication of everyone involved.</p>
-<p>Read more
-<br>
+<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Read more </a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -288,4 +285,5 @@ advancing to a new chapter, the beginning of a new journey.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">CNY 2025</a>
+</p>
