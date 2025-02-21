@@ -21,6 +21,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/CNY/CNY___P_sharing.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -31,7 +34,7 @@ variant: tiptap
 <h5>Secondary One Orientation Camp 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Chinese New Year Celebration2025</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,7 +51,22 @@ for parents during the camp's finale campfire.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>
+</p>
+<p>Our school's Lunar New Year celebration was a day filled with excitement
+and meaningful activities, with special invitations extended to the Parent
+Support Group and alumni to join in the festivities. In the morning, students
+wrapped hampers with donations to be given to low-income families and crafted
+creative costumes out of red packets. The highlight of the day was the
+concert, which featured incredible performances by both teachers and students.
+Two of our very own students were part of the spectacular Lion Dance segment,
+adding an electrifying energy to the event that had everyone cheering!
+It was a wonderful blend of fun, culture, and giving back to the community,
+made even more memorable by the teamwork and dedication of everyone involved.</p>
+<p>Read more
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
