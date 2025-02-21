@@ -22,7 +22,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/CNY/CNY___P_sharing.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Newz 2025/CNY/CNY___P_sharing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ Two of our very own students were part of the spectacular Lion Dance segment,
 adding an electrifying energy to the event that had everyone cheering!
 It was a wonderful blend of fun, culture, and giving back to the community,
 made even more memorable by the teamwork and dedication of everyone involved.</p>
-<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Read more </a>
+<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 <p></p>
 </td>
