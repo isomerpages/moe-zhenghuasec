@@ -3,6 +3,7 @@ title: Cyberwellness
 permalink: /quicklinks/Quicklinks/cyberwellness/
 description: ""
 third_nav_title: Character & Citizenship
+variant: markdown
 ---
 ### Cyber Wellness @ Zhenghua Secondary School
 
@@ -18,7 +19,7 @@ In line with one of the Cyber Wellness principles of getting students to be posi
 
 
 
-1.&nbsp;[Media Literacy Council](https://www.medialiteracycouncil.sg/) <br>
+1.&nbsp;[Media Literacy Council](https://www.mlc.sg/) <br>
 The webpage of the Media Literacy Council (MLC) which spearheads public education on media literacy and cyber wellness in Singapore. It contains resources on cyber wellness topics that parents can raise and share with their children at home.
 
 2.&nbsp;[Media Literacy Council YouTube channel](https://www.youtube.com/user/MLCSingapore) <br>
