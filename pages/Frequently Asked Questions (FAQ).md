@@ -298,10 +298,6 @@ CCA in school with his or her outside commitments if need be.(<em>For questions 
 </p>
 </li>
 <li>
-<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065" rel="noopener noreferrer nofollow" target="_blank">CCA Matters</a>
-</p>
-</li>
-<li>
 <p><a href="/files/SLS%20student%20learning%20space.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Matters</a>
 </p>
 </li>
