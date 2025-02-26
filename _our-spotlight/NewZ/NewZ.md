@@ -278,5 +278,4 @@ advancing to a new chapter, the beginning of a new journey.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">CNY 2025</a>
-</p>
+<p></p>
