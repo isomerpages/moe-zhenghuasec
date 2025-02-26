@@ -45,4 +45,4 @@ variant: markdown
 |Magdalene Tan Li Ping <br> Year Head (Sec 4)|223|
 |Foo Yeong Kiang <br> Admin Manager |105|
 |Peh Choon Kuan <br> Operations Manager 1 |115|
-|Goh Charng Siew <br> Operations Manager 2 |223|
+|Goh Charng Siew <br> Operations Manager 2 |6762 4266|
