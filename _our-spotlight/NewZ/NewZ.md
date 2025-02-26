@@ -118,55 +118,6 @@ academic success and contributions from the 2023 batch of students.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rr202401.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/RHD202401.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5></h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Road Race 2024</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Racial Harmony Day 2024</h5>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our Zhenghua Road Race was held on 23 May 2024 at the Sports Hub (OCBC
-Square). Students from all levels ran a 2.8km route from the Sports hub
-to Tanjong Rhu Promenade and back.</p>
-<p></p>
-<p><a href="/zhenghua-road-race-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Racial Harmony 2024 in Singapore is a celebration of multi-culturalism.
-This fosters unity and understanding among diverse ethnic groups, strengthening
-national cohesion and mutual respect.</p>
-<p></p>
-<p><a href="/racial-harmony-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
