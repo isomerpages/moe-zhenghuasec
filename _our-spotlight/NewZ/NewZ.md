@@ -76,7 +76,9 @@ Support Group and alumni to join in the festivities.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AD202401.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -87,7 +89,7 @@ Support Group and alumni to join in the festivities.</p>
 <h5>Sports Fiesta 2024</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Awards Day 2024</h5>
 </td>
 </tr>
 <tr>
@@ -109,15 +111,16 @@ as they put their learning to the test in a tournament across all classes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>This year’s Awards Day took place on the 3 May 2024. We celebrated the
+academic success and contributions from the 2023 batch of students.</p>
 <p></p>
+<p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AD202401.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,7 +137,7 @@ as they put their learning to the test in a tournament across all classes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Awards Day 2024</h5>
+<h5></h5>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Road Race 2024</h5>
@@ -145,11 +148,7 @@ as they put their learning to the test in a tournament across all classes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>This year’s Awards Day took place on the 3 May 2024. We celebrated the
-academic success and contributions from the 2023 batch of students.</p>
 <p></p>
-<p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Zhenghua Road Race was held on 23 May 2024 at the Sports Hub (OCBC
