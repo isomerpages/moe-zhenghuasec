@@ -69,7 +69,7 @@ and resilience. They also enjoyed a captivating interactive theatre performance
 of <em>The Redhill: A Singapore Folktale</em>, connecting them to Singapore’s
 cultural heritage and the 6 Pillars of Total Defence (Military, Civil,
 Economic, Social, Digital and Psychological Defence).</p>
-<p><a href="/total-defence-celebration-2025/" rel="noopener nofollow" target="_blank">Read more </a>
+<p><a href="/total-defence-celebration-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
