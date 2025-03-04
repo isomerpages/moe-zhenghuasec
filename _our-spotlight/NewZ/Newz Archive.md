@@ -5,6 +5,23 @@ description: ""
 third_nav_title: NewZ
 variant: tiptap
 ---
+<h4><strong><u>Zhenghua Newz 2024</u></strong></h4>
+<p><a href="/sec1orientation2024/" rel="noopener nofollow" target="_blank">Sec 1 Orientation Camp 2024</a>
+</p>
+<p><a href="/td2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024</a>
+</p>
+<p><a href="/td2024card/" rel="noopener nofollow" target="_blank">Total Defence Day Card Game Challenge 2024</a>
+</p>
+<p><a href="/secondary-1-ziesta-2024/" rel="noopener nofollow" target="_blank">Secondary 1 Ziesta 2024</a>
+</p>
+<p><a href="/chinese-new-year-2024/" rel="noopener nofollow" target="_blank">Chinese New Year 2024</a>
+</p>
+<p><a href="/sec-3-expedition-2024/" rel="noopener nofollow" target="_blank">Secondary 3 Expedition 2024</a>
+</p>
+<p><a href="/zhenghua-road-race-2024/" rel="noopener nofollow" target="_blank">Road Race 2024</a>
+</p>
+<p><a href="/racial-harmony-day-2024/" rel="noopener nofollow" target="_blank">Racial Harmony Day 2024</a>
+</p>
 <h4><strong><u>Zhenghua Newz 2023</u></strong></h4>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/achievements/Academic-Achievements/2022-N-Level-Examination-Results/" rel="noopener noreferrer nofollow" target="_blank">N Level Results Release 2022</a>
 </p>
