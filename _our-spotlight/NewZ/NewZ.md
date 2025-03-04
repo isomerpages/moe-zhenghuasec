@@ -62,13 +62,9 @@ Support Group and alumni to join in the festivities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our As part of Zhenghua Secondary School's celebration of Total Defence
-Day (TDD) and Exercise SG Ready (ESR) 2025, students took part in a Water
-Disruption Simulation where they learnt the importance of water conservation
-and resilience. They also enjoyed a captivating interactive theatre performance
-of <em>The Redhill: A Singapore Folktale</em>, connecting them to Singapore’s
-cultural heritage and the 6 Pillars of Total Defence (Military, Civil,
-Economic, Social, Digital and Psychological Defence).</p>
+<p>Zhenghua Secondary School's Total Defence Day and Exercise SG Ready 2025
+included a Water Disruption Simulation to teach water conservation and
+resilience, along with an interactive theatre performance of <em>The Redhill: A Singapore Folktale</em>.</p>
 <p><a href="/total-defence-celebration-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
