@@ -37,10 +37,10 @@ variant: tiptap
 <h5>Secondary One Orientation Camp 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<h5>Chinese New Year Celebration2025</h5>
+<h5>Chinese New Year Celebration 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<h5>Total Defence Celebration2025</h5>
+<h5>Total Defence Celebration 2025</h5>
 </td>
 </tr>
 <tr>
