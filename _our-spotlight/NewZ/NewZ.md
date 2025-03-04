@@ -27,6 +27,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/TDD/Cover_Picture.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -37,7 +40,7 @@ variant: tiptap
 <h5>Chinese New Year Celebration2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Total Defence Celebration2025</h5>
 </td>
 </tr>
 <tr>
@@ -59,6 +62,13 @@ Support Group and alumni to join in the festivities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Our As part of Zhenghua Secondary School's celebration of Total Defence
+Day (TDD) and Exercise SG Ready (ESR) 2025, students took part in a Water
+Disruption Simulation where they learnt the importance of water conservation
+and resilience. They also enjoyed a captivating interactive theatre performance
+of <em>The Redhill: A Singapore Folktale</em>, connecting them to Singapore’s
+cultural heritage and the 6 Pillars of Total Defence (Military, Civil,
+Economic, Social, Digital and Psychological Defence).</p>
 <p></p>
 </td>
 </tr>
