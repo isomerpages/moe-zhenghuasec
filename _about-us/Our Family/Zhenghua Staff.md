@@ -37,6 +37,9 @@ variant: markdown
 | Zanariah Zainal Abiden<br>Year Head (Sec 4) | 220 |
 | Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 1) | 215 |
 | Derrick Lim Jun Qiang<br>SH CCE | 302 |
+|Foo Yeong Kiang <br> Admin Manager |105|
+|Peh Choon Kuan <br> Operations Manager 1 |115|
+|Goh Charng Siew <br> Operations Manager 2 |6762 4266|
 | **TEACHING STAFF** |  |
 | Aaron Justin Tan Wen Jie | 322 |
 | Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
@@ -96,9 +99,6 @@ variant: markdown
 | Xin Ping | 328 |
 | Yong Wai Teng | 338 |
 | **EAS** |  |
-| Foo Yeong Kiang<br>Admin Manager | 105 |
-| Peh Choon Kuan<br>Operations Manager | 115 |
-| Goh Charng Siew<br>Operations Manager |6762 4266|
 | Chee Kuan Hoe Sharon<br>Admin Executive |113 |
 | Alawiyah Bte Nadin<br>Admin Executive |112|
 | Eve Sim Joo Lan<br>MSO | 110 |
