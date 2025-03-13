@@ -17,14 +17,6 @@ variant: tiptap
 <p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Amerlyn Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Felicity Lim</p>
 </td>
 </tr>
@@ -34,6 +26,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Xin Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sam Soo</p>
 </td>
 </tr>
 <tr>
