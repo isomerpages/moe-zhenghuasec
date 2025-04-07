@@ -47,11 +47,3 @@ we had to push really hard. Although it was the toughest challenge I had
 ever faced, it was an eye-opening experience because I got to try things
 that I have never done before.&nbsp;</p>
 <p>Low Jia Xuan Destinee (1B)</p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>at least one station.</p>
