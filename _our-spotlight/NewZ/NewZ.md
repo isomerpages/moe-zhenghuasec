@@ -16,6 +16,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Outdoor Skills Challenge/Outdoor_Skills_Challenge___Cover_page.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -37,6 +40,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Zhenghua Secondary is proud to present our Learning for Life Programme
+(LLP) signature programme, the Outdoor Skills Challenge, which is held
+every two years.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
