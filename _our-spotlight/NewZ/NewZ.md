@@ -42,7 +42,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Zhenghua Secondary is proud to present our Learning for Life Programme
 (LLP) signature programme, the Outdoor Skills Challenge, which is held
-every two years.</p>
+every two years.
+<br><a href="/outdoor-skills-challenge-2025/" rel="noopener nofollow" target="_blank">Read more </a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
