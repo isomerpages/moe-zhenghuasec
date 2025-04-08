@@ -15,6 +15,47 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Outdoor Skills Challenge/Outdoor_Skills_Challenge___Cover_page.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>Outdoor Skills Challenge 2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhenghua Secondary is proud to present our Learning for Life Programme
+(LLP) signature programme, the Outdoor Skills Challenge, which is held
+every two years.
+<br><a href="/outdoor-skills-challenge-2025/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="739" width="555" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdm1nUQMfaw_QrOthmgRVLVThjbmMFr4lkZNvCzAYouPlFz2aYL4oSOKkR6O-1UAtIbXyJoFlpd98U7tBgv-pEnAmgG9XW0U_HHbFvcujnZAbuSGSYz5coBRfc9fWmlPhlDI5vMCw?key=qxSGBkAU-vlpDDCy7z3P7y1v">
 </div>
