@@ -54,7 +54,3 @@ music, and festive atmosphere. It was heartwarming to see our school community
 come together in appreciation and respect. I learnt more about the values
 of forgiveness, unity, and joy.&nbsp;</p>
 <p>Mohamed Quzairi Bin Mohamed Zulhairi, 3B</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Hari Raya Celebration/Hari_Raya_7.jpg">
-</div>
-<p></p>
