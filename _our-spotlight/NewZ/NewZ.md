@@ -22,6 +22,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Hari Raya Celebration/Hari_Raya_Celebration_Cover_Page.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -32,7 +35,7 @@ variant: tiptap
 <h5>Outdoor Skills Challenge 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Hari Raya Celebration 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,7 +51,8 @@ every two years.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>‘Gemilang raya’- ‘splendour of eid’ refers to a grand celebration of music,
+dance and culture that showcases the beauty of Hari Raya traditions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
