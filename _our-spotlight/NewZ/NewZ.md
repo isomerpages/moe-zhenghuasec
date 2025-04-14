@@ -53,7 +53,7 @@ every two years.
 <td rowspan="1" colspan="1">
 <p>‘Gemilang raya’- ‘splendour of eid’ refers to a grand celebration of music,
 dance and culture that showcases the beauty of Hari Raya traditions.</p>
-<p><a href="/hari-raya-celebrations-2025/" rel="noopener nofollow" target="_blank">Read more </a>
+<p><a href="/hari-raya-celebrations-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
