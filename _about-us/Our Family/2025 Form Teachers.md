@@ -92,8 +92,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sam Soo</strong>
-<br><em>soo_boon_siang@moe.edu.sg</em>
+<p><strong>Mr Liang Kar Weng</strong>
+<br><em>liang_kar_weng@moe.edu.sg</em>
 </p>
 </td>
 </tr>
