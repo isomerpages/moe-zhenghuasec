@@ -152,8 +152,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jonathan Ang</strong>
-<br><em>ang_lien_lee@moe.edu.sg</em>
+<p><strong>Ms Siti Nurbasyirah</strong>
+<br><em>siti_nurbasyirah_azahar@moe.edu.sg</em>
 </p>
 </td>
 </tr>
