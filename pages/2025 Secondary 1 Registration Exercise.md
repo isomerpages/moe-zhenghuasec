@@ -84,15 +84,14 @@ On-SITE Purchase of Uniform &amp; Textbooks, directly below).
 <br>
 </p>
 <p>For parents who wish to make their purchase on-site in school or students
-who are under FAS, please book a time slot on 19 and 20 Dec (9am – 3pm)
-<a href="https://zhenghuass.simplybook.asia/v2/#" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+who are under FAS, please book a time slot on 19 and 20 Dec (9am – 3pm).</p>
 <p>Please note the booking is on a first come first served basis and is for
 parents who are NOT ordering online.</p>
 <p></p>
 <p><u>Online Purchase</u>
 <br>You can also purchase the textbooks and uniforms online, and have the
-items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">here</a> to purchase online from
-17th Dec to 24th Dec 2024.
+items delivered to your home. Please click to purchase online from 17th
+Dec to 24th Dec 2024.
 <br>
 <br>
 <br>
