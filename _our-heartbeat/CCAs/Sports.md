@@ -15,6 +15,6 @@ variant: markdown
 
 <a href="/ccas/Sports/sports-club/"><img src="/images/2023%20CCA_Concept/20230829_165358_for%20website.png"></a>
 
-<a href="/ccas/Sports/football/"><img src="/images/2023%20CCA_Concept/20230829_151847_for%20website.png"></a>
+<a href="/ccas/sports/football/"><img src="/images/2023%20CCA_Concept/20230829_151847_for%20website.png"></a>
 
 <a href="/ccas/Sports/Volleyball/"><img src="/images/2023%20CCA_Concept/20230829_154534_for%20website.png"></a>
