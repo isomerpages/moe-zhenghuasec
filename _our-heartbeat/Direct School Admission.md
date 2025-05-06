@@ -4,8 +4,7 @@ permalink: /dsa/
 description: ""
 variant: tiptap
 ---
-<h3>Direct School Admission</h3>
-<h5>DSA Application</h5>
+<h3>ZHENGHUA SECONDARY SCHOOL<br>Direct School Admission</h3>
 <p>In Zhenghua Secondary, we envision every student in the school to be Dynamic
 Learners, Exemplary Leaders and Thoughtful Contributors. We create ample
 opportunities for our students to develop their leadership competencies
@@ -15,10 +14,10 @@ develop their talent areas under the guidance of our dedicated teachers,
 experienced instructors, and enjoy the camaraderie of committed peers.
 Prospective students can also look forward to representing the school in
 competitions, performances and overseas trips.</p>
-<h5>Talent areas offered</h5>
+<h4>Talent areas offered</h4>
 <p>Zhenghua Secondary welcomes promising Primary 6 students with strong leadership
-attributes and of exemplary conduct to participate in the school’s 2024
-Direct School Admission (DSA) exercise for admission to the 2025 Secondary
+attributes and of exemplary conduct to participate in the school’s 2025
+Direct School Admission (DSA) exercise for admission to the 2026 Secondary
 One intake.</p>
 <p>Zhenghua will be offering DSA places for boys and girls in the following
 talent areas:</p>
@@ -132,11 +131,9 @@ school.</p>
 <p>Leadership – Student Council</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Students will be given a choice to select their CCA.
-<br>
-</p>
+<p>Students will be given a choice to select their CCA.</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Applicants should demonstrate all or some of the following in their respective
 talent areas,
 <br>
@@ -148,7 +145,7 @@ talent areas,
 <br>
 <br>- positive demeanour and behaviour with exemplary conduct</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Every shortlisted applicant will have to complete a performance task in
 the selected talent area and go through an interview.</p>
 </td>
@@ -162,7 +159,7 @@ the selected talent area and go through an interview.</p>
 <br>
 <br>Dance - Modern / Contemporary
 <br>
-<br>Volleyball</p>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Dance
@@ -170,22 +167,31 @@ the selected talent area and go through an interview.</p>
 <br>
 <br>
 <br>
-<br>Volleyball</p>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</strong>
+<p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
-<p><strong>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</strong>
+<p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
 <h5>DSA-Sec Application Process:</h5>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open&nbsp;<strong>from 7 May 2024, 11am to 3 June 2024, 3pm.</strong>
+The application is free-of-charge and will be open&nbsp;<strong>from 7 May 2025, 11am to 3 June 2025, 3pm.</strong>
 </p>
-<p>For more details, please refer to MOE website –&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+<p>For more details, please refer to MOE website – <strong><em><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</em></strong>
+</p>
 <p>Below is the brief timeline for the whole application process.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -211,35 +217,51 @@ The application is free-of-charge and will be open&nbsp;<strong>from 7 May 2024,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday, 7 May 2024 to Monday 3 June 2024</p>
+<p>Wednesday, 7 May 2025 to Tuesday 3 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of your child's application online through the DSA-Sec Portal
-by <u>3pm on Monday, 3 June 2024.</u>
+by <u>3pm on Tuesday, 3 June 2025.</u>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June 2024 to 9 September 2024</p>
+<p>By Friday, 18 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are to attend interview and selection session conducted by
-the school. We will inform all applicants their interview and selection
-dates once we process all the applications.
-<br>
-<br>All applicants will be informed of the outcome of their application after
-the interview and selection. Selected students will receive DSA-Sec offers
-directly from schools by early September.</p>
+<p>Applicants will be notified by this date if they are shortlisted to attend
+interview and selection session conducted by the school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 to 25 October 2024</p>
+<p>18 July 2025 to 4 September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We will inform all applicants their interview and selection dates once
+we process all the applications.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 August 2025 to 4 September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All applicants will be informed of the outcome of their application after
+the interview and selection.</p>
+<p>Selected students will receive DSA-Sec offers directly from schools by
+these dates.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 to 31 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants to choose up to 3 school choices in order of preference via
-the DSA-Sec portal.</p>
+the DSA-Sec portal by <u>3pm on Friday, 31 October 2025.</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -250,14 +272,6 @@ the DSA-Sec portal.</p>
 <p>Applicants will receive school allocation along with PSLE results.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Parents and students are encouraged to choose schools wisely based on
@@ -265,8 +279,9 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
+to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4 in Zhenghua Secondary.</p>
+<p></p>
 <p>For enquiries and clarifications, please contact the following personnel,</p>
 <p>Mr Robin Goh Jin Quan, <em>HOD / PE and CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
 </p>
