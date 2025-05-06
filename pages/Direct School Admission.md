@@ -193,9 +193,10 @@ the selected talent area and go through an interview.</p>
 </p>
 <h5>DSA-Sec Application Process:</h5>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open&nbsp;<strong>from 4 May 2023, 11am to 31 May 2023, 3pm.</strong>
+The application is free-of-charge and will be open&nbsp;<strong>from 7 May 2025, 11am to 3 June 2025, 3pm.</strong>
 </p>
-<p>For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>For more details, please refer to MOE website – <strong><em><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</em></strong>
+</p>
 <p>Below is the brief timeline for the whole application process.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -221,35 +222,51 @@ The application is free-of-charge and will be open&nbsp;<strong>from 4 May 2023,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday, 4 May 2023 to Wednesday 31 May 2023</p>
+<p>Wednesday, 7 May 2025 to Tuesday 3 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of your child's application online through the DSA-Sec Portal
-by <u>3pm on Wednesday, 31 May 2023.</u>
+by <u>3pm on Tuesday, 3 June 2025.</u>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Jun to mid Sep</p>
+<p>By Friday, 18 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are to attend interview and selection session conducted by
-the school. We will inform all applicants their interview and selection
-dates once we process all the applications.
-<br>
-<br>All applicants will be informed of the outcome of their application after
-the interview and selection. Selected students will receive DSA-Sec offers
-directly from schools by mid September.</p>
+<p>Applicants will be notified by this date if they are shortlisted to attend
+interview and selection session conducted by the school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Oct</p>
+<p>18 July 2025 to 4 September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We will inform all applicants their interview and selection dates once
+we process all the applications.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 August 2025 to 4 September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All applicants will be informed of the outcome of their application after
+the interview and selection.</p>
+<p>Selected students will receive DSA-Sec offers directly from schools by
+these dates.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 to 31 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants to choose up to 3 school choices in order of preference via
-the DSA-Sec portal.</p>
+the DSA-Sec portal by <u>3pm on Friday, 31 October 2025.</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -258,14 +275,6 @@ the DSA-Sec portal.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants will receive school allocation along with PSLE results.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
