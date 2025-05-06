@@ -16,9 +16,9 @@ experienced instructors, and enjoy the camaraderie of committed peers.
 Prospective students can also look forward to representing the school in
 competitions, performances and overseas trips.</p>
 <h5>Talent areas offered</h5>
-<p>Zhenghua welcomes promising Primary 6 students with strong leadership
-attributes and of exemplary conduct to participate in the school’s 2023
-Direct School Admission (DSA) exercise for admission to the 2024 Secondary
+<p>Zhenghua Secondary welcomes promising Primary 6 students with strong leadership
+attributes and of exemplary conduct to participate in the school’s 2025
+Direct School Admission (DSA) exercise for admission to the 2026 Secondary
 One intake.</p>
 <p>Zhenghua will be offering DSA places for boys and girls in the following
 talent areas:</p>
@@ -136,7 +136,7 @@ school.</p>
 <br>
 </p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Applicants should demonstrate all or some of the following in their respective
 talent areas,
 <br>
@@ -148,7 +148,7 @@ talent areas,
 <br>
 <br>- positive demeanour and behaviour with exemplary conduct</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Every shortlisted applicant will have to complete a performance task in
 the selected talent area and go through an interview.</p>
 </td>
@@ -162,7 +162,8 @@ the selected talent area and go through an interview.</p>
 <br>
 <br>Dance - Modern / Contemporary
 <br>
-<br>Volleyball</p>
+<br>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Dance
@@ -170,11 +171,20 @@ the selected talent area and go through an interview.</p>
 <br>
 <br>
 <br>
-<br>Volleyball</p>
+<br>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</strong>
