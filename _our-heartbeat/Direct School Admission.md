@@ -248,8 +248,8 @@ we process all the applications.</p>
 <p>25 August 2025 to 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will be informed of the outcome of their application after
-the interview and selection.</p>
+<p>All applicants, including those not shortlisted, will be informed of their
+application outcome.</p>
 <p>Selected students will receive DSA-Sec offers directly from schools by
 these dates.</p>
 </td>
