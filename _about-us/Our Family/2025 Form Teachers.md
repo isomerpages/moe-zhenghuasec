@@ -177,8 +177,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Natalie Tan</strong>
-<br><em>tan_li_er_natalie@moe.edu.sg</em>
+<p><strong>Ms Sri Diana Subari</strong>
+<br><em>sri_diana_subari@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -222,8 +222,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Sock Mui</strong>
-<br><em>tan_sock_mui@moe.edu.sg</em>
+<p><strong>Mdm Sharifah Nazihah</strong>
+<br><em>sharifah_nazihah_sulaiman@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -382,8 +382,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Noor Nisah</strong>
-<br><em>noor_nisah_thirunauc_karasu@moe.edu.sg</em>
+<p><strong>Ms Rachel Tan</strong>
+<br><em>tan_hui_leng_rachel@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -542,7 +542,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Serene Howe</strong>
+<br><em>howe_joo-li_serene@moe.edu.sg</em>
+</p>
 </td>
 </tr>
 </tbody>
