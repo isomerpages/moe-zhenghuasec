@@ -382,8 +382,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Noor Nisah</strong>
-<br><em>noor_nisah_thirunauc_karasu@moe.edu.sg</em>
+<p><strong>Ms Rachel Tan</strong>
+<br><em>tan_hui_leng_rachel@moe.edu.sg</em>
 </p>
 </td>
 </tr>
