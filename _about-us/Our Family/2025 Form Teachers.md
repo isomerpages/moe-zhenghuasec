@@ -542,7 +542,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Serene Howe</strong>
+</p>
+<p><em>howe_joo-li_serene@moe.edu.sg</em>
+</p>
 </td>
 </tr>
 </tbody>
