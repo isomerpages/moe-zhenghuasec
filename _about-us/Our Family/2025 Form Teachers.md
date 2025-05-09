@@ -177,8 +177,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Natalie Tan</strong>
-<br><em>tan_li_er_natalie@moe.edu.sg</em>
+<p><strong>Ms Sri Diana Subari</strong>
+<br><em>sri_diana_subari@moe.edu.sg</em>
 </p>
 </td>
 </tr>
