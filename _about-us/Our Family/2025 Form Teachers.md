@@ -222,8 +222,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Sock Mui</strong>
-<br><em>tan_sock_mui@moe.edu.sg</em>
+<p><strong>Mdm Sharifah Nazihah</strong>
+<br><em>sharifah_nazihah_sulaiman@moe.edu.sg</em>
 </p>
 </td>
 </tr>
