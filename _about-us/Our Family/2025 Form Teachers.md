@@ -92,8 +92,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Liang Kar Weng</strong>
-<br><em>liang_kar_weng@moe.edu.sg</em>
+<p><strong>Ms Chelsea Wong</strong>
+<br><em>chelsea_wong_jiahui@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -107,8 +107,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Felicity Lim</strong>
-<br><em>lim_sy_hing_felicity@moe.edu.sg</em>
+<p><strong>Mdm Tan Sock Mui</strong>
+<br><em>tan_sock_mui@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -187,8 +187,8 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Gay Wei Zhuang</strong>
-<br><em>gay_wei_zhuang@moe.edu.sg</em>
+<p><strong>Ms Natalie</strong>
+<br><em>tan_li_er_natalie@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">

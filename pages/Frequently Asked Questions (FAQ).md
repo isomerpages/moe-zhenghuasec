@@ -94,7 +94,7 @@ School?</p>
 <p>We take in promising Primary 6 students with strong leadership qualities
 and/or outstanding contributions to their uniformed groups, CCAs or school
 through the school’s Direct School Admission (DSA) exercise. Further details
-can be found on our DSA page&nbsp;<a href="https://moe-zhenghuasec-staging.netlify.app/dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+can be found on our DSA page&nbsp;<a href="https://www.zhenghuasec.moe.edu.sg/dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>(5) What is the school's stand on outside tuition?</p>
 <p>We do not recommend our students to go for tuition except in exceptional
@@ -287,10 +287,6 @@ CCA in school with his or her outside commitments if need be.(<em>For questions 
 </li>
 <li>
 <p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065" rel="noopener noreferrer nofollow" target="_blank">School-Related Matters</a>
-</p>
-</li>
-<li>
-<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065" rel="noopener noreferrer nofollow" target="_blank">Finance Matters</a>
 </p>
 </li>
 <li>
