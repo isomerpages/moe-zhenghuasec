@@ -107,8 +107,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Felicity Lim</strong>
-<br><em>lim_sy_hing_felicity@moe.edu.sg</em>
+<p><strong>Mdm Tan Sock Mui</strong>
+<br><em>tan_sock_mui@moe.edu.sg</em>
 </p>
 </td>
 </tr>
