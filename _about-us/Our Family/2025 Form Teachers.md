@@ -187,8 +187,8 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Gay Wei Zhuang</strong>
-<br><em>gay_wei_zhuang@moe.edu.sg</em>
+<p><strong>Ms Natalie</strong>
+<br><em>tan_li_er_natalie@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
