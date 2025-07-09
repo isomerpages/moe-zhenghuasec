@@ -282,14 +282,6 @@ CCA in school with his or her outside commitments if need be.(<em>For questions 
 <h5>Additional FAQs can be found at:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065" rel="noopener noreferrer nofollow" target="_blank">Student Admissions</a>
-</p>
-</li>
-<li>
-<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?category=45065" rel="noopener noreferrer nofollow" target="_blank">School-Related Matters</a>
-</p>
-</li>
-<li>
 <p><a href="/files/SLS%20student%20learning%20space.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Matters</a>
 </p>
 </li>
