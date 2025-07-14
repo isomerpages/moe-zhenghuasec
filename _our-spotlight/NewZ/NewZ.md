@@ -40,7 +40,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>On&nbsp;this special day, we came together as a school community to celebrate
-growth, grit, and the spirit of partnership. <a href="https://www.zhenghuasec.moe.edu.sg/awards-day-2025/" rel="noopener nofollow" target="_blank">Read more</a>
+growth, grit, and the spirit of partnership.</p>
+<p><a href="/awards-day-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +99,7 @@ dance and culture that showcases the beauty of Hari Raya traditions.</p>
 <td rowspan="1" colspan="1">
 <p>The Student Leaders' Investiture celebrates the appointment of student
 leaders in their respective co-curricular activities.</p>
-<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-student-leaders-investiture/" rel="noopener nofollow" target="_blank">Read more</a>
+<p><a href="/2025-student-leaders-investiture/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
