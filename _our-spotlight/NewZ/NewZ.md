@@ -28,6 +28,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Student Leaders' Investiture/WhatsApp_Image_2025_07_08_at_1_40_13_PM__1____Marinah_Mohdar.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -38,7 +41,7 @@ variant: tiptap
 <h5>Hari Raya Celebration 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Student Leaders' Investiture 2025</h5>
 </td>
 </tr>
 <tr>
@@ -57,7 +60,10 @@ dance and culture that showcases the beauty of Hari Raya traditions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Student Leaders' Investiture celebrates the appointment of student
+leaders in their respective co-curricular activities.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-student-leaders-investiture/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
 </td>
 </tr>
 <tr>
