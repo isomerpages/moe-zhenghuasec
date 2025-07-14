@@ -42,10 +42,3 @@ content, knowing I had served my school with dedication and heart.</p>
 <p>
 <br>
 </p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
