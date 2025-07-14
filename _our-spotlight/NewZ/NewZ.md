@@ -40,7 +40,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>On&nbsp;this special day, we came together as a school community to celebrate
-growth, grit, and the spirit of partnership. <a href="https://www.zhenghuasec.moe.edu.sg/awards-day-2025/" rel="noopener nofollow" target="_blank">Read more </a>
+growth, grit, and the spirit of partnership. <a href="https://www.zhenghuasec.moe.edu.sg/awards-day-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
