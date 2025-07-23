@@ -20,7 +20,8 @@ of the 2024 cohort great success in their future endeavors!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/echa_award_recipients_2024_o_level_png.jpg">
 </div>
-<p>Top 4 Express Students with L1R5 <strong>≤ </strong>12</p>
+<p><strong>Top 4 Express Students with L1R5 ≤ 12</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/top_4_express_students_with_l1r5_12.png">
 </div>
