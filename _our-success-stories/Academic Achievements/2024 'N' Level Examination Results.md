@@ -17,11 +17,13 @@ we strive to develop every student, regardless of their starting point,
 to be future-ready individuals, where they would be&nbsp;Dynamic Learners,
 Exemplary Leaders and Thoughtful Contributors. We wish all students of
 the 2024 cohort great success in their future endeavors!</p>
-<p>ECHA Award Recipients 2024</p>
+<p><strong>ECHA Award Recipients 2024</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/echa_award_recipients_2024.png">
 </div>
-<p>Top 4N(A) students with ELMAB3 <strong>≤</strong> 12</p>
+<p><strong>Top 4N(A) students with ELMAB3 ≤ 12</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/top_4na_students_with_elmab3_12.jpg">
 </div>
@@ -193,7 +195,8 @@ the 2024 cohort great success in their future endeavors!</p>
 </tr>
 </tbody>
 </table>
-<p>Top 4N(T) students with ELMAB1 <strong>≤</strong> 5</p>
+<p><strong>Top 4N(T) students with ELMAB1 ≤ 5</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/top_4nt_students_with_elmab1_5.jpg">
 </div>
