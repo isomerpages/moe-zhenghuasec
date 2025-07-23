@@ -90,6 +90,70 @@ Congratulations!</p>
 <p>Certificate in Advanced Engineering Mathematics</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Jing Lun Kendrick</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Course:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Aerospace Engineering with Minor in Cybersecurity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Award:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aaron Wong Chuan Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Course:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Biomedical Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Award:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
