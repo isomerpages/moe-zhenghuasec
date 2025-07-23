@@ -193,4 +193,8 @@ the 2024 cohort great success in their future endeavors!</p>
 </tr>
 </tbody>
 </table>
+<p>Top 4N(T) students with ELMAB1 <strong>≤</strong> 5</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/top_4nt_students_with_elmab1_5.jpg">
+</div>
 <p></p>
