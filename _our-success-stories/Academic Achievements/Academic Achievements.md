@@ -8,11 +8,11 @@ variant: tiptap
 <p>2024</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/our-success-stories/academic-achievements/2023olevel/" rel="noopener noreferrer nofollow" target="_blank">'O' Levels Examination Results 2024</a>
+<p><a href="/2024-o-level-examination-results/" rel="noopener noreferrer nofollow" target="_blank">'O' Levels Examination Results 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/our-success-stories/academic-achievements/2023nlevel/" rel="noopener noreferrer nofollow" target="_blank">'N' Levels Examination Results 2024</a>
+<p><a href="/2024-n-level-examination-results/" rel="noopener noreferrer nofollow" target="_blank">'N' Levels Examination Results 2024</a>
 </p>
 </li>
 </ul>
