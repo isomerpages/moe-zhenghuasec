@@ -197,4 +197,100 @@ the 2024 cohort great success in their future endeavors!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/National Exam Results 2024/top_4nt_students_with_elmab1_5.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASZLEENA BINTE HAIROMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRAYDEN KHO WEI ZHE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHANNIE CHIA CAI NI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EUSTON CHU (ZHOU YOU)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HO AN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IRIS NURSHAHIRA BINTE MOHAMED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM ZHENGBIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD NADZIRUDEEN BIN MOHD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG HONG SHENG SEAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG ZHONG ZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR REIHANNA BINTE MOHAMED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
