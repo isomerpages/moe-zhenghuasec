@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Academic Achievements
 ---
-<p><strong>2024 'O' Level Examination Results</strong>
-</p>
+<h3><strong>2024 'O' Level Examination Results</strong></h3>
 <p>We extend our heartfelt congratulations to the O-Level cohort of 2024
 for their commendable performance. Amidst various challenges, our students
 demonstrated resilience, grit, and determination to achieve excellent results.
