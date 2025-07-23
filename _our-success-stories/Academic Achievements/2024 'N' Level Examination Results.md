@@ -291,6 +291,46 @@ the 2024 cohort great success in their future endeavors!</p>
 <p>4A</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAFI KURNIAWAN BIN MASHAWA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RYAN CHONG ZAO YUNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYAMIMI BINTE SUHAIDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN KIAT BOON (CHEN JIEWEN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THEAN XU DAN CHARMAINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
