@@ -76,7 +76,7 @@ variant: tiptap
 <p>Mdm Lee Weiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Sy Hing Felicity</p>
+<p>Mr Chung Zhiwen</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>Mr Tan Soo Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chung Zhiwen</p>
+<p>Mr Boo Jia Liang</p>
 </td>
 </tr>
 <tr>

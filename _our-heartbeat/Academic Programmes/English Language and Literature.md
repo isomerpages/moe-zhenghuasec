@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>-</p>
+<p>Ms Vivian Koh</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mdm Emilia Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vivian Koh</p>
+<p>Ms Lynn Chew</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>Mdm Melissa Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Chew</p>
+<p></p>
 </td>
 </tr>
 </tbody>

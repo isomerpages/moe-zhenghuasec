@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Khee Hoon (YH Sec 2)</p>
+<p>Mdm Koh Khee Hoon (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Kan</p>

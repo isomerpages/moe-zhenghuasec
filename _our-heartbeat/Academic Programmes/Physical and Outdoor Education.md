@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gay Wei Zhuang</p>
+<p>Mr Aaron Justin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Choo</p>
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Justin Tan</p>
+<p>Mr Derrick Lim (S.H CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liang Kar Weng</p>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derrick Lim (S.H CCE)</p>
+<p>Mdm Cheong Hana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
