@@ -108,11 +108,6 @@ variant: markdown
     <td class="tg-52wp"><span style="font-style:italic">tan_danwei_claudia@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-5d9j"><span style="font-weight:700">Drums</span></td>
-    <td class="tg-prnc">Mdm Hafida Bte Mohd</td>
-    <td class="tg-52wp"><span style="font-style:italic">hafida_muhamad@moe.edu.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-5d9j"><span style="font-weight:700">Handbells</span></td>
     <td class="tg-prnc">Ms Tan Pei Wen</td>
     <td class="tg-52wp"><span style="font-style:italic">tan_pei_wen_a@moe.edu.sg</span></td>
