@@ -24,7 +24,6 @@ variant: markdown
 |Lim Chee Hui Derek <br> HOD ICT | 212|
 |Mazri Misawar <br> HOD Mathematics | 211|
 |Rafiyah Begum Bte Sharif Mohd <br> HOD English Language | 204|
-|Samuel Lim Kok Boon <br> HOD CCE | 224|
 |Soh Bee Kim <br> HOD MTL | 209 |
 |Hamidah Bte Ali <br> HOD C&amp;T | 207 |
 |Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
