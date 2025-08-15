@@ -26,7 +26,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Racial Harmony/Cover_page.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -60,7 +62,10 @@ teamwork through a student-led outdoor camp experience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhenghua Secondary School commemorated Racial Harmony Day (RHD) on 18
+July 2025, marking the anniversary of the 1964 race riots.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-racial-harmony-day/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
