@@ -32,6 +32,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Overseas Trip   Brunei/Cover_Page.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -45,7 +48,7 @@ variant: tiptap
 <h5>Racial Harmony Day 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Student Immersion Trip  - Brunei 2025</h5>
 </td>
 </tr>
 <tr>
@@ -68,7 +71,11 @@ July 2025, marking the anniversary of the 1964 race riots.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our Secondary 3 students embarked on a 5-day immersion trip to Brunei,
+experiencing local school life, cultural sites, and hands-on activities
+like rice farming.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-overseas-trip-brunei/" rel="noopener nofollow" target="_blank">Read more </a>
+</p>
 </td>
 </tr>
 <tr>
