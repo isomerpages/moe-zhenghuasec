@@ -6,8 +6,9 @@ third_nav_title: NewZ
 variant: tiptap
 ---
 <h1>Newz</h1>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -15,12 +16,68 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Overseas Trip   Brunei/Cover_Page.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>Student Immersion Trip - Brunei 2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Secondary 3 students embarked on a 5-day immersion trip to Brunei,
+experiencing local school life, cultural sites, and hands-on activities
+like rice farming.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-overseas-trip-brunei/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/2025 Awards Day/Copy_of_DSC_0240__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Ziesta 1 Sec 3 Camp/Cover_picture.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Racial Harmony/Cover_page.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -31,10 +88,13 @@ variant: tiptap
 <h5>Awards Day 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Ziesta Secondary 3 Camp 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>Racial Harmony Day 2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<h5></h5>
 </td>
 </tr>
 <tr>
@@ -45,7 +105,16 @@ growth, grit, and the spirit of partnership.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Secondary 3 Outdoor Expedition develops leadership, resilience, and
+teamwork through a student-led outdoor camp experience.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-ziesta-secondary-3-camp/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhenghua Secondary School commemorated Racial Harmony Day (RHD) on 18
+July 2025, marking the anniversary of the 1964 race riots.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-racial-harmony-day/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -69,6 +138,9 @@ growth, grit, and the spirit of partnership.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Student Leaders' Investiture/WhatsApp_Image_2025_07_08_at_1_40_13_PM__1____Marinah_Mohdar.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -79,6 +151,9 @@ growth, grit, and the spirit of partnership.</p>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Student Leaders' Investiture 2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -102,6 +177,9 @@ leaders in their respective co-curricular activities.</p>
 <p><a href="/2025-student-leaders-investiture/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -121,6 +199,9 @@ leaders in their respective co-curricular activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/TDD/Cover_Picture.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,6 +212,9 @@ leaders in their respective co-curricular activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Total Defence Celebration 2025</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -158,6 +242,9 @@ resilience, along with an interactive theatre performance of <em>The Redhill: A 
 <p><a href="/total-defence-celebration-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -177,6 +264,9 @@ resilience, along with an interactive theatre performance of <em>The Redhill: A 
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AD202401.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -187,6 +277,9 @@ resilience, along with an interactive theatre performance of <em>The Redhill: A 
 </td>
 <td rowspan="1" colspan="1">
 <h5>Awards Day 2024</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -213,6 +306,9 @@ academic success and contributions from the 2023 batch of students.</p>
 <p></p>
 <p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
