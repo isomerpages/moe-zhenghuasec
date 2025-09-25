@@ -30,7 +30,6 @@ one. These sessions also gave me the opportunity to showcase my passion
 for drills and provided a platform for me to learn how to teach them more
 effectively.</p>
 <p>Mohd Riyaz Bin Mohammad Rafiq, 3G</p>
-<p></p>
 <p>To me, the National Day Parade means coming together with all the other
 uniformed groups, working hard, and showing our skills and resilience through
 drills. It is about supporting one another through tough times, rain or
@@ -38,10 +37,32 @@ shine, overcoming challenges with a smile, and being proud to be in a uniform
 group. Most importantly, it is about working towards a shared goal and
 showcasing a wonderful parade to celebrate our country’s birthday together.</p>
 <p>Chan Charmaine, 3G</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/National Day/Picture_3.jpg">
+</div>
+<p>National Day reminds us of our pioneers’ struggles and determination in
+building our nation. Preparing for the parade symbolises that same spirit.
+It teaches us to face challenges head-on and persevere. Even when things
+get tough, we must stay committed and work together to achieve our common
+goal of putting on a great parade.&nbsp;</p>
+<p>Yong Wei Qian Belia, 3G</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/National Day/Picture4.jpg">
+</div>
+<p>The National Day Concert was one of the most enjoyable moments I’ve experienced
+this year. My favourite part was when the whole school stood up to sing
+the national anthem. It gave me a deep sense of pride in the nation we
+call home. Hearing so many voices in harmony was truly priceless. The moment
+I want to remember most is when the school shouted, “Happy National Day!”
+I felt incredibly proud to be Singaporean, and as I looked around, I saw
+joyful faces everywhere. I had never seen the students so elated, which
+made the moment even more special. Overall, the concert made me feel joyful
+and proud. Seeing everyone smile and cheer for our nation was heartwarming.
+It reminded me of the tremendous effort Singapore has put into becoming
+what it is today, and I felt truly grateful.</p>
+<p>Lucas Fu, 1B</p>
 <p>
 <br>
-</p>
-<p>
 <br>
 </p>
 <p></p>
