@@ -16,13 +16,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Overseas Trip   Brunei/Cover_Page.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/National Day/Cover.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -36,7 +37,7 @@ variant: tiptap
 <h5>Student Immersion Trip - Brunei 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>National Day 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -54,7 +55,9 @@ like rice farming.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhenghua Secondary School commemorates Singapore’s 60th National Day with
+a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national-day/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
