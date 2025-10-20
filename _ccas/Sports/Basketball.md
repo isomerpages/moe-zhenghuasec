@@ -17,7 +17,7 @@ variant: tiptap
 <p>Teachers in-charge:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Jonathan Ang, Mr Chung Zhiwen</p>
+<p>Mr Jonathan Ang, Mr Chung Zhiwen, Ms Hana Cheong</p>
 </th>
 </tr>
 <tr>
@@ -49,31 +49,7 @@ variant: tiptap
 <p>Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jervis Tay Hong Xin (3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Jun Le (3E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C-Boys Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raphael Seah Xue Le (1B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C-Boys Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Langston (2G)</p>
+<p>Chee Zi Xuan Kenji (3D)</p>
 </td>
 </tr>
 </tbody>
