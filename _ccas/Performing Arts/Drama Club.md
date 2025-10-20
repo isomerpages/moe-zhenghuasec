@@ -57,39 +57,7 @@ variant: tiptap
 <p>President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aligwoekwe Nancy Ifeoma (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soh Jia Hao (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Logistics Head 1:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamad Ryan Ukail Bin Mohamad Rohaizad (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Logistics Head 2:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chong Wan Ru Ruby (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Welfare Head:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shreya Pillai (3D)</p>
+<p>Kwa Hao Ting Kayden (3E)</p>
 </td>
 </tr>
 </tbody>
