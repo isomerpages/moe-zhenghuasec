@@ -57,31 +57,7 @@ variant: tiptap
 <p>Unit Commander:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSGT Sebastian Joshua Deng (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deputy Unit Commander:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Aloysius Ng Yong Ren (3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1 NCO IC:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Zaccheus Goh Wei Qiang (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 2 NCO IC:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Ng Shi Yun (3D)</p>
+<p>Chan Charmaine (3G)</p>
 </td>
 </tr>
 <tr>
