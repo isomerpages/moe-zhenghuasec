@@ -65,31 +65,7 @@ variant: tiptap
 <p>President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Natalie Boo Tawanchai Rui Qing (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Rui Qi (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Exco Members:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elysia Tan An Shuen (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gaw Qian Xuan (3B)</p>
+<p>Janelle Toh En Qi (3D)</p>
 </td>
 </tr>
 <tr>
