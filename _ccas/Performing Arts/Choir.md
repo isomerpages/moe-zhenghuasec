@@ -33,14 +33,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sock Mui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hafida</p>
 </td>
 </tr>
@@ -78,34 +70,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>President:</p>
+<p>Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Yi Xuan (3E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raeanne Lai Cheng Xuan (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Section Leaders:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bernice Wong Jia Xuan (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Amely Pok Shi Yun (3A)</p>
+<p>Wong Man Yi (3F)</p>
 </td>
 </tr>
 </tbody>
