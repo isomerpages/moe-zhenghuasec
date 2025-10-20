@@ -13,16 +13,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teachers in-charge:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mr Godwin Tan</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Khee Hoon</p>
@@ -33,7 +25,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Godwin Tan</p>
 </td>
 </tr>
 <tr>
@@ -57,23 +49,7 @@ variant: tiptap
 <p>Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Farisha Alia Binte Mohamad Affendi (4E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aloysius Seah Yi Hang (4E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>See Xing Yi (4D)</p>
+<p>Chong Sheryn (3C)</p>
 </td>
 </tr>
 </tbody>
