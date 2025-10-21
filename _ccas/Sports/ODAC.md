@@ -57,55 +57,7 @@ variant: tiptap
 <p>President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joelle Liew En Yu (4B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nureeqa Qisrina Binte Nurulhaq (4B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yap Jing Kai, Oswin (4B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quarter Mistress:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neo Si Han, Sheena (4C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Chunjia (4C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Programme Manager:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Christy Oh Ni Ann (4A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity Officer:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Jia En Verine (4F)</p>
+<p>Yuki Lee Yun Xuan (3G)</p>
 </td>
 </tr>
 </tbody>
