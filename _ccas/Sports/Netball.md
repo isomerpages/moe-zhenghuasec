@@ -67,12 +67,6 @@ while equipping our players with the necessary skills and techniques to
 excel in various games and competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/C_Div_NSG_2024.jpg">
-</div>
-<blockquote>
-<p>C Div NSG 2024</p>
-</blockquote>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Naval_Base_Sec_Sch.jpg">
 </div>
 <blockquote>
@@ -83,12 +77,6 @@ excel in various games and competitions.</p>
 </div>
 <blockquote>
 <p>Our B Division Players</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Open_House_Games_2023.jpg">
-</div>
-<blockquote>
-<p>Open House Games 2023</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Christchurch_Sec_Sch.jpg">
