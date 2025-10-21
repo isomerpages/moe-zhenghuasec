@@ -41,15 +41,7 @@ variant: tiptap
 <p>President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aszleena Binte Hairoman (4A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ulfah Farysha Binte Adam (4B)</p>
+<p>Ng Min En (3C)</p>
 </td>
 </tr>
 </tbody>

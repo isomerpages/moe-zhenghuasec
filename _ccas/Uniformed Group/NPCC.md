@@ -57,31 +57,7 @@ variant: tiptap
 <p>Unit Commander:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSGT Sebastian Joshua Deng (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deputy Unit Commander:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Aloysius Ng Yong Ren (3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1 NCO IC:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Zaccheus Goh Wei Qiang (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 2 NCO IC:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Ng Shi Yun (3D)</p>
+<p>Chan Charmaine (3G)</p>
 </td>
 </tr>
 <tr>
@@ -135,10 +111,4 @@ our Principal Mr Ng.</p>
 <p>Our cadets winning the gold medals during the Area 19 Area Games Day.</p>
 </blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Mr_Ng_sharing_the_unit_s_joy_with_the_Distinction_Award_for_UOPA_2023.jpg">
-</div>
-<blockquote>
-<p>Mr Ng sharing the unit's joy with the Distinction Award for UOPA 2023</p>
-</blockquote>
 <p></p>

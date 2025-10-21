@@ -90,47 +90,7 @@ and performances.</p>
 <p>President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Maisarah Affiendi (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President &amp; Malay Dance Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ily Naurah Binte Yusman (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Street Dance Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Aaliyah Isabelle Binte Saiful Bahri (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Events Manager:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Huma Aymen Arshad (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Media Manager:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Koh Jing Xuan Arissa (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wardrobe Manager:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sarah Lai Eng Kee (3E)</p>
+<p>Nieva Krisia Dela Pena (3F)</p>
 </td>
 </tr>
 <tr>

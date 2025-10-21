@@ -13,19 +13,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teachers in-charge</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Teachers in-charge:</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Sakinah</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liang Kar Weng</p>
+<p>Mr Tan Soo Heng</p>
 </td>
 </tr>
 <tr>
@@ -49,55 +49,7 @@ variant: tiptap
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Rui Yang Randall (4A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Phin Boon (2B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nick Teoh Tian Yao (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Veronique Wong Rui En (2B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Captain (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chloe Xu Xinyi (2A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Anisa Alyani Binte Zairan (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kho Rui Hen, Rayden (4G)</p>
+<p>Veronique Wong Rui En (3G)</p>
 </td>
 </tr>
 </tbody>

@@ -13,12 +13,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Teachers in-charge:</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Koh Ming Hui</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,6 +84,22 @@ variant: tiptap
 <p>Girls : Wednesday, 3.00pm to 6.00pm, Friday, 1.00pm to 3.30pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (Boys):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenjiro Teo Kai Feng (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (Girls):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shannon Heng Xuan Ning (3C)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Zhenghua Volleyball provides students with the opportunity to participate
@@ -105,45 +121,9 @@ and participate in friendly competitions with other schools.</p>
 <p>B Division Boys Team</p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_DIvision_Girls_team_2024.jpg">
-</div>
-<blockquote>
-<p>B Division Girls Team 2024</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_Division_Girls_2024.jpg">
-</div>
-<blockquote>
-<p>B Division Girls 2024</p>
-</blockquote>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_Volleyball_Championship_League_4_group_overall_champion.jpg">
 </div>
 <blockquote>
 <p>C Division Girls Volleyball Championship League 4 group overall champion</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_VB_Team_2024___Champion_of_League_4_group.jpg">
-</div>
-<blockquote>
-<p>C Division Girls VB Team 2024 - Champion of League 4 group</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_2024.jpg">
-</div>
-<blockquote>
-<p>C Division Girls 2024</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Boys_Team_2024.jpg">
-</div>
-<blockquote>
-<p>C Division Boys Team 2024</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/Sec_4s_2024___Last_day_of_training.jpg">
-</div>
-<blockquote>
-<p>Sec 4s 2024 - Last day of training</p>
 </blockquote>
 <p></p>

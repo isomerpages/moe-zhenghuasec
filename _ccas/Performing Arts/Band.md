@@ -13,19 +13,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Teachers in-charge:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mr Jacobe Lim</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Fong Yee</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Fong Yee</p>
+<p>Mr Jacobe Lim</p>
 </td>
 </tr>
 <tr>
@@ -73,47 +73,7 @@ variant: tiptap
 <p>Band Major:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Abbie Aw Jia Xuan (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Master:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Qi Lin (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Keevan Tan Jun Wei (3D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head Quarter Master (QM):</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Koh Kar How Julian (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head Librarian:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Amran Bin Mohammed Moktar (3H)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Welfare Officer:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nurhannah Dafina Binte Hirwan (2A)</p>
+<p>Tan Jun Xi Jayrus (3E)</p>
 </td>
 </tr>
 <tr>

@@ -73,31 +73,7 @@ variant: tiptap
 <p>Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cayden Chua (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quek Jia En (3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Reading:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aden Low (2F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Instagram:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Charlene Ong (3A) &amp; Nadia Binte Saifuddin (3A)</p>
+<p>Aden Low Yan Zuo (3F)</p>
 </td>
 </tr>
 <tr>

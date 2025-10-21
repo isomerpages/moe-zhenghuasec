@@ -41,39 +41,7 @@ variant: tiptap
 <p>Chairman:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Aiman (3H)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Chairman:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rian Peh Xuan Wei (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aloysius Ang (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ryan Wong (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Destinee Teo (3B)</p>
+<p>Chiam Su Hun (3G)</p>
 </td>
 </tr>
 </tbody>

@@ -17,14 +17,6 @@ variant: tiptap
 <p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Xin Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Sam Soo</p>
 </td>
 </tr>
@@ -33,7 +25,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Xin Ping</p>
 </td>
 </tr>
 <tr>
@@ -46,74 +38,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson and Head of First Aid:</p>
+<p>Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daphne Ng Li Lin (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower-Secondary Cadet IC:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jaimee Lee (2A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Disaster Management:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deann Maisarah Binte Muhammad Ezzat (3D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Red Cross Knowledge:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eva Aqilah Binte Hidayat (3H)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sub-head of Red Cross Knowledge:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Darwisy Hafiy Bin Saisofi Sofian Hadi (3C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Youth Ambassador Blood Programme:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jovan Chioh Sheng Kai (3B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Service Learning:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bryant Lim Kai Heng (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Footdrill:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nurulsyaurah Zawanah Binte Mohamed Rafi (3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Physical Training:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Mun Sun (3F)</p>
+<p>Suhaifiq Bin Suhaidi (3E)</p>
 </td>
 </tr>
 </tbody>
@@ -138,29 +66,5 @@ and professionalism for the service of mankind.</p>
 <blockquote>
 <p>Interacting with cadets from other UGs in a game of 'Guardians of the
 City'</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/2.jpg">
-</div>
-<blockquote>
-<p>Participants of the First Aid Championships (FAC) 2024, Junior Category</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/3.jpg">
-</div>
-<blockquote>
-<p>Participants of the First Aid Championships (FAC) 2024, Senior Category</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/4.jpg">
-</div>
-<blockquote>
-<p>Treating casualties at the nerve-wracking FAC 2024</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/5.jpg">
-</div>
-<blockquote>
-<p>We attained the Excellent Unit Gold Award in 2023!</p>
 </blockquote>
 <p></p>
