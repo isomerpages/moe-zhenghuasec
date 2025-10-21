@@ -123,10 +123,4 @@ collaborations, our choir builds school spirit and promotes self-expression.</p>
 <blockquote>
 <p>ZSS Open House</p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/SICF_Participation_in_2018.jpg">
-</div>
-<blockquote>
-<p>SICF Participation in 2018</p>
-</blockquote>
 <p></p>
