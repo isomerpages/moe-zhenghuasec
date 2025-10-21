@@ -70,90 +70,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>'B' Division Captain:</p>
+<p>Captain:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Rizki Bin Shariff (4D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>'B' Division Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Nur Fitri Bin Muhammad (4F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary Quartermaster:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jayden Raye Williams (4E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3 Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Danish Rayfan Bin Muhamad Nasri (3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3 Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ryan Syabir Kurniawan (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yew Lip Vui (3H)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>'C' Division Boys Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Yun Xiang (2G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>'C' Division Boys Vice-Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frederic Chan Guan You (2E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rizq' Farrell Bin Masri (2E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Executive Committee:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary : Muhammad Aqil Ridwan Bin Muhammad Nurul Faris (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary: Sheik Darwisy Bin Sheik Danil (2E)</p>
+<p>Lee Yun Xiang (3B)</p>
 </td>
 </tr>
 </tbody>
