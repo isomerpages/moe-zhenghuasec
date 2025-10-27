@@ -6,23 +6,18 @@ third_nav_title: Student Management
 variant: tiptap
 ---
 <h4><strong><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
 </p>
 <p>Technology is an essential part of learning in today’s world.</p>
-<p>&nbsp;</p>
-<p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
+<p>&nbsp;This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
 safely and responsibly, in line with efforts to develop your digital literacies
 and growth as digitally responsible citizens.</p>
-<p>&nbsp;</p>
-<p>EdTech resources include the following, but are not limited to:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning
-devices (e.g. Personal Learning Devices (PLDs), school devices)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICT
-system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and</p>
-<p>school internet networks.</p>
+<p>&nbsp;EdTech resources include the following, but are not limited to:</p>
+<p>-&nbsp;&nbsp;Learning devices (e.g. Personal Learning Devices (PLDs),
+school devices)</p>
+<p>-&nbsp;&nbsp;ICT system accounts (e.g. Singapore Student Learning Space
+(SLS), iCON); and school internet networks.</p>
 <p>&nbsp;</p>
 <p>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
@@ -31,38 +26,21 @@ system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and</p>
 <p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
 (Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
-<p>&nbsp;</p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<hr>
 <p><strong>General</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; You should not attempt to access data, system
 and information that you are not authorised to.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; You are reminded that the use of learning devices
 and school’s EdTech resources should solely be for the purpose of learning.</p>
-<p><strong>[For Secondary Schools] Using your PLD</strong>
+<p><strong>Using your PLD</strong>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; You are responsible for your PLD. In the event
 of loss or theft of the device, you must make a police report and report
 the matter to the school.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; In order to have a positive learning experience,
 you should ensure that your PLD is fully charged before bringing it to
-school. Should you need to charge your PLD in school, you should only do
-so at the school’s designated charging stations, during recess and/or after-school
-hours.<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
-</p>
+school.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; You are reminded to keep your PLD updated by
 installing the relevant patches and updates when being prompted by the
 system.</p>
@@ -70,8 +48,7 @@ system.</p>
 Application (DMA) to support a safe and conducive learning environment.&nbsp;
 You should not attempt to bypass the DMA.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp; You are responsible for regularly backing up
-your learning materials in your PLD to prevent data loss. <a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
-</p>
+your learning materials in your PLD to prevent data loss.</p>
 <p><strong>Being a Responsible Digital Citizen</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp; You should interact with others in a respectful
@@ -88,8 +65,7 @@ embarrassment, impersonate or intimidate others.</p>
 <p>10.&nbsp; You should not use MOE/school-deployed ICT system accounts for
 any commercial activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
-with the school’s discipline policy.<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>
-</p>
+with the school’s discipline policy.</p>
 <p><strong>Respecting Copyright</strong>
 </p>
 <p>11.&nbsp; You are reminded to obtain explicit permission from the content
@@ -111,11 +87,9 @@ yourself if you pass off other’s work as your own.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>16. You should report any incidents (e.g. unusual device behaviour or
-inappropriate use of devices), to the school. <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>
-</p>
-<p>&nbsp;</p>
-<p>17. You are reminded to develop online safety habits. This includes not
-disclosing personal access credentials (e.g. MIMS password, PLD passcode,
+inappropriate use of devices), to the school.</p>
+<p>&nbsp;17. You are reminded to develop online safety habits. This includes
+not disclosing personal access credentials (e.g. MIMS password, PLD passcode,
 etc.), sensitive personal data (e.g. home address, passwords) online or
 on AI platforms, verifying credibility of online content before sharing,
 avoiding clicking on suspicious links or downloading unknown files, and
@@ -128,20 +102,8 @@ and outdated information.</p>
 </p>
 <p>19. You are reminded to balance screentime with other activities including
 physical exercise and face-to-face social interactions.</p>
-<p>&nbsp;</p>
-<p>20. You should avoid excessive use of your devices outside learning hours.</p>
+<p>&nbsp;20. You should avoid excessive use of your devices outside learning
+hours.</p>
 <p>21. You should take regular breaks to rest your eyes and mind.</p>
 <p>22. You are reminded to practice good sleep hygiene by not using your
 devices one hour before bedtime.</p>
-<p>
-<br>
-</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>  <em>Schools can customise this in accordance with existing school routines.</em>
-</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>  <em>Schools can add link to the “Digital Literacy and Technological Skills – File Management and Data Backup” Module on SLS</em>
-</p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>  <em>Schools can customise this in accordance with existing school rules / classroom routines.</em>
-</p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>  <em>School can request students to inform Form Teacher or provide an email of the ICT team for students to report</em>
-</p>
