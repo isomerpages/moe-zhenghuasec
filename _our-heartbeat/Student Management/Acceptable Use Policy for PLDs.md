@@ -74,7 +74,7 @@ in an unauthorised or illegal manner.</p>
 <p>13.&nbsp; You must ensure that you meet the minimum age requirement specified
 in each AI tool's age restrictions before using it.</p>
 <p>14.&nbsp; If the use of AI is permitted, you should acknowledge the use
-of AI in weighted assessments and homework as required.3</p>
+of AI in weighted assessments and homework as required.</p>
 <p>15.&nbsp; You are to practice academic integrity and be responsible for
 your own learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.</p>
