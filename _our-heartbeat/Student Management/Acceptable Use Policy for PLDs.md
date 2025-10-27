@@ -18,8 +18,7 @@ and growth as digitally responsible citizens.</p>
 school devices)</p>
 <p>-&nbsp;&nbsp;ICT system accounts (e.g. Singapore Student Learning Space
 (SLS), iCON); and school internet networks.</p>
-<p>&nbsp;</p>
-<p>For more information, please refer to:</p>
+<p>&nbsp;For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
 (Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
@@ -81,10 +80,8 @@ your own learning when using AI. Understand that you are ultimately short-changi
 yourself if you pass off other’s work as your own.</p>
 <p><strong>Staying Safe and Secure online</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>16. You should report any incidents (e.g. unusual device behaviour or
-inappropriate use of devices), to the school.</p>
+<p><strong>&nbsp;</strong>16. You should report any incidents (e.g. unusual
+device behaviour or inappropriate use of devices), to the school.</p>
 <p>&nbsp;17. You are reminded to develop online safety habits. This includes
 not disclosing personal access credentials (e.g. MIMS password, PLD passcode,
 etc.), sensitive personal data (e.g. home address, passwords) online or
