@@ -80,10 +80,10 @@ your own learning when using AI. Understand that you are ultimately short-changi
 yourself if you pass off other’s work as your own.</p>
 <p><strong>Staying Safe and Secure online</strong>
 </p>
-<p><strong>&nbsp;</strong>16. You should report any incidents (e.g. unusual
-device behaviour or inappropriate use of devices), to the school.</p>
-<p>&nbsp;17. You are reminded to develop online safety habits. This includes
-not disclosing personal access credentials (e.g. MIMS password, PLD passcode,
+<p>16. You should report any incidents (e.g. unusual device behaviour or
+inappropriate use of devices), to the school.</p>
+<p>17. You are reminded to develop online safety habits. This includes not
+disclosing personal access credentials (e.g. MIMS password, PLD passcode,
 etc.), sensitive personal data (e.g. home address, passwords) online or
 on AI platforms, verifying credibility of online content before sharing,
 avoiding clicking on suspicious links or downloading unknown files, and
@@ -96,8 +96,7 @@ and outdated information.</p>
 </p>
 <p>19. You are reminded to balance screentime with other activities including
 physical exercise and face-to-face social interactions.</p>
-<p>&nbsp;20. You should avoid excessive use of your devices outside learning
-hours.</p>
+<p>20. You should avoid excessive use of your devices outside learning hours.</p>
 <p>21. You should take regular breaks to rest your eyes and mind.</p>
 <p>22. You are reminded to practice good sleep hygiene by not using your
 devices one hour before bedtime.</p>
