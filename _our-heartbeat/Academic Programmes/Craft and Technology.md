@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft &amp; Technology/Craft_and_Technology_0643.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/Craft___Technology_1764.jpg">
 </div>
 <p>
 <br>
@@ -20,41 +20,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name of Head of Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hamidah Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Subject Head</strong>
+<p><strong>Head of Department:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hamidah Ali</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Names of Members of the Department</strong>
+<p><strong>Names of Members of the Department:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,10 +64,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yam Wah (TSO)</p>
+<p>Mr Loh Yam Wah (Stem Instructor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rushdi (TSO)</p>
+<p>Mr Rushdi (Stem Instructor)</p>
 </td>
 </tr>
 <tr>
