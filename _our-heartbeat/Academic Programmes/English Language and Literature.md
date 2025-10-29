@@ -211,6 +211,18 @@ persuasive communicators.</p>
 <p>Participation</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Flash Fiction (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHERVELLE TAN QIAN NING (2G)
+<br>TAN YAN JIUNN (2F)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Upper Secondary Set Text Debate - Winner</strong>
