@@ -269,43 +269,4 @@ persuasive communicators.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Upper Secondary Set Text Debate - Winner</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Haziq Zahfran (4E4)</p>
-</li>
-<li>
-<p>Dumaguing Ewanne (4E1)</p>
-</li>
-<li>
-<p>Ching Phebe (4E1)</p>
-</li>
-<li>
-<p>Nur'Ariqah Farisya (4E1)</p>
-</li>
-</ol>
-<p><strong>16th Inter-School Philosophy Dialogue</strong>
-</p>
-<p>Gadfly Award - Hayden Chong (3E2)</p>
-<p><strong>Write and Burn! Challenge (Poetry Festival Singapore)</strong>
-</p>
-<p>Consolation Prize for Original Poem, 'A Flower in my Room' - Joshua Nai
-Yee Le (3E4)</p>
-<p><strong>POSB-NLB Literature Quiz 2019</strong>
-<br>Top 15 Teams Nationally:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Leong Hong Kit Lucas (1E4)</p>
-</li>
-<li>
-<p>Nathan Pow (1E3)</p>
-</li>
-<li>
-<p>Nur Dini Ayouni Bte Md Haizuran (1E4)</p>
-</li>
-<li>
-<p>Vivian Yii Jia Xien (1E4)</p>
-</li>
-</ol>
 <p></p>
