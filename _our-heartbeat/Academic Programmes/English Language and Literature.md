@@ -188,13 +188,27 @@ persuasive communicators.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Advisor for SSDC and RP DBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN ZHI YA MIKO (3C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>YMCA Plain English Speaking Awards (PESA) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURUL NUWAIRAH ZAWIAH BINTE MOHAMED RAFI (3A)
+<br>JERVIS TAY HONG XIN (4A)
+<br>NATALIE BOO TAWANCHAI RUI QING (FU RUIQING) (4B)
+<br>JERENE TAN XIN YI (4B)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
 </td>
 </tr>
 </tbody>
