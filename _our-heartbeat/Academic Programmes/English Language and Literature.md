@@ -223,6 +223,50 @@ persuasive communicators.</p>
 <p>Participation</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Flash Fiction (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAEANN KOH YUHUI (3F)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Book Trailer (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JAIDYN (1B)
+<br>LEE AI NING ANGELYNE (1B)
+<br>NOR QO'ADRIANNA BINTE MUHAMMAD QO'AZA (1B)
+<br>NG SIM HWEE (1B)
+<br>GRACE TAN KAI HNG (1F)
+<br>SOFEA REHANNA BINTE MOHAMMAD HATTA (1F)
+<br>TWE TAR MYO OO (1G)
+<br>ANG MAN EN (1H)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Unseen Poem Debate (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE HAO LIN, CLARENCE (4A)
+<br>NERICE NG YUTING (4A)
+<br>CHARLENE ONG ZI YI (4A)
+<br>SHREYA PILLA (4D)
+<br>TAN YAN ZE, JAVIER (4D)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Upper Secondary Set Text Debate - Winner</strong>
