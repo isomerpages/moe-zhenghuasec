@@ -8,11 +8,9 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English Language &amp; Literature/English_Language_and_Literature_0600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/English_Language_Dept_1745.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -107,68 +105,100 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programmes Highlights and Enrichment Activities</h3>
-<p>The belief that every student is able to grow in their repertoire and
-knowledge of the English language as they journey with us at Zhenghua Secondary
-School is a belief that the English and Literature department holds close
-to our hearts. It forms the crux of how we teach, prepare, develop and
-nurture our learners into confident, reflective, critical thinkers and
-communicators of the 21st&nbsp;century.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English%20Language%20&amp;%20Literature/E2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English%20Language%20&amp;%20Literature/E3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English%20Language%20&amp;%20Literature/E4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English%20Language%20&amp;%20Literature/E5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/English%20Language%20&amp;%20Literature/E6.png">
-</div>
+<p>The English and Literature Department at Zhenghua Secondary School offers
+students diverse opportunities to develop their language skills and literary
+appreciation through authentic experiences. Literature comes alive in our
+drama workshops, where students role-play and perform excerpts from the
+local play <em>Don’t Know, Don’t Care</em>, allowing them to express creativity
+and deepen their understanding of texts.</p>
+<p>In English, Secondary 3 students sharpen their reasoning and communication
+skills through class debates and external competitions such as the Orator’s
+Trophy and YMCA Plain English Speaking Awards (PESA). Students have shared
+that these experiences boosted their confidence in public speaking and
+taught them to articulate their ideas with clarity and conviction.</p>
+<p>Beyond the classroom, our students participate actively in national platforms
+such as the Singapore Secondary Schools Debating Championships, the National
+Schools Literature Festival, the Unity Writers’ Festival, and various digital
+challenges, further stretching their potential as critical thinkers and
+persuasive communicators.</p>
 <p><strong>Achievements</strong>
 </p>
-<p><strong>National Schools Literature Festival</strong>
-<br><strong>Lower Secondary Choral Speaking - Bronze</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Caitlin Lam (1E2)</p>
-</li>
-<li>
-<p>Dzann Ku (1E2)</p>
-</li>
-<li>
-<p>Pek Min Xi (1E2)</p>
-</li>
-<li>
-<p>Andy Lim (1E2)</p>
-</li>
-<li>
-<p>Muhammad Al-Fizrin (1E2)</p>
-</li>
-<li>
-<p>Tan Guan Xu (1E2)</p>
-</li>
-<li>
-<p>Santos Ena (1N2)</p>
-</li>
-<li>
-<p>Jasmine Tan (1N2)</p>
-</li>
-<li>
-<p>Shaakira Aliyah (1N2)</p>
-</li>
-<li>
-<p>Amir Danish (1N2)</p>
-</li>
-</ol>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG EN TING RAYLENE (2B)</p>
+<p>MILDRED EVE LIM HAN (2G)</p>
+<p>SHERVELLE TAN QIAN NING (2G)
+<br>DYLAN YEO (3E)
+<br>ASHLEY GOH (3E)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic Digital Business Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG EN TING RAYLENE (2B)
+<br>MILDRED EVE LIM HAN (2G)
+<br>SHERVELLE TAN QIAN NING (2G)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>People's Choice Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic Digital Business Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YEN OANH YI EN (2A)
+<br>ANG LE YING (2G)
+<br>JOSEPHINE TOH YU TING (2H)
+<br>TAN XIN YAN LYVIA (2H)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Group Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic Digital Business Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YI FEI YVETTE (2H)
+<br>GLORIA TAN SI YING (2F)
+<br>CHUA YEE KIT (2F)
+<br>NAUREEN ALIYAH BINTE MUHAMMAD NOOR (2B)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Group 2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Upper Secondary Set Text Debate - Winner</strong>
 </p>
 <ol data-tight="true" class="tight">
