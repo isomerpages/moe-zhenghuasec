@@ -157,5 +157,33 @@ and on national platforms like the PassionArts Festival.</p>
 <p>Together, these three units form a dynamic department that nurtures confident
 learners, creative thinkers, and adaptive problem-solvers who are ready
 to contribute meaningfully to society.</p>
+<p><em>Secondary Two students working on development – mock-up, and development of their ideas</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Secondary_Two_students_working_on_development___mock_up__and_development_of_their_ideas.jpg">
+</div>
+<p><em>Glow-getters for good vibes and cozy nights</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Glow_getters_for_good_vibes_and_cozy_nights.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Picture3.jpg">
+</div>
+<p><em>Learning Journey to Kamal Art Studios - Batik Art</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Learning_Journey_to_Kamal_Art_Studios___Batik_Art.jpg">
+</div>
+<p><em>Sec 2 students doing experimental pancakes</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Sec_2_students_doing_experimental_pancakes.png">
+</div>
+<p><em>Preparing the strawberries for the garnishes</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Preparing_the_strawberries_for_the_garnishes.jpg">
+</div>
 <p></p>
