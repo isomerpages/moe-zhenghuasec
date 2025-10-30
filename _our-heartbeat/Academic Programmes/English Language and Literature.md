@@ -298,3 +298,10 @@ persuasive communicators.</p>
 <p>Warming up for the workshop</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/EL/Confidently_making_well_considered_rebuttals.jpg">
+</div>
+<blockquote>
+<p>Confidently making well-considered rebuttals</p>
+</blockquote>
+<p></p>
