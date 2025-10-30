@@ -64,3 +64,10 @@ new possibilities.&nbsp;</p>
 <p>Chinese New Year Stage Decoration</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/2_2025.jpg">
+</div>
+<blockquote>
+<p>Award Ceremony for World Aquatics Championships</p>
+</blockquote>
+<p></p>
