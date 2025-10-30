@@ -12,14 +12,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name of Members of the Department
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mr Derrick Lim (S.H CCE)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Head Of Department:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Robin Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members of the Department:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Derrick Lim (Music Coordinator)
+<br>Mr Jacobe Lim</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
