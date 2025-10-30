@@ -193,3 +193,11 @@ strong lifelong connections to language, culture, and identity.</p>
 </p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture7.jpg">
+</div>
+<blockquote>
+<p><strong>Podcast in Action - Sec 3 students present their live vodcast, bringing their creative voices and digital skills to the classroom spotlight.</strong>
+</p>
+</blockquote>
+<p></p>
