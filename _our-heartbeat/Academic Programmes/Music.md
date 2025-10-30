@@ -28,30 +28,20 @@ variant: tiptap
 <br>Mr Jacobe Lim</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Aesthetics programme seeks to empower our students with the knowledge,
-skills, and disposition to appreciate and participate in music.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics1.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Musical understanding is developed through listening, responding, creating,
-and performing. The learning of musical elements and concepts through various
-musical activities provide students with the means to understand and engage
-with music across genres and local and global cultures.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics2.jpg">
-</div>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
+<p>The Music Programme at Zhenghua Secondary School provides students with
+opportunities to explore rhythm, melody, harmony, and creativity through
+performance and composition.</p>
+<p>Grounded in our school vision of developing Dynamic Learners, Thoughtful
+Contributors, and Exemplary Leaders, the programme helps students build
+confidence, teamwork, and communication skills through music-making.</p>
+<p>At the lower secondary level, Sec 1 students learn cajón and guitar, performing
+as ensembles and sharing their music with peers through platforms such
+as canteen screenings and break-time showcases. Sec 2 students advance
+their skills on the ukulele, applying techniques such as tab reading and
+plucking in band performances. They also engage in songwriting, combining
+lyrics, chords, and melodies to create original works.</p>
+<p>Through these experiences, students develop discipline, collaboration,
+and creativity, while discovering the joy of expressing themselves through
+music.</p>
