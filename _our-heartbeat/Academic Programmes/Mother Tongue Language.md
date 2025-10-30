@@ -8,11 +8,9 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/Mother_Tongue_Language_0608.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/Mother_Tongue_Language_1756.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -127,6 +125,19 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programmes Highlights and Enrichment Activities</h3>
+<p>The Mother Tongue Languages department continued to bring the joy of learning
+to our students, who brought it to life, experiencing it as a language
+that grows with them, deeply connected to their roots and real-world moments,
+used confidently in daily life. Through engaging project work, exciting
+learning journeys, and vibrant cultural festivities, students experienced
+applied learnings that went beyond the classroom. From celebrating Chinese
+New Year and Hari Raya to exploring traditional arts and stories, each
+activity deepened students’ appreciation of their heritage.</p>
+<p>Students reflected that these experiences made them “<em>learn well</em> while
+having fun” and helped them see the beauty of their mother tongue in action.
+By connecting lessons to real-world contexts and cultural traditions, we
+nurtured a love for both the Malay Language and Chinese Language, building
+strong lifelong connections to language, culture, and identity.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
