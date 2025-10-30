@@ -291,3 +291,10 @@ persuasive communicators.</p>
 <p>Acting a scene</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/EL/Warming_up_for_the_workshop_.jpg">
+</div>
+<blockquote>
+<p>Warming up for the workshop</p>
+</blockquote>
+<p></p>
