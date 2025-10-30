@@ -57,4 +57,10 @@ and build their leadership skills. No matter their background or experience,
 every student has a place here to grow, share their work, and discover
 new possibilities.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/1_2025.jpg">
+</div>
+<blockquote>
+<p>Chinese New Year Stage Decoration</p>
+</blockquote>
 <p></p>
