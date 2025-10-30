@@ -161,3 +161,19 @@ strong lifelong connections to language, culture, and identity.</p>
 </p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture3.jpg">
+</div>
+<blockquote>
+<p><strong>Kain samping on, smiles all around - thanks to our Raya Ambassador!</strong>
+</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture4.jpg">
+</div>
+<blockquote>
+<p><strong>Our class representatives shine on stage in colourful Malay traditional costumes, bringing festive cheer to the competition.</strong>
+</p>
+</blockquote>
+<p></p>
