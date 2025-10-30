@@ -138,78 +138,26 @@ having fun” and helped them see the beauty of their mother tongue in action.
 By connecting lessons to real-world contexts and cultural traditions, we
 nurtured a love for both the Malay Language and Chinese Language, building
 strong lifelong connections to language, culture, and identity.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Creative Writing Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/creative_writing_workshop.png">
-</div>
+<h3>Achievements</h3>
+<p><strong>ML Writing Competition "Saya Boleh Mengarang"</strong>
+<br>Priscilla Alexia Bong 2F - Gold
+<br>Muhammad Sharhan Mohd Sallehan 2H - Silver
+<br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
+<br>Nuryn Eiliyah Bt Ahmad As'ad 1E - Bronze</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Chinese Painting Workshop</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture1.jpg">
 </div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cultural Activities - Angklung</strong>
+<blockquote>
+<p><strong>Lion dance roaring in the new year.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities.png">
-</div>
+</blockquote>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ML Language Workshop</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture2.jpg">
+</div>
+<blockquote>
+<p><strong>Class efforts for a angbao god of fortune dress up.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/language_workshops.png">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Tea Appreciation</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/cultural_activities_3.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CL Language Workshop</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/language_workshops_2.png">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Oracy Workshop</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/Mother Tongue Languages/oracy_workshop.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+</blockquote>
 <p></p>
