@@ -201,3 +201,11 @@ strong lifelong connections to language, culture, and identity.</p>
 </p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture8.png">
+</div>
+<blockquote>
+<p><strong>Speaking with confidence in front of the camera.</strong>
+</p>
+</blockquote>
+<p></p>
