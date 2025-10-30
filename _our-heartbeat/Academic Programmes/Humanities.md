@@ -187,3 +187,11 @@ the coolie trade at a historical sculpture site; connecting heritage with
 real-world exploration.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture3.jpg">
+</div>
+<blockquote>
+<p>From equations to flood control, students at Marina Barrage combined Math
+and Geography using their PLDs to understand Singapore’s approach to sustainability</p>
+</blockquote>
+<p></p>
