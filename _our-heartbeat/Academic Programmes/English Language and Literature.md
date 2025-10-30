@@ -284,3 +284,10 @@ persuasive communicators.</p>
 <p>Performance Time</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/EL/Acting_a_scene.jpg">
+</div>
+<blockquote>
+<p>Acting a scene</p>
+</blockquote>
+<p></p>
