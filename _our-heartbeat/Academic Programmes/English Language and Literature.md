@@ -305,3 +305,10 @@ persuasive communicators.</p>
 <p>Confidently making well-considered rebuttals</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/EL/Delivering_my_point_confidently.jpg">
+</div>
+<blockquote>
+<p>Delivering my point confidently</p>
+</blockquote>
+<p></p>
