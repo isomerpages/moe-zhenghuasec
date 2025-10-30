@@ -170,3 +170,20 @@ resolutions in a simulation of the United Nations. We are proud to celebrate
 Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the <em>Most Outstanding Delegate Award</em>,
 showcasing their excellence and dedication at the conference.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture1.jpg">
+</div>
+<blockquote>
+<p>Students sketching the iconic Botero Bird along the Singapore River, blending
+history, heritage, and art into a meaningful learning experience.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture2.jpg">
+</div>
+<blockquote>
+<p>Students learning by the Singapore River, presenting their research on
+the coolie trade at a historical sculpture site; connecting heritage with
+real-world exploration.</p>
+</blockquote>
+<p></p>
