@@ -195,3 +195,20 @@ real-world exploration.</p>
 and Geography using their PLDs to understand Singapore’s approach to sustainability</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture4.jpg">
+</div>
+<blockquote>
+<p>Our IMUNC delegates representing the school with pride — building confidence,
+forging friendships, and shining on the global stage!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture5.jpg">
+</div>
+<blockquote>
+<p>Well done to our students for shining at the 10th National History Card
+Challenge Game, showcasing knowledge, strategy, and teamwork under the
+theme War and Diplomacy!</p>
+</blockquote>
+<p></p>
