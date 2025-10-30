@@ -169,3 +169,4 @@ issues. Over several days, they researched, collaborated, and presented
 resolutions in a simulation of the United Nations. We are proud to celebrate
 Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the <em>Most Outstanding Delegate Award</em>,
 showcasing their excellence and dedication at the conference.</p>
+<p></p>
