@@ -24,13 +24,12 @@ their school after returning to Singapore.</p>
 </li>
 </ul>
 <h4><strong>LOA Fee</strong></h4>
-<p>The school will charge an annual nominal fee for a child on LOA.&nbsp;
-As a guide, the annual LOA fee for secondary schools will be at least $60.</p>
+<p>The school will charge an annual nominal fee of $240 for a child on LOA.</p>
 <p>More details on the LOA scheme can be found on the MOE website&nbsp;
 <a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4><strong>Application</strong></h4>
-<p>Click <a href="https://form.gov.sg/6784da402a99be27703a9160" rel="noopener nofollow" target="_blank">here</a> if
+<p>Click <a href="https://form.gov.sg/68ef6273574eb6e087b03590" rel="noopener nofollow" target="_blank">here</a> if
 you wish to apply for the LOA scheme for your child.
 <br>
 <br>Please note that the LOA application is subject to the Principal’s approval,
