@@ -177,3 +177,19 @@ strong lifelong connections to language, culture, and identity.</p>
 </p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture5.jpg">
+</div>
+<blockquote>
+<p><strong>CL students enjoying communal dining and etiquette of dining.</strong>
+</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture6.jpg">
+</div>
+<blockquote>
+<p><strong>Students in action, chatting with the stall Pakcik to uncover the stories and flavors behind his food.</strong>
+</p>
+</blockquote>
+<p></p>
