@@ -8,11 +8,9 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/HUMANITIES_DEPARTMENT_0591.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/Humanities_Dept_1750.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Soo Boon Siang (SH GE/NE)</p>
+<p>Mr Sam Soo Boon Siang (SH GEOG/NE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,7 +121,7 @@ variant: tiptap
 <p>Ms Isabel Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lynn Chew</p>
 </td>
 </tr>
 </tbody>
