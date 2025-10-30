@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/SCIENCE_DEPARTMENT_0581.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/Science_1790.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
