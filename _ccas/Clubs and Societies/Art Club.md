@@ -71,3 +71,17 @@ new possibilities.&nbsp;</p>
 <p>Award Ceremony for World Aquatics Championships</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/1_2025.jpg">
+</div>
+<blockquote>
+<p>Postcard by Lee Yu Han to encourage the athletes at World Aquatics Championship</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/4_2025.jpg">
+</div>
+<blockquote>
+<p>Presentation of Resin Artwork to our Guest-of-Honour at 26th Awards Day</p>
+</blockquote>
+<p></p>
