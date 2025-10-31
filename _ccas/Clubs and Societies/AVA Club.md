@@ -85,3 +85,10 @@ and technology.</p>
 <p>Learning journey on music production @ Republic Polytechnic</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Picture4_2025.png">
+</div>
+<blockquote>
+<p>Song dedication service during our school event</p>
+</blockquote>
+<p></p>
