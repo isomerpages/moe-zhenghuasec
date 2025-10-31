@@ -71,3 +71,10 @@ and technology.</p>
 <p>AVA club crew members involved in audio systems and stage lighting.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Picture2_2025.png">
+</div>
+<blockquote>
+<p>Busy in the control room during one of the rehearsals</p>
+</blockquote>
+<p></p>
