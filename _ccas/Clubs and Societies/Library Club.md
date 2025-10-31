@@ -139,3 +139,17 @@ reading platforms and different genres of books</p>
 <p>Flash reading event</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Flash_Reading_Event_1_2025.jpg">
+</div>
+<blockquote>
+<p>Flash reading event</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Blind_Date_with_a_Book_2025.jpg">
+</div>
+<blockquote>
+<p>Blind date with a book</p>
+</blockquote>
+<p></p>
