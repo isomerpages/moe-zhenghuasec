@@ -125,3 +125,10 @@ reading platforms and different genres of books</p>
 <p>New Arrivals Event</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Happy_Valentines_Day_2025.jpg">
+</div>
+<blockquote>
+<p>Happy Valentine's Day!</p>
+</blockquote>
+<p></p>
