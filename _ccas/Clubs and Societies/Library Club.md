@@ -118,3 +118,10 @@ reading platforms and different genres of books</p>
 <p>New Arrivals Event for Top Readers</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/New_Arrivals_Event_2025.jpg">
+</div>
+<blockquote>
+<p>New Arrivals Event</p>
+</blockquote>
+<p></p>
