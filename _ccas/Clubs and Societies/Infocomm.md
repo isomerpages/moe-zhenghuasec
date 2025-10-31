@@ -88,3 +88,12 @@ journey to Gardens by the Bay's Cloud Forest, capturing Singapore's iconic
 attractions through their lenses.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/3__Tech_1_2025.jpg">
+</div>
+<blockquote>
+<p>Student leaders gain industry insights during an exclusive visit to Google
+Singapore's office at the National Youth Tech Championships, exploring
+career pathways in technology and innovation.</p>
+</blockquote>
+<p></p>
