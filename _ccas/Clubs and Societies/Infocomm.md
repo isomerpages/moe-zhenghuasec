@@ -97,3 +97,12 @@ Singapore's office at the National Youth Tech Championships, exploring
 career pathways in technology and innovation.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/5__Tech_3_2025.jpg">
+</div>
+<blockquote>
+<p>A student demonstrates advanced coding skills at the National Youth Tech
+Championships, programming a drone to navigate complex obstacle courses
+with precision</p>
+</blockquote>
+<p></p>
