@@ -46,52 +46,28 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>The objective of the AVA&nbsp; Club is to help students learn about the
-use of audio and video equipment. It provides a space for students to be
-creative, work on projects like videos and sound tracks. We also support
-school events like assemblies, concerts, or plays. The club also encourages
-teamwork and inculcates school values while helping students build technical
-skills, and gives them opportunities to explore careers in media and technology.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The AVA Club introduces students to audio and video technology through
+hands-on experience with sound systems, stage lighting, and editing software.
+Members support school events like assemblies and concerts, work on creative
+media projects, and develop teamwork, responsibility, and school values.
+The club builds technical skills and opens pathways to careers in media
+and technology.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Troubleshooting__1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Picture1_2025.png">
 </div>
 <blockquote>
-<p>Troubleshooting</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Training_the_Secondary_1_members.jpg">
-</div>
-<blockquote>
-<p>Training the Secondary 1 members</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Stage_management_training.jpg">
-</div>
-<blockquote>
-<p>Stage management training</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Lighting_effects.jpg">
-</div>
-<blockquote>
-<p>Lighting effects</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Controlling_the_outdoor_sound_system.jpg">
-</div>
-<blockquote>
-<p>Controlling the outdoor sound system</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/AVA Club/Weekly_Assembly.jpg">
-</div>
-<blockquote>
-<p>Weekly Assembly</p>
+<p>AVA club crew members involved in audio systems and stage lighting.</p>
 </blockquote>
 <p></p>
