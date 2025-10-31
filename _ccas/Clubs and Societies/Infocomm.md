@@ -72,42 +72,19 @@ leadership, teamwork, and problem-solving abilities essential for future
 success.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/1__Media_1_2025.jpg">
 </div>
+<blockquote>
+<p>Club members immerse themselves in professional broadcast facilities during
+a learning journey, exploring diverse pathways in media and creative industries</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/2__Media_2_2025.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_8.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_9.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_11.png">
-</div>
+<blockquote>
+<p>Infocomm Club members hone their photography skills during a learning
+journey to Gardens by the Bay's Cloud Forest, capturing Singapore's iconic
+attractions through their lenses.</p>
+</blockquote>
 <p></p>
