@@ -106,3 +106,12 @@ Championships, programming a drone to navigate complex obstacle courses
 with precision</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/7__Tech_5_2025.jpg">
+</div>
+<blockquote>
+<p>The Infocomm Club celebrates success at the National AI Student Challenge
+2025, with participants and teachers displaying their championship titles
+across multiple categories</p>
+</blockquote>
+<p></p>
