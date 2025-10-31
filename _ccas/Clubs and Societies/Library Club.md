@@ -132,3 +132,10 @@ reading platforms and different genres of books</p>
 <p>Happy Valentine's Day!</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Flash_Reading_Event_2025.jpg">
+</div>
+<blockquote>
+<p>Flash reading event</p>
+</blockquote>
+<p></p>
