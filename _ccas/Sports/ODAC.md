@@ -134,3 +134,11 @@ ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</su
 <p>Instructor teaching safe landing techniques to our ODAC students</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Sharing food over our picnic-cum-kite flying and bonding session at Marina
+Barrage</p>
+</blockquote>
+<p></p>
