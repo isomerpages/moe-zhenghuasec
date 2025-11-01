@@ -145,3 +145,10 @@ Participation&nbsp;</p>
 <p>Our full B Division Boys Football team</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Our C Division team – getting ready for match kick-off, team cheer time</p>
+</blockquote>
+<p></p>
