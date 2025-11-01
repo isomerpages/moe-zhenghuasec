@@ -62,50 +62,59 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>The Drama Club aims to nurture students’ creativity, confidence, and communication
-skills through hands-on experiences in acting, scriptwriting, and production.
-Through collaborative projects and performances, members develop teamwork,
-empathy, and emotional awareness, while gaining an appreciation for local
-and global theatrical traditions. With opportunities to perform at school
-events and community showcases, the Drama Club prepares students for a
-well-rounded, enriching experience in the performing arts.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Drama Club nurtures creativity, confidence, and communication skills
+through acting, scriptwriting, and stage production. Members collaborate
+on performances that build teamwork, empathy, and emotional awareness,
+while gaining an appreciation of both local and global theatrical traditions.
+Beyond performance, students also explore stagecraft and production, developing
+a deeper understanding of theatre as an art form. The club offers platforms
+to showcase talent at school events, community programmes, and at national
+level, including participation in the Singapore Youth Festival. These experiences
+challenge students to perform at higher standards, fostering resilience,
+discipline, and excellence. By engaging in diverse productions, members
+grow not only as performers but also as confident communicators and creative
+problem-solvers. The Drama Club ultimately provides a rich and rewarding
+journey that cultivates passion for the arts, builds character, and celebrates
+the power of storytelling.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+<br>Singapore Youth Festival: Certificate of Accomplishment</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Students are thoughtfully reflecting on their experiences after the debriefing
-session!</p>
+<p>Euphoria after giving our all at the SYF</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Behind the scenes of how we choose the right person for each role – it
-requires our students to step up and have the confidence to take part in
-an audition.</p>
+<p>Scene from SYF</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Picture3_2025.jpg">
 </div>
 <blockquote>
-<p>Saying farewell to our Secondary 4 students who have stepped down from
-CCA this semester! It was a heartfelt event where we appreciate and honour
-the seniors of the club for all that they have done!</p>
+<p>GIving our all at the SYF!</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Picture4_2025.jpg">
 </div>
 <blockquote>
-<p>Drama students putting up their first major performance of the year! The
-performance for ZSS 25<sup>th</sup> Anniversary Day was a resounding success!</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Drama_Club_Photo_7.jpg">
-</div>
-<blockquote>
-<p>Weekly training with our instructor – our students are being attentive
-and brainstorming ideas for the Singapore Youth Festival that will happen
-in 2025!</p>
+<p>SYF 2025 – Culmination of hard work and dedication!</p>
 </blockquote>
 <p></p>
