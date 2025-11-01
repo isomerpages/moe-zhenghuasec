@@ -128,3 +128,10 @@ wider community.</p>
 <p>Celebrating our passion for music together!</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Concert_Band_2_2025.jpg">
+</div>
+<blockquote>
+<p>United in music, bonded as one family — One Band, One Sound!</p>
+</blockquote>
+<p></p>
