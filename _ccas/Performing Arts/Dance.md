@@ -103,30 +103,55 @@ and performances.</p>
 </tr>
 </tbody>
 </table>
-<p>Affectionately known as The Freshmakerz, our dancers dance with passion
-and pride, embracing both Contemporary Malay Dance and Street Dance. From
-national competitions to school performances, our dancers immerse themselves
-in the art, growing in skill and confidence. But it’s more than just dance—we
-build friendships with those who share our love for this art form. Supporting
-one another and having fun, we push our limits and make every moment, on
-and off the dance floor, meaningful and memorable.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Zhenghua Dance Club – Where Tradition Meets Rhythm.</strong>
+<br>We celebrate the best of both worlds by training our dancers in Malay
+Contemporary Dance and Hip-Hop, blending the grace of cultural heritage
+with the energy of modern movement. This dual approach helps our members
+develop versatility, creativity, and a deeper appreciation for different
+dance styles. Our dancers take the stage at major local events such as
+the Singapore Youth Festival art presentations, Muara Festival showcases,
+Super 24 and World Supreme Battleground dance competitions, showcasing
+their skills and passion. With the guidance of our dedicated instructors,
+Mr Norhaizad Adam and Mr Alif Aircho, every dancer grows in technical skill,
+stage presence, and confidence, while forming strong friendships and unforgettable
+memories.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 World Supreme Battleground
+Dance Competition (Secondary School Category) - Champions</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Singapore Youth Festival Art
+Presentation (Malay Dance Category) – Certificate of Accomplishment</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Singapore Youth Festival Art
+Presentation (International Dance Category) – Certificate of Distinction</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Super24 Dance Competition -
+Participant</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/photo_4_2025__2_.jpg">
 </div>
 <blockquote>
-<p>Malay Dance performance for Singapore Youth Festival 2023.</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/2.jpg">
-</div>
-<blockquote>
-<p>Street Dance performance for Singapore Youth Festival 2023.</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/3.jpg">
-</div>
-<blockquote>
-<p>The Freshmakerz performing at Super24 Dance Competition.</p>
+<p>Our dancers performing “Nano” for 2025 Singapore Youth Festival Art Presentation</p>
 </blockquote>
 <p></p>
