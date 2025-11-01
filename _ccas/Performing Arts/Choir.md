@@ -124,3 +124,10 @@ Celebration</p>
 <p>SYF 2025 – after the performance</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Zhenghua ONE Community Fiesta National Day performance</p>
+</blockquote>
+<p></p>
