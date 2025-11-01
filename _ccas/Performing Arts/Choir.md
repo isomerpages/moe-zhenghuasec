@@ -110,3 +110,10 @@ member with a platform for self-expression.</p>
 Celebration</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Getting ready backstage for SYF performance</p>
+</blockquote>
+<p></p>
