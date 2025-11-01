@@ -138,3 +138,10 @@ Participation&nbsp;</p>
 <p>Our first 11 players for NSG B Boys Football Competition</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Our full B Division Boys Football team</p>
+</blockquote>
+<p></p>
