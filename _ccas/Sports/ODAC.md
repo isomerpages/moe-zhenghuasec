@@ -62,13 +62,33 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Objectives:</strong>
-<br>- provide opportunities for students to participate in physical activities
-in the outdoors&nbsp;
-<br>- foster collaboration and leadership among students through various outdoor
-sports and activities
-<br>- encourage students to appreciate nature when having activities in the
-outdoors</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outdoor Adventure Club (ODAC) is a co-curricular activity that brings
+students out of their comfort zone and provides opportunities for students
+to explore the outdoors through activities such as hiking, camping, kayaking,
+rock climbing, and other team-based adventure challenges.&nbsp;</p>
+<p>Our CCA nurtures resilience, leadership, and teamwork. It encourages students
+to face physical and mental challenges. Students develop growth mindset
+and adaptive thinking when problem solving. ODAC also promotes teamwork,
+perseverance, and self-confidence. These qualities are essential in both
+school and life.&nbsp;</p>
+<p>ODAC conducts a range of outdoor activities and expeditions throughout
+the year. Signature programmes include hikes, orienteering (navigation
+training), and high elements. These are designed to progressively build
+students’ skills, confidence, and camaraderie in real world outdoor settings.&nbsp;</p>
+<p>Through active participation in ODAC, students gain valuable life skills
+such as problem-solving, leadership, teamwork, and adaptability. They become
+more self-reliant, resilient, and confident in facing challenges.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
