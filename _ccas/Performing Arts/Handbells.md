@@ -120,3 +120,17 @@ of Accomplishment</p>
 <p>Our Handbells Ensemble playing well together</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Happy_after_our_performance_2025.jpg">
+</div>
+<blockquote>
+<p>Happy after our SYF performance</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Handbells_practice_2025.jpg">
+</div>
+<blockquote>
+<p>Our Handbells Ensemble at our weekly CCA session</p>
+</blockquote>
+<p></p>
