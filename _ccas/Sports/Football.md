@@ -131,3 +131,10 @@ Participation&nbsp;</p>
 <p>Our leaders- from the past to the future</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Our first 11 players for NSG B Boys Football Competition</p>
+</blockquote>
+<p></p>
