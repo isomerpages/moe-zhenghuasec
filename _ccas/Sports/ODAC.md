@@ -150,3 +150,10 @@ Barrage</p>
 Race</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Running straight to our first checkpoint after flag off</p>
+</blockquote>
+<p></p>
