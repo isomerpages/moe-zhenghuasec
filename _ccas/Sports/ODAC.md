@@ -127,3 +127,10 @@ ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</su
 <p>Students rock climbing under the watchful eyes of instructors and teachers</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Instructor teaching safe landing techniques to our ODAC students</p>
+</blockquote>
+<p></p>
