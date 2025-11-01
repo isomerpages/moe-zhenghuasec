@@ -62,9 +62,30 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Netball aims to instill good values, discipline, and teamwork in our players,
-while equipping our players with the necessary skills and techniques to
-excel in various games and competitions.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our school's Netball CCA is a dynamic sports programme that nurtures both
+competitive excellence and character development. Through structured training
+sessions and competitive play, students develop fundamental netball skills
+while fostering teamwork and leadership abilities.</p>
+<p>The programme aims to cultivate not just skilled players, but well-rounded
+individuals who embody sportsmanship and resilience. Students learn valuable
+life skills such as time management, goal setting, and working effectively
+in a team—competencies that serve them well beyond the court.</p>
+<p>Training sessions are conducted twice weekly, focusing on technical skills,
+tactical gameplay, and physical conditioning. Players participate in various
+competitions, including the National School Games, Carnivals and friendly
+matches with other schools. Our experienced coach emphasises both individual
+skill development and team strategies.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Naval_Base_Sec_Sch.jpg">
