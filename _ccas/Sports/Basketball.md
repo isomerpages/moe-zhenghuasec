@@ -70,20 +70,43 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Basketball aims to instill sportsmanship and discipline in our players
-while imparting essential skills and knowledge of the game. This prepares
-them for both recreational and competitive play.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our CCA provides students with opportunities to learn and refine their
+skills on basketball, from fundamentals to advanced gameplay tactics. Our
+training builds discipline, resilience, and teamwork—essential qualities
+both on and off the court. Students gain physical fitness, mental focus,
+and a sense of camaraderie, while fostering school spirit through friendly
+competitions.</p>
+<p>&nbsp;</p>
+<p>We also participate in inter-school tournaments and organise friendly
+games to challenge our players and expose them to diverse playing styles.
+Through basketball, students learn to set goals, adapt to challenges, and
+support one another. Many develop leadership qualities by mentoring juniors
+or taking on team responsibilities.&nbsp; Above all, our CCA instils confidence,
+sportsmanship, and a passion for the game that lasts well beyond their
+school years.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_C_Division_Friendly_Match_at_CCKSS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Sec_1_to_5_Basketball_Boys_2025.jpg">
 </div>
 <blockquote>
-<p>C-Division Friendly Match at CCKSS</p>
+<p>Sec 1 to 5 Basketball Boys</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Copy_of_B_Division_Friendly_Match_at_KRSS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/B_and_C_Boys_Friendly_Match_2025.jpg">
 </div>
 <blockquote>
-<p>B-Division Friendly Match at KRSS</p>
+<p>B and C Boys friendly match</p>
 </blockquote>
 <p></p>
