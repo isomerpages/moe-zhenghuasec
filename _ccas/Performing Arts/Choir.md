@@ -131,3 +131,10 @@ Celebration</p>
 <p>Zhenghua ONE Community Fiesta National Day performance</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Choir booth during ZSS Open House 2024</p>
+</blockquote>
+<p></p>
