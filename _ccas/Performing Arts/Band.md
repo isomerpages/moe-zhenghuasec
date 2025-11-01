@@ -135,3 +135,11 @@ wider community.</p>
 <p>United in music, bonded as one family — One Band, One Sound!</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Concert_Band_3_2025.jpg">
+</div>
+<blockquote>
+<p>Bringing music to the community! Zhenghua Secondary School Concert Band
+performing at the Zhenghua CC celebration SG60</p>
+</blockquote>
+<p></p>
