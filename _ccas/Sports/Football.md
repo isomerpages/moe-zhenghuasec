@@ -152,3 +152,10 @@ Participation&nbsp;</p>
 <p>Our C Division team – getting ready for match kick-off, team cheer time</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Our Sec 3 and 4 team for 2025 Zhenghua Football Cup – in 2<sup>nd</sup> position</p>
+</blockquote>
+<p></p>
