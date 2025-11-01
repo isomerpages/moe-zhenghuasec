@@ -89,41 +89,34 @@ more self-reliant, resilient, and confident in facing challenges.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
+<p><strong>Achievements:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Cheeseee__We_made_it_to_the_boardwalk.jpg">
-</div>
-<blockquote>
-<p>Cheeseee! We made it to the boardwalk.</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Briefing_by_our_coach_before_we_hit_the_water_for_our_one_star_kayaking.jpg">
-</div>
-<blockquote>
-<p>Briefing by our coach before we hit the water for our one star kayaking.</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Our_medalists.jpg">
-</div>
-<blockquote>
-<p>Our medalists.</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/We_have_arrived_at_Chek_Jawa_Wetland.jpg">
-</div>
-<blockquote>
-<p>We have arrived at Chek Jawa Wetland.</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Our_team_leader_planning_during_the_GARANG_Race.jpg">
-</div>
-<blockquote>
-<p>Our team leader planning during the GARANG Race.</p>
-</blockquote>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GARANG 2024 Race Mixed Category</strong> – Xie Zhiyuan Jasper (4C),
+<br>Tan Jing Xuan Charles (Chen Jingxuan)&nbsp;(4A), Chloe Ng Sing Hwee (Huang
+Xinghui)&nbsp;(4G),
+<br>Chiang Ray Han Caleb&nbsp;(2B), Teo Sia Yu&nbsp;(2B), 1<sup>st</sup> Runner
+Up</p>
+<p>&nbsp;<strong>GARANG 2024 Race All-Female Category</strong> – Chua Jia
+En Verine (3F), Joelle Liew En Yu (3B), Nureeqa Qisrina Binte Nurulhaq
+(3B), Christy Oh Ni Ann (3A) &amp; Nicole Wong Si Hui (2E), 1<sup>st</sup>,Runner
+Up</p>
+<p>&nbsp;<strong>National Orienteering Race (Schools) 2024 C-Division Boys – </strong>Justin
+Lim Ye Teng (2E) &amp; Chiang Ray Han Caleb (2B), 2<sup>nd</sup>
+</p>
+<p><strong>&nbsp;24 May Passionwave Orienteering Race C Division Girls </strong>–
+RACHEL YEO BEE LING (2B), TAN YEN LINH YI HU (2B), 3<sup>rd</sup>
+</p>
+<p>&nbsp;<strong>24 May Passionwave Orienteering Race B Division Girls </strong>–
+ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</sup> place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
