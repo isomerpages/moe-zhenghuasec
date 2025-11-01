@@ -155,3 +155,22 @@ Participant</p>
 <p>Our dancers performing “Nano” for 2025 Singapore Youth Festival Art Presentation</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/photo_4_2025__3_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<p>Our dancers performing “Dancing Mutant” for 2025 Singapore Youth Festival
+Art Presentation</p>
+</blockquote>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
