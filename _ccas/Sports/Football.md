@@ -105,66 +105,22 @@ the pitch.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/1.jpg">
-</div>
-<blockquote>
-<p>Facilitators for Sec 1 CCA Trials for Football</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/2.jpg">
-</div>
-<blockquote>
-<p>Half-time briefing - Players getting motivated by coach's words for B
-Division match</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/3.jpg">
-</div>
-<blockquote>
-<p>Our first 11 members in the team - they persevered on relentlessly - B
-Division match</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/4.jpg">
-</div>
-<blockquote>
-<p>Our full team for B Division matches</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/5.jpg">
-</div>
-<blockquote>
-<p>Pre-match briefing - despite the hot weather, players were on form for
-B Divison match</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/6.jpg">
-</div>
-<blockquote>
-<p>Pre-match_Stretching togther, bonding together - C Division Football Boys
-Championships (Prelim Rounds)</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/7.jpg">
-</div>
-<blockquote>
-<p>Pre-match_the lineup just before match commences - B Division Football
-Boys Championships</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/8.jpg">
-</div>
-<blockquote>
-<p>Pre-match_Together we strive on! Team Huddle and Cheer for motivation
-- C Division match</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/9.jpg">
-</div>
-<blockquote>
-<p>Preparation stage- Players in focus- listening intently on coach's briefing
-for B Division matches</p>
-</blockquote>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games (NSG) B-Division (Boys) Football– League 3
+– 2<sup>nd</sup> position in the grouping.&nbsp;</p>
+<p>2025 National School Games (NSG) C-Division (Boys) Football– League 4
+Participation&nbsp;</p>
+<p>2025 Zhenghua Football Cup – 2<sup>nd</sup> in position</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
