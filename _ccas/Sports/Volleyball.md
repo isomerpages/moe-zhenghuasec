@@ -102,28 +102,49 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Zhenghua Volleyball provides students with the opportunity to participate
-in volleyball trainings which are overseen by professional coaches. This
-allows students to develop their passion for the sport. As a team sport,
-we hope to foster the importance of team spirit and sportsmanship. Through
-the CCA, we aim for our volleyball students to be committed and to forge
-strong, lifelong friendships with their teammates.</p>
-<p>Trainings are conducted twice a week during off-season. During National
-Schools Games season, there will be more trainings. We participate in both
-the B Division National Schools Games (January) and C Division National
-Schools Games (July). During the school holidays, we also continue to train
-and participate in friendly competitions with other schools.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/B_Division_Boys_Team.jpg">
-</div>
-<blockquote>
-<p>B Division Boys Team</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/C_Division_Girls_Volleyball_Championship_League_4_group_overall_champion.jpg">
-</div>
-<blockquote>
-<p>C Division Girls Volleyball Championship League 4 group overall champion</p>
-</blockquote>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Here at Zhenghua Volleyball, our student athletes are given the opportunities
+to develop and hone their skills and values that are fundamental to their
+growth as a volleyball player, a student and a young adult.</p>
+<p>Our trainings do not just focus on refining skills. Special emphasis is
+placed on educating our players about respect, discipline, resilience,
+and teamwork. These qualities, essential both on and off the court, push
+our volleyball players to be the best versions of themselves.</p>
+<p>The school team has been actively participating in various inter-school
+tournaments and organising frequent friendly games to challenge our players,
+expose them to other volleyball communities and provide them the opportunity
+to excel. We also offer mentorship opportunities for the senior players
+to coach their juniors too.</p>
+<p>Above all, Zhenghua Volleyball represents sportsmanship, camaraderie and
+a hunger for success that lasts well beyond our students’ schooling years.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games (NSG) B-Division (Boys) Volleyball– Participation</p>
+<p>2025 National School Games (NSG) C-Division (Boys) Volleyball League 4
+– 2<sup>nd</sup> position</p>
+<p>2025 National School Games (NSG) B-Division (Girls) Volleyball–Participation</p>
+<p>2025 National School Games (NSG) C-Division (Girls) Volleyball League
+2 – 3<sup>rd</sup> position in grouping</p>
+<p>2025 Shuqun Volleyball Cup Open Category - 2<sup>nd </sup>runner up</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
