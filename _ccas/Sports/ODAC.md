@@ -142,3 +142,11 @@ ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</su
 Barrage</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Strategically analysing the map before the start of our Passionwave Orienteering
+Race</p>
+</blockquote>
+<p></p>
