@@ -177,3 +177,10 @@ a hunger for success that lasts well beyond our students’ schooling years.</p>
 <p>Our Zhenghua Volleyball Boys Team</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/Picture6_2025.png">
+</div>
+<blockquote>
+<p>Our Zhenghua Volleyball Girls Team</p>
+</blockquote>
+<p></p>
