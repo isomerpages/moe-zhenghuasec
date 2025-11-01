@@ -107,3 +107,10 @@ Carnival 2025 and won 4th placing.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture1_2025.jpg">
+</div>
+<blockquote>
+<p>Friendly Match with Jurong West Sec School at ISH</p>
+</blockquote>
+<p></p>
