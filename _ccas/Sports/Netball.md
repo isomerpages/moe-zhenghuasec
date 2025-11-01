@@ -86,23 +86,24 @@ skill development and team strategies.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Naval_Base_Sec_Sch.jpg">
-</div>
-<blockquote>
-<p>Friendly Game with Naval Base Sec Sch</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Our_B_Division_Players.jpg">
-</div>
-<blockquote>
-<p>Our B Division Players</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Christchurch_Sec_Sch.jpg">
-</div>
-<blockquote>
-<p>Friendly Game with Christchurch Sec Sch</p>
-</blockquote>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.Our C Division players won 3 games during the National School Games
+(League) and successfully progressed to round 2 of the League Games.</p>
+<p>&nbsp;2. Our B Division Players completed their VIA project at Beacon
+Primary School which was well received by the school.&nbsp; They helped
+to coach and transfer important Netball skills to the Primary School Students.</p>
+<p>&nbsp;3. Our C Division participated in the Deloitte Pestan Sukan Netball
+Carnival 2025 and won 4th placing.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
