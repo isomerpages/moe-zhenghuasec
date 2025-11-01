@@ -174,3 +174,11 @@ Art Presentation</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/photo_4_2025__4_.jpg">
+</div>
+<blockquote>
+<p>Our dancers preparing to perform “Stronger Together” for the schools’
+2025 National Day Celebration</p>
+</blockquote>
+<p></p>
