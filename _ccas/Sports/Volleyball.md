@@ -163,3 +163,10 @@ a hunger for success that lasts well beyond our students’ schooling years.</p>
 <p>Our B Division Boys Ready for their NSG</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/Picture4_2025.png">
+</div>
+<blockquote>
+<p>Passing of the Torch from Our Sec 4 Captains to Our Sec 3 Captains</p>
+</blockquote>
+<p></p>
