@@ -182,3 +182,10 @@ Art Presentation</p>
 2025 National Day Celebration</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/photo_4_2025__1_.jpg">
+</div>
+<blockquote>
+<p>Super24 Team 2025 for Super24 Dance Competition</p>
+</blockquote>
+<p></p>
