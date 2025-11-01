@@ -135,3 +135,10 @@ Carnival 2025 and won 4th placing.</p>
 <p>Deloitte Pesta Sukan Netball Carnival 2025</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Deloitte Pesta Sukan Netball Carnival 2025</p>
+</blockquote>
+<p></p>
