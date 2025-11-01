@@ -170,3 +170,10 @@ a hunger for success that lasts well beyond our students’ schooling years.</p>
 <p>Passing of the Torch from Our Sec 4 Captains to Our Sec 3 Captains</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/Picture5_2025.png">
+</div>
+<blockquote>
+<p>Our Zhenghua Volleyball Boys Team</p>
+</blockquote>
+<p></p>
