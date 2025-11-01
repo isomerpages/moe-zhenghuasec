@@ -78,49 +78,35 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>The Zhenghua Secondary School Choir embodies the spirit of unity and musical
-excellence. With "One Choir, One Voice" as our guiding philosophy, we strive
-to create a harmonious blend of diverse voices. Through rigorous rehearsals
-and performances, our students develop vocal technique, teamwork, and stage
-presence. From classical to pop and cultural music, our diverse repertoire
-broadens musical perspectives and fosters a lifelong appreciation for the
-diversity of musical expression. With regular concerts, competitions, and
-collaborations, our choir builds school spirit and promotes self-expression.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The <strong>Zhenghua Secondary School Choir</strong> is a vibrant harmony
+of voices united by our philosophy, <em>“One Choir, One Voice.”</em> Guided
+by our passion for music, we strive to create unity through the blend of
+diverse voices.</p>
+<p>&nbsp;Through regular rehearsals and performances, our students not only
+refine their vocal technique and stage presence but also learn the values
+of teamwork, discipline, and resilience. Our repertoire ranges from classical
+pieces to pop and cultural music, giving members the opportunity to explore
+different musical styles and appreciate the richness of choral expression.</p>
+<p>&nbsp;With concerts, competitions, and collaborations as part of our journey,
+the Choir inspires school spirit, celebrates creativity, and provides every
+member with a platform for self-expression.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Performance_at_One_Zhenghua_Fiesta_Community_Celebrations__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Performance at One Zhenghua Fiesta Community Celebrations</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Community_Singing_on_National_Day.jpg">
-</div>
-<blockquote>
-<p>Community Singing on National Day</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choristers_in_harmony__poised_for_their_community_performance___1_.jpg">
-</div>
-<blockquote>
-<p>Choristers in harmony, poised for their community performance.</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Segment_during_Tapestry.jpg">
-</div>
-<blockquote>
-<p>Choir Segment during Tapestry</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir___Dance_Cultural_Immersion_Trip_to_Taiwan.jpg">
-</div>
-<blockquote>
-<p>Choir &amp; Dance Cultural Immersion Trip to Taiwan</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/ZSS_Open_House.jpg">
-</div>
-<blockquote>
-<p>ZSS Open House</p>
+<p>Performance at One Community Fiesta Zhenghua Chinese New Year Community
+Celebration</p>
 </blockquote>
 <p></p>
