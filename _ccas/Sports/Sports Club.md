@@ -128,3 +128,11 @@ the Under 17 Ultimate Frisbee Tournament</p>
 <p>For Term 3, we are exposed to another type of sport, Tchoukball</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Besides polishing our skills, we do group reflections after each training.
+We share thoughts on areas of strengths and areas for improvement</p>
+</blockquote>
+<p></p>
