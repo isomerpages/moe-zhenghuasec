@@ -70,45 +70,57 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The National Police Cadet Corps (NPCC) is dedicated to training cadets
-to become responsible leaders for the future. Through practical training
-and mentorship, NPCC equips cadets with the skills to lead with confidence
-and integrity. It fosters a sense of civic duty, encouraging cadets to
+to become responsible leaders of the future. Through practical training
+and mentorship, NPCC equips cadets with the skills to lead confidently
+and responsibly. It fosters a sense of civic duty, encouraging cadets to
 understand and value their role in society, and inspiring them to make
-meaningful contributions.&nbsp; Zhenghua NPCC emphasises a growth mindset,
-respect, teamwork and empathy - qualities essential for future leaders
-who will impact our communities positively. By focusing on current and
-emerging challenges, NPCC prepares cadets to become adaptable and forward
-thinking individuals capable of leading change in the future.</p>
+meaningful contributions. At Zhenghua NPCC, we emphasise a growth mindset,
+respect, teamwork, and empathy—qualities essential for future leaders to
+positively impact our communities. By addressing current and emerging challenges,
+NPCC prepares cadets to become adaptable and forward-thinking individuals
+who can lead change in the future.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award 2024 , ( UOPA)- Distinction
+<br>SPF-NPCC Award - SSgt Sebastian Joshua Deng (4G)
+<br>SPF-NPCC Award - SSgt Ng Shi Yun (4D)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="One of our unit enrichment activities was bowling which the cadets enjoyed very much." src="/images/CCA/NPCC/One_of_our_unit_s_enrichment_activities_was_bowling_which_the_cadets_enjoyed_very_much.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture1_2025.png">
 </div>
 <blockquote>
-<p>One of our unit's enrichment activities was bowling which the cadets enjoyed
-very much.</p>
+<p>Mr Ng and our cadet leaders who participated in the NPAP 2025, standing
+proudly with our UOPA Award. - Distinction</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/SSgt_Chua_Jia_Wei_of_class_4B__our_receipient_of_the_SPF_NPCC_award_with_our_Principal_Mr_Ng_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture2_2025.png">
 </div>
 <blockquote>
-<p>SSgt Chua Jia Wei of class 4B, our receipient of the SPF-NPCC award with
-our Principal Mr Ng.</p>
+<p>Our recipients of the prestigious SPF NPCC award, SSgt Sebastian Deng(
+3G) and SSgt Ng Shi Yun (4D)</p>
 </blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Our_unit_s_VIA__project__cleaning_the_park_at_Woodlands_Waterfront_.jpg">
-</div>
-<blockquote>
-<p>Our unit's VIA project, cleaning the park at Woodlands Waterfront.</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Our_cadets_winning_the_gold_medals_during_the_Area_19_Area_Games_Day_.jpg">
-</div>
-<blockquote>
-<p>Our cadets winning the gold medals during the Area 19 Area Games Day.</p>
-</blockquote>
-<p></p>
 <p></p>
