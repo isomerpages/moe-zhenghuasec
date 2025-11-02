@@ -134,3 +134,10 @@ uniformed group settings.</p>
 <p>Cadets after flying on RSAF aircraft on Flight Experience Programs</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture4_2025.png">
+</div>
+<blockquote>
+<p>Returning with a harvest of medals at this year’s Air Competition</p>
+</blockquote>
+<p></p>
