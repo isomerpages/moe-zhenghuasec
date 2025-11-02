@@ -96,52 +96,20 @@ and harness different skills and gameplay.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Our_weekly_sessions.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Our weekly sessions</p>
+<p>Our training session in Term 1 focuses on Ultimate Frisbee. This is our
+last training session with our coach</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Nice_catch_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Nice catch!</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/In_action_.jpg">
-</div>
-<blockquote>
-<p>In action!</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Group_photo_after_the_competition_.jpg">
-</div>
-<blockquote>
-<p>Group photo after the competition</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Getting_ready_to_face_our_competitors.jpg">
-</div>
-<blockquote>
-<p>Getting ready to face our competitors</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Game_face_on_.jpg">
-</div>
-<blockquote>
-<p>Game face on!</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Frisbee_competition_at_Jurong_West_Secondary_Sch_20th_April_2024.jpg">
-</div>
-<blockquote>
-<p>Frisbee competition at Jurong West Secondary Sch</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Doing_passing_and_catching_drills.jpg">
-</div>
-<blockquote>
-<p>Doing passing and catching drills</p>
+<p>Our school hosted Under 17 Ultimate Frisbee competition. Our school competed
+with 20 teams from various schools around Singapore</p>
 </blockquote>
 <p></p>
