@@ -89,10 +89,9 @@ and harness different skills and gameplay.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>U17 Ultimate Frisbee Competition :</strong>
-<br><strong>- 8th position (Team 1: 8th placing)</strong>
-<br><strong>-</strong>  <strong>18th Position (Team 2: 18th placing)</strong>
-</p>
+<p>U17 Ultimate Frisbee Competition :
+<br>- 8th position (Team 1: 8th placing)
+<br>- 18th Position (Team 2: 18th placing)</p>
 </td>
 </tr>
 </tbody>
