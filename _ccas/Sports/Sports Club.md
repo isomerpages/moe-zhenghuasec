@@ -54,16 +54,32 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Sports Club aims to promote physical fitness, teamwork, and personal growth
-through a variety of sports activities. It provides members with opportunities
-to develop their athletic skills, foster discipline, and build lasting
-relationships. The club encourages participation in both competitive and
-recreational sports, promoting a healthy lifestyle and sportsmanship. With
-a focus on inclusivity, the club welcomes individuals of all skill levels,
-fostering a supportive environment where members can achieve their fitness
-goals while enjoying camaraderie and teamwork. The club has engaged in
-sports such as Touch Rugby and Ultimate Frisbee. We aim to introduce more
-sports in the future.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Club CCA offers students a dynamic platform to engage in physical
+activity and teamwork through sports such as Ultimate Frisbee, Badminton,
+and Tchoukball. Designed to promote holistic development, the programme
+encourages students to build resilience, discipline, and camaraderie while
+honing their athletic skills. Each sport is selected to cater to diverse
+interests and abilities, ensuring inclusive participation and enjoyment.</p>
+<p>Signature activities include weekly training sessions, friendly matches,
+and inter-school competitions that challenge students to push their limits
+and collaborate effectively. Through these experiences, students gain not
+only technical proficiency but also valuable life skills such as strategic
+thinking, communication, and sportsmanship.
+<br>Sports Club CCA fosters a vibrant and supportive environment where students
+grow in confidence and character, making it a meaningful part of their
+school journey. Our CCA strives for students to be exposed to various sports
+and harness different skills and gameplay.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Our_weekly_sessions.jpg">
