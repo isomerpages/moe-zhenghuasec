@@ -80,7 +80,23 @@ and harness different skills and gameplay.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>U17 Ultimate Frisbee Competition :</strong>
+<br><strong>- 8th position (Team 1: 8th placing)</strong>
+<br><strong>-</strong>  <strong>18th Position (Team 2: 18th placing)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Our_weekly_sessions.jpg">
 </div>
