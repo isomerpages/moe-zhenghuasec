@@ -94,3 +94,7 @@ Bronze</p>
 <p>Secondary 1 Red Cross Cadets Induction Program on World Red Cross Day</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture2_2025.jpg">
+</div>
+<p>Zhenghua Secondary School Red Cross Cadets</p>
