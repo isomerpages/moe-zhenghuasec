@@ -70,61 +70,67 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>The National Cadet Corps (NCC) fosters dedication, discipline, and teamwork
-among its cadets, preparing them for future challenges. Through rigorous
-training, these young individuals develop leadership skills, resilience,
-and a solid grasp of aviation and military principles. The programme combines
-academic instruction with practical exercises, emphasising integrity and
-service to both country and community. At Zhenghua NCC, there is a special
-focus on proficiency in drone operations, equipping cadets with valuable
-skills in this exciting field of engineering and technology.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The National Cadet Corps (Air) offers students a unique opportunity to
+experience military-style training with a strong emphasis on aeronautics
+and aviation. Supported by the SAF and RSAF, cadets participate in specialised
+courses such as marksmanship training, flight simulations, and knowledge-building
+sessions on the RSAF's operations. They also get exclusive access to military
+bases and attachments, allowing them to observe different vocations up
+close.</p>
+<p>In recent years, the unit has developed a strong focus on drone training.
+Cadets gain hands-on experience in drone piloting and drone soccer—a rapidly
+growing competitive sport—equipping them with practical skills in a future-relevant
+domain. Through these activities, cadets develop discipline, leadership,
+and technical proficiency, preparing them for challenges both in and beyond
+uniformed group settings.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition Award: Distinction
+<br>NCC Air Competition Overall Award: 2<sup>nd</sup> Place
+<br>NCC Air Competition – Drone Obstacle Event: 1<sup>st</sup> Place
+<br>NCC Air Competition – Drone Soccer&nbsp; Event: 2<sup>nd</sup> Place
+<br>NCC Air Competition – Balsa Glider&nbsp; Event: 3<sup>rd</sup> Place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Tossing_of_berets_for_Passing_Out_Parade.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture1_2025.png">
 </div>
 <blockquote>
-<p>Tossing of berets for Passing Out Parade</p>
+<p>Firearms safety training</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Successful_drone_flight_during_25th_Anniversary_Concert.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture2_2025.png">
 </div>
 <blockquote>
-<p>Successful drone flight during 25th Anniversary Concert</p>
+<p>Cadets after flying on RSAF aircraft on Flight Experience Programs</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Outstanding_cadet_award_ceremony.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture3_2025.png">
 </div>
 <blockquote>
-<p>Outstanding cadet award ceremony</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC__Scouts_Skills_Exchange.jpg">
-</div>
-<blockquote>
-<p>NCC- Scouts Skills Exchange</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC_day_unit_photo.jpg">
-</div>
-<blockquote>
-<p>NCC day unit photo</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC___Scouts_Skills_Exchange_teaching_drone_flying.jpg">
-</div>
-<blockquote>
-<p>NCC - Scouts Skills Exchange teaching drone flying</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Drone_instructors_with_Participants_of_ALP.jpg">
-</div>
-<blockquote>
-<p>Drone instructors with Participants of ALP</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Total_Defence_Silver_with_NPCC.jpg">
-</div>
-<blockquote>
-<p>Total Defence Silver with NPCC</p>
+<p>Cadets after flying on RSAF aircraft on Flight Experience Programs</p>
 </blockquote>
 <p></p>
