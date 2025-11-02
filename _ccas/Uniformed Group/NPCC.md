@@ -124,3 +124,10 @@ proudly with our UOPA Award. - Distinction</p>
 3G) and SSgt Ng Shi Yun (4D)</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture3_2025.png">
+</div>
+<blockquote>
+<p>Our Annual ATC with the Secondary Cadets at Pulau Ubin</p>
+</blockquote>
+<p></p>
