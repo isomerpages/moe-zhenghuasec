@@ -148,3 +148,17 @@ uniformed group settings.</p>
 <p>Teacher officers at the school NDP</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture6_2025.png">
+</div>
+<blockquote>
+<p>Visiting Army/Airforce bases during Outreach events</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture7_2025.png">
+</div>
+<blockquote>
+<p>Visiting Army/Airforce bases during Outreach events</p>
+</blockquote>
+<p></p>
