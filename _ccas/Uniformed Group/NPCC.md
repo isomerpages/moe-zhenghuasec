@@ -131,3 +131,10 @@ proudly with our UOPA Award. - Distinction</p>
 <p>Our Annual ATC with the Secondary Cadets at Pulau Ubin</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture4_2025.png">
+</div>
+<blockquote>
+<p>Our unit went on a Learning Journey to the Sustainable Singapore Gallery</p>
+</blockquote>
+<p></p>
