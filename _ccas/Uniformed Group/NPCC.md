@@ -152,3 +152,11 @@ proudly with our UOPA Award. - Distinction</p>
 <p>Sgt Charmaine Chan (3G) in the GOH Contingent in NPAP 2025</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture7_2025.png">
+</div>
+<blockquote>
+<p>Our own Sgt Esther Tan Rou Qi (3D), the&nbsp; emcee for our National Day
+Parade 2025</p>
+</blockquote>
+<p></p>
