@@ -121,3 +121,10 @@ with 20 teams from various schools around Singapore</p>
 the Under 17 Ultimate Frisbee Tournament</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>For Term 3, we are exposed to another type of sport, Tchoukball</p>
+</blockquote>
+<p></p>
