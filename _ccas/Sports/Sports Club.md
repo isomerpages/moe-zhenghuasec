@@ -113,3 +113,11 @@ last training session with our coach</p>
 with 20 teams from various schools around Singapore</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Our team members in action competing hard against one of the teams during
+the Under 17 Ultimate Frisbee Tournament</p>
+</blockquote>
+<p></p>
