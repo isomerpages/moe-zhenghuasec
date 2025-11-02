@@ -145,3 +145,10 @@ proudly with our UOPA Award. - Distinction</p>
 <p>Our VIA project to keep the beach clean at Sembawang Beach</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture6_2025.png">
+</div>
+<blockquote>
+<p>Sgt Charmaine Chan (3G) in the GOH Contingent in NPAP 2025</p>
+</blockquote>
+<p></p>
