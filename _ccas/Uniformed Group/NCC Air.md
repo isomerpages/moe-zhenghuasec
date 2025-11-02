@@ -141,3 +141,10 @@ uniformed group settings.</p>
 <p>Returning with a harvest of medals at this year’s Air Competition</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture5_2025.png">
+</div>
+<blockquote>
+<p>Teacher officers at the school NDP</p>
+</blockquote>
+<p></p>
