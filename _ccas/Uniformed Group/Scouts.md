@@ -141,3 +141,32 @@ Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
 <p>Celebrating our Chief Scout’s Award recipients who lead with pride</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture10_2025.jpg">
+</div>
+<blockquote>
+<p>We came, we marched, we Scout’ed</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture11_2025.jpg">
+</div>
+<blockquote>
+<p>Where there’s smoke, there’s Scouts!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture12_2025.jpg">
+</div>
+<blockquote>
+<p>Passing the torch to our next generation of leaders</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture13_2025.jpg">
+</div>
+<blockquote>
+<p>Once a Scout, always a Scout. Celebrating 60 years of adventure, friendship,
+and pride!</p>
+</blockquote>
+<p></p>
