@@ -97,4 +97,14 @@ Bronze</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture2_2025.jpg">
 </div>
+<blockquote>
 <p>Zhenghua Secondary School Red Cross Cadets</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>National Day Foot Drill Rehearsal at parade square</p>
+</blockquote>
+<p></p>
