@@ -120,3 +120,10 @@ Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
 <p>Renewing our Scout Promise on Scouts’ Founder’s Day</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture7_2025.jpg">
+</div>
+<blockquote>
+<p>Our Secondary 1s kickstart their Scouting journey with pioneering fun!</p>
+</blockquote>
+<p></p>
