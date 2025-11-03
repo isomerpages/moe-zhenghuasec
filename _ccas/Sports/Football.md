@@ -78,80 +78,84 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Zhenghua Football CCA offers a dynamic platform for students to nurture
-their potential and develop skills with a supportive and inclusive environment.
-Through structured training sessions, exposure to competition and friendly
-matches, the CCA emphasises the values of team spirit and sportsmanship.
-Resilience and respect form the core principles, as the footballers persevere
-through challenges while treating their teammates as equals. Zhenghua Football
-fosters dedication, discipline and camaraderie, aiming to shape not only
-skilled footballers, but also individuals who value teamwork and strong
-bonds, both on and off the field.</p>
-<p>Trainings are usually conducted twice a week during off-season. During
-the period of National School Games competitions (for both B and C Division
-Football Boys), there will be more training sessions, especially for those
-participating in the school team. We also continue to train and participate
-in friendly matches with other schools during off-season and school holidays.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football CCA provides students with opportunities to develop their skills,
+character, and passion for the sport. Through structured training and competitive
+play, students build technical abilities such as passing, dribbling, defending,
+and teamwork, while also cultivating resilience, discipline, and sportsmanship.&nbsp;</p>
+<p>Football CCA matters because football is more than just a game—it nurtures
+important values and life skills. Students learn perseverance in the face
+of challenges, the importance of mutual support, and the ability to remain
+composed under pressure. These lessons prepare them not only for competition
+but also for real-life situations beyond school.&nbsp;</p>
+<p>Key features of the CCA include regular training sessions focused on skill
+development, friendly matches, and participation in the National School
+Games. These experiences ensure that students remain engaged, motivated,
+and match-ready.&nbsp;</p>
+<p>Through the Football CCA, students grow into confident individuals, responsible
+leaders, and supportive teammates, carrying lessons that extend well beyond
+the pitch.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games (NSG) B-Division (Boys) Football– League 3
+– 2<sup>nd</sup> position in the grouping.&nbsp;</p>
+<p>2025 National School Games (NSG) C-Division (Boys) Football– League 4
+Participation&nbsp;</p>
+<p>2025 Zhenghua Football Cup – 2<sup>nd</sup> in position</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Facilitators for Sec 1 CCA Trials for Football</p>
+<p>Our leaders- from the past to the future</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Half-time briefing - Players getting motivated by coach's words for B
-Division match</p>
+<p>Our first 11 players for NSG B Boys Football Competition</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture3_2025.jpg">
 </div>
 <blockquote>
-<p>Our first 11 members in the team - they persevered on relentlessly - B
-Division match</p>
+<p>Our full B Division Boys Football team</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture4_2025.jpg">
 </div>
 <blockquote>
-<p>Our full team for B Division matches</p>
+<p>Our C Division team – getting ready for match kick-off, team cheer time</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture5_2025.jpg">
 </div>
 <blockquote>
-<p>Pre-match briefing - despite the hot weather, players were on form for
-B Divison match</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/6.jpg">
-</div>
-<blockquote>
-<p>Pre-match_Stretching togther, bonding together - C Division Football Boys
-Championships (Prelim Rounds)</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/7.jpg">
-</div>
-<blockquote>
-<p>Pre-match_the lineup just before match commences - B Division Football
-Boys Championships</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/8.jpg">
-</div>
-<blockquote>
-<p>Pre-match_Together we strive on! Team Huddle and Cheer for motivation
-- C Division match</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/9.jpg">
-</div>
-<blockquote>
-<p>Preparation stage- Players in focus- listening intently on coach's briefing
-for B Division matches</p>
+<p>Our Sec 3 and 4 team for 2025 Zhenghua Football Cup – in 2<sup>nd</sup> position</p>
 </blockquote>
 <p></p>

@@ -79,42 +79,58 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Our Handbells Ensemble, guided by our instructor Mr Myren Mak, brings
-together passionate members who share a love for music and the excitement
-of learning to play a new musical instrument. Through teamwork and dedication,
-they create harmonious melodies that resonate with audiences. Performing
-at the Singapore Youth Festival Arts Presentation (SYF) and school events,
-the Handbells Ensemble showcases their hard work and creativity, encouraging
-greater appreciation and enjoyment of handbell music.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Zhenghua Handbells Ensemble offers students a unique musical experience
+that nurtures both technical skills and personal growth. Under the guidance
+of the Handbells instructor, Mr Myren Mak, students learn to read music,
+develop rhythm, and coordinate precise movements, as each bell contributes
+to the harmony of the group. This fosters teamwork and cooperation, as
+every member plays an essential role in playing a complete song. Students
+also cultivate discipline, focus, and perseverance while gaining confidence
+through weekly CCA practices and public performances such as the Singapore
+Youth Festival Arts Presentation. Beyond music, the Handbell Ensemble builds
+camaraderie and a strong sense of belonging. Overall, the Handbells Ensemble
+enriches students holistically, supporting their growth into well-rounded,
+confident, and collaborative individuals.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+<br>Singapore Youth Festival Arts Presentation (Handbell/ Handchime) - Certificate
+of Accomplishment</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Zhenghua_Secondary_School_12025.jpg">
 </div>
 <blockquote>
-<p>After our 25th anniversary concert performance.</p>
+<p>Ready for our SYF performance</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Zhenghua_Secondary_School_120252.jpg">
 </div>
 <blockquote>
-<p>Introducing Handbells to the visitors at the Open House.</p>
+<p>Our Handbells Ensemble playing well together</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Happy_after_our_performance_2025.jpg">
 </div>
 <blockquote>
-<p>Our Handbells Ensemble with our Handbells instructor, Mr Mak.</p>
+<p>Happy after our SYF performance</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Handbells_practice_2025.jpg">
 </div>
 <blockquote>
-<p>Our Secondary 4 seniors with Mr Mak.</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/5.jpg">
-</div>
-<blockquote>
-<p>Secondary 1 girls learning more about Handbells during the Sec 1 Tryout.</p>
+<p>Our Handbells Ensemble at our weekly CCA session</p>
 </blockquote>
 <p></p>

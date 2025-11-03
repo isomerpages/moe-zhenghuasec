@@ -62,26 +62,83 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Netball aims to instill good values, discipline, and teamwork in our players,
-while equipping our players with the necessary skills and techniques to
-excel in various games and competitions.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our school's Netball CCA is a dynamic sports programme that nurtures both
+competitive excellence and character development. Through structured training
+sessions and competitive play, students develop fundamental netball skills
+while fostering teamwork and leadership abilities.</p>
+<p>The programme aims to cultivate not just skilled players, but well-rounded
+individuals who embody sportsmanship and resilience. Students learn valuable
+life skills such as time management, goal setting, and working effectively
+in a team—competencies that serve them well beyond the court.</p>
+<p>Training sessions are conducted twice weekly, focusing on technical skills,
+tactical gameplay, and physical conditioning. Players participate in various
+competitions, including the National School Games, Carnivals and friendly
+matches with other schools. Our experienced coach emphasises both individual
+skill development and team strategies.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.Our C Division players won 3 games during the National School Games
+(League) and successfully progressed to round 2 of the League Games.</p>
+<p>&nbsp;2. Our B Division Players completed their VIA project at Beacon
+Primary School which was well received by the school.&nbsp; They helped
+to coach and transfer important Netball skills to the Primary School Students.</p>
+<p>&nbsp;3. Our C Division participated in the Deloitte Pestan Sukan Netball
+Carnival 2025 and won 4th placing.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Naval_Base_Sec_Sch.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Friendly Game with Naval Base Sec Sch</p>
+<p>Friendly Match with Jurong West Sec School at ISH</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Our_B_Division_Players.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Our B Division Players</p>
+<p>Our Bonding Day cum Farewell to our Sec 4 Players</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Friendly_Game_with_Christchurch_Sec_Sch.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture3_2025.jpg">
 </div>
 <blockquote>
-<p>Friendly Game with Christchurch Sec Sch</p>
+<p>Our C Div players doing their team talk before their NSG Game</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Deloitte Pesta Sukan Netball Carnival 2025</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Deloitte Pesta Sukan Netball Carnival 2025</p>
 </blockquote>
 <p></p>

@@ -54,63 +54,85 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Sports Club aims to promote physical fitness, teamwork, and personal growth
-through a variety of sports activities. It provides members with opportunities
-to develop their athletic skills, foster discipline, and build lasting
-relationships. The club encourages participation in both competitive and
-recreational sports, promoting a healthy lifestyle and sportsmanship. With
-a focus on inclusivity, the club welcomes individuals of all skill levels,
-fostering a supportive environment where members can achieve their fitness
-goals while enjoying camaraderie and teamwork. The club has engaged in
-sports such as Touch Rugby and Ultimate Frisbee. We aim to introduce more
-sports in the future.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Club CCA offers students a dynamic platform to engage in physical
+activity and teamwork through sports such as Ultimate Frisbee, Badminton,
+and Tchoukball. Designed to promote holistic development, the programme
+encourages students to build resilience, discipline, and camaraderie while
+honing their athletic skills. Each sport is selected to cater to diverse
+interests and abilities, ensuring inclusive participation and enjoyment.</p>
+<p>Signature activities include weekly training sessions, friendly matches,
+and inter-school competitions that challenge students to push their limits
+and collaborate effectively. Through these experiences, students gain not
+only technical proficiency but also valuable life skills such as strategic
+thinking, communication, and sportsmanship.
+<br>Sports Club CCA fosters a vibrant and supportive environment where students
+grow in confidence and character, making it a meaningful part of their
+school journey. Our CCA strives for students to be exposed to various sports
+and harness different skills and gameplay.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U17 Ultimate Frisbee Competition :
+<br>- 8th position (Team 1: 8th placing)
+<br>- 18th Position (Team 2: 18th placing)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Our_weekly_sessions.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Our weekly sessions</p>
+<p>Our training session in Term 1 focuses on Ultimate Frisbee. This is our
+last training session with our coach</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Nice_catch_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Nice catch!</p>
+<p>Our school hosted Under 17 Ultimate Frisbee competition. Our school competed
+with 20 teams from various schools around Singapore</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/In_action_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture3_2025.jpg">
 </div>
 <blockquote>
-<p>In action!</p>
+<p>Our team members in action competing hard against one of the teams during
+the Under 17 Ultimate Frisbee Tournament</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Group_photo_after_the_competition_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture4_2025.jpg">
 </div>
 <blockquote>
-<p>Group photo after the competition</p>
+<p>For Term 3, we are exposed to another type of sport, Tchoukball</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Getting_ready_to_face_our_competitors.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture5_2025.jpg">
 </div>
 <blockquote>
-<p>Getting ready to face our competitors</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Game_face_on_.jpg">
-</div>
-<blockquote>
-<p>Game face on!</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Frisbee_competition_at_Jurong_West_Secondary_Sch_20th_April_2024.jpg">
-</div>
-<blockquote>
-<p>Frisbee competition at Jurong West Secondary Sch</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Doing_passing_and_catching_drills.jpg">
-</div>
-<blockquote>
-<p>Doing passing and catching drills</p>
+<p>Besides polishing our skills, we do group reflections after each training.
+We share thoughts on areas of strengths and areas for improvement</p>
 </blockquote>
 <p></p>

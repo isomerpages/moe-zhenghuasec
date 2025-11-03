@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft &amp; Technology/Craft_and_Technology_0643.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/Craft___Technology_1764.jpg">
 </div>
 <p>
 <br>
@@ -20,24 +20,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name of Head of Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department:</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hamidah Ali</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Subject Head</strong>
+<p><strong>Names of Members of the Department:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,24 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Names of Members of the Department</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DESIGN &amp; TECHNOLOGY</strong>
+<p><strong>Design &amp; Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,15 +64,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yam Wah (TSO)</p>
+<p>Mr Loh Yam Wah (Stem Instructor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rushdi (TSO)</p>
+<p>Mr Rushdi (Stem Instructor)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NUTRITION &amp; FOOD SCIENCE</strong>
+<p><strong>Food &amp; Consumer Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ART</strong>
+<p><strong>Art</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,75 +123,67 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programmes Highlights</h3>
-<p><strong>Learning Is Fun &amp; Engaging@ZSSC&amp;T</strong>
+<p>The Craft &amp; Technology Department at Zhenghua Secondary School empowers
+students with the creativity, skills, and resilience needed to thrive in
+a rapidly changing world. Through <strong>Design &amp; Technology (D&amp;T)</strong>, <strong>Food &amp; Consumer Education (FCE)</strong>,
+and <strong>Art</strong>, students explore different ways of designing,
+creating, and problem-solving, while developing 21st Century Competencies
+that prepare them for life beyond the classroom.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Design &amp; Technology (D&amp;T):</strong> Students
+develop creative thinking, problem-solving, and practical skills through
+a structured design process. They begin with projects such as acrylic keytags
+and LED night lights in Secondary One, progress to prototyping organisers
+in Secondary Two, and advance to solving real-world problems at Upper Secondary
+through coursework, exploring structures, electronics, and mechanisms.
+<br>
 </p>
-<p><strong>Craft &amp; Technology</strong>&nbsp;is a compulsory module for
-the lower secondary students. It comprises of 3 subjects&nbsp;namely Design
-&amp; Technology (D&amp;T), Nutrition and Food Science(NFS) and Art, which
-offers opportunities for students to develop 21st Century Competencies
-(21CC). Approaches are student-centred, using applied learning based on
-the use of authentic real-life scenarios that are relevant in today’s context.
-A range of both Formative and Summative assessments are used to help students
-become self-directed learners as it creates awareness of their progress
-and provides feedback on their level of mastery of content, knowledge and
-skills. At lower secondary, students experience common curriculum in these
-3 subjects.</p>
-<p><strong>For Design &amp; Technology (D&amp;T) Common Curriculum (CC),</strong>&nbsp;Secondary
-One, students get to experience the design thinking process for their acrylic
-keytags and aluminium handphone holder.</p>
-<p>In Secondary 2 Design and Technology (DT), students get to experience
-creating prototypes as solutions to address the need for an organising
-holder. Based on design process stages, students get to brainstorm solutions,
-sketching ideas and planning their mock-ups to come up with interesting
-organising holders</p>
-<p>At the Upper Secondary, students will learn how to problem solve in real
-life and experience the design thinking process through a mini coursework
-in preparation for GCE coursework at Secondary Four. They will also learn
-about the applications of technology in Structures, Electronics and Mechanisms.</p>
-<p>Lower Secondary Projects</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Food &amp; Consumer Education (FCE):</strong> The
+Full Subject-Based Banding (Full SBB) syllabus equips students with essential
+life skills in nutrition, food safety, and resource management. Students
+learn simple culinary skills, explore healthier living, and make informed,
+sustainable decisions for themselves and their families. Inquiry-Based
+Learning (IBL) further engages them through authentic tasks that encourage
+curiosity, exploration, and collaboration.
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Art:</strong> The Art curriculum
+nurtures creativity, visual literacy, and critical thinking. Students express
+their personal ideas through diverse art forms, including drawing, painting,
+digital art, sculpture, and design. Learning is enriched through authentic
+experiences such as sketching at the Singapore River, batik workshops,
+immersion programmes, and post-secondary exposure at NAFA. Their works
+are proudly displayed at the school’s in-house gallery, <em>ZSS Artbeat</em>,
+and on national platforms like the PassionArts Festival.</p>
+<p>Together, these three units form a dynamic department that nurtures confident
+learners, creative thinkers, and adaptive problem-solvers who are ready
+to contribute meaningfully to society.</p>
+<p><em>Secondary Two students working on development – mock-up, and development of their ideas</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft%20&amp;%20Technology/C1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Secondary_Two_students_working_on_development___mock_up__and_development_of_their_ideas.jpg">
 </div>
-<p>D&amp;T skill-based practical lessons</p>
+<p><em>Glow-getters for good vibes and cozy nights</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft%20&amp;%20Technology/C2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Glow_getters_for_good_vibes_and_cozy_nights.jpg">
 </div>
-<p>Prototyping work in the workshops</p>
-<p><strong>Food and Consumer Education(FCE)</strong>&nbsp;common curriculum
-at Secondary One and Two, focuses on advocating nutrition and health, family
-and the community. Students learn to appreciate how a variety of food is
-used in food management and takes into consideration the issues of food
-insecurity. Students apply scientific principles during food preparation
-and cooking, and learn through activity/game-based learning on topics such
-as food culture.</p>
-<p>Nutrition and Food Science(NFS) at upper secondary delves deeper into
-the</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft%20&amp;%20Technology/C3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Picture3.jpg">
 </div>
-<p>Application of the skills in the Foodlab</p>
+<p><em>Learning Journey to Kamal Art Studios - Batik Art</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft%20&amp;%20Technology/C4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Learning_Journey_to_Kamal_Art_Studios___Batik_Art.jpg">
 </div>
-<p>Activity-based learning</p>
-<p>In&nbsp;<strong>Art</strong>, students will be able to express their talents
-by producing interesting art pieces and sculptures as well as harness the
-use of ICT in their creations.&nbsp;The big idea is to develop critical
-thinking and innovation in their design ideas, sound meal planning, and
-creative art pieces. Sec 1 students designed, reinvented and created Superheroes
-puppets that can exist in either the fantasy or real world.</p>
-<p>Sec 2 students embarked on sculpture projects with wires or paper using
-SCAMPER techniques in their designing. On STEM Day, some Sec 2B students
-had fun with clay and made ocarinas after a hectic semester.</p>
-<p>The secondary 3 art students did quick sketches to unleash their emotions
-and imagination and used Sketchbook Pro as the medium to create digital
-artworks. Senior Teacher, Mr Chia Wei Hou, from Raffles Institute, did
-his work attachment in our school in Term 2.</p>
+<p><em>Sec 2 students doing experimental pancakes</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft%20&amp;%20Technology/C5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Sec_2_students_doing_experimental_pancakes.png">
 </div>
-<p>Sec 1-3 Student artworks</p>
+<p><em>Preparing the strawberries for the garnishes</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Craft%20&amp;%20Technology/C6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CT/Preparing_the_strawberries_for_the_garnishes.jpg">
 </div>
-<p>Experiential Learning of Art.</p>
+<p></p>

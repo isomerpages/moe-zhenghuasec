@@ -87,30 +87,59 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Established in 2000, Zhenghua Secondary School’s Concert Band nurtures
-students’ passion for music through performances, exchanges, and learning
-journeys. We play a wide range of music, from classical and modern pieces
-to popular songs. More than just musicians, we are a family united by our
-motto: "One Band, One Sound." With a commitment to sharing the joy of music,
-we look forward to continuing to inspire both our school and the community.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Established in 2000, the Zhenghua Secondary School Concert Band provides
+a platform for students to pursue their passion for music. Through regular
+practices and performances, the band nurtures discipline, teamwork, and
+musical appreciation.</p>
+<p>The band aims to develop students’ musical skills while fostering confidence,
+resilience, and a strong sense of camaraderie. Beyond playing instruments,
+members learn the value of collaboration and dedication as they work toward
+common goals.</p>
+<p>Key programmes include participation in the Singapore Youth Festival,
+school and community performances, as well as exchange programmes and learning
+journeys to engage with professional musicians.</p>
+<p>More than a performing group, the band is a close-knit family, united
+by the motto “One Band, One Sound.” Members gain not only musical expertise
+but also life skills, friendships, and the joy of sharing music with the
+wider community.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Band2024_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Zhenghua_Secondary_School_2025.jpg">
 </div>
+<blockquote>
+<p>Zhenghua Concert Band at the Singapore Youth Festival 2025</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Band2024_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Concert_Band_1_2025.jpg">
 </div>
+<blockquote>
+<p>Celebrating our passion for music together!</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Band2024_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Concert_Band_2_2025.jpg">
 </div>
+<blockquote>
+<p>United in music, bonded as one family — One Band, One Sound!</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Band2024_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Concert_Band_3_2025.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band/Band2024_09.jpg">
-</div>
+<blockquote>
+<p>Bringing music to the community! Zhenghua Secondary School Concert Band
+performing at the Zhenghua CC celebration SG60</p>
+</blockquote>
 <p></p>

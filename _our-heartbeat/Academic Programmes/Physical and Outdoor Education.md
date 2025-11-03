@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Physical &amp; Outdoor Education/pe_music_department_9909.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/PE___Music_Dept_1737.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -17,36 +17,30 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name of Head of Deparment:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Robin Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Subject Head:</strong>
+<p><strong>Head of Department:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Robin Goh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Yen Hua</p>
+<p><strong>Subject Head Outdoor Education &amp; Special Projects:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yeo Yen Hua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head Character and Citizenship Education:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Derrick Lim</p>
 </td>
 </tr>
 <tr>
@@ -68,14 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derrick Lim (S.H CCE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Liang Kar Weng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Cheong Hana</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,56 +78,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe%20experience.jpg">
 </div>
-<p>The Zhenghua PE experience offers students the opportunity to learn a
-myriad of skills and acquire leadership through sports and outdoor education.
-Above physical education, students hone their leadership skills and social-emotional
-competencies. The department adopts an inclusive approach towards PE to
-ensure that students of all abilities can participate and enjoy PE lessons.</p>
-<p>Through our school’s Outdoor Education programme, students have the opportunity
-to experience the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Acquire First Aid skills</p>
-</li>
-<li>
-<p>Develop Orienteering competency</p>
-</li>
-<li>
-<p>Experience Watersports</p>
-</li>
-<li>
-<p>Develop a sense of safety through team belay, rock-climbing and scale
-high elements in PE</p>
-</li>
-<li>
-<p>Hone organizational skills and outdoor education through the implementation
-of own class expedition</p>
-</li>
-<li>
-<p>Get to know the school and surroundings better through the Secondary One
-orientation camp</p>
-</li>
-<li>
-<p>Develop into self-actualized students of life, through character and values
-teaching in PE</p>
-</li>
-</ul>
-<p><strong>Sports and Games</strong>
-</p>
-<p>Sec 1: Volleyball and Football</p>
-<p>Sec 2: Floorball and Badminton</p>
-<p>Sec 3: Softball and Basketball</p>
-<p>Sec 4: Games Elective – Touch Rugby, Handball, Ultimate Frisbee, Weight
-Training, Studio Fitness, Table-Tennis</p>
-<p><strong>Outdoor Education</strong>
-</p>
-<p>Sec 1: Orienteering</p>
-<p>Sec 2: Rock-climbing and High Ropes Course</p>
-<p>Sec 3: Expedition Planning &amp; Residential Camp</p>
-<p><strong>Sports Enrichment Activities</strong>
-</p>
-<p>Bubble Soccer, Tchoukball, Kinball, Muay Thai, Golf, Darts, In-line Skating,
-Bowling</p>
+<p>Physical Education (PE) is an integral part of our school curriculum,
+designed to support the holistic development of every student. By emphasising
+the importance of movement and one’s interaction with the environment,
+PE nurtures students into physically competent and confident individuals
+who value and enjoy a lifetime of active, safe, and healthy living.</p>
+<p>At Zhenghua, our PE curriculum provides progressive and meaningful learning
+experiences across the secondary school journey. By the end of Secondary
+4/5, students are introduced to at least six different types of physical
+activities and have opportunities to compete recreationally at the inter-class
+Sports Fiesta and the biannual Road Race.</p>
+<p>By the end of Secondary 3, students acquire key skills such as First Aid,
+orienteering, and a strong sense of safety through team belay, rock climbing,
+and scaling high elements. They also hone their organisational and outdoor
+education skills by planning and carrying out their own class expedition.
+These experiences culminate in a 4-Day 3-Night Outdoor Adventure Learning
+Cohort Camp, a fully student-run highlight of our school’s Learning for
+Life Programme (LLP).</p>
+<p>Through such experiences, PE builds not only physical competence but also
+values, resilience, and 21st Century Competencies that prepare students
+to thrive in a fast-changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Physical%20&amp;%20Outdoor%20Education/P4.png">
 </div>

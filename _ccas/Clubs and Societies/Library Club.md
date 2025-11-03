@@ -112,33 +112,44 @@ reading platforms and different genres of books</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Class_Library.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/New_Arrivals_Event_for_Top_Readers_2025.jpg">
 </div>
 <blockquote>
-<p>Class Library</p>
+<p>New Arrivals Event for Top Readers</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Civica_Assembly_Talk.jpg">
-</div>
-<blockquote>
-<p>Civica Assembly Talk</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Choosing_books_for_class_library.jpg">
-</div>
-<blockquote>
-<p>Choosing books for class library</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Blind_Date_with_a_Book.jpg">
-</div>
-<blockquote>
-<p>Blind Date with a Book</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/New_Arrivals_Event.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/New_Arrivals_Event_2025.jpg">
 </div>
 <blockquote>
 <p>New Arrivals Event</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Happy_Valentines_Day_2025.jpg">
+</div>
+<blockquote>
+<p>Happy Valentine's Day!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Flash_Reading_Event_2025.jpg">
+</div>
+<blockquote>
+<p>Flash reading event</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Flash_Reading_Event_1_2025.jpg">
+</div>
+<blockquote>
+<p>Flash reading event</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Library/Blind_Date_with_a_Book_2025.jpg">
+</div>
+<blockquote>
+<p>Blind date with a book</p>
 </blockquote>
 <p></p>

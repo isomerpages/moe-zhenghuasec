@@ -33,7 +33,7 @@ variant: tiptap
 <p>Trainer:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Immanuel Roszini</p>
+<p>Mr Ronald Low</p>
 </td>
 </tr>
 <tr>
@@ -54,52 +54,64 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Zhenghua Infocomm Club empowers students with digital media and technology
-skills through hands-on training by industry professionals. Members explore
-photography, videography, and basic programming while documenting school
-events and participating in national competitions. As a forward-looking
-CCA, we nurture creativity, technical competency, and leadership abilities.
-Through collaborative projects and real-world applications, our members
-develop crucial digital literacy skills while building lasting friendships
-with like-minded peers passionate about technology and digital media.</p>
+<p>The Infocomm Club is a dynamic CCA that equips students with cutting-edge
+digital skills through three specialised pathways: Photography, Digital
+Media Production, and Artificial Intelligence. Our programme develops technical
+proficiency and creative thinking as students master industry-standard
+tools and emerging technologies under the guidance of professional trainers.
+Members gain hands-on experience by documenting school events, creating
+multimedia content, and developing AI solutions for real-world problems.
+Through participation in prestigious national competitions and learning
+journeys to tech companies, students connect classroom knowledge with industry
+practices. Our signature activities include photography workshops at iconic
+locations, AI programming bootcamps, and collaborative projects that challenge
+students to innovate. Students graduate with a robust portfolio of technical
+skills, competition experience, and the confidence to excel in Singapore's
+digital economy. The club nurtures not just technical competency, but also
+leadership, teamwork, and problem-solving abilities essential for future
+success.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/1__Media_1_2025.jpg">
 </div>
+<blockquote>
+<p>Club members immerse themselves in professional broadcast facilities during
+a learning journey, exploring diverse pathways in media and creative industries</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/2__Media_2_2025.jpg">
 </div>
+<blockquote>
+<p>Infocomm Club members hone their photography skills during a learning
+journey to Gardens by the Bay's Cloud Forest, capturing Singapore's iconic
+attractions through their lenses.</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/3__Tech_1_2025.jpg">
 </div>
+<blockquote>
+<p>Student leaders gain industry insights during an exclusive visit to Google
+Singapore's office at the National Youth Tech Championships, exploring
+career pathways in technology and innovation.</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/5__Tech_3_2025.jpg">
 </div>
+<blockquote>
+<p>A student demonstrates advanced coding skills at the National Youth Tech
+Championships, programming a drone to navigate complex obstacle courses
+with precision</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/7__Tech_5_2025.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_8.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_9.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm/Image_11.png">
-</div>
+<blockquote>
+<p>The Infocomm Club celebrates success at the National AI Student Challenge
+2025, with participants and teachers displaying their championship titles
+across multiple categories</p>
+</blockquote>
 <p></p>

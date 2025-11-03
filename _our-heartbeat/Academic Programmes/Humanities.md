@@ -8,11 +8,9 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/HUMANITIES_DEPARTMENT_0591.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Departments/Humanities_Dept_1750.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Soo Boon Siang (SH GE/NE)</p>
+<p>Mr Sam Soo Boon Siang (SH GEOG/NE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,94 +121,94 @@ variant: tiptap
 <p>Ms Isabel Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lynn Chew</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Programme Highlights and Enrichment Activities</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H6.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H7.png">
-</div>
-<p><strong>Math-Humanities Trail @ Pang Sua Pond</strong>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>Heritage Trail Experience</u>&nbsp;</p>
+<p>Students explored the Singapore River through route planning, risk assessments,
+and presentations at historical sites. They researched and shared heritage
+knowledge, sketched the Botero Bird, and created sculptures during the
+art lessons later. The programme fostered critical thinking, creativity,
+teamwork, communication, and cross-disciplinary learning, nurturing students’
+appreciation of heritage while building confidence as dynamic, adaptable
+learners.&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <u>Sustainability Trail Experience</u>&nbsp;</p>
+<p>Through the Sustainability Trail experience, students connected Geography
+and Mathematics through real-world learning. They explored Singapore’s
+water sustainability and applied mathematical concepts to analyse resources.
+The programme-built knowledge of context sharpened analytical and cross-disciplinary
+skills, and nurtured reflective learners ready to learn from mistakes,
+fostering resilience and innovative thinking.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Achievements</h3>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>10<sup>th</sup> National War &amp; Diplomacy History Card Game Challenge</u>&nbsp;</p>
+<p>Students from our school participated in the 10th National History Card
+Challenge Game Themed <em>War and Diplomacy</em>, where they applied their
+historical knowledge, strategic thinking, and decision-making skills. We
+are proud to congratulate Tessa Wong (3D) for reaching the finals, and
+Muhammad Riyaz (3G) for achieving 2nd place overall in the Individual Category,
+showcasing both excellence and perseverance.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <u>International Model United Nations Conference&nbsp;</u>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H8.png">
-</div>
+<p>Our students participated in the International Model United Nations Conference
+(IMUNC), taking on the roles of global delegates to debate pressing world
+issues. Over several days, they researched, collaborated, and presented
+resolutions in a simulation of the United Nations. We are proud to celebrate
+Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the <em>Most Outstanding Delegate Award</em>,
+showcasing their excellence and dedication at the conference.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture1.jpg">
 </div>
-<p><strong>Geography Learning Journey to MacRitchie Reservoir</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H10.png">
-</div>
-<p><strong>Little India “See, Think and Wonder” Trail</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H11.png">
-</div>
+<blockquote>
+<p>Students sketching the iconic Botero Bird along the Singapore River, blending
+history, heritage, and art into a meaningful learning experience.</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture2.jpg">
 </div>
-<p><strong>NUS Geography Challenge</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H13.png">
-</div>
-<p>The Humanities Department took part in a few key activities this year
-in an attempt to provide our pupils with the opportunity to gain knowledge
-beyond the school curriculum.</p>
-<p>Cultural Trip to Chiangmai</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H14.png">
-</div>
+<blockquote>
+<p>Students learning by the Singapore River, presenting their research on
+the coolie trade at a historical sculpture site; connecting heritage with
+real-world exploration.</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture3.jpg">
 </div>
+<blockquote>
+<p>From equations to flood control, students at Marina Barrage combined Math
+and Geography using their PLDs to understand Singapore’s approach to sustainability</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture4.jpg">
 </div>
-<p><strong>E3: Explore, Experience, Engage</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H17.png">
-</div>
+<blockquote>
+<p>Our IMUNC delegates representing the school with pride — building confidence,
+forging friendships, and shining on the global stage!</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture5.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H19.png">
-</div>
-<p><strong>Water-Testing at Marina Barrage</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Humanities/H20.png">
-</div>
+<blockquote>
+<p>Well done to our students for shining at the 10th National History Card
+Challenge Game, showcasing knowledge, strategy, and teamwork under the
+theme War and Diplomacy!</p>
+</blockquote>
 <p></p>

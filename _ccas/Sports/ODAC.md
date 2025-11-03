@@ -62,48 +62,98 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Objectives:</strong>
-<br>- provide opportunities for students to participate in physical activities
-in the outdoors&nbsp;
-<br>- foster collaboration and leadership among students through various outdoor
-sports and activities
-<br>- encourage students to appreciate nature when having activities in the
-outdoors</p>
-<p>
-<br>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outdoor Adventure Club (ODAC) is a co-curricular activity that brings
+students out of their comfort zone and provides opportunities for students
+to explore the outdoors through activities such as hiking, camping, kayaking,
+rock climbing, and other team-based adventure challenges.&nbsp;</p>
+<p>Our CCA nurtures resilience, leadership, and teamwork. It encourages students
+to face physical and mental challenges. Students develop growth mindset
+and adaptive thinking when problem solving. ODAC also promotes teamwork,
+perseverance, and self-confidence. These qualities are essential in both
+school and life.&nbsp;</p>
+<p>ODAC conducts a range of outdoor activities and expeditions throughout
+the year. Signature programmes include hikes, orienteering (navigation
+training), and high elements. These are designed to progressively build
+students’ skills, confidence, and camaraderie in real world outdoor settings.&nbsp;</p>
+<p>Through active participation in ODAC, students gain valuable life skills
+such as problem-solving, leadership, teamwork, and adaptability. They become
+more self-reliant, resilient, and confident in facing challenges.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GARANG 2024 Race Mixed Category</strong> – Xie Zhiyuan Jasper (4C),
+<br>Tan Jing Xuan Charles (Chen Jingxuan)&nbsp;(4A), Chloe Ng Sing Hwee (Huang
+Xinghui)&nbsp;(4G),
+<br>Chiang Ray Han Caleb&nbsp;(2B), Teo Sia Yu&nbsp;(2B), 1<sup>st</sup> Runner
+Up</p>
+<p>&nbsp;<strong>GARANG 2024 Race All-Female Category</strong> – Chua Jia
+En Verine (3F), Joelle Liew En Yu (3B), Nureeqa Qisrina Binte Nurulhaq
+(3B), Christy Oh Ni Ann (3A) &amp; Nicole Wong Si Hui (2E), 1<sup>st</sup>,Runner
+Up</p>
+<p>&nbsp;<strong>National Orienteering Race (Schools) 2024 C-Division Boys – </strong>Justin
+Lim Ye Teng (2E) &amp; Chiang Ray Han Caleb (2B), 2<sup>nd</sup>
+</p>
+<p><strong>&nbsp;24 May Passionwave Orienteering Race C Division Girls </strong>–
+RACHEL YEO BEE LING (2B), TAN YEN LINH YI HU (2B), 3<sup>rd</sup>
+</p>
+<p>&nbsp;<strong>24 May Passionwave Orienteering Race B Division Girls </strong>–
+ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</sup> place</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Cheeseee__We_made_it_to_the_boardwalk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture1_2025.jpg">
 </div>
 <blockquote>
-<p>Cheeseee! We made it to the boardwalk.</p>
+<p>Students rock climbing under the watchful eyes of instructors and teachers</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Briefing_by_our_coach_before_we_hit_the_water_for_our_one_star_kayaking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Briefing by our coach before we hit the water for our one star kayaking.</p>
+<p>Instructor teaching safe landing techniques to our ODAC students</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Our_medalists.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture3_2025.jpg">
 </div>
 <blockquote>
-<p>Our medalists.</p>
+<p>Sharing food over our picnic-cum-kite flying and bonding session at Marina
+Barrage</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/We_have_arrived_at_Chek_Jawa_Wetland.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture4_2025.jpg">
 </div>
 <blockquote>
-<p>We have arrived at Chek Jawa Wetland.</p>
+<p>Strategically analysing the map before the start of our Passionwave Orienteering
+Race</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Our_team_leader_planning_during_the_GARANG_Race.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture5_2025.jpg">
 </div>
 <blockquote>
-<p>Our team leader planning during the GARANG Race.</p>
+<p>Running straight to our first checkpoint after flag off</p>
 </blockquote>
 <p></p>

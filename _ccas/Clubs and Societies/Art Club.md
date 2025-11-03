@@ -58,79 +58,30 @@ every student has a place here to grow, share their work, and discover
 new possibilities.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Looking_from_an_angle.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/1_2025.jpg">
 </div>
 <blockquote>
-<p>Looking from an angle</p>
+<p>Chinese New Year Stage Decoration</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Healthy_vs_Unhealthy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/2_2025.jpg">
 </div>
 <blockquote>
-<p>Healthy vs Unhealthy</p>
+<p>Award Ceremony for World Aquatics Championships</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Experiencing_the_interactive_installation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/1_2025.jpg">
 </div>
 <blockquote>
-<p>Experiencing the interactive installation</p>
+<p>Postcard by Lee Yu Han to encourage the athletes at World Aquatics Championship</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Elite_vs_Inferior.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/4_2025.jpg">
 </div>
 <blockquote>
-<p>Elite vs Inferior</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Discussing_the_artwork.jpg">
-</div>
-<blockquote>
-<p>Discussing the artwork</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Disaster_vs_Miracle.jpg">
-</div>
-<blockquote>
-<p>Disaster vs Miracle</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Artificial_vs_Natural.png">
-</div>
-<blockquote>
-<p>Artificial vs Natural</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/War_vs_Peace_artwork_from_Upper_Secondary_category.jpg">
-</div>
-<blockquote>
-<p>War vs Peace artwork from Upper Secondary category</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/War_vs_Peace_artwork_from_Lower_Secondary_category.jpg">
-</div>
-<blockquote>
-<p>War vs Peace artwork from Lower Secondary category</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Viewing_the_illustration_books.jpg">
-</div>
-<blockquote>
-<p>Viewing the illustration books</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Our_Students__SYF_Artwork_at_National_Gallery_Singapore.jpg">
-</div>
-<blockquote>
-<p>Our Students' SYF Artwork at National Gallery Singapore</p>
+<p>Presentation of Resin Artwork to our Guest-of-Honour at 26th Awards Day</p>
 </blockquote>
 <p></p>
