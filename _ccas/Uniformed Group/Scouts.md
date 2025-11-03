@@ -78,33 +78,38 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>In Scouts, we aim to nurture students into well-rounded, community-oriented
-and globally literate individuals through a non-formal educational approach.
-Our students cultivate essential skills such as teamwork, leadership, and
-problem-solving as they prepare themselves for life after school. Our programme
-emphasises personal development and social responsibility while instilling
-in our students a strong values-based system centered around respect, integrity
-and a sense of duty towards others. By participating in diverse activities,
-students gain practical skills, build character and broaden their worldview,
-equipping them to make positive contributions in the future.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Scouts24_01.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Scouts24_06.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Scouts24_05.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Scouts24_03.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Scouts24_04.jpg">
-</div>
+<p>This year marked a milestone as our unit proudly celebrated its 60th Anniversary,
+commemorating six decades of camaraderie, resilience, and service. We also
+attained the Frank Cooper Sands Award 2025, a testament to our excellence
+in youth development, leadership, and community engagement. Several Scouts
+earned the Chief Scout’s Award for their perseverance, initiative, and
+exemplary character, while our leaders were honoured with the Chief Commissioner’s
+Well-Done Badge for their outstanding dedication and impact. Through meaningful
+activities, service projects, and outdoor adventures, our Scouts developed
+vital life skills such as teamwork, communication, critical thinking, and
+adaptability. Guided by the core values of integrity, respect, responsibility,
+and compassion, we continue to nurture confident, capable individuals ready
+to serve others and make a positive difference in the world.</p>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frank Cooper Awards 2025&nbsp;</strong>
+</p>
+<p><strong>Chief Scout’s Award</strong> - Muhammad Amir Bin Amri (4C), Chua
+Boon Hui (4E), Glynis Seah Wan Yi (4E), Nai Si Rui Jazryl (4G), Isaac Lim
+Yi An (4G),&nbsp; Juan Miguel Miranda Pacheco (4G), Lim Dong Yi (4E), Vibandor
+Eunice Chloe Gudiaga (4E)&nbsp;</p>
+<p><strong>Chief Commissioner Well-Done Badge</strong> - Lim Dong Yi (4E),
+Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
+(4G)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
