@@ -185,3 +185,10 @@ discovery.</p>
 <p>Watch our Peer Tutors and their Peer Tutees in action</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Maths/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Let’s learn together</p>
+</blockquote>
+<p></p>
