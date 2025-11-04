@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ISOMERBANNERNEW.gif
+      background: /images/2025/Open House/WhatsApp_Image_2025_11_04_at_9_27_09_AM.jpg
       key_highlights:
         - title: Announcements
           description: ""
