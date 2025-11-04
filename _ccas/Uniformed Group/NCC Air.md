@@ -94,24 +94,6 @@ uniformed group settings.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC Unit Recognition Award: Distinction
-<br>NCC Air Competition Overall Award: 2<sup>nd</sup> Place
-<br>NCC Air Competition – Drone Obstacle Event: 1<sup>st</sup> Place
-<br>NCC Air Competition – Drone Soccer&nbsp; Event: 2<sup>nd</sup> Place
-<br>NCC Air Competition – Balsa Glider&nbsp; Event: 3<sup>rd</sup> Place</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/Picture1_2025.png">
