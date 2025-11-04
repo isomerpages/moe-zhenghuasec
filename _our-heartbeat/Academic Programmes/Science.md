@@ -122,17 +122,34 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programme Highlights and Enrichment Activities</h3>
-<p>Science is a methodical approach to understanding the world, creating
-and organizing knowledge through testable explanations and predictions.&nbsp;</p>
-<p>&nbsp;In our science labs, students not only conduct exciting experiments
-but also participate in Inquiry-Based Learning (IBL). This approach allows
-them to uncover concepts through exploration rather than traditional instruction.
-With the help of Personal Learning Devices (PLDs), this process becomes
-both efficient and engaging.</p>
-<p>This year has been another outstanding one for our science students, as
-the Science department provided a wealth of enriching learning opportunities
-both inside and outside the classroom, sparking curiosity and deepening
-their passion for discovery.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This year, our students truly embraced science as a systematic way of
+understanding the world. In our labs, they engaged in inquiry-based learning
+and used their Personal Learning Devices (PLDs) to explore and uncover
+scientific concepts independently. A highlight was the Lower Secondary
+Science Projects, where students researched renowned scientists and advocated
+for healthcare and environmental sustainability through creative drama
+presentations.</p>
+<p>&nbsp;Beyond the classroom, students had numerous opportunities to deepen
+their learning. They gained hands-on experience in genetic engineering
+during the DNA Bacterial Transformation Workshop, explored how STEM drives
+innovation across industries, and visited the NKF Kidney Discovery Centre
+to learn about kidney health.</p>
+<p>To cap off an inspiring year, a team of Secondary 2 students took part
+in the Youth STEM Empowerment Programme, designing HandyPal—a smart walking
+aid for the elderly. These experiences nurtured curiosity, resilience,
+and a passion for transdisciplinary learning.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
