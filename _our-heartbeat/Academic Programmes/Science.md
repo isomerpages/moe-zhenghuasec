@@ -161,136 +161,24 @@ and a passion for transdisciplinary learning.</p>
 <p><strong>Singapore Junior Chemistry Olympiad 2025</strong>
 </p>
 <p><strong>Bronze</strong>
-</p>
-<p>Koh Kar How Julian (4B)</p>
+<br>Koh Kar How Julian (4B)</p>
 <p><strong>Certificate of Merit</strong>
-</p>
-<p>Ang Khai Hian (4B)</p>
-<p>Khant Zaw Paing (4B)</p>
-<p>&nbsp;</p>
+<br>Ang Khai Hian (4B)
+<br>Khant Zaw Paing (4B)</p>
 <p><strong>Singapore Junior Biology Olympiad 2025</strong>
 </p>
 <p><strong>Bronze</strong>
-</p>
-<p>Jerene Tan Xin Yi (4B)</p>
-<p>&nbsp;</p>
+<br>Jerene Tan Xin Yi (4B)</p>
 <p><strong>Honourable Mention</strong>
-</p>
-<p>Elysia Tan An Shuen (4B)</p>
-<p>Khant Zay Luu (4B)</p>
-<p>&nbsp;</p>
+<br>Elysia Tan An Shuen (4B)
+<br>Khant Zay Luu (4B)</p>
 <p><strong>Singapore Junior Physics Olympiad 2025</strong>
 </p>
 <p><strong>Honourable Mention</strong>
-</p>
-<p>Chua Kah Chin Cayden (4C)</p>
-<p>Tan Wee Sheng Tidus (4C)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science Learning Journeys</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>This year, our students have participated in a variety of enriching science
-programs designed to deepen their understanding of the natural world.</p>
-<p>&nbsp;</p>
-<p>Through the ExxonMobil Biodiversity Conservation and Explorers Programme
-(BiCEP), students explored biodiversity at the Lee Kong Chian Natural History
-Museum.</p>
-<p>&nbsp;</p>
-<p>They also gained hands-on experience in genetic engineering at the DNA
-Bacterial Transformation Workshop at the Science Centre Singapore.</p>
-<p>&nbsp;</p>
-<p>For post-exam enrichment, students will visit Pulau Ubin to explore natural
-ecosystems and Edible Garden City to learn about urban farming and sustainability.</p>
-<p>&nbsp;</p>
-<p>These programmes are part of the Science Department's commitment to providing
-students with real-world learning experiences that connect classroom knowledge
-with practical applications in conservation, biotechnology, and sustainability.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science1.jpg">
-</div>
-<p>DNA Bacterial Transformation Workshop</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science2.jpg">
-</div>
-<p>Exploring Pulau Ubin</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science3.jpg">
-</div>
-<p>Using vegetable waste to make compost</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>STEM Day</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>On our vibrant STEM Day, Secondary 2 students embarked on an exciting
-exploration of STEM in a variety of fascinating fields.</p>
-<p>&nbsp;</p>
-<p>From the cutting-edge world of drones and stem cells to the hands-on thrill
-of ice cream making, students had the chance to dive into diverse areas
-of Science, Technology, Engineering, and Mathematics.</p>
-<p>&nbsp;</p>
-<p>With each workshop designed to spark curiosity and ignite creativity,
-students gained a deeper understanding of how STEM is transforming industries
-and our everyday lives.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science4.jpg">
-</div>
-<p>Exploring drone soccer for the first time</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science5.jpg">
-</div>
-<p>SEA Aquarium Learning Journey</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science6.jpg">
-</div>
-<p>Ice-cream making workshop</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science7.jpg">
-</div>
-<p>Workshop at Science Centre</p>
+<br>Chua Kah Chin Cayden (4C)
+<br>Tan Wee Sheng Tidus (4C)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>Achievements:</strong>
-</p>
-<p>Singapore Junior Biology Olympiad 2024 - 3 Bronze Award and 1 Honourable
-Mention</p>
-<p>Singapore Junior Chemistry Olympiad 2024 - 1 Bronze Award and 1 Merit</p>
-<p>Singapore Junior Physics Olympiad 2024 - 2 Honourable Mention</p>
