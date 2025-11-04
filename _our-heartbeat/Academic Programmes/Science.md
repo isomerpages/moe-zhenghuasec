@@ -182,3 +182,17 @@ and a passion for transdisciplinary learning.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture1_2025.jpg">
+</div>
+<blockquote>
+<p>Making a splash while learning beneath the waves at the SEA Aquarium</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Giving vegetable waste a second life through composting</p>
+</blockquote>
+<p></p>
