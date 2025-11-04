@@ -102,9 +102,6 @@ confident, and collaborative individuals.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-<br>Singapore Youth Festival Arts Presentation (Handbell/ Handchime) - Certificate
-of Accomplishment</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Handbells/Zhenghua_Secondary_School_12025.jpg">
