@@ -17,4 +17,11 @@ sections:
           url: https://www.instagram.com/zssofficial/?hl=en
       button: Open House
       url: https://sites.google.com/moe.edu.sg/zssopenhouse25/home
+  - infobar:
+      title: OPEN HOUSE 2025
+      id: infobar
+      description: Zhenghua Secondary School Open House 2025, click on the link below
+        to access
+      button: ZSS Open house
+      url: https://sites.google.com/moe.edu.sg/zssopenhouse25/home
 ---
