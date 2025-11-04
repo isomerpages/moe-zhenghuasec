@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Frequently Asked Questions</h3>
 <p>(1) What is Zhenghua Secondary's cut-off points?
-<br>For the current 2023 batch of Sec 1s:</p>
+<br>For the current 2025 batch of Sec 1s:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 - 19</p>
+<p>13 - 19</p>
 </td>
 </tr>
 <tr>
