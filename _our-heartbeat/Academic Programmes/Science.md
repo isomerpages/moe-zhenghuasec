@@ -203,3 +203,10 @@ and a passion for transdisciplinary learning.</p>
 <p>Bringing biology to life at the DNA Bacterial Transformation Workshop</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Exploring science beyond the classroom at the Science Centre</p>
+</blockquote>
+<p></p>
