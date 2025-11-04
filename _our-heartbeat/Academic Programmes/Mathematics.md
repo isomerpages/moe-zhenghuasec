@@ -60,7 +60,7 @@ variant: tiptap
 <p>Mr Ashar Ahmad (HOD Student Mgmt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Li Ping, Magdalene (Year Head)</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 <p>Mdm Ho Woan Shay (SH Student Well-Being)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Li Ping, Magdalene (Year Head)</p>
+<p>Mdm Seah Hwee Bing</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Mdm Tan Cheng Cheng, Angela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seah Hwee Bing</p>
+<p>Mr Boo Jia Liang</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>Mr Tan Soo Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Boo Jia Liang</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,27 +128,60 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programmes Highlights and Enrichment Activities</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mathematics/M2.png">
-</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Mathematics Department is committed to cultivating analytical minds
+and a love for learning through engaging, meaningful experiences. Kicking
+off the year, our Secondary 1 students went on an exciting interdisciplinary
+learning journey to Marina Barrage as part of the Ziesta programme. In
+collaboration with the Humanities Department, the trip brought mathematical
+concepts to life while exploring Singapore’s water story. Using their Personal
+Learning Devices (PLDs), students connected classroom learning with real-world
+experiences in a fun way.</p>
+<p>Our Secondary 4 students rose to the challenge in the Singapore Mathematical
+Olympiad (Senior Category), tackling complex problems and sharpening their
+analytical skills.</p>
+<p>Through the Mathematics Peer Tutoring Programme, student tutors supported
+their peers, building confidence and teamwork. Across Secondary 1 to 3,
+Mathematical Modelling Projects encouraged students to solve real-world
+challenges creatively, making Mathematics engaging, relevant and full of
+discovery.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad – 1 Silver Award
+<br>Khant Zaw Paing (4-8)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mathematics/M3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Maths/Picture1_2025.jpg">
 </div>
+<blockquote>
+<p>Peer Tutoring Session</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mathematics/M4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Maths/Picture2_2025.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mathematics/M5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mathematics/M6.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Mathematics/M7.png">
-</div>
+<blockquote>
+<p>Watch our Peer Tutors and their Peer Tutees in action</p>
+</blockquote>
 <p></p>
