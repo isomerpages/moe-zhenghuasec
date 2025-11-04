@@ -42,8 +42,6 @@ variant: tiptap
 <li>
 <p>Mr Lim Chee Hui</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Mdm Emilia Bte Mohamed Ali</p>
 </li>
