@@ -149,38 +149,6 @@ and a passion for transdisciplinary learning.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Junior Chemistry Olympiad 2025</strong>
-</p>
-<p><strong>Bronze</strong>
-<br>Koh Kar How Julian (4B)</p>
-<p><strong>Certificate of Merit</strong>
-<br>Ang Khai Hian (4B)
-<br>Khant Zaw Paing (4B)</p>
-<p><strong>Singapore Junior Biology Olympiad 2025</strong>
-</p>
-<p><strong>Bronze</strong>
-<br>Jerene Tan Xin Yi (4B)</p>
-<p><strong>Honourable Mention</strong>
-<br>Elysia Tan An Shuen (4B)
-<br>Khant Zay Luu (4B)</p>
-<p><strong>Singapore Junior Physics Olympiad 2025</strong>
-</p>
-<p><strong>Honourable Mention</strong>
-<br>Chua Kah Chin Cayden (4C)
-<br>Tan Wee Sheng Tidus (4C)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture1_2025.jpg">
