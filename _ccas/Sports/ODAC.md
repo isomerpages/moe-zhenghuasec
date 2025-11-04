@@ -89,36 +89,6 @@ more self-reliant, resilient, and confident in facing challenges.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GARANG 2024 Race Mixed Category</strong> – Xie Zhiyuan Jasper (4C),
-<br>Tan Jing Xuan Charles (Chen Jingxuan)&nbsp;(4A), Chloe Ng Sing Hwee (Huang
-Xinghui)&nbsp;(4G),
-<br>Chiang Ray Han Caleb&nbsp;(2B), Teo Sia Yu&nbsp;(2B), 1<sup>st</sup> Runner
-Up</p>
-<p>&nbsp;<strong>GARANG 2024 Race All-Female Category</strong> – Chua Jia
-En Verine (3F), Joelle Liew En Yu (3B), Nureeqa Qisrina Binte Nurulhaq
-(3B), Christy Oh Ni Ann (3A) &amp; Nicole Wong Si Hui (2E), 1<sup>st</sup>,Runner
-Up</p>
-<p>&nbsp;<strong>National Orienteering Race (Schools) 2024 C-Division Boys – </strong>Justin
-Lim Ye Teng (2E) &amp; Chiang Ray Han Caleb (2B), 2<sup>nd</sup>
-</p>
-<p><strong>&nbsp;24 May Passionwave Orienteering Race C Division Girls </strong>–
-RACHEL YEO BEE LING (2B), TAN YEN LINH YI HU (2B), 3<sup>rd</sup>
-</p>
-<p>&nbsp;<strong>24 May Passionwave Orienteering Race B Division Girls </strong>–
-ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</sup> place</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Picture1_2025.jpg">
