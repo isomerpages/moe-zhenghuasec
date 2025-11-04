@@ -15,4 +15,6 @@ sections:
         - title: ZSSofficial
           description: our Instagram
           url: https://www.instagram.com/zssofficial/?hl=en
+      button: Open House
+      url: https://sites.google.com/moe.edu.sg/zssopenhouse25/home
 ---
