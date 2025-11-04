@@ -193,6 +193,13 @@ and a passion for transdisciplinary learning.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture2_2025.jpg">
 </div>
 <blockquote>
-<p>Giving vegetable waste a second life through composting</p>
+<p>Giving vegetable waste a second life through composting!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Bringing biology to life at the DNA Bacterial Transformation Workshop</p>
 </blockquote>
 <p></p>
