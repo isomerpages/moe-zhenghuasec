@@ -138,12 +138,6 @@ having fun” and helped them see the beauty of their mother tongue in action.
 By connecting lessons to real-world contexts and cultural traditions, we
 nurtured a love for both the Malay Language and Chinese Language, building
 strong lifelong connections to language, culture, and identity.</p>
-<h3>Achievements</h3>
-<p><strong>ML Writing Competition "Saya Boleh Mengarang"</strong>
-<br>Priscilla Alexia Bong 2F - Gold
-<br>Muhammad Sharhan Mohd Sallehan 2H - Silver
-<br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
-<br>Nuryn Eiliyah Bt Ahmad As'ad 1E - Bronze</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture1.jpg">
