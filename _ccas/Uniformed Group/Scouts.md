@@ -90,28 +90,6 @@ vital life skills such as teamwork, communication, critical thinking, and
 adaptability. Guided by the core values of integrity, respect, responsibility,
 and compassion, we continue to nurture confident, capable individuals ready
 to serve others and make a positive difference in the world.</p>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Frank Cooper Awards 2025&nbsp;</strong>
-</p>
-<p><strong>Chief Scout’s Award</strong> - Muhammad Amir Bin Amri (4C), Chua
-Boon Hui (4E), Glynis Seah Wan Yi (4E), Nai Si Rui Jazryl (4G), Isaac Lim
-Yi An (4G),&nbsp; Juan Miguel Miranda Pacheco (4G), Lim Dong Yi (4E), Vibandor
-Eunice Chloe Gudiaga (4E)&nbsp;</p>
-<p><strong>Chief Commissioner Well-Done Badge</strong> - Lim Dong Yi (4E),
-Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
-(4G)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture6_2025.jpg">
