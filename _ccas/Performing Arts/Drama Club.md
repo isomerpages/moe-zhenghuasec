@@ -87,8 +87,6 @@ the power of storytelling.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-<br>Singapore Youth Festival: Certificate of Accomplishment</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/Picture1_2025.jpg">
