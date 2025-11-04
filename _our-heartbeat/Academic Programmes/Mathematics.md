@@ -199,3 +199,10 @@ discovery.</p>
 <p>Working in pairs to halve the work</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Maths/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Using their PLDs for the Marina Barrage Trail (Mathematics Learning Journey)</p>
+</blockquote>
+<p></p>
