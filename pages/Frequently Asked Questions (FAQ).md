@@ -209,9 +209,9 @@ their performance in other subjects.</p>
 <p>(12) My child is taking Tamil language. When and where are the classes
 held?</p>
 <p>Students who are offered Tamil will study at the Tamil Language Centre,
-Teck Whye Secondary School outside curriculum time. For 2024, depending
-on the level and stream, Tamil classes will commence at 3pm on the following
-days:</p>
+Choa Chu Kang&nbsp; Secondary School outside curriculum time. For 2026,
+depending on the level and stream, Tamil classes will commence at 3pm on
+the following days:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
