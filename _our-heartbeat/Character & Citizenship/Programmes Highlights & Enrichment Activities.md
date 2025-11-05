@@ -21,11 +21,20 @@ of Adaptive Thinking, Inventive Thinking and Communication, equipping them
 to contribute meaningfully to their families, school and nation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture1_2025.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture1_2025.png">
 </div>
 <blockquote>
 <p>Sec 5 students and teachers celebrating the spirit of giving at the Chinese
 New Year VIA project, where the school community came together to spread
 festive cheer</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture2_2025.png">
+</div>
+<blockquote>
+<p>Students distributing groceries donated by school staff and students,
+supporting residents through the project in collaboration with Zhenghua
+CC</p>
 </blockquote>
 <p></p>
