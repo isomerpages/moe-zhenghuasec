@@ -38,3 +38,10 @@ experience, offering insights into our maritime heritage.</p>
 School</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Singapore Maritime Gallery</p>
+</blockquote>
+<p></p>
