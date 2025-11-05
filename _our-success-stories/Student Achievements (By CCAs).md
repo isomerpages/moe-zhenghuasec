@@ -154,7 +154,8 @@ of Accomplishment</p>
 <p>Handbells Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (Arts Presentation) - 2021 - Certificate of Accomplishment</p>
+<p><strong>Singapore Youth Festival (Arts Presentation) 2025</strong> - Certificate
+of Accomplishment</p>
 </td>
 </tr>
 <tr>
