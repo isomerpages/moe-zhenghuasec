@@ -176,7 +176,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Clubs &amp; Societies</p>
+<h4>Clubs &amp; Societies</h4>
 </td>
 </tr>
 <tr>
