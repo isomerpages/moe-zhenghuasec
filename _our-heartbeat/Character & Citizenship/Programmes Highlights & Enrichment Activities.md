@@ -64,3 +64,11 @@ Defence Day, emphasising the importance of resilience and unity in safeguarding
 Singapore</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture6_2025.png">
+</div>
+<blockquote>
+<p>Students gained insights into various career opportunities through the
+Work Experience Programme in the Care Industry</p>
+</blockquote>
+<p></p>
