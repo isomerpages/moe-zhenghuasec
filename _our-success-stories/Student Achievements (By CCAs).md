@@ -199,6 +199,21 @@ in the grouping.</p>
 <p><strong>2025 Zhenghua Football Cup – </strong>2<sup>nd</sup> in position</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our C Division players won 3 games during the National School Games (League)
+and successfully progressed to round 2 of the League Games.</p>
+<p>Our B Division Players completed their VIA project at Beacon Primary School
+which was well received by the school.&nbsp; They helped to coach and transfer
+important Netball skills to the Primary School Students.</p>
+<p>Our C Division participated in the Deloitte Pestan Sukan Netball Carnival
+2025 and won 4th placing<strong><em>.</em></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
