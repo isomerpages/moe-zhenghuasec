@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vivian Koh</p>
+<p>Mr Godwin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Grace Chia</p>
