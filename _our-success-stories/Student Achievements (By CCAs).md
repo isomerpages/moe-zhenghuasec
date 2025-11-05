@@ -57,11 +57,10 @@ Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award (UOPA) 2021 - Silver
-<br>
-<br>SPF Award - Station Inspector Tan Jun Qi (4E4)
-<br>Unit Overall Proficiency Award (UOPA) 2019 - Silver
-<br>SPF Award - Station Inspector Muhammad Amirul Ezany (4N1)</p>
+<p><strong>Unit Overall Proficiency Award 2024</strong> - Distinction</p>
+<p></p>
+<p><strong>SPF-NPCC Award - </strong>SSgt Sebastian Joshua Deng (4G)</p>
+<p><strong>SPF-NPCC Award - </strong>SSgt Ng Shi Yun (4D)</p>
 </td>
 </tr>
 <tr>
