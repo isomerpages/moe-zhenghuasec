@@ -46,3 +46,12 @@ CC</p>
 their needs, exemplifying the spirit of being thoughtful contributors</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture4_2025.png">
+</div>
+<blockquote>
+<p>As part of the Inclusivity Project, students experienced what it feels
+like to navigate public spaces with visual impairments through digital
+simulations.</p>
+</blockquote>
+<p></p>
