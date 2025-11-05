@@ -183,8 +183,8 @@ for the international and local artists</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025 National School Games (NSG)</strong> C-Division Basketball
-League 6 – 2<sup>nd</sup> position</p>
-<p><strong>AES Basketball Challenge [2025]</strong> – 2<sup>nd</sup> position</p>
+League 6 – 2<sup>nd</sup> position
+<br><strong>AES Basketball Challenge [2025]</strong> – 2<sup>nd</sup> position</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,11 @@ League 6 – 2<sup>nd</sup> position</p>
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2025 National School Games (NSG) B-Division (Boys) Football– League 3 – </strong>2<sup>nd</sup> position
+in the grouping.</p>
+<p><strong>&nbsp;2025 National School Games (NSG) C-Division (Boys) Football– </strong>League
+4 Participation</p>
+<p><strong>2025 Zhenghua Football Cup – </strong>2<sup>nd</sup> in position</p>
 </td>
 </tr>
 </tbody>
