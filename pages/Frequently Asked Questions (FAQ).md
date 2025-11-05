@@ -104,18 +104,73 @@ We also put in place several remedial measures to help our students succeed.</p>
 excessive handphone usage?</p>
 <p>Handphones are not allowed to be used during curriculum time unless allowed
 by the teacher for teaching and learning purposes. Students are only allowed
-to use their handphones before school, during recess and after school.
-We do not ban the use of handphones as we would rather educate our students
-to use their personal devices responsibly in a world that is increasingly
-dependent on technology. We thus conduct cyber-wellness lessons and workshops
-for such a purpose.</p>
+to use their handphones outside of the handphone restriction hours. The
+restriction hours are stated below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Restriction Hours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30am – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 1.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 12.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>(7) Will teachers use Facebook or other social media and Whatsapp to communicate
 with the students?</p>
 <p>While we do not encourage our teachers to use social media to communicate
 with students, we do recognise that technological platforms can be a useful
 platform to encourage student online discussions and collaborations.&nbsp;
 Hence, unless it is for educational purposes, our teachers will not use
-social media platforms to communicate with your child.We also recognise
+social media platforms to communicate with your child. We also recognise
 that online communication apps like Whatsapp are effective ways to get
 in touch with students. However, teachers do recognise that not all students
 have smart phones or data plans and that Whatsapp only serve as an additional
@@ -137,30 +192,20 @@ this would have an impact on his or her studies.</p>
 <p>Students who offer Mother Tongue Language (MTL) (i.e. Chinese/ Malay/
 Tamil) or Higher Mother Tongue Language (HTML) (i.e. Higher Chinese/ Higher
 Malay/ Higher Tamil) at the PSLE and</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>are ranked among the top 10% of the PSLE; OR</p>
-</li>
-<li>
-<p>are in the top 11% - 30% band who meet the language criteria (i.e. an
-A* grade in the MTL or at least a Merit in the HMTL), may opt to study
-HMTL at secondary schools. They may offer English Language and HMTL in
-the GCE ‘O’ Level Examination at the end of Secondary Four.</p>
-</li>
-</ul>
-<p>Students eligible for HMTL will be invited to apply for these programmes
-immediately after the release of the PSLE results.</p>
+<p>o&nbsp;&nbsp; PSLE MTL score of AL 1/AL 2; or</p>
+<p>o&nbsp;&nbsp; HMTL score of Distinction/Merit</p>
+<p>Students eligible for HMTL will be invited by MOE to apply for HMTL immediately
+after the release of the PSLE results.</p>
 <p>Higher Malay Language course will be held in Bukit Panjang Government
 High outside curriculum time and Higher Chinese Language course is held
 in the school.</p>
 <p>(11) My child does not meet the above criteria to offer HMTL, can my child
 still opt for HMTL in Secondary School?</p>
-<p>The school has the flexibility to allow students who do not meet the above
-criteria to offer HMTL, if they are assessed to have exceptional ability
-in MTL in the mid-year examination and are able to do HMTL without affecting
-their performance in other subjects.Students who obtain a grade of A2 and
-above in MTL in the mid-year examination with an overall average of 60
-will be offered HCL in semester 2 in secondary one in our school.</p>
+<p>Students who scored 75% or higher in G3 MTL are eligible to offer HMTL
+in secondary three. School has the flexibility to allow students to take
+HMTL if they are assessed to have exceptional ability in MTL in the end-of-year
+examination of secondary two and are able to take HMTL without affecting
+their performance in other subjects.</p>
 <p>(12) My child is taking Tamil language. When and where are the classes
 held?</p>
 <p>Students who are offered Tamil will study at the Tamil Language Centre,
