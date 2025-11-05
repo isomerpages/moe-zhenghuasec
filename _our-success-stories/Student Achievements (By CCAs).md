@@ -238,6 +238,15 @@ ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</su
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U17 Ultimate Frisbee Competition - </strong>8th position (Team
+1: 8th placing), 18th Position (Team 2: 18th placing)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
