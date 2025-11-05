@@ -188,22 +188,9 @@ variant: tiptap
 1st Prize</p>
 <p><strong>National AI Student Challenge 2025 (Open Category)</strong> – 2nd
 Prize
+<br>
 <br><strong>Intel AI Global Impact Festival 2025</strong> - Top 3 Placing (Singapore)</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Library Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NLB SURE Prove It! Contest 2021 - Top 10
-<br>
-<br>Historical Scene Investigation Challenge 2020 – Bronze
-<br>Annicia Ong Li Qi (1N1)
-<br>Lucas Leong Hong Kit (2E4)
-<br>Chua Jun Jie (2N2)
-<br>Chua Shi Yu (2N2)</p>
 </td>
 </tr>
 <tr>
@@ -211,19 +198,34 @@ Prize
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2020 - Artist and Technology: The Online Art
-Exhibition
+<p><strong>SYF Art Exhibition 2024</strong>
+</p>
+<p></p>
+<p><u>Exhibited Artwork: Elite/Inferior</u>
+<br>Jaelynn Seet Jing Ting (2A)
+<br>Raeann Koh Yuhui (2B)
+<br>Ng Zing Hian (2C)</p>
+<p></p>
+<p>5 other artworks featured on SYF Art Exhibition 2024 Catalogue</p>
+<p></p>
+<p><strong>Schools Digital Media Award 2024</strong>
+<br>Nur Ayrah Binte Sainoldin (3A)</p>
+<p></p>
+<p><u>Selected Design for Tote Bag Merchandise for World Aquatic Championship 2025&nbsp;</u>
+<br>NURSYUHADA BINTE ISMAIL (S1-F)</p>
+<p>World Aquatic Championship 2025 “Water Shapes Us” Postcards - encouragement
+for the international and local artists</p>
+<p><strong>“Canvas of Tomorrow”, an interschool competition organised by Kranji Sec Art Club</strong>&nbsp;</p>
+<p>3rd Prize:&nbsp;
+<br>SERVILLON ALANAH KRISTEN RECOMANTA (S3-E)</p>
+<p>Honorable Mention for Best Environmental Message:&nbsp;
+<br>SEET JING TING, JAELYNN (S3-A)
+<br>EIRLYS AURRELL BINTE
+<br>MOHAMMAD FAZLEE (S3-A)
+<br>ANG WEN MEI (S3-G)</p>
+<p>
 <br>
-<br>Amber Yeap Hui En (4E2)
-<br>Chin Yong Jun (4E3)
-<br>Ho Jia Zhi (4E3)
-<br>Nur Batrisyia Bte Azman (4E4)
-<br>Joshua Nai Yee Le (4E4)
-<br>How Yu Hung Rachel (4T1)
-<br>Princess Lydia Olanrewaju Aluko (4T1)
-<br>Tan Wei Lin Juliana (4T1)
-<br>Live On Design Competition 2020 - 3rd Prize
-<br>Jocelyn Quek (2E2)</p>
+</p>
 </td>
 </tr>
 </tbody>
