@@ -395,7 +395,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ML Writing Competition “Saya Boleh Mengarang”
+<br>Priscilla Alexia Bong 2F - Gold
+<br>Muhammad Sharhan Mohd Sallehan 2H - Silver
+<br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
+<br>Nuryn Eiliyah Bt Ahmad As'ad 1E – Bronze</p>
 </td>
 </tr>
 <tr>
@@ -404,7 +408,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>10<sup>th</sup> National War &amp; Diplomacy History Card Game Challenge</u>
+</p>
+<p>&nbsp;Students from our school participated in the 10th National History
+Card Challenge Game Themed War and Diplomacy, where they applied their
+historical knowledge, strategic thinking, and decision-making skills. We
+are proud to congratulate Tessa Wong (3D) for reaching the finals, and
+Muhammad Riyaz (3G) for achieving 2nd place overall in the Individual Category,
+showcasing both excellence and perseverance.</p>
+<p><u>International Model United Nations Conference&nbsp;</u>
+</p>
+<p>Our students participated in the International Model United Nations Conference
+(IMUNC), taking on the roles of global delegates to debate pressing world
+issues. Over several days, they researched, collaborated, and presented
+resolutions in a simulation of the United Nations. We are proud to celebrate
+Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the
+Most Outstanding Delegate Award, showcasing their excellence and dedication
+at the conference.</p>
 </td>
 </tr>
 <tr>
