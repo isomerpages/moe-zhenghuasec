@@ -55,3 +55,12 @@ like to navigate public spaces with visual impairments through digital
 simulations.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Zhenghua alumnus ME2 Kenny returned to inspire our students during Total
+Defence Day, emphasising the importance of resilience and unity in safeguarding
+Singapore</p>
+</blockquote>
+<p></p>
