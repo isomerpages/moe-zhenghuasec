@@ -395,7 +395,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ML Writing Competition “Saya Boleh Mengarang”
+<p><strong>ML Writing Competition “Saya Boleh Mengarang”</strong> 
 <br>Priscilla Alexia Bong 2F - Gold
 <br>Muhammad Sharhan Mohd Sallehan 2H - Silver
 <br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
@@ -433,7 +433,7 @@ at the conference.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad – 1 Silver Award
+<p><strong>Singapore Mathematical Olympiad</strong> – 1 Silver Award
 <br>Khant Zaw Paing (4B)</p>
 </td>
 </tr>
