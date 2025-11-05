@@ -137,27 +137,7 @@ Certificate of Distinction</p>
 <p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2021 - Commendation
-<br>
-<br>Human Values Drama Festival 2020 (HVDF 2020) – Consolation Prize for Script
-(Joint 3rd place with 2 other schools)
-<br>Comic Speech (Lower Sec Category)
-<br>- Aaliyah Maisarah Bte Mustafa Kamal (1E3) – 3rd
-<br>-
-<br>Comic Monologue (Upper Sec Category)
-<br>- Santos Ena Lhuz Co (2N2) – 1st
-<br>-
-<br>Comic Duologue (Upper Sec)
-<br>- Nur Natra Shyuhadah Bte Yazid &amp; Siti Rahimah Bte Zulfiki (3T1) -
-5th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drums Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chingay Champion of the Year Award</p>
+<p><strong>Singapore Youth Festival</strong> - Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +145,8 @@ Certificate of Distinction</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (Arts Presentation) - 2021 - Certificate of Accomplishment</p>
+<p><strong>Singapore Youth Festival (Arts Presentation) 2025</strong> - Certificate
+of Accomplishment</p>
 </td>
 </tr>
 <tr>
