@@ -52,3 +52,10 @@ School</p>
 <p>Southern Island Boat ride with the PSA port in the background</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Changi Experience</p>
+</blockquote>
+<p></p>
