@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mr Derrick Lim (SH CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Khee Hoon (Year Head)</p>
 </td>
 </tr>
 <tr>
@@ -59,20 +59,12 @@ variant: tiptap
 <p>Mr Sam Soo (SH Geog/NE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Khee Hoon (Year Head)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Zanariah Bte Zainal Abiden (Year Head)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vivian Koh (SH English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
