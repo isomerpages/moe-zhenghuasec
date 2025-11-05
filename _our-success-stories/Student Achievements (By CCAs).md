@@ -45,7 +45,11 @@ Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
 <p>NCC (Air)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Recognition Award 2019 - Accomplishment</p>
+<p><strong>NCC Unit Recognition Award</strong>: Distinction</p>
+<p><strong>NCC Air Competition Overall Award</strong>: 2<sup>nd</sup> Place</p>
+<p><strong>NCC Air Competition – Drone</strong> Obstacle Event: 1<sup>st</sup> Place</p>
+<p><strong>NCC Air Competition – Drone</strong> Soccer&nbsp; Event: 2<sup>nd</sup> Place</p>
+<p><strong>NCC Air Competition – Balsa Glider&nbsp; Event</strong>: 3<sup>rd </sup>Place</p>
 </td>
 </tr>
 <tr>
