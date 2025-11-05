@@ -37,22 +37,14 @@ professional development</p>
 within the school community where every member strives to be willing to
 step out of his/her comfort zone and to make connections with what they
 learn with the real world</p>
-<h4>Respect Learning</h4>
-<p>To respect learning is to recognize that learning is a lifelong process
-which requires hard work and effort, but which is the only way to develop
-my potential to the fullest. If I respect learning then I must start this
-process in school and learn to lead a disciplined lifestyle to put in every
-effort to ensure that I learn everything that is taught in school, to make
-every activity a learning experience and to learn how to learn.</p>
-<h4>Respect Environment</h4>
-<p>To respect the environment means that I recognize that it belongs to everyone.
-I must take care of it because it does not belong to me. My respect for
-others demands that I must not deprive them of the environment through
-my misuse.</p>
-<h4>Respect Country</h4>
-<p>To respect the country means that I will try to be a responsible citizen
-and to follow all the laws of Singapore. I know that pupils who are Singapore
-citizens must sing the National Anthem and take the Pledge. Pupils will
-take the Pledge with the right fist placed over the heart. All foreign
-pupils must show their respect by standing at attention for the duration
-of the ceremony.</p>
+<h4>Creed #3. Every act, an uplifting force</h4>
+<p><strong><u>Every Act:</u></strong>
+<br>All words or actions be it big or small, in various modes (ie. face to
+face, email, whatsApp)</p>
+<p></p>
+<p><strong><u>An Uplifting Force:</u></strong>
+<br>Have the power to elevate and enable others to reach his/her potential</p>
+<p></p>
+<p><strong>This belief encourages empathy and continuous improvement within the school community where every member strives to make a positive difference to the lives of others</strong>
+</p>
+<p></p>
