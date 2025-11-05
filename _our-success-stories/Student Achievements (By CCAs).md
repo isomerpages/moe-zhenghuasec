@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Uniformed Groups</p>
+<h4>Uniformed Groups</h4>
 </td>
 </tr>
 <tr>
@@ -29,31 +29,15 @@ variant: tiptap
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award 2021:
-<br>
-<br>Aisha Aliah Binte Akbar Ali (4T1)
-<br>Chin Jiaqi (4E4)
-<br>Eric Lim Jing Rui (4E3)
-<br>Grace Gan Jia En (4N2)
-<br>How Yan Lin Raelyn (4E4)
-<br>Muhammad Hakim Bin Saipe (4E4)
-<br>Sim Jing Chong Gavin (4E2)
-<br>Teo Zhi En (4E3)
-<br>Chief Commissioner's Award 2020:
-<br>Ng Jia Qi (4E1)
-<br>Doreen Tham Jing Shi (4E2)
-<br>Oon Yu Ning (4E2)
-<br>Poh Yawen (4E2)
-<br>Gladys Chua Enqi (4E4)
-<br>Leung Yun Xi (4E4)
-<br>Juan Gabriel Miranda Pacheco (4E4)
-<br>Lai Jia Jun (4N1)
-<br>Lim Pei Ying (4N2)
-<br>Ong Shi Xuan (4N2)
-<br>North Area Cooking Photography Competition 2020
-<br>Praveer S (2E4) - Bronze
-<br>See Kaixun, Ignatius (4T1) - Silver
-<br>2019: Frank Cooper Sands Award - Gold</p>
+<p><strong>Frank Cooper Awards 2025</strong>
+</p>
+<p><strong>Chief Scout’s Award</strong> - Muhammad Amir Bin Amri (4C), Chua
+Boon Hui (4E), Glynis Seah Wan Yi (4E), Nai Si Rui Jazryl (4G), Isaac Lim
+Yi An (4G),&nbsp; Juan Miguel Miranda Pacheco (4G), Lim Dong Yi (4E), Vibandor
+Eunice Chloe Gudiaga (4E)</p>
+<p><strong>Chief Commissioner Well-Done Badge</strong> - Lim Dong Yi (4E),
+Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
+(4G)</p>
 </td>
 </tr>
 <tr>
