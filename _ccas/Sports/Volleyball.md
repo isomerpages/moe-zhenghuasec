@@ -127,27 +127,6 @@ a hunger for success that lasts well beyond our students’ schooling years.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025 National School Games (NSG) B-Division (Boys) Volleyball– Participation</p>
-<p>2025 National School Games (NSG) C-Division (Boys) Volleyball League 4
-– 2<sup>nd</sup> position</p>
-<p>2025 National School Games (NSG) B-Division (Girls) Volleyball–Participation</p>
-<p>2025 National School Games (NSG) C-Division (Girls) Volleyball League
-2 – 3<sup>rd</sup> position in grouping</p>
-<p>2025 Shuqun Volleyball Cup Open Category - 2<sup>nd </sup>runner up</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/Picture1_2025.png">

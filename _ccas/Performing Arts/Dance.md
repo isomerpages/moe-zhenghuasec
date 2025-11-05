@@ -126,27 +126,6 @@ memories.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 World Supreme Battleground
-Dance Competition (Secondary School Category) - Champions</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Singapore Youth Festival Art
-Presentation (Malay Dance Category) – Certificate of Accomplishment</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Singapore Youth Festival Art
-Presentation (International Dance Category) – Certificate of Distinction</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Super24 Dance Competition -
-Participant</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/photo_4_2025__2_.jpg">

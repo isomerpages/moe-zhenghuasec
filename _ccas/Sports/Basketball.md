@@ -95,10 +95,7 @@ school years.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<p>2025 National School Games (NSG) C-Division Basketball League 6 – 2<sup>nd</sup> position</p>
-<p>AES Basketball Challenge [2025] – 2<sup>nd</sup> position</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Sec_1_to_5_Basketball_Boys_2025.jpg">
 </div>

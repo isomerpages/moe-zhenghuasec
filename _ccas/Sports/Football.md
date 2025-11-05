@@ -105,24 +105,6 @@ the pitch.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025 National School Games (NSG) B-Division (Boys) Football– League 3
-– 2<sup>nd</sup> position in the grouping.&nbsp;</p>
-<p>2025 National School Games (NSG) C-Division (Boys) Football– League 4
-Participation&nbsp;</p>
-<p>2025 Zhenghua Football Cup – 2<sup>nd</sup> in position</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture1_2025.jpg">

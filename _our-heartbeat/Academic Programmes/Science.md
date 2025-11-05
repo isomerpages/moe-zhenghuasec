@@ -122,120 +122,66 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programme Highlights and Enrichment Activities</h3>
-<p>Science is a methodical approach to understanding the world, creating
-and organizing knowledge through testable explanations and predictions.&nbsp;</p>
-<p>&nbsp;In our science labs, students not only conduct exciting experiments
-but also participate in Inquiry-Based Learning (IBL). This approach allows
-them to uncover concepts through exploration rather than traditional instruction.
-With the help of Personal Learning Devices (PLDs), this process becomes
-both efficient and engaging.</p>
-<p>This year has been another outstanding one for our science students, as
-the Science department provided a wealth of enriching learning opportunities
-both inside and outside the classroom, sparking curiosity and deepening
-their passion for discovery.</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Science Learning Journeys</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>This year, our students have participated in a variety of enriching science
-programs designed to deepen their understanding of the natural world.</p>
-<p>&nbsp;</p>
-<p>Through the ExxonMobil Biodiversity Conservation and Explorers Programme
-(BiCEP), students explored biodiversity at the Lee Kong Chian Natural History
-Museum.</p>
-<p>&nbsp;</p>
-<p>They also gained hands-on experience in genetic engineering at the DNA
-Bacterial Transformation Workshop at the Science Centre Singapore.</p>
-<p>&nbsp;</p>
-<p>For post-exam enrichment, students will visit Pulau Ubin to explore natural
-ecosystems and Edible Garden City to learn about urban farming and sustainability.</p>
-<p>&nbsp;</p>
-<p>These programmes are part of the Science Department's commitment to providing
-students with real-world learning experiences that connect classroom knowledge
-with practical applications in conservation, biotechnology, and sustainability.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science1.jpg">
-</div>
-<p>DNA Bacterial Transformation Workshop</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science2.jpg">
-</div>
-<p>Exploring Pulau Ubin</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science3.jpg">
-</div>
-<p>Using vegetable waste to make compost</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>STEM Day</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>On our vibrant STEM Day, Secondary 2 students embarked on an exciting
-exploration of STEM in a variety of fascinating fields.</p>
-<p>&nbsp;</p>
-<p>From the cutting-edge world of drones and stem cells to the hands-on thrill
-of ice cream making, students had the chance to dive into diverse areas
-of Science, Technology, Engineering, and Mathematics.</p>
-<p>&nbsp;</p>
-<p>With each workshop designed to spark curiosity and ignite creativity,
-students gained a deeper understanding of how STEM is transforming industries
-and our everyday lives.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science4.jpg">
-</div>
-<p>Exploring drone soccer for the first time</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science5.jpg">
-</div>
-<p>SEA Aquarium Learning Journey</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science6.jpg">
-</div>
-<p>Ice-cream making workshop</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Science/science7.jpg">
-</div>
-<p>Workshop at Science Centre</p>
+<p>This year, our students truly embraced science as a systematic way of
+understanding the world. In our labs, they engaged in inquiry-based learning
+and used their Personal Learning Devices (PLDs) to explore and uncover
+scientific concepts independently. A highlight was the Lower Secondary
+Science Projects, where students researched renowned scientists and advocated
+for healthcare and environmental sustainability through creative drama
+presentations.</p>
+<p>&nbsp;Beyond the classroom, students had numerous opportunities to deepen
+their learning. They gained hands-on experience in genetic engineering
+during the DNA Bacterial Transformation Workshop, explored how STEM drives
+innovation across industries, and visited the NKF Kidney Discovery Centre
+to learn about kidney health.</p>
+<p>To cap off an inspiring year, a team of Secondary 2 students took part
+in the Youth STEM Empowerment Programme, designing HandyPal—a smart walking
+aid for the elderly. These experiences nurtured curiosity, resilience,
+and a passion for transdisciplinary learning.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>Achievements:</strong>
-</p>
-<p>Singapore Junior Biology Olympiad 2024 - 3 Bronze Award and 1 Honourable
-Mention</p>
-<p>Singapore Junior Chemistry Olympiad 2024 - 1 Bronze Award and 1 Merit</p>
-<p>Singapore Junior Physics Olympiad 2024 - 2 Honourable Mention</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture1_2025.jpg">
+</div>
+<blockquote>
+<p>Making a splash while learning beneath the waves at the SEA Aquarium</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Giving vegetable waste a second life through composting!</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Bringing biology to life at the DNA Bacterial Transformation Workshop</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture4_2025.jpg">
+</div>
+<blockquote>
+<p>Exploring science beyond the classroom at the Science Centre</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Science/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Discovering nature’s classroom at Pulau Ubin</p>
+</blockquote>
+<p></p>

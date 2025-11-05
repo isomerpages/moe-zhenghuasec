@@ -3,62 +3,481 @@ title: School Values Award Secondary 4
 permalink: /achievements/school-values-award/svasec4/
 description: ""
 third_nav_title: School Values Award
+variant: tiptap
 ---
-**School Values Award for Secondary Four**
-
-![](/images/svasec402.jpg)<br>
-![](/images/svasec403.jpg)<br>
-![](/images/svasec404.jpg)<br>
-![](/images/svasec405.jpg)<br>
-![](/images/svasec406.jpg)<br>
-![](/images/svasec407.jpg)<br>
-![](/images/svasec408.jpg)<br>
-
-|| Name | Class |
-|-|-------  | -------- |
-|1|Neo En Xuan|4A|
-|2|Chai En Huan|4A|
-|3|Charlotte Loo Yu Wen|4A|
-|4|Lam Wai Yan|4A|
-|5|Lek Shi Tong|4A|
-|6|Ning Yee Xin|4A|
-|7|Ong Sai Yong|4A|
-|8|Sherise Tang Jing Weng|4A|
-|9|Danish Azri Bin Ronee Randey|4B|
-|10|Andre Leong Wei Ze|4C|
-|11|Batrisyia Binte Mohd Rizal|4C|
-|12|Chan Jia Le Marcus|4C|
-|13|Chong Wan Tong|4C|
-|14|Chua Lik Bin|4C|
-|15|Hanis Alysha Binte Muhamad Hisham|4C|
-|16|Jovin Ong Jing Rui|4C|
-|17|Lam Kok Kwan|4C|
-|18|Ng Yee Xin, Audrina|4C|
-|19|See Xuanli, Jolie |4C|
-|20|Tay Jia Qing|4C|
-|21|Victoria Chin Sai Rui|4C|
-|22|Alena Puah Yu Tong|4D|
-|23|Chloe Lim Xin Yi|4D|
-|24|Chua Yun En Vernice|4D|
-|25|Hana Ifeoma Jasuli|4D|
-|26|Jerome Ng Wei Cheng|4D|
-|27|Kaitlyn Chan|4D|
-|28|Lee Yong Xuan|4D|
-|29|Ma Xin En, Jovie|4D|
-|30|Ng Zhi Kai,Terence|4D|
-|31|Su Shiyan|4D|
-|32|Yeong Kai Ting Mabel|4D|
-|33|Phang Kai Wen|4D|
-|34|Alekzander Bin Elly Sutra|4E|
-|35|Mohammad Ian Ainsley Bin Mohammad Haszly|4E|
-|36|Ong Chee Yan Kenneth|4E|
-|37|Ee Jun Ze, Lucas|4F|
-|38|Eugene See|4F|
-|39|Kyla Neo Kai En|4F|
-|40|Lee Zhan Png, Tristan|4F|
-|41|Sim Fu Lin|4F|
-|42|Ng Jun Min|4G|
-|43|Sor Hui En, Precious|4G|
-
-
-
+<p><strong>School Values Award for Secondary Four</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4A.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4B.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4C.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4D.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4E.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4F.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4G.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 School Values Award/4H.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AA'LIYYA NADHIRA BINTE MUHAMMAD AMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHRISTY OH NI ANN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JERVIS TAY HONG XIN (ZHENG HONGXIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMAD DANISH RAYFAN BIN MUHAMAD NASRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIGELINE ANG YI LIN (HONG YILIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU YANWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG LE XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JASEM BECHIRE BEN NOUREDDINE BESSAIDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JERENE TAN XIN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE RUI QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO SHAN KAI (ZHANG SHANKAI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BONG XUAN QING GRACELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA KAH CHIN, CAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DANIA HUMAIRAH BINTE MOHAMAD DARUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EVA DELYLAH BINTE SHUKOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOEI MARIE LAMAYO ALCARAZ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AMIR BIN AMRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG LI LIN DAPHNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR ANISA ALYANI BINTE ZAIRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG SHI YUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURYNN AYRA BINTE SULAIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN CHEE KAY, KOEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KEEVAN TAN JUN WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ANDRIAN BIN ISHAK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE JUN LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA BOON HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANIA FARISHA BINTE MOHAMAD MUNTAZAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR AFINA BINTE MOHAMED RAIME</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG ALOYSIUS (HONG YUE HANG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN JANIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH LING MIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AARON SHIU KENG HOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISAAC LIM YI AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAI SI RUI JAZRYL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SITI MAISARAH AFFIENDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AIMAN BIN MOHAMAD SAHAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AMRAN BIN MOHAMMED MOKTAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CORDELIA LOW YI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAUFAL IMANN BIN NOORAHMAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4H</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

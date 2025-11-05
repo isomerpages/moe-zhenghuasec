@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Department Achievements</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -17,85 +21,445 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Secondary School Debating Championships</strong> 
-<br><em>Best Speaker (Top 20 in the Preliminary Rounds)</em> 
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daphne Sim Shi Yun (Shen Shiyun) (3D)</p>
-<p><strong>Impromptu Round of the Senja-Cashew Debate Invitationals </strong>
-<br><em>Best Speaker</em> 
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neo Jing Ru (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Pertandingan Penulisan Cerpen dan Sajak Peringkat Nusantara 2022 (Kategori Menengah Rendah)<br>Regional Short Stories and Poetry Competition 2022 (Lower Secondary Category)</strong> 
-<br><em>5th place</em> 
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qistina Maisarah Jumali (4F)</p>
-<p><strong>2023年“全国中学生灯谜赛” - </strong>华文组冠军
-<br><strong>2nd <a href="https://www.moe.gov.sg/news/press-releases/20230622-more-than-250-students-test-their-wits-at-the-2nd-national-chinese-riddle-competition" rel="noopener noreferrer nofollow" target="_blank">National Chinese Riddle Competition</a></strong> 
-<br><em>Champion</em> 
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selina Loh Xuan Hui (3C)
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nicholas Mok Kin Fong (3C)
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Victoria Chang En Min (3C)</p>
-<p>&nbsp;<strong>第六届全国课文朗诵比赛(个人组）- </strong>银奖
-<br><strong>6th National Text Recital Competition</strong> 
-<br><em>Silver</em> 
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Zi Ling (3D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NUS Geography Challenge 2023</strong>
-<br><em>Individual Performance - Bronze</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Su Shiyan (4D)</p>
-<p><em>Creative Component (Team) - 1st</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Su Shiyan (4D)
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaitlyn Chan (4D)
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Yong Xuan (4D)
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Jek Kian (4D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Mathematical Olympiad</strong>
-<br><em>Bronze</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chong Wan Tong (4C)</p>
-<p>&nbsp;<em>Honourable Mention</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clarence Lee Hao Lin (2F)
-<br>● Royston Toh Jun Yi (Zhuo Junyi) (2E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Chemistry Olympia</strong>
-<br><em>2 Bronze</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joel Tan Jun An (4C)
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elliot Yeoh Jian Yin (4C)</p>
-<p>&nbsp;<strong>Biology Olympia</strong>
+<p><strong>English Language</strong>
 </p>
-<p>&nbsp;<em>1 Silver</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Andre Leong Wei Ze (4C)
-<br><em>1 Honorable Mention</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jovin Ong Jing Rui (4C)</p>
-<p><strong>Physics Olympia</strong> 
-<br><em>1 Silver</em>
-<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joel Tan Jun An (4C)
-<br><em>1 Bronze</em>
-<br>Marcus Chan Jia Le (4C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Singapore Secondary Schools Debating Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG EN TING RAYLENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MILDRED EVE LIM HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHERVELLE TAN QIAN NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DYLAN YEO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASHLEY GOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p>Republic Polytechnic Digital Business Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG EN TING RAYLENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>People's Choice Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MILDRED EVE LIM HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHERVELLE TAN QIAN NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YEN OANH YI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Group Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANG LE YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOSEPHINE TOH YU TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN XIN YAN LYVIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YI FEI YVETTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2H</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Group 2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GLORIA TAN SI YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA YEE KIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAUREEN ALIYAH BINTE MUHAMMAD NOOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advisor for SSDC and RP DBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN ZHI YA MIKO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>YMCA Plain English Speaking Awards (PESA) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurul Nuwairah Zawiah Binte Mohamed Rafi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jervis Tay Hong Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Natalie Boo Tawanchai Rui Qing (Fu Ruiqing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jerene Tan Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Schools Literature Festival - Flash Fiction (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHERVELLE TAN QIAN NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YAN JIUNN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Flash Fiction (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAEANN KOH YUHUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p>National Schools Literature Festival - Book Trailer (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JAIDYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+<td rowspan="8" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE AI NING ANGELYNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR QO'ADRIANNA BINTE MUHAMMAD QO'AZA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG SIM HWEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GRACE TAN KAI HNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOFEA REHANNA BINTE MOHAMMAD HATTA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TWE TAR MYO OO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANG MAN EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>National Schools Literature Festival - Unseen Poem Debate (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE HAO LIN, CLARENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NERICE NG YUTING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARLENE ONG ZI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHREYA PILLAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YAN ZE, JAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Languages</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ML Writing Competition “Saya Boleh Mengarang”</strong> 
+<br>Priscilla Alexia Bong 2F - Gold
+<br>Muhammad Sharhan Mohd Sallehan 2H - Silver
+<br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
+<br>Nuryn Eiliyah Bt Ahmad As'ad 1E – Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>10<sup>th</sup> National War &amp; Diplomacy History Card Game Challenge</u>
+</p>
+<p>&nbsp;Students from our school participated in the 10th National History
+Card Challenge Game Themed War and Diplomacy, where they applied their
+historical knowledge, strategic thinking, and decision-making skills. We
+are proud to congratulate Tessa Wong (3D) for reaching the finals, and
+Muhammad Riyaz (3G) for achieving 2nd place overall in the Individual Category,
+showcasing both excellence and perseverance.</p>
+<p><u>International Model United Nations Conference&nbsp;</u>
+</p>
+<p>Our students participated in the International Model United Nations Conference
+(IMUNC), taking on the roles of global delegates to debate pressing world
+issues. Over several days, they researched, collaborated, and presented
+resolutions in a simulation of the United Nations. We are proud to celebrate
+Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the
+Most Outstanding Delegate Award, showcasing their excellence and dedication
+at the conference.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Mathematical Olympiad</strong> – 1 Silver Award
+<br>Khant Zaw Paing (4B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Junior Chemistry Olympiad 2025</strong>
+<br>Bronze
+<br>Koh Kar How Julian (4B)</p>
+<p>Certificate of Merit
+<br>Ang Khai Hian (4B)
+<br>Khant Zaw Paing (4B)</p>
+<p><strong>Singapore Junior Biology Olympiad 2025</strong>&nbsp;
+<br>Bronze
+<br>Jerene Tan Xin Yi (4B)</p>
+<p>Honourable Mention
+<br>Elysia Tan An Shuen (4B)
+<br>Khant Zay Luu (4B)</p>
+<p><strong>Singapore Junior Physics Olympiad 2025</strong>
+</p>
+<p>Honourable Mention
+<br>Chua Kah Chin Cayden (4C)
+<br>Tan Wee Sheng Tidus (4C)</p>
 </td>
 </tr>
 </tbody>

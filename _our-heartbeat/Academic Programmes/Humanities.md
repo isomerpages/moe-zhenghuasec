@@ -153,22 +153,6 @@ fostering resilience and innovative thinking.</p>
 </tr>
 </tbody>
 </table>
-<h3>Achievements</h3>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>10<sup>th</sup> National War &amp; Diplomacy History Card Game Challenge</u>&nbsp;</p>
-<p>Students from our school participated in the 10th National History Card
-Challenge Game Themed <em>War and Diplomacy</em>, where they applied their
-historical knowledge, strategic thinking, and decision-making skills. We
-are proud to congratulate Tessa Wong (3D) for reaching the finals, and
-Muhammad Riyaz (3G) for achieving 2nd place overall in the Individual Category,
-showcasing both excellence and perseverance.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <u>International Model United Nations Conference&nbsp;</u>
-</p>
-<p>Our students participated in the International Model United Nations Conference
-(IMUNC), taking on the roles of global delegates to debate pressing world
-issues. Over several days, they researched, collaborated, and presented
-resolutions in a simulation of the United Nations. We are proud to celebrate
-Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the <em>Most Outstanding Delegate Award</em>,
-showcasing their excellence and dedication at the conference.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Humans/Picture1.jpg">

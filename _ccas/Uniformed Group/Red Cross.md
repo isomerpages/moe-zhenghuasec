@@ -68,24 +68,6 @@ competent members of society.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Unit Award: Gold</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Aid Championship (Senior category):
-Silver</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Aid Championship (Junior category):
-Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture1_2025.jpg">

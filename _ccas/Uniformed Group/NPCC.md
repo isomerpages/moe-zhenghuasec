@@ -91,22 +91,6 @@ who can lead change in the future.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award 2024 , ( UOPA)- Distinction
-<br>SPF-NPCC Award - SSgt Sebastian Joshua Deng (4G)
-<br>SPF-NPCC Award - SSgt Ng Shi Yun (4D)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/Picture1_2025.png">
