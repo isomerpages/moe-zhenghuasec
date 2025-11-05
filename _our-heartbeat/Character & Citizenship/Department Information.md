@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h3>Department Information</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/CHARACTER___CITIZENSHIP_0575.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Character___Citizenship_Comm_1760_2025.jpg">
 </div>
 <p>
 <br>
@@ -63,7 +64,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Khee Hoon (Asst. Year Head)</p>
+<p>Mdm Koh Khee Hoon (Year Head)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zanariah Bte Zainal Abiden (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
