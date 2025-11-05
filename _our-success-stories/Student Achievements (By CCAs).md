@@ -172,6 +172,29 @@ for the international and local artists</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Sports</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 National School Games (NSG)</strong> C-Division Basketball
+League 6 – 2<sup>nd</sup> position</p>
+<p><strong>AES Basketball Challenge [2025]</strong> – 2<sup>nd</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
