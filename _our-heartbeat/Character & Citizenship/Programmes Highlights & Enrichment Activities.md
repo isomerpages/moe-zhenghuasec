@@ -38,3 +38,11 @@ supporting residents through the project in collaboration with Zhenghua
 CC</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture3_2025.png">
+</div>
+<blockquote>
+<p>Students engaging residents through door-to-door visits to better understand
+their needs, exemplifying the spirit of being thoughtful contributors</p>
+</blockquote>
+<p></p>
