@@ -68,36 +68,9 @@ Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
 <p>Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Red Cross Youth Disaster Risk Reduction Championship (DRRC) 2021 - Gold
-<br>- Naily Najia Putri Shahrudin (Team Leader)
-<br>- Goh Zhen Rui Jorell
-<br>-Ambassadors of Blood Donation Competition (ABC) 2021
-<br>- Chan Suen Hei Elizabeth (Silver)
-<br>- Reagan Tay Hao Yu (Bronze)
-<br>-
-<br>
-<br>Service Learning Module – Top 3 Most Creative and Innovative Solutions
-<br>-
-<br>Excellent Unit Award 2019 - Gold
-<br>-
-<br>Trailblazer 2020
-<br>- Lim Shu Qi (4E4) - Finalist
-<br>- Yap Hwee Leng (4E4) - Certificate of Participation
-<br>-
-<br>First-aid Competition (Awareness Category) 2020 - Bronze
-<br>- Charlotte Thean (2N2)
-<br>- Elizabeth Chan (2E4)
-<br>- Naily Najia (2E4)
-<br>- Jorell Goh (2E1)
-<br>- Carrie Lee (2E4)
-<br>-
-<br>Disaster Risk Reduction Championship 2020 - Bronze
-<br>- Richmond Tang Nai Weng (3E3) - Team Leader
-<br>- Goh Ting Hui, Sherlyn (3E3)
-<br>- Bernice Low En Qi (3E3)
-<br>-
-<br>Ambassadors of Blood Donation Competition 2020 - Bronze
-<br>- Chow Shao Yang (3E3)</p>
+<p><strong>Excellent Uni Award</strong> : Gold
+<br><strong>First Aid Championship (Senior Category)</strong> : Silver
+<br><strong>First Aid Championshiip (Junor Category)</strong> : Bronze</p>
 </td>
 </tr>
 <tr>
