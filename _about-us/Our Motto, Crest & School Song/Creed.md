@@ -26,12 +26,17 @@ variant: tiptap
 <p>in doing so, they inspire others around them to similarly strive for excellence.</p>
 </li>
 </ul>
-<h4>Respect Others</h4>
-<p>To respect others is to see the worth in every person I interact with
-and to respect his/her dignity, feelings, opinions, and aspirations. If
-I respect others then I must help them to be better persons and not be
-an obstacle to their aspirations. I can only do this if I help to create
-a school environment which will bring out the best in everyone.</p>
+<h4>Creed #2. Every experience, a learning opportunity</h4>
+<p><strong>Every experience</strong>
+<br>• Activities/interactions are designed intentionally (with the goals in
+mind and setting the right conditions) to gain knowledge, skills or insights</p>
+<p><strong>a learning opportunity</strong>
+<br>• Actively optimizes experiences to contribute to personal growth and
+professional development</p>
+<p>This belief encourages reflective thinking, learning through failures,
+within the school community where every member strives to be willing to
+step out of his/her comfort zone and to make connections with what they
+learn with the real world</p>
 <h4>Respect Learning</h4>
 <p>To respect learning is to recognize that learning is a lifelong process
 which requires hard work and effort, but which is the only way to develop
