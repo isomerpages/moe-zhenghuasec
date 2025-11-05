@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Performing Arts</p>
+<h4>Performing Arts</h4>
 </td>
 </tr>
 <tr>
@@ -123,11 +123,13 @@ variant: tiptap
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation 2021 (Malay Dance Category)
-- Certificate of Accomplishment
-<br>
-<br>Singapore Youth Festival Arts Presentation 2021 (International Dance Category)
-- Certificate of Distinction</p>
+<p><strong>2024 World Supreme Battleground Dance Competition (Secondary School Category)</strong> -
+Champions</p>
+<p><strong>2025 Singapore Youth Festival Art Presentation (Malay Dance Category)</strong> –
+Certificate of Accomplishment</p>
+<p><strong>2025 Singapore Youth Festival Art Presentation (International Dance Category)</strong> –
+Certificate of Distinction</p>
+<p><strong>2025 Super24 Dance Competition</strong> - Participant</p>
 </td>
 </tr>
 <tr>
