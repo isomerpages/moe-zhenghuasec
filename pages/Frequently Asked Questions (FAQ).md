@@ -221,45 +221,33 @@ days:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Monday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Curriculum Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Thursday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Curriculum Time</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>3EX</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm
-<br>(4.30pm to 4.45pm break)</p>
+<p><strong>Curriculum Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1EX / 1NA</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm
-<br>(4.30pm to 4.45pm break)</p>
+<p><strong>Curriculum Time</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3NA</p>
+<p>3G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 6.00pm
 <br>(4.30pm to 4.45pm break)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2EX / 2NA</p>
+<p>1G3 / 1G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 6.00pm
@@ -268,14 +256,30 @@ days:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4EX/5NA</p>
+<p>3G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 6.00pm
 <br>(4.30pm to 4.45pm break)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1NT / 2NT</p>
+<p>2G3 / 2G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm to 6.00pm
+<br>(4.30pm to 4.45pm break)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4EX/5N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm to 6.00pm
+<br>(4.30pm to 4.45pm break)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1G1 / 2G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 4.45pm
@@ -291,25 +295,11 @@ days:</p>
 <br>(4.30pm to 4.45pm break)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3NT/4NT</p>
+<p>3G1/4NT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 4.45pm
 <br>(No break)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -317,13 +307,18 @@ days:</p>
 <p>(13) My child takes part in a competitive sport on a regular basis (e.g.
 gymnastics, swimming) but this sport is not offered in the school. Can
 it be counted as my child's CCA?</p>
-<p>In order for the child to achieve an excellent grade in CCA, the child
-must take part in a CCA that is offered by the school, and have attended
-at least 75% of that CCA’s activities during his or her time in the school.
-The child’s involvement in outside activities such as competitive sports
-can help the child achieve higher attainment points in the CCA grading
-system known as LEAPS. The school can also help to de-conflict the child’s
-CCA in school with his or her outside commitments if need be.(<em>For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Mr Robin Goh.</em>)</p>
+<p>CCAs are a key component of students’ holistic education. Through CCAs,
+students discover their interests and talents. CCAs also provide platforms
+for students to develop their character, learn values, social emotional
+competencies and other relevant skills to prepare them for future challenges.
+Participation in a CCA is compulsory for all secondary school students.
+Secondary school students may pursue their interests and participate in
+external activities, but not in-lieu of a school-based CCA.&nbsp; Hence
+all Secondary school students must participate in a school-based CCA and
+may continue to participate in the competitive sport outside of their school
+commitments. Their achievement in the competitive sport can be recorded
+inside their school records if they meet the criteria.</p>
+<p>(<em>For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Mr Robin Goh.</em>)</p>
 <h5>Additional FAQs can be found at:</h5>
 <ul data-tight="true" class="tight">
 <li>
