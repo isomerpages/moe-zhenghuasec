@@ -43,7 +43,19 @@ for now, and for the future.”</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture1_2025.jpg">
+</div>
+<blockquote>
+<p>Student-initiated project through Architects of Zhenghua - Blessing Corner
+SG60</p>
+</blockquote>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Various CCA groups coming together to take part in the Blessing Corner
+activities</p>
+</blockquote>
 <p></p>
