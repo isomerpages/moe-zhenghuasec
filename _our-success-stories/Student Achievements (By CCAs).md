@@ -190,34 +190,20 @@ Prize
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SYF Art Exhibition 2024</strong>
-</p>
-<p></p>
-<p><u>Exhibited Artwork: Elite/Inferior</u>
-<br>Jaelynn Seet Jing Ting (2A)
-<br>Raeann Koh Yuhui (2B)
-<br>Ng Zing Hian (2C)</p>
-<p></p>
-<p>5 other artworks featured on SYF Art Exhibition 2024 Catalogue</p>
-<p></p>
-<p><strong>Schools Digital Media Award 2024</strong>
-<br>Nur Ayrah Binte Sainoldin (3A)</p>
-<p></p>
-<p><u>Selected Design for Tote Bag Merchandise for World Aquatic Championship 2025&nbsp;</u>
-<br>NURSYUHADA BINTE ISMAIL (S1-F)</p>
-<p>World Aquatic Championship 2025 “Water Shapes Us” Postcards - encouragement
-for the international and local artists</p>
-<p><strong>“Canvas of Tomorrow”, an interschool competition organised by Kranji Sec Art Club</strong>&nbsp;</p>
-<p>3rd Prize:&nbsp;
-<br>SERVILLON ALANAH KRISTEN RECOMANTA (S3-E)</p>
-<p>Honorable Mention for Best Environmental Message:&nbsp;
-<br>SEET JING TING, JAELYNN (S3-A)
-<br>EIRLYS AURRELL BINTE
-<br>MOHAMMAD FAZLEE (S3-A)
-<br>ANG WEN MEI (S3-G)</p>
-<p>
-<br>
-</p>
+<p><strong>SYF Art Exhibition 2024<br></strong>Exhibited Artwork: Elite/Inferior</p>
+<ul>
+<li>
+<p>Seet Jing Ting, Jaelynn (2A)</p>
+</li>
+<li>
+<p>Raeann Koh Yuhui (2B)</p>
+</li>
+<li>
+<p>Ng Zing Hian (2C)</p>
+</li>
+</ul>
+<p><strong>Schools Digital Media Award 2024<br>- </strong>Nur Ayrah Binte
+Sainoldin (3A)</p>
 </td>
 </tr>
 <tr>
