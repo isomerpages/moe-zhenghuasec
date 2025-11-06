@@ -158,6 +158,15 @@ of Accomplishment</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival (Arts Presentation) 2025</strong> - Certificate
+of Accomplishment</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4>Clubs &amp; Societies</h4>
 </td>
