@@ -519,11 +519,52 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ML Writing Competition “Saya Boleh Mengarang”</strong> 
-<br>Priscilla Alexia Bong 2F - Gold
-<br>Muhammad Sharhan Mohd Sallehan 2H - Silver
-<br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
-<br>Nuryn Eiliyah Bt Ahmad As'ad 1E – Bronze</p>
+<p><strong>2025年 National Secondary School Riddle Competition全国中学生灯谜比赛</strong>
+</p>
+<p>金箭奖 Sharpshooter Award (Best Individual Award)</p>
+<ul>
+<li>
+<p><strong>&nbsp;&nbsp;Lee Rui Qi (4B）</strong>
+</p>
+</li>
+</ul>
+<p>Team Category<em> - </em>1st Runner-up</p>
+<ul>
+<li>
+<p>Lee Rui Qi (4B)</p>
+</li>
+<li>
+<p>Shayna Lim Xin En (4A)</p>
+</li>
+<li>
+<p>Ng Yong Xian (2E)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>ML Writing Competition 2025 “Saya Boleh Mengarang”<em><br></em></strong><em>Gold&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>Priscilla Alexia Bong (2F)</p>
+</li>
+</ul>
+<p><em>Silver&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>Muhammad Sharhan Mohd Sallehan (2H)&nbsp;</p>
+</li>
+<li>
+<p>Qurattul Ayn Binte Muhammad Hyrin (1H)&nbsp;</p>
+</li>
+</ul>
+<p><em>Bronze&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>Nuryn Eiliyah Binte Ahmad As'ad (1E)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -532,23 +573,34 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>10<sup>th</sup> National War &amp; Diplomacy History Card Game Challenge</u>
+<p><strong>10th National War &amp; Diplomacy History Card Game Challenge</strong>
 </p>
-<p>&nbsp;Students from our school participated in the 10th National History
-Card Challenge Game Themed War and Diplomacy, where they applied their
-historical knowledge, strategic thinking, and decision-making skills. We
-are proud to congratulate Tessa Wong (3D) for reaching the finals, and
-Muhammad Riyaz (3G) for achieving 2nd place overall in the Individual Category,
-showcasing both excellence and perseverance.</p>
-<p><u>International Model United Nations Conference&nbsp;</u>
+<p><em>2nd place in the Individual Category</em>
 </p>
-<p>Our students participated in the International Model United Nations Conference
-(IMUNC), taking on the roles of global delegates to debate pressing world
-issues. Over several days, they researched, collaborated, and presented
-resolutions in a simulation of the United Nations. We are proud to celebrate
-Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the
-Most Outstanding Delegate Award, showcasing their excellence and dedication
-at the conference.</p>
+<ul>
+<li>
+<p>Muhammad Riyaz (3G)</p>
+</li>
+</ul>
+<p><em>Participation - Finals</em>
+</p>
+<ul>
+<li>
+<p>Tessa Wong (3D)&nbsp;</p>
+</li>
+</ul>
+<p><strong>International Model United Nations Conference (IMUNC)</strong>
+</p>
+<p><em>Most Outstanding Delegate</em>
+</p>
+<ul>
+<li>
+<p>Goh Ashley (3E)&nbsp;</p>
+</li>
+<li>
+<p>Lee Jia En Charis Elizabeth (3G)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
