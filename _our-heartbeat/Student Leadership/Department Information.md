@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Department Information</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/STUDENT_LEADERSHIP_0614.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Student_Leadership_Comm_1786_2025.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -35,10 +35,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Woan Shay (Asst. Year Head)</p>
+<p>Mdm Ho Woan Shay (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lai Chien Siew</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Ms Low Li Leen Anna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liang Kar Weng</p>
+<p>Ms Sakinah Bte Mohamed Supiyan</p>
 </td>
 </tr>
 <tr>
@@ -71,22 +71,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jacobe Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sakinah Bte Mohamed Supiyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
