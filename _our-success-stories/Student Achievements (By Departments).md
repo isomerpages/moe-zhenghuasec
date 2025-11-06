@@ -21,6 +21,130 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Craft &amp; Tech</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Holland-Bukit Panjang Community Gallery Exhibition (ART)</strong>
+</p>
+<p><em>Participation&nbsp;</em>
+</p>
+<p><strong>PassionArt Festival 2025 (ART)</strong>
+</p>
+<p><em>Participation&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>ANG WEI TING (2A)</p>
+</li>
+<li>
+<p>NURNADHRAH INDAH BINTE ROSMAN (2A)</p>
+</li>
+<li>
+<p>NURY SHAMELLA ALISYAH BINTE RYAN HAFIZ SYAH (2A)</p>
+</li>
+<li>
+<p>TAN YEN OANH YI EN (2A)</p>
+</li>
+<li>
+<p>&nbsp;EUSUF MIKAIL TAN (2A)</p>
+</li>
+<li>
+<p>EZRA ASHRAF BIN HIDAYAT (2A)</p>
+</li>
+<li>
+<p>MUHAMMAD SUFI NURIZZUDDIN BIN SELAMAT (2A)</p>
+</li>
+<li>
+<p>NUR MAIRA BINTE NUR HISHAM (2D)</p>
+</li>
+<li>
+<p>JOSEPHINE NG KE WEI (2E)</p>
+</li>
+<li>
+<p>ATHALIA KOH AI EN (2G)</p>
+</li>
+<li>
+<p>JOYCELYNN NG XIAO WEI (2G)</p>
+</li>
+<li>
+<p>LIANG JIA XIN RACHEL (2G)</p>
+</li>
+<li>
+<p>LIM EN ETHELLE (2G)</p>
+</li>
+<li>
+<p>MILDRED EVE LIM HAN (2G)</p>
+</li>
+<li>
+<p>SHERVELLE TAN QIAN NING (2G)</p>
+</li>
+<li>
+<p>DACON LEROY TRYGVE CRISTOBAL (2G)</p>
+</li>
+</ul>
+<p>
+<br><strong>ZChef Culinary Competition 2025 (FCE / Intra-school)</strong>
+<br><strong>Secondary 1&nbsp;</strong>
+<br>First Place&nbsp;</p>
+<ul>
+<li>
+<p>Glyniss Sim Rui Qi (1A)</p>
+</li>
+<li>
+<p>Chong Xin Ting (1A)</p>
+</li>
+</ul>
+<p>Second Place&nbsp;</p>
+<ul>
+<li>
+<p>Grace Tan Kai Hng (1F)</p>
+</li>
+<li>
+<p>Sofea Rehanna Binte Mohammad Hatta (1F)</p>
+</li>
+</ul>
+<p>Third Place&nbsp;</p>
+<ul>
+<li>
+<p>Pek Jun Yee (1E)</p>
+</li>
+<li>
+<p>Theng Sun Yang (1E)</p>
+</li>
+</ul>
+<p><strong>Secondary 2</strong>&nbsp;
+<br>First Place&nbsp;</p>
+<ul>
+<li>
+<p>Ang Le Ying (2G)</p>
+</li>
+<li>
+<p>Liang Jia Xin Rachel (2G)</p>
+</li>
+</ul>
+<p>Second Place&nbsp;</p>
+<ul>
+<li>
+<p>Josephine Toh Yu Ting (2H)</p>
+</li>
+<li>
+<p>Hong Jing Weh (2H)</p>
+</li>
+</ul>
+<p>Third Place&nbsp;</p>
+<ul>
+<li>
+<p>Tian Haoxin (2A)</p>
+</li>
+<li>
+<p>Nury Alisyah Binte Ryan Hafiz Syah (2A)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>English Language</strong>
 </p>
 </td>
