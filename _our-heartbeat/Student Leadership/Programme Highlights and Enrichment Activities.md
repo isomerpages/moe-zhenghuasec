@@ -59,3 +59,10 @@ SG60</p>
 activities</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Students coming together for the activities</p>
+</blockquote>
+<p></p>
