@@ -30,14 +30,53 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Frank Cooper Awards 2025</strong>
+<br>
 </p>
-<p><strong>Chief Scout’s Award</strong> - Muhammad Amir Bin Amri (4C), Chua
-Boon Hui (4E), Glynis Seah Wan Yi (4E), Nai Si Rui Jazryl (4G), Isaac Lim
-Yi An (4G),&nbsp; Juan Miguel Miranda Pacheco (4G), Lim Dong Yi (4E), Vibandor
-Eunice Chloe Gudiaga (4E)</p>
-<p><strong>Chief Commissioner Well-Done Badge</strong> - Lim Dong Yi (4E),
-Isaac Lim Yi An (4G), Juan Miguel Miranda Pacheco (4G), Nai Si Rui Jazryl
-(4G)</p>
+<p><strong>Chief Scout’s Award 2025&nbsp;</strong>
+</p>
+<ul>
+<li>
+<p>Senior Patrol Leader Muhammad Amir Bin Amri (4C)</p>
+</li>
+<li>
+<p>Assistant Senior Patrol Leader Chua Boon Hui (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Glynis Seah Wan Yi (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Nai Si Rui Jazryl (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Isaac Lim Yi An (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Juan Miguel Miranda Pacheco (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Lim Dong Yi (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Vibandor Eunice Chloe Gudiaga (4E)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Chief Commissioner Well-Done Badge 2025</strong>
+</p>
+<ul>
+<li>
+<p>Patrol Leader Lim Dong Yi (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Isaac Lim Yi An (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Juan Miguel Miranda Pacheco (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Nai Si Rui Jazryl (4G)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
