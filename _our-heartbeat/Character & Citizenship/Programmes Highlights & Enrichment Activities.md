@@ -6,42 +6,69 @@ third_nav_title: Character & Citizenship
 variant: tiptap
 ---
 <h1>Character and Citizenship</h1>
-<p>Our school’s Character, Leadership, and Citizenship (CLC) Programme is
-dedicated to nurturing students into Dynamic Learners, Exemplary Leaders,
-and Thoughtful Contributors through a range of authentic and engaging learning
-experiences.</p>
-<p>Our Values-In-Action (VIA) programmes engage students in meaningful community
-projects that positively impact the community. For instance, students have
-coordinated initiatives such as the Share the Joy @ ZSS Chinese New Year
-Community Project, where they visit low-income residents to identify their
-needs, gather donations from teachers and students, and distribute food
-items to those in need. Our FamChamps also share their family service projects
-during morning assemblies, inspiring peers to build positive relationships
-at home. The integration of e-portfolios supports students by allowing
-them to reflect on their experiences, track their progress, and receive
-constructive feedback, enhancing their preparation for future educational
-and career opportunities.</p>
-<p>Our National Education programme aims to deepen students’ understanding
-of Singapore’s heritage and resilience. Students regularly participate
-in experiential learning opportunities, such as Food Resilience Experiences
-that emphasise sustainable food practices and their importance to national
-security. They also engage in Learning Journeys to cultural institutions
-like the National Museum, where they explore the nation’s history and cultural
-heritage.</p>
-<p>In line with our commitment to Education and Career Guidance (ECG), we
-provide students with a diverse range of post-secondary options. The ECG
-Symposium features alumni panel sharing sessions that offer insights into
-the expectations of various institutions, helping students make informed
-decisions about their educational and career paths. Additionally, our Work
-Experience Programme collaborates with various organisations to provide
-hands-on learning opportunities for students, allowing them to gain valuable
-work experience and insights into various sectors.</p>
+<p>At Zhenghua Secondary School, the Character and Citizenship Education
+(CCE) Programme anchors the holistic development of our students, guided
+by our school values of Respect, Resilience, Responsibility, Integrity
+and Compassion. Aligned with our school vision of developing Dynamic Learners,
+Thoughtful Contributors and Exemplary Leaders, we provide platforms for
+students to grow in character, values, and competencies.</p>
+<p>Our CCE curriculum is delivered through CLC lessons, E-Portfolio reflections,
+National Education Commemorative Days, VIA projects and ECG experiences.
+Initiatives such as FamChamps also nurture family values and strengthen
+relational skills.</p>
+<p>Through these experiences, students develop the core 21st Century Competencies
+of Adaptive Thinking, Inventive Thinking and Communication, equipping them
+to contribute meaningfully to their families, school and nation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Students_giving_out_food_and_groceries.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture1_2025.png">
 </div>
 <blockquote>
-<p>Students giving out food and groceries to low-income residents during
-the Share the Joy @ ZSS CNY Community Project</p>
+<p>Sec 5 students and teachers celebrating the spirit of giving at the Chinese
+New Year VIA project, where the school community came together to spread
+festive cheer</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture2_2025.png">
+</div>
+<blockquote>
+<p>Students distributing groceries donated by school staff and students,
+supporting residents through the project in collaboration with Zhenghua
+CC</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture3_2025.png">
+</div>
+<blockquote>
+<p>Students engaging residents through door-to-door visits to better understand
+their needs, exemplifying the spirit of being thoughtful contributors</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture4_2025.png">
+</div>
+<blockquote>
+<p>As part of the Inclusivity Project, students experienced what it feels
+like to navigate public spaces with visual impairments through digital
+simulations.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture5_2025.jpg">
+</div>
+<blockquote>
+<p>Zhenghua alumnus ME2 Kenny returned to inspire our students during Total
+Defence Day, emphasising the importance of resilience and unity in safeguarding
+Singapore</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Picture6_2025.png">
+</div>
+<blockquote>
+<p>Students gained insights into various career opportunities through the
+Work Experience Programme in the Care Industry</p>
 </blockquote>
 <p></p>

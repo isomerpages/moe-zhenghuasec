@@ -21,6 +21,130 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Craft &amp; Tech</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Holland-Bukit Panjang Community Gallery Exhibition (ART)</strong>
+</p>
+<p><em>Participation&nbsp;</em>
+</p>
+<p><strong>PassionArt Festival 2025 (ART)</strong>
+</p>
+<p><em>Participation&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>ANG WEI TING (2A)</p>
+</li>
+<li>
+<p>NURNADHRAH INDAH BINTE ROSMAN (2A)</p>
+</li>
+<li>
+<p>NURY SHAMELLA ALISYAH BINTE RYAN HAFIZ SYAH (2A)</p>
+</li>
+<li>
+<p>TAN YEN OANH YI EN (2A)</p>
+</li>
+<li>
+<p>&nbsp;EUSUF MIKAIL TAN (2A)</p>
+</li>
+<li>
+<p>EZRA ASHRAF BIN HIDAYAT (2A)</p>
+</li>
+<li>
+<p>MUHAMMAD SUFI NURIZZUDDIN BIN SELAMAT (2A)</p>
+</li>
+<li>
+<p>NUR MAIRA BINTE NUR HISHAM (2D)</p>
+</li>
+<li>
+<p>JOSEPHINE NG KE WEI (2E)</p>
+</li>
+<li>
+<p>ATHALIA KOH AI EN (2G)</p>
+</li>
+<li>
+<p>JOYCELYNN NG XIAO WEI (2G)</p>
+</li>
+<li>
+<p>LIANG JIA XIN RACHEL (2G)</p>
+</li>
+<li>
+<p>LIM EN ETHELLE (2G)</p>
+</li>
+<li>
+<p>MILDRED EVE LIM HAN (2G)</p>
+</li>
+<li>
+<p>SHERVELLE TAN QIAN NING (2G)</p>
+</li>
+<li>
+<p>DACON LEROY TRYGVE CRISTOBAL (2G)</p>
+</li>
+</ul>
+<p>
+<br><strong>ZChef Culinary Competition 2025 (FCE / Intra-school)</strong>
+<br><strong>Secondary 1&nbsp;</strong>
+<br>First Place&nbsp;</p>
+<ul>
+<li>
+<p>Glyniss Sim Rui Qi (1A)</p>
+</li>
+<li>
+<p>Chong Xin Ting (1A)</p>
+</li>
+</ul>
+<p>Second Place&nbsp;</p>
+<ul>
+<li>
+<p>Grace Tan Kai Hng (1F)</p>
+</li>
+<li>
+<p>Sofea Rehanna Binte Mohammad Hatta (1F)</p>
+</li>
+</ul>
+<p>Third Place&nbsp;</p>
+<ul>
+<li>
+<p>Pek Jun Yee (1E)</p>
+</li>
+<li>
+<p>Theng Sun Yang (1E)</p>
+</li>
+</ul>
+<p><strong>Secondary 2</strong>&nbsp;
+<br>First Place&nbsp;</p>
+<ul>
+<li>
+<p>Ang Le Ying (2G)</p>
+</li>
+<li>
+<p>Liang Jia Xin Rachel (2G)</p>
+</li>
+</ul>
+<p>Second Place&nbsp;</p>
+<ul>
+<li>
+<p>Josephine Toh Yu Ting (2H)</p>
+</li>
+<li>
+<p>Hong Jing Weh (2H)</p>
+</li>
+</ul>
+<p>Third Place&nbsp;</p>
+<ul>
+<li>
+<p>Tian Haoxin (2A)</p>
+</li>
+<li>
+<p>Nury Alisyah Binte Ryan Hafiz Syah (2A)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>English Language</strong>
 </p>
 </td>
@@ -395,11 +519,52 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ML Writing Competition “Saya Boleh Mengarang”</strong> 
-<br>Priscilla Alexia Bong 2F - Gold
-<br>Muhammad Sharhan Mohd Sallehan 2H - Silver
-<br>Qurattul Ayn Bt Muhammad Hyrin 1H - Silver
-<br>Nuryn Eiliyah Bt Ahmad As'ad 1E – Bronze</p>
+<p><strong>2025年 National Secondary School Riddle Competition全国中学生灯谜比赛</strong>
+</p>
+<p>金箭奖 Sharpshooter Award (Best Individual Award)</p>
+<ul>
+<li>
+<p><strong>&nbsp;&nbsp;Lee Rui Qi (4B）</strong>
+</p>
+</li>
+</ul>
+<p>Team Category<em> - </em>1st Runner-up</p>
+<ul>
+<li>
+<p>Lee Rui Qi (4B)</p>
+</li>
+<li>
+<p>Shayna Lim Xin En (4A)</p>
+</li>
+<li>
+<p>Ng Yong Xian (2E)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>ML Writing Competition 2025 “Saya Boleh Mengarang”<em><br></em></strong><em>Gold&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>Priscilla Alexia Bong (2F)</p>
+</li>
+</ul>
+<p><em>Silver&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>Muhammad Sharhan Mohd Sallehan (2H)&nbsp;</p>
+</li>
+<li>
+<p>Qurattul Ayn Binte Muhammad Hyrin (1H)&nbsp;</p>
+</li>
+</ul>
+<p><em>Bronze&nbsp;</em>
+</p>
+<ul>
+<li>
+<p>Nuryn Eiliyah Binte Ahmad As'ad (1E)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -408,23 +573,34 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>10<sup>th</sup> National War &amp; Diplomacy History Card Game Challenge</u>
+<p><strong>10th National War &amp; Diplomacy History Card Game Challenge</strong>
 </p>
-<p>&nbsp;Students from our school participated in the 10th National History
-Card Challenge Game Themed War and Diplomacy, where they applied their
-historical knowledge, strategic thinking, and decision-making skills. We
-are proud to congratulate Tessa Wong (3D) for reaching the finals, and
-Muhammad Riyaz (3G) for achieving 2nd place overall in the Individual Category,
-showcasing both excellence and perseverance.</p>
-<p><u>International Model United Nations Conference&nbsp;</u>
+<p><em>2nd place in the Individual Category</em>
 </p>
-<p>Our students participated in the International Model United Nations Conference
-(IMUNC), taking on the roles of global delegates to debate pressing world
-issues. Over several days, they researched, collaborated, and presented
-resolutions in a simulation of the United Nations. We are proud to celebrate
-Goh Ashley (3E) and Lee Jia En Charis Elizabeth (3G), who attained the
-Most Outstanding Delegate Award, showcasing their excellence and dedication
-at the conference.</p>
+<ul>
+<li>
+<p>Muhammad Riyaz (3G)</p>
+</li>
+</ul>
+<p><em>Participation - Finals</em>
+</p>
+<ul>
+<li>
+<p>Tessa Wong (3D)&nbsp;</p>
+</li>
+</ul>
+<p><strong>International Model United Nations Conference (IMUNC)</strong>
+</p>
+<p><em>Most Outstanding Delegate</em>
+</p>
+<ul>
+<li>
+<p>Goh Ashley (3E)&nbsp;</p>
+</li>
+<li>
+<p>Lee Jia En Charis Elizabeth (3G)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>

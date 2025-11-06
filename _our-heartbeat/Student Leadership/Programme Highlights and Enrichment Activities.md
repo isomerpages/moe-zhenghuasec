@@ -3,23 +3,66 @@ title: Programme Highlights and Enrichment Activities
 permalink: /programmes/Student-Leadership/programme-highlights-and-enrichment-activities/
 description: ""
 third_nav_title: Student Leadership
+variant: tiptap
 ---
-Students Leadership Development Philosophy  
-The Leadership Challenge by James M Kouzes and Barry Z Posner is adopted as the leadership framework in Zhenghua Secondary School.  
-
-Leadership lessons taught during the Character, Leadership and Citizenship sessions are based on the five practices of the leadership challenge model.
-
-The student leadership structure includes the Students' Council, CCA leaders and Class leaders.
-
-Students Leadership Training Platforms and Opportunities
-
-*   Events Management (School based, CCA based or Class based)
-*   Leadership Training Camps, Workshops/Outward Bound Singapore
-*   Overseas Experiential Leadership Programme
-
-![](/images/Programmes/Student%20Leadership/S2.png)
-![](/images/Programmes/Student%20Leadership/S3.png)
-![](/images/Programmes/Student%20Leadership/S4.png)
-![](/images/Programmes/Student%20Leadership/S5.png)
-![](/images/Programmes/Student%20Leadership/S6.png)
-![](/images/Programmes/Student%20Leadership/S7.png)
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Leadership</strong> in Zhenghua Secondary is anchored in
+the Leadership Challenge Model (LCM), which guides, nurtures, and moulds
+students into future-ready leaders. The framework is built on five practices
+of leadership: Model the Way, Enable Others to Act, Encourage the Heart,
+Challenge the Process, and Inspire a Shared Vision.</p>
+<p>Students are equipped with essential leadership skills to thrive in an
+ever-changing world. It aims to develop responsibility, resilience, and
+teamwork, enabling students to lead themselves and others effectively,
+while preparing them to contribute meaningfully both in school and beyond.</p>
+<p>Student Leadership provides progressive opportunities at different levels:
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-Leadership: taking care of
+and being responsible for oneself.
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peer-Leadership: serving as class
+leaders and CCA leaders.
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thought-Leadership: taking on roles
+in the Student Council and EXCO.</p>
+<p>In addition, the Student Council conducts training in event planning and
+mentoring, while leading key school-wide events such as Teachers’ Day and
+the Secondary One Orientation Camp. Students are also engaged in Architects
+of Zhenghua projects, Values-in-Action (VIA) projects, forums, and discussions,
+which broaden their perspectives and connect them with the wider community.</p>
+<p>Through this journey, students gain confidence, critical thinking, and
+collaboration skills. They learn to lead with empathy and vision, carrying
+their experiences beyond secondary school. Ultimately, the programme inspires
+every Zhenghua student to “Be an Exemplary Leader — for others, for self,
+for now, and for the future.”</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture1_2025.jpg">
+</div>
+<blockquote>
+<p>Student-initiated project through Architects of Zhenghua - Blessing Corner
+SG60</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture2_2025.jpg">
+</div>
+<blockquote>
+<p>Various CCA groups coming together to take part in the Blessing Corner
+activities</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture3_2025.jpg">
+</div>
+<blockquote>
+<p>Students coming together for the activities</p>
+</blockquote>
+<p></p>

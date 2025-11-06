@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h3>Department Information</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/CHARACTER___CITIZENSHIP_0575.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Character and Citizenship/Character___Citizenship_Comm_1760_2025.jpg">
 </div>
 <p>
 <br>
@@ -50,7 +51,7 @@ variant: tiptap
 <p>Mr Derrick Lim (SH CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Khee Hoon (Year Head)</p>
 </td>
 </tr>
 <tr>
@@ -58,12 +59,12 @@ variant: tiptap
 <p>Mr Sam Soo (SH Geog/NE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zanariah Bte Zainal Abiden (Year Head)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Khee Hoon (Asst. Year Head)</p>
+<p>Ms Vivian Koh (SH English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vivian Koh</p>
+<p>Mr Godwin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Grace Chia</p>
@@ -120,10 +121,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Ming Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Claudia Tan</p>
 </td>
 </tr>
 </tbody>

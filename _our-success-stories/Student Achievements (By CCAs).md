@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Uniformed Groups</p>
+<h4>Uniformed Groups</h4>
 </td>
 </tr>
 <tr>
@@ -29,31 +29,54 @@ variant: tiptap
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award 2021:
+<p><strong>Frank Cooper Awards 2025</strong>
 <br>
-<br>Aisha Aliah Binte Akbar Ali (4T1)
-<br>Chin Jiaqi (4E4)
-<br>Eric Lim Jing Rui (4E3)
-<br>Grace Gan Jia En (4N2)
-<br>How Yan Lin Raelyn (4E4)
-<br>Muhammad Hakim Bin Saipe (4E4)
-<br>Sim Jing Chong Gavin (4E2)
-<br>Teo Zhi En (4E3)
-<br>Chief Commissioner's Award 2020:
-<br>Ng Jia Qi (4E1)
-<br>Doreen Tham Jing Shi (4E2)
-<br>Oon Yu Ning (4E2)
-<br>Poh Yawen (4E2)
-<br>Gladys Chua Enqi (4E4)
-<br>Leung Yun Xi (4E4)
-<br>Juan Gabriel Miranda Pacheco (4E4)
-<br>Lai Jia Jun (4N1)
-<br>Lim Pei Ying (4N2)
-<br>Ong Shi Xuan (4N2)
-<br>North Area Cooking Photography Competition 2020
-<br>Praveer S (2E4) - Bronze
-<br>See Kaixun, Ignatius (4T1) - Silver
-<br>2019: Frank Cooper Sands Award - Gold</p>
+</p>
+<p><strong>Chief Scout’s Award 2025&nbsp;</strong>
+</p>
+<ul>
+<li>
+<p>Senior Patrol Leader Muhammad Amir Bin Amri (4C)</p>
+</li>
+<li>
+<p>Assistant Senior Patrol Leader Chua Boon Hui (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Glynis Seah Wan Yi (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Nai Si Rui Jazryl (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Isaac Lim Yi An (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Juan Miguel Miranda Pacheco (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Lim Dong Yi (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Vibandor Eunice Chloe Gudiaga (4E)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Chief Commissioner Well-Done Badge 2025</strong>
+</p>
+<ul>
+<li>
+<p>Patrol Leader Lim Dong Yi (4E)</p>
+</li>
+<li>
+<p>Patrol Leader Isaac Lim Yi An (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Juan Miguel Miranda Pacheco (4G)</p>
+</li>
+<li>
+<p>Patrol Leader Nai Si Rui Jazryl (4G)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -61,7 +84,11 @@ variant: tiptap
 <p>NCC (Air)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Recognition Award 2019 - Accomplishment</p>
+<p><strong>NCC Unit Recognition Award</strong>: Distinction</p>
+<p><strong>NCC Air Competition Overall Award</strong>: 2<sup>nd</sup> Place</p>
+<p><strong>NCC Air Competition – Drone</strong> Obstacle Event: 1<sup>st</sup> Place</p>
+<p><strong>NCC Air Competition – Drone</strong> Soccer&nbsp; Event: 2<sup>nd</sup> Place</p>
+<p><strong>NCC Air Competition – Balsa Glider&nbsp; Event</strong>: 3<sup>rd </sup>Place</p>
 </td>
 </tr>
 <tr>
@@ -69,11 +96,10 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award (UOPA) 2021 - Silver
-<br>
-<br>SPF Award - Station Inspector Tan Jun Qi (4E4)
-<br>Unit Overall Proficiency Award (UOPA) 2019 - Silver
-<br>SPF Award - Station Inspector Muhammad Amirul Ezany (4N1)</p>
+<p><strong>Unit Overall Proficiency Award 2024</strong> - Distinction</p>
+<p></p>
+<p><strong>SPF-NPCC Award - </strong>SSgt Sebastian Joshua Deng (4G)</p>
+<p><strong>SPF-NPCC Award - </strong>SSgt Ng Shi Yun (4D)</p>
 </td>
 </tr>
 <tr>
@@ -81,41 +107,14 @@ variant: tiptap
 <p>Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Red Cross Youth Disaster Risk Reduction Championship (DRRC) 2021 - Gold
-<br>- Naily Najia Putri Shahrudin (Team Leader)
-<br>- Goh Zhen Rui Jorell
-<br>-Ambassadors of Blood Donation Competition (ABC) 2021
-<br>- Chan Suen Hei Elizabeth (Silver)
-<br>- Reagan Tay Hao Yu (Bronze)
-<br>-
-<br>
-<br>Service Learning Module – Top 3 Most Creative and Innovative Solutions
-<br>-
-<br>Excellent Unit Award 2019 - Gold
-<br>-
-<br>Trailblazer 2020
-<br>- Lim Shu Qi (4E4) - Finalist
-<br>- Yap Hwee Leng (4E4) - Certificate of Participation
-<br>-
-<br>First-aid Competition (Awareness Category) 2020 - Bronze
-<br>- Charlotte Thean (2N2)
-<br>- Elizabeth Chan (2E4)
-<br>- Naily Najia (2E4)
-<br>- Jorell Goh (2E1)
-<br>- Carrie Lee (2E4)
-<br>-
-<br>Disaster Risk Reduction Championship 2020 - Bronze
-<br>- Richmond Tang Nai Weng (3E3) - Team Leader
-<br>- Goh Ting Hui, Sherlyn (3E3)
-<br>- Bernice Low En Qi (3E3)
-<br>-
-<br>Ambassadors of Blood Donation Competition 2020 - Bronze
-<br>- Chow Shao Yang (3E3)</p>
+<p><strong>Excellent Uni Award</strong> : Gold
+<br><strong>First Aid Championship (Senior Category)</strong> : Silver
+<br><strong>First Aid Championshiip (Junor Category)</strong> : Bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Performing Arts</p>
+<h4>Performing Arts</h4>
 </td>
 </tr>
 <tr>
@@ -123,11 +122,13 @@ variant: tiptap
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation 2021 (Malay Dance Category)
-- Certificate of Accomplishment
-<br>
-<br>Singapore Youth Festival Arts Presentation 2021 (International Dance Category)
-- Certificate of Distinction</p>
+<p><strong>2024 World Supreme Battleground Dance Competition (Secondary School Category)</strong> -
+Champions</p>
+<p><strong>2025 Singapore Youth Festival Art Presentation (Malay Dance Category)</strong> –
+Certificate of Accomplishment</p>
+<p><strong>2025 Singapore Youth Festival Art Presentation (International Dance Category)</strong> –
+Certificate of Distinction</p>
+<p><strong>2025 Super24 Dance Competition</strong> - Participant</p>
 </td>
 </tr>
 <tr>
@@ -135,27 +136,7 @@ variant: tiptap
 <p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2021 - Commendation
-<br>
-<br>Human Values Drama Festival 2020 (HVDF 2020) – Consolation Prize for Script
-(Joint 3rd place with 2 other schools)
-<br>Comic Speech (Lower Sec Category)
-<br>- Aaliyah Maisarah Bte Mustafa Kamal (1E3) – 3rd
-<br>-
-<br>Comic Monologue (Upper Sec Category)
-<br>- Santos Ena Lhuz Co (2N2) – 1st
-<br>-
-<br>Comic Duologue (Upper Sec)
-<br>- Nur Natra Shyuhadah Bte Yazid &amp; Siti Rahimah Bte Zulfiki (3T1) -
-5th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drums Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chingay Champion of the Year Award</p>
+<p><strong>Singapore Youth Festival</strong> - Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +144,8 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (Arts Presentation) - 2021 - Certificate of Accomplishment</p>
+<p><strong>Singapore Youth Festival (Arts Presentation) 2025</strong> - Certificate
+of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +153,17 @@ variant: tiptap
 <p>Handbells Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (Arts Presentation) - 2021 - Certificate of Accomplishment</p>
+<p><strong>Singapore Youth Festival (Arts Presentation) 2025</strong> - Certificate
+of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival (Arts Presentation) 2025</strong> - Certificate
+of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -198,34 +190,150 @@ Prize
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SYF Art Exhibition 2024</strong>
+<p><strong>SYF Art Exhibition 2024<br></strong>Exhibited Artwork: Elite/Inferior</p>
+<ul>
+<li>
+<p>Seet Jing Ting, Jaelynn (2A)</p>
+</li>
+<li>
+<p>Raeann Koh Yuhui (2B)</p>
+</li>
+<li>
+<p>Ng Zing Hian (2C)</p>
+</li>
+</ul>
+<p><strong>Schools Digital Media Award 2024<br>- </strong>Nur Ayrah Binte
+Sainoldin (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Prove it! Contest 2025</strong>
+</p>
+<p><em>Silver Award</em>
+</p>
+<ul>
+<li>
+<p>Nurhayfa Safiya Bte Nurhalis (2C)</p>
+</li>
+<li>
+<p>Tan Yan Jin (1H)</p>
+</li>
+<li>
+<p>Nurun Nadhirah Bte Mohd Yazid (1H)</p>
+</li>
+</ul>
+<p></p>
+<p><em>Bronze Award</em>
+</p>
+<ul>
+<li>
+<p>Chew Shi Jia (2A)</p>
+</li>
+<li>
+<p>Jayden Chen Tingxuan (2A)</p>
+</li>
+<li>
+<p>Chia Kaizi (1A)</p>
+</li>
+<li>
+<p>Tan Tze Boon (1A)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Sports</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 National School Games (NSG)</strong> C-Division Basketball
+League 6 – 2<sup>nd</sup> position
+<br><strong>AES Basketball Challenge [2025]</strong> – 2<sup>nd</sup> position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 National School Games (NSG) B-Division (Boys) Football– League 3 – </strong>2<sup>nd</sup> position
+in the grouping.</p>
+<p><strong>&nbsp;2025 National School Games (NSG) C-Division (Boys) Football– </strong>League
+4 Participation</p>
+<p><strong>2025 Zhenghua Football Cup – </strong>2<sup>nd</sup> in position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Deloitte Pesta Sukan Netball Carnival (C Division)</strong>
+</p>
+<p><em>2<sup>nd</sup> in position</em>
 </p>
 <p></p>
-<p><u>Exhibited Artwork: Elite/Inferior</u>
-<br>Jaelynn Seet Jing Ting (2A)
-<br>Raeann Koh Yuhui (2B)
-<br>Ng Zing Hian (2C)</p>
-<p></p>
-<p>5 other artworks featured on SYF Art Exhibition 2024 Catalogue</p>
-<p></p>
-<p><strong>Schools Digital Media Award 2024</strong>
-<br>Nur Ayrah Binte Sainoldin (3A)</p>
-<p></p>
-<p><u>Selected Design for Tote Bag Merchandise for World Aquatic Championship 2025&nbsp;</u>
-<br>NURSYUHADA BINTE ISMAIL (S1-F)</p>
-<p>World Aquatic Championship 2025 “Water Shapes Us” Postcards - encouragement
-for the international and local artists</p>
-<p><strong>“Canvas of Tomorrow”, an interschool competition organised by Kranji Sec Art Club</strong>&nbsp;</p>
-<p>3rd Prize:&nbsp;
-<br>SERVILLON ALANAH KRISTEN RECOMANTA (S3-E)</p>
-<p>Honorable Mention for Best Environmental Message:&nbsp;
-<br>SEET JING TING, JAELYNN (S3-A)
-<br>EIRLYS AURRELL BINTE
-<br>MOHAMMAD FAZLEE (S3-A)
-<br>ANG WEN MEI (S3-G)</p>
-<p>
-<br>
+<p><strong>2025 National School Games (C Division)</strong>
 </p>
+<p><em>Participation</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ODAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GARANG 2024 Race Mixed Category</strong> – Xie Zhiyuan Jasper (4C),
+<br>Tan Jing Xuan Charles (Chen Jingxuan)&nbsp;(4A), Chloe Ng Sing Hwee (Huang
+Xinghui)&nbsp;(4G),
+<br>Chiang Ray Han Caleb&nbsp;(2B), Teo Sia Yu&nbsp;(2B), 1<sup>st</sup> Runner
+Up</p>
+<p><strong>GARANG 2024 Race All-Female Category</strong> – Chua Jia En Verine
+(3F), Joelle Liew En Yu (3B), Nureeqa Qisrina Binte Nurulhaq (3B), Christy
+Oh Ni Ann (3A) &amp; Nicole Wong Si Hui (2E), 1<sup>st</sup>,Runner Up</p>
+<p><strong>National Orienteering Race (Schools) 2024 C-Division Boys – </strong>Justin
+Lim Ye Teng (2E) &amp; Chiang Ray Han Caleb (2B), 2<sup>nd</sup>
+</p>
+<p><strong>24 May Passionwave Orienteering Race C Division Girls </strong>–
+RACHEL YEO BEE LING (2B), TAN YEN LINH YI HU (2B), 3<sup>rd</sup>
+</p>
+<p><strong>24 May Passionwave Orienteering Race B Division Girls </strong>–
+ANYA MARA WIETHUECHTER (2E), NEO SI HAN, SHEENA (LIANG SIHAN) (4C), 2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U17 Ultimate Frisbee Competition - </strong>8th position (Team
+1: 8th placing), 18th Position (Team 2: 18th placing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 National School Games (NSG) B-Division (Boys) Volleyball</strong>–
+Participation</p>
+<p><strong>2025 National School Games (NSG) C-Division (Boys) Volleyball League 4</strong> –
+2<sup>nd</sup> position</p>
+<p><strong>2025 National School Games (NSG) B-Division (Girls) Volleyball</strong>–Participation</p>
+<p><strong>2025 National School Games (NSG) C-Division (Girls) Volleyball League 2</strong> –
+3<sup>rd</sup> position in grouping</p>
+<p><strong>2025 Shuqun Volleyball Cup Open Category</strong> - 2<sup>nd </sup>runner</p>
 </td>
 </tr>
 </tbody>

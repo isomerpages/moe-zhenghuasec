@@ -104,18 +104,73 @@ We also put in place several remedial measures to help our students succeed.</p>
 excessive handphone usage?</p>
 <p>Handphones are not allowed to be used during curriculum time unless allowed
 by the teacher for teaching and learning purposes. Students are only allowed
-to use their handphones before school, during recess and after school.
-We do not ban the use of handphones as we would rather educate our students
-to use their personal devices responsibly in a world that is increasingly
-dependent on technology. We thus conduct cyber-wellness lessons and workshops
-for such a purpose.</p>
+to use their handphones outside of the handphone restriction hours. The
+restriction hours are stated below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Restriction Hours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30am – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 1.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am – 12.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>(7) Will teachers use Facebook or other social media and Whatsapp to communicate
 with the students?</p>
 <p>While we do not encourage our teachers to use social media to communicate
 with students, we do recognise that technological platforms can be a useful
 platform to encourage student online discussions and collaborations.&nbsp;
 Hence, unless it is for educational purposes, our teachers will not use
-social media platforms to communicate with your child.We also recognise
+social media platforms to communicate with your child. We also recognise
 that online communication apps like Whatsapp are effective ways to get
 in touch with students. However, teachers do recognise that not all students
 have smart phones or data plans and that Whatsapp only serve as an additional
@@ -137,36 +192,26 @@ this would have an impact on his or her studies.</p>
 <p>Students who offer Mother Tongue Language (MTL) (i.e. Chinese/ Malay/
 Tamil) or Higher Mother Tongue Language (HTML) (i.e. Higher Chinese/ Higher
 Malay/ Higher Tamil) at the PSLE and</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>are ranked among the top 10% of the PSLE; OR</p>
-</li>
-<li>
-<p>are in the top 11% - 30% band who meet the language criteria (i.e. an
-A* grade in the MTL or at least a Merit in the HMTL), may opt to study
-HMTL at secondary schools. They may offer English Language and HMTL in
-the GCE ‘O’ Level Examination at the end of Secondary Four.</p>
-</li>
-</ul>
-<p>Students eligible for HMTL will be invited to apply for these programmes
-immediately after the release of the PSLE results.</p>
+<p>o&nbsp;&nbsp; PSLE MTL score of AL 1/AL 2; or</p>
+<p>o&nbsp;&nbsp; HMTL score of Distinction/Merit</p>
+<p>Students eligible for HMTL will be invited by MOE to apply for HMTL immediately
+after the release of the PSLE results.</p>
 <p>Higher Malay Language course will be held in Bukit Panjang Government
 High outside curriculum time and Higher Chinese Language course is held
 in the school.</p>
 <p>(11) My child does not meet the above criteria to offer HMTL, can my child
 still opt for HMTL in Secondary School?</p>
-<p>The school has the flexibility to allow students who do not meet the above
-criteria to offer HMTL, if they are assessed to have exceptional ability
-in MTL in the mid-year examination and are able to do HMTL without affecting
-their performance in other subjects.Students who obtain a grade of A2 and
-above in MTL in the mid-year examination with an overall average of 60
-will be offered HCL in semester 2 in secondary one in our school.</p>
+<p>Students who scored 75% or higher in G3 MTL are eligible to offer HMTL
+in secondary three. School has the flexibility to allow students to take
+HMTL if they are assessed to have exceptional ability in MTL in the end-of-year
+examination of secondary two and are able to take HMTL without affecting
+their performance in other subjects.</p>
 <p>(12) My child is taking Tamil language. When and where are the classes
 held?</p>
 <p>Students who are offered Tamil will study at the Tamil Language Centre,
-Teck Whye Secondary School outside curriculum time. For 2024, depending
-on the level and stream, Tamil classes will commence at 3pm on the following
-days:</p>
+Choa Chu Kang&nbsp; Secondary School outside curriculum time. For 2026,
+depending on the level and stream, Tamil classes will commence at 3pm on
+the following days:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -176,45 +221,33 @@ days:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Monday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Curriculum Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Thursday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Curriculum Time</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>3EX</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm
-<br>(4.30pm to 4.45pm break)</p>
+<p><strong>Curriculum Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1EX / 1NA</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm to 6.00pm
-<br>(4.30pm to 4.45pm break)</p>
+<p><strong>Curriculum Time</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3NA</p>
+<p>3G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 6.00pm
 <br>(4.30pm to 4.45pm break)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2EX / 2NA</p>
+<p>1G3 / 1G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 6.00pm
@@ -223,14 +256,30 @@ days:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4EX/5NA</p>
+<p>3G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 6.00pm
 <br>(4.30pm to 4.45pm break)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1NT / 2NT</p>
+<p>2G3 / 2G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm to 6.00pm
+<br>(4.30pm to 4.45pm break)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4EX/5N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm to 6.00pm
+<br>(4.30pm to 4.45pm break)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1G1 / 2G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 4.45pm
@@ -246,25 +295,11 @@ days:</p>
 <br>(4.30pm to 4.45pm break)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3NT/4NT</p>
+<p>3G1/4NT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 4.45pm
 <br>(No break)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -272,13 +307,18 @@ days:</p>
 <p>(13) My child takes part in a competitive sport on a regular basis (e.g.
 gymnastics, swimming) but this sport is not offered in the school. Can
 it be counted as my child's CCA?</p>
-<p>In order for the child to achieve an excellent grade in CCA, the child
-must take part in a CCA that is offered by the school, and have attended
-at least 75% of that CCA’s activities during his or her time in the school.
-The child’s involvement in outside activities such as competitive sports
-can help the child achieve higher attainment points in the CCA grading
-system known as LEAPS. The school can also help to de-conflict the child’s
-CCA in school with his or her outside commitments if need be.(<em>For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Mr Robin Goh.</em>)</p>
+<p>CCAs are a key component of students’ holistic education. Through CCAs,
+students discover their interests and talents. CCAs also provide platforms
+for students to develop their character, learn values, social emotional
+competencies and other relevant skills to prepare them for future challenges.
+Participation in a CCA is compulsory for all secondary school students.
+Secondary school students may pursue their interests and participate in
+external activities, but not in-lieu of a school-based CCA.&nbsp; Hence
+all Secondary school students must participate in a school-based CCA and
+may continue to participate in the competitive sport outside of their school
+commitments. Their achievement in the competitive sport can be recorded
+inside their school records if they meet the criteria.</p>
+<p>(<em>For questions on specific CCAs, please contact any of the CCA teachers-in-charge or our HOD/PE&amp;CCA Mr Robin Goh.</em>)</p>
 <h5>Additional FAQs can be found at:</h5>
 <ul data-tight="true" class="tight">
 <li>

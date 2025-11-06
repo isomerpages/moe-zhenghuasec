@@ -3,20 +3,48 @@ title: Creed
 permalink: /about-us/School-Ethos/creed/
 description: ""
 third_nav_title: Our Motto, Crest & School Song
+variant: tiptap
 ---
-### School Creed
-
-#### Respect Oneself
-To respect oneself means that I must behave with dignity, be honest with myself and recognize my strengths and weaknesses.If I respect myself then I must believe that I am not just another person but that I am unique,that I have a purpose in life and that I have a role to play in society. But to achieve this I must be serious and disciplined in whatever I do and I must believe that I can achieve success if I work hard.
-
-#### Respect Others
-To respect others is to see the worth in every person I interact with and to respect his/her dignity, feelings, opinions, and aspirations. If I respect others then I must help them to be better persons and not be an obstacle to their aspirations. I can only do this if I help to create a school environment which will bring out the best in everyone.
-
-#### Respect Learning
-To respect learning is to recognize that learning is a lifelong process which requires hard work and effort, but which is the only way to develop my potential to the fullest. If I respect learning then I must start this process in school and learn to lead a disciplined lifestyle to put in every effort to ensure that I learn everything that is taught in school, to make every activity a learning experience and to learn how to learn.
-
-#### Respect Environment
-To respect the environment means that I recognize that it belongs to everyone. I must take care of it because it does not belong to me. My respect for others demands that I must not deprive them of the environment through my misuse.
-
-#### Respect Country
-To respect the country means that I will try to be a responsible citizen and to follow all the laws of Singapore. I know that pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart. All foreign pupils must show their respect by standing at attention for the duration of the ceremony.
+<h3>School Creed</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Creed/1.png">
+</div>
+<h4>Creed #1. Every Staff, a Role Model<br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Creed/2.png">
+</div>
+<p>Every ZSS staff is a role model</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>in conduct and attitude.</p>
+</li>
+<li>
+<p>going the extra mile to seek improvement to self, school and fraternity.</p>
+</li>
+<li>
+<p>in doing so, they inspire others around them to similarly strive for excellence.</p>
+</li>
+</ul>
+<h4>Creed #2. Every experience, a learning opportunity</h4>
+<p><strong>Every experience</strong>
+<br>• Activities/interactions are designed intentionally (with the goals in
+mind and setting the right conditions) to gain knowledge, skills or insights</p>
+<p><strong>a learning opportunity</strong>
+<br>• Actively optimizes experiences to contribute to personal growth and
+professional development</p>
+<p>This belief encourages reflective thinking, learning through failures,
+within the school community where every member strives to be willing to
+step out of his/her comfort zone and to make connections with what they
+learn with the real world</p>
+<h4>Creed #3. Every act, an uplifting force</h4>
+<p><strong><u>Every Act:</u></strong>
+<br>All words or actions be it big or small, in various modes (ie. face to
+face, email, whatsApp)</p>
+<p></p>
+<p><strong><u>An Uplifting Force:</u></strong>
+<br>Have the power to elevate and enable others to reach his/her potential</p>
+<p></p>
+<p><strong>This belief encourages empathy and continuous improvement within the school community where every member strives to make a positive difference to the lives of others</strong>
+</p>
+<p></p>
