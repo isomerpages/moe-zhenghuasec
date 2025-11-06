@@ -207,6 +207,45 @@ Sainoldin (3A)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Prove it! Contest 2025</strong>
+</p>
+<p><em>Silver Award</em>
+</p>
+<ul>
+<li>
+<p>Nurhayfa Safiya Bte Nurhalis (2C)</p>
+</li>
+<li>
+<p>Tan Yan Jin (1H)</p>
+</li>
+<li>
+<p>Nurun Nadhirah Bte Mohd Yazid (1H)</p>
+</li>
+</ul>
+<p></p>
+<p><em>Bronze Award</em>
+</p>
+<ul>
+<li>
+<p>Chew Shi Jia (2A)</p>
+</li>
+<li>
+<p>Jayden Chen Tingxuan (2A)</p>
+</li>
+<li>
+<p>Chia Kaizi (1A)</p>
+</li>
+<li>
+<p>Tan Tze Boon (1A)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4>Sports</h4>
 </td>
