@@ -44,3 +44,21 @@ with opportunities to grow and contribute through learning.</p>
 </div>
 <p><em>In the archery workshop, students learned focus, discipline and perseverance — while supporting one another, building resilience, and strengthening school connectedness</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Management/Picture3_2025.jpg">
+</div>
+<p><em>At the bowling workshop, students built teamwork and confidence, celebrating small wins together while fostering resilience and stronger school connections</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Management/Picture4_2025.jpg">
+</div>
+<p><em>Through the F1 Engineering workshop, students unleashed their creativity and problem-solving skills</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Management/Picture5_2025.jpg">
+</div>
+<p><em>In the Resin Play workshop, students expressed creativity and gratitude by crafting handmade coasters for Teachers’ Day</em>
+</p>
