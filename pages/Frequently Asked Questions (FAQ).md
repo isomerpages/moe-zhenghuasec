@@ -102,68 +102,15 @@ cases.&nbsp; The students should instead approach their teachers for help.&nbsp;
 We also put in place several remedial measures to help our students succeed.</p>
 <p>(6) Are handphones allowed in the school? What can the school do to prevent
 excessive handphone usage?</p>
-<p>Handphones are not allowed to be used during curriculum time unless allowed
-by the teacher for teaching and learning purposes. Students are only allowed
-to use their handphones outside of the handphone restriction hours. The
-restriction hours are stated below.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Restriction Hours</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.30am – 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am – 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am – 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am – 1.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30am – 12.30pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Students are not to use smartphones during school hours, including recess,
+self-directed and relief periods, as well as CCA, supplementary/enrichment/remedial
+lessons, unless special permission is given by teachers. Students who bring
+mobile phones to schools are to have them kept in lockers <strong>from 7.30 am </strong>(<strong>8.30 am on Mondays</strong>)
+until the end of school hours.</p>
+<p>Students may have to surrender their mobile phones for the day if found
+to be non-compliant. Students are to collect the surrendered mobile phones
+from 3 pm onwards from the blue room. Parents may be called in to retrieve
+the mobile phone in the event of repeated violation</p>
 <p>(7) Will teachers use Facebook or other social media and Whatsapp to communicate
 with the students?</p>
 <p>While we do not encourage our teachers to use social media to communicate
