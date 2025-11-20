@@ -37,5 +37,5 @@ sections:
         - title: E-Open House Webinar Link
           description: Click on the link below to access the webinar link.
           linktext: ZSS WEBINAR LINK
-          url: ""
+          url: /2025-eopen-house-webinar/
 ---
