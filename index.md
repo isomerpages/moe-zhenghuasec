@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/Open House/WhatsApp_Image_2025_11_04_at_9_40_12_AM__1_.jpg
+      background: /images/ISOMERBANNERNEW.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -15,6 +15,4 @@ sections:
         - title: ZSSofficial
           description: our Instagram
           url: https://www.instagram.com/zssofficial/?hl=en
-      button: e-Open House
-      url: https://sites.google.com/moe.edu.sg/zssopenhouse25/home
 ---
