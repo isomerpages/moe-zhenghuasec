@@ -156,15 +156,27 @@ strengths, interests and learning needs.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb5.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb6.png">
+</div>
 <p></p>
-<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbbsite.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb9.png">
+</div>
+<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb10.png"></a>
 <p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)</p>
 <a class="isomer-image-wrapper" href="/files/FSBB_Booklistnew.pdf">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SBB_offer_letter_and_booklist.png">
 </a>
 <p>SBB - Offer Letter Video (Please click on the image for the Video for
 futher explanation.)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=2D-iB8M6Ny8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbbofferletterbookvid.png"></a>
-<p>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2024.</strong>
+<p>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2025.</strong>
 </p>
 <p>Parents who have no access to Parent Gateway, the school will contact
 you separately.</p>
