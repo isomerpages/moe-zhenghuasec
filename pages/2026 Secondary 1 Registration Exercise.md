@@ -340,20 +340,23 @@ access the slides.
 <p>Information on class allocation will be made available through Parents
 Gateway.
 <br>
-<br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 23 Dec 2024, 8am.</em>
+<br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 27 Dec 2025, 8am.</em>
 </p>
 <hr>
 <p><strong>11. Parent Support Group (PSG) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/psg1.png">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
+<p>The PSG’s vision is Action, Connect, Elevate (A.C.E). Action is for parents
+to partner the school to strategise and carry out plans to help develop
+your child/ward to achieve the school’s vision of Exemplary Leader, Dynamic
+Learner and Thoughtful Contributor. Connect is for us to help parents to
+bond and build better relationships between school and parents. Last but
+not least, Elevate is to increase parents capacity (such as interest groups
+and workshops).</p>
 <p>All parents are automatically members of the Zhenghua Secondary School
 Parent Support Group (ZSS PSG). The ZSS PSG is a network of parents working
 in close partnership with the school. Being part of the PSG is a great
@@ -361,90 +364,15 @@ opportunity to be closer to our children, understand them better, and support
 them in their educational journey. Members can participate in school activities
 and events, contribute to initiatives, network with other parents, and
 learn more about helping our children thrive in society.</p>
-<p></p>
-<p>We are currently inviting interested parents to sign up for the following:</p>
-<p></p>
-<p><strong>1) As active PSG members</strong>
-<br>
-<br>
-</p>
-<p>We are also inviting interested parents to join us as active PSG members.
-As active PSG members, you get to help out in school events and lend support
-for PSG activities. By joining the PSG as active parent volunteers, you
-will also gain support from other parents in your parenting journey.
-<br>
-<br>
-</p>
-<p><strong>2) Transition to Secondary School Life Parenting Workshop and PSG Welcome [8 February 2025, 9:30am-11.00am]</strong>
-<br>
-<br>
-</p>
-<p>Students tend to face a host of emotional and psychological challenges
-as they transit from primary school to secondary school. While this journey
-into secondary school can be exciting, some teenagers will require time
-to adjust and accommodate to the new environment.
-<br>
-</p>
-<p>To help parents understand the importance of parental support during this
-transitional phase of your child, ZSS PSG will be organizing the following
-parenting workshop in February:
-<br>
-</p>
-<p><strong><em>Transition to Secondary School Life Parenting Workshop</em></strong>
-<br>
-</p>
-<p>Date: 8 February 2025, Saturday
-<br>Time: 9.30am-11am
-<br>Venue: AVA Room (Level 2, above school libray)
-<br>
-</p>
-<p>Through the workshop, parents can learn to:
-<br>
-<br>1. Understand the different expectations and developmental tasks that
-your child may encounter during this period of time.
-<br>2. Be equipped with the necessary knowledge to support your child in the
-secondary school learning environment and help him/her to understand how
-better to overcome the various challenges in secondary school.</p>
-<p></p>
-<p><strong>3) Registration for 1st PSG Meeting and CNY Lunch (8 February 2025, 11.00am - 12.00pm)</strong>
-</p>
-<p>After the workshop, we will be having our 1st PSG Meeting with our School
-Leaders and our PSG leaders, followed by a CNY Lunch.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Date: 8/2/2025, Saturday&nbsp;&nbsp;</p>
-<p>Time: 11am-12pm&nbsp;&nbsp;</p>
-<p>Venue: Rifle Range (Level 4)&nbsp;
-<br>
-</p>
 <p>As part of our efforts to go green, all registrations for PSG will be
-done online. Please take a moment to go to the <a href="https://go.gov.sg/psgregistration25" rel="noopener noreferrer nofollow" target="_blank">link</a> for the registration
-form for the programmes stated above. Alternatively, you may scan the QR
-code for the registration form. Please allow us seven working days to process
-your registration.
-<br>
-<br>
-</p>
+done online. Please take a moment to go to the link <a href="https://go.gov.sg/zssparents2026" rel="noopener nofollow" target="_blank">here</a> for the registration form.
+Alternatively, you may scan the QR code for the registration form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PSG.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/psg2.png">
 </div>
-<p><strong>4) Interest Group for Parents</strong>
-<br>
-<br>The school would like to find out if parents would like to learn from
-one another in their parenting journey on specific areas of interest. These
-groups are meant for parents, led by parents. The school will support by
-playing the facilitator role and providing the necessary resources. The
-suggested areas of interest are on Special Educational Needs (SEN), Education
-and Career Guidance (ECG) or cyberwellness. Would you be interested in
-joining? If you have other areas of interest, please specify them under
-'Others'.
-<br>
-</p>
 <p>We believe you will find your journey with the ZSS PSG a very enriching
-and fun-filled experience.
-<br>
-<br>
-</p>
+and fun-filled experience.</p>
 <p>Thank you and once again, welcome to the ZSS PSG family!</p>
 <hr>
 <p><strong>12. Parents-Child-Teacher-Conference (1st PCTC) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
