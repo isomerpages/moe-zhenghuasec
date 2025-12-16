@@ -59,7 +59,7 @@ queries on FAS, please proceed to the General Office.</p>
 <p><strong>3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-by 12pm on 19 Dec 2024.
+by 12pm on 22 Dec 2025.
 <br>
 <br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please visit</strong> 
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
@@ -68,7 +68,8 @@ by 12pm on 19 Dec 2024.
 <p><strong>4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Dear parent and student, please note that we can only accept students
-whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong>
+whose PSLE score meet the cut-off points of our school (refer to announcement
+page of our school website). <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
 <p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> &nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
