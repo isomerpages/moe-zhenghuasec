@@ -377,7 +377,7 @@ and fun-filled experience.</p>
 <hr>
 <p><strong>12. Parents-Child-Teacher-Conference (1st PCTC) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>Our first PCTC will be conducted on Friday 10 January 2025, at 5pm in
+<p>Our first PCTC will be conducted on Friday 9 January 2026, at 5pm in the
 school hall. There will be a welcome talk by our Principal, Mr Ng in the
 hall followed by the Form Teacher's sharing in the classrooms. More details
 will be shared via Parents Gateway.</p>
@@ -389,7 +389,7 @@ will be shared via Parents Gateway.</p>
 <p><strong>1. What is Zhenghua Secondary’s cut-off points (COP)?</strong>
 <br>
 </p>
-<p>The indicative PSLE score ranges of 2024 PSLE students posted to 2025
+<p>The indicative PSLE score ranges of 2025 PSLE students posted to 2026
 Sec 1.
 <br>
 </p>
