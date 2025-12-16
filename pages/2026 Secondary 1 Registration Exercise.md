@@ -23,7 +23,7 @@ purchase of books and uniforms, and the reporting details for the first
 day of school.
 <br>
 </p>
-<p>For more information on the 2025 Secondary 1 Posting, please refer to
+<p>For more information on the 2026 Secondary 1 Posting, please refer to
 <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">this MOE Webpage</a>
 </p>
 <p>Do note that there may be changes to the information above. For the latest
@@ -35,7 +35,7 @@ you may call the General Office at 67639455.
 <br>
 </p>
 <hr>
-<p><strong>1. Online Registration by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>1. Online Registration by 12pm on 22/12/2025 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>The form for online registration can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
@@ -48,7 +48,7 @@ you may call the General Office at 67639455.
 has been approved and you have been issued the FAS letter of approval from
 our school.
 <br>
-<br><u>For Already Approved MOE FAS for </u><strong><u>2025</u></strong><u> with Approval Letter from Primary School</u>
+<br><u>For Already Approved MOE FAS for </u><strong><u>2026</u></strong><u> with Approval Letter from Primary School</u>
 <br>
 <br>Please proceed to the General Office with your approval letter before
 collecting your books and uniforms.
