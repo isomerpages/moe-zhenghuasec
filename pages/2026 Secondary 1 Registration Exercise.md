@@ -442,9 +442,9 @@ our school's cut-off point, we will contact you as soon as we can.
 </p>
 <p>You can still register your appeal by submitting the online form linked
 in Section 4 of this Microsite. However, we are unlikely to take in students
-below the cut-off point as school admissions are based on merit. In the
-MOE Secondary One (S1) Posting Exercise, posting decisions are based on
-objective and transparent measures of academic merit, i.e. PSLE scores.
+who do not meet the cut-off point as school admissions are based on merit.
+In the MOE Secondary One (S1) Posting Exercise, posting decisions are based
+on objective and transparent measures of academic merit, i.e. PSLE scores.
 Appeals that take place after the S1 Posting Exercise must be aligned to
 these principles, in order to be fair to the other admitted students.&nbsp;
 Students who would like to gain admission to a secondary school on the
@@ -579,18 +579,18 @@ HMTL in secondary three.
 </p>
 <p>Students who are offered Tamil will study at the Tamil Language Centre,
 Chua Chu Kang Secondary School outside curriculum time. &nbsp;Please see
-below for the 2025 schedule.
+below for the 2026 schedule.
 <br>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/tlschedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tltt.png">
 </div>
+<p></p>
 <p>
 <br><strong>13. When will I know the class of my child?</strong>
 </p>
-<p>The school will inform you via Parent Gateway by 23<sup>rd</sup> December.</p>
+<p>The school will inform you via Parent Gateway by 27th December.</p>
 <p>&nbsp;</p>
 <p><strong>14.&nbsp; Is it compulsory for my child to attend the Orientation Camp?</strong>
 </p>
