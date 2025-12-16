@@ -239,7 +239,7 @@ the opportunity to benefit from the programme.
 <br>
 </p>
 <p>Specific costs and details will be communicated to all parents in January
-2025.
+2026.
 <br>
 </p>
 <p><strong>5. Can my child not purchase the device?</strong>
