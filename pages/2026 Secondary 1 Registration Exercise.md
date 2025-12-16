@@ -78,21 +78,12 @@ page of our school website). <strong>Please kindly note that only shortlisted st
 </p>
 <p><u>On-SITE Purchase of Uniform &amp; Textbooks</u>
 </p>
-<p>The purchase of books and uniforms can be made from 19th, 20th, 23rd,
-26th and 27th Dec. However, for on-site purchase on 19th and 20th Dec,
-you will need to book a slot prior. Please refer to the link below (see
-On-SITE Purchase of Uniform &amp; Textbooks, directly below).
-<br>
-</p>
-<p>For parents who wish to make their purchase on-site in school or students
-who are under FAS, please book a time slot on 19 and 20 Dec (9am – 3pm).</p>
-<p>Please note the booking is on a first come first served basis and is for
-parents who are NOT ordering online.</p>
-<p></p>
+<p>The purchase of books and uniforms can be made from 19th, 22nd, 23rd,
+26th and 29th Dec.</p>
 <p><u>Online Purchase</u>
 <br>You can also purchase the textbooks and uniforms online, and have the
-items delivered to your home. Please click to purchase online from 17th
-Dec to 24th Dec 2024.
+items delivered to your home. Please click <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to purchase online from
+19th Dec to 24th Dec 2025.
 <br>
 <br>
 <br>
