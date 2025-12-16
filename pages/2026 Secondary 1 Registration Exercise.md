@@ -135,6 +135,10 @@ students learn each subject at the level that best caters to their overall
 strengths, interests and learning needs.
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb2.png">
+</div>
 <p>Youtube video for FSBB (click on picture to view video)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
 <p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbbsite.png"></a>
 <p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)</p>
