@@ -96,8 +96,8 @@ school shirt and red polo can be worn for school.
 <br>
 <br><strong>Purchasing of Textbooks</strong>
 <br>
-<br>Attached is the booklist for the students.
-<br><a href="/files/Sec_1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Booklist for Students</a>
+<br>Attached is the booklist for the students.</p>
+<p><a href="/files/ZSS_Sec_1_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for students.</a>
 </p>
 <p>
 <br><strong>Please note:</strong>
