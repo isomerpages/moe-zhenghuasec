@@ -71,7 +71,7 @@ by 12pm on 22 Dec 2025.
 whose PSLE score meet the cut-off points of our school (refer to announcement
 page of our school website). <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
-<p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> &nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>Please refer to the form <a href="https://form.gov.sg/654af8146a69530011a2750e" rel="noopener noreferrer nofollow" target="_blank">here.</a> &nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <hr>
 <p><strong>5. Purchase of Uniform and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</strong>
