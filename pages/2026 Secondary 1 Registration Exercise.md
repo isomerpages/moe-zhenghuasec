@@ -212,8 +212,8 @@ and skills to thrive in the digital environment.</p>
 <p><strong>2. How will this be implemented in Zhenghua Secondary School?</strong>
 <br>
 </p>
-<p>All Sec 1 – 5s will be equipped with a PLD in 2025. Our school has chosen
-Chromebooks as our preferred PLD.
+<p>All Sec 1 – 5s students will be equipped with a PLD in 2026. Our school
+has chosen Chromebooks as our preferred PLD.
 <br>
 </p>
 <p><strong>3. Why Chromebooks?</strong>
