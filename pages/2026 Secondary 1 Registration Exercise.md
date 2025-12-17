@@ -85,8 +85,6 @@ page of our school website). <strong>Please kindly note that only shortlisted st
 items delivered to your home. Please click <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to purchase online from
 19th Dec to 24th Dec 2025.
 <br>
-<br>
-<br>
 <br><strong>Purchasing Uniform</strong>
 <br>
 <br>Parents are advised to purchase at least 1 set of formal school uniform
@@ -507,8 +505,7 @@ should instead approach their teachers for help.
 <br>
 <br>
 </p>
-<p><strong>9.&nbsp; Are mobile phones allowed in the school? What can the school do to prevent excessive mobile phone usage? Why does the school not ban mobile phone use in school?</strong>
-<br>
+<p><strong>9.&nbsp; Are mobile phones allowed in the school?</strong>
 <br>
 </p>
 <p>Mobile phones are part of our daily lives and have practical benefits.
