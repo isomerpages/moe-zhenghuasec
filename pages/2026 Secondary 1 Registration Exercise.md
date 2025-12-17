@@ -101,6 +101,7 @@ school shirt and red polo can be worn for school.
 </p>
 <p>
 <br><strong>Please note:</strong>
+<br>
 <br>1. Please note that parking on the school grounds is limited and you may
 be directed to the nearest multi-storey carpark once the car park lots
 in the school are filled up. Entrance and exit will be from the school
