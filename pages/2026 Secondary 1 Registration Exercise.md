@@ -232,7 +232,7 @@ include the additional accessories.
 <br>
 </p>
 <p>MOE will use bulk tenders to keep the PLDs affordable. The Chromebooks
-with the enhanced 3 year warranty will cost less than $580. For students
+with the enhanced 3 year warranty will cost less than $500. For students
 on financial assistance, we will provide further subsidies so that their
 out-of-pocket expenses is zero. This is to ensure that no student is denied
 the opportunity to benefit from the programme.
