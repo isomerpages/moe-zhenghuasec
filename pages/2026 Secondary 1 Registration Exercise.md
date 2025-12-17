@@ -326,14 +326,13 @@ view the details regarding the CCA trials happening in 2026 Term 1 Week
 <hr>
 <p><strong>9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>Click <a href="/files/First_Day_of_School_Slides_for_Students_2026.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/First_Day_of_School_Slides_for_Students_2026_updated_17th_Dec.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the slides.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayslides.png">
 </div>
-<p></p>
 <hr>
 <p><strong>10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
