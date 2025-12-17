@@ -508,13 +508,11 @@ should instead approach their teachers for help.
 <p><strong>9.&nbsp; Are mobile phones allowed in the school?</strong>
 <br>
 </p>
-<p>Mobile phones are part of our daily lives and have practical benefits.
-However, they can also be a source of distraction and even addiction. In
-order to help students manage their phone use, phones are not allowed in
-the classrooms at all times, even after school. Students are expected to
-have their phones switched off and kept in the lockers outside the classrooms
-when they are in class. Any phones found in the classrooms will be confiscated
-and handed to the Guidance Committee.
+<p>Use of smartphones/smartwatches will not be allowed during school hours,
+including recess, co-curricular activities, supplementary/enrichment/remedial
+lessons, etc. The students' devices will be kept in lockers during school
+hours. Where necessary, schools may allow students to use smartphones by
+exception.
 <br>
 <br>
 </p>
