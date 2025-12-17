@@ -79,7 +79,7 @@ page of our school website). <strong>Please kindly note that only shortlisted st
 <p><u>On-SITE Purchase of Uniform &amp; Textbooks</u>
 </p>
 <p>The purchase of books and uniforms can be made from 19th, 22nd, 23rd,
-26th and 29th Dec.</p>
+26th and 29th Dec from 9am to 3pm.</p>
 <p><u>Online Purchase</u>
 <br>You can also purchase the textbooks and uniforms online, and have the
 items delivered to your home. Please click <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to purchase online from
