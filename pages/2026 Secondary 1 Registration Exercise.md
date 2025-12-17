@@ -101,20 +101,15 @@ school shirt and red polo can be worn for school.
 </p>
 <p>
 <br><strong>Please note:</strong>
-<br>1. Please strictly keep to the time and date that you have booked.
-<br>
-<br>2. Parents who come at the wrong date or time may be turned away if there
-is a long queue.
-<br>
-<br>3. Please note that parking on the school grounds is limited and you may
+<br>1. Please note that parking on the school grounds is limited and you may
 be directed to the nearest multi-storey carpark once the car park lots
 in the school are filled up. Entrance and exit will be from the school
 gate located along Bukit Panjang Ring Road.
 <br>
-<br>4. Please follow the signages in the school to purchase the books and
+<br>2. Please follow the signages in the school to purchase the books and
 uniforms.
 <br>
-<br>5. Textbooks and uniform bought can be returned or exchanged as long as
+<br>3. Textbooks and uniform bought can be returned or exchanged as long as
 they are clean and in original condition. Uniform should not be soiled.
 <br>
 <br><strong>Purchase of Physical Education Attire</strong>
