@@ -1,6 +1,6 @@
 ---
-title: 2025 Secondary 1 Registration Exercise
-permalink: /2025-secondary-1-registration-exercise/
+title: 2026 Secondary 1 Registration Exercise
+permalink: /2026-secondary-1-registration-exercise/
 description: ""
 variant: tiptap
 ---
@@ -23,7 +23,7 @@ purchase of books and uniforms, and the reporting details for the first
 day of school.
 <br>
 </p>
-<p>For more information on the 2025 Secondary 1 Posting, please refer to
+<p>For more information on the 2026 Secondary 1 Posting, please refer to
 <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">this MOE Webpage</a>
 </p>
 <p>Do note that there may be changes to the information above. For the latest
@@ -35,7 +35,7 @@ you may call the General Office at 67639455.
 <br>
 </p>
 <hr>
-<p><strong>1. Online Registration by 12pm on 20/12/2024 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>1. Online Registration by 12pm on 22/12/2025 &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>The form for online registration can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
@@ -48,7 +48,7 @@ you may call the General Office at 67639455.
 has been approved and you have been issued the FAS letter of approval from
 our school.
 <br>
-<br><u>For Already Approved MOE FAS for </u><strong><u>2025</u></strong><u> with Approval Letter from Primary School</u>
+<br><u>For Already Approved MOE FAS for </u><strong><u>2026</u></strong><u> with Approval Letter from Primary School</u>
 <br>
 <br>Please proceed to the General Office with your approval letter before
 collecting your books and uniforms.
@@ -59,7 +59,7 @@ queries on FAS, please proceed to the General Office.</p>
 <p><strong>3. Appeal for transfer due to serious medical conditions &nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-by 12pm on 19 Dec 2024.
+by 12pm on 22 Dec 2025.
 <br>
 <br>For information on appeals for transfer for serious medical conditions,&nbsp;<strong>please visit</strong> 
 <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
@@ -68,32 +68,22 @@ by 12pm on 19 Dec 2024.
 <p><strong>4. Appeal for transfer to Zhenghua Secondary School &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Dear parent and student, please note that we can only accept students
-whose PSLE score meet the cut-off points of our school. <strong>Please kindly note that only shortlisted students will be notified.</strong>
+whose PSLE score meet the cut-off points of our school (refer to announcement
+page of our school website). <strong>Please kindly note that only shortlisted students will be notified.</strong>
 </p>
-<p>Please refer to the form <a href="https://go.gov.sg/appeal-zss" rel="noopener noreferrer nofollow" target="_blank">here.</a> &nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>Please refer to the form <a href="https://form.gov.sg/654af8146a69530011a2750e" rel="noopener noreferrer nofollow" target="_blank">here.</a> &nbsp;&nbsp; <strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <hr>
 <p><strong>5. Purchase of Uniform and Textbooks &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p><u>On-SITE Purchase of Uniform &amp; Textbooks</u>
 </p>
-<p>The purchase of books and uniforms can be made from 19th, 20th, 23rd,
-26th and 27th Dec. However, for on-site purchase on 19th and 20th Dec,
-you will need to book a slot prior. Please refer to the link below (see
-On-SITE Purchase of Uniform &amp; Textbooks, directly below).
-<br>
-</p>
-<p>For parents who wish to make their purchase on-site in school or students
-who are under FAS, please book a time slot on 19 and 20 Dec (9am – 3pm).</p>
-<p>Please note the booking is on a first come first served basis and is for
-parents who are NOT ordering online.</p>
-<p></p>
+<p>The purchase of books and uniforms can be made from 19th, 22nd, 23rd,
+26th and 29th Dec from 9am to 3pm.</p>
 <p><u>Online Purchase</u>
 <br>You can also purchase the textbooks and uniforms online, and have the
-items delivered to your home. Please click to purchase online from 17th
-Dec to 24th Dec 2024.
-<br>
-<br>
+items delivered to your home. Please click <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to purchase online from
+19th Dec to 24th Dec 2025.
 <br>
 <br><strong>Purchasing Uniform</strong>
 <br>
@@ -104,25 +94,21 @@ school shirt and red polo can be worn for school.
 <br>
 <br><strong>Purchasing of Textbooks</strong>
 <br>
-<br>Attached is the booklist for the students.
-<br><a href="/files/Sec_1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Booklist for Students</a>
+<br>Attached is the booklist for the students.</p>
+<p><a href="/files/ZSS_Sec_1_booklist_updated_17th_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Booklist for students.</a>
 </p>
 <p>
 <br><strong>Please note:</strong>
-<br>1. Please strictly keep to the time and date that you have booked.
 <br>
-<br>2. Parents who come at the wrong date or time may be turned away if there
-is a long queue.
-<br>
-<br>3. Please note that parking on the school grounds is limited and you may
+<br>1. Please note that parking on the school grounds is limited and you may
 be directed to the nearest multi-storey carpark once the car park lots
 in the school are filled up. Entrance and exit will be from the school
 gate located along Bukit Panjang Ring Road.
 <br>
-<br>4. Please follow the signages in the school to purchase the books and
+<br>2. Please follow the signages in the school to purchase the books and
 uniforms.
 <br>
-<br>5. Textbooks and uniform bought can be returned or exchanged as long as
+<br>3. Textbooks and uniform bought can be returned or exchanged as long as
 they are clean and in original condition. Uniform should not be soiled.
 <br>
 <br><strong>Purchase of Physical Education Attire</strong>
@@ -143,15 +129,48 @@ students learn each subject at the level that best caters to their overall
 strengths, interests and learning needs.
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb3.png">
+</div>
 <p>Youtube video for FSBB (click on picture to view video)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=FGjXlsTBRN0&amp;t=1s"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FSBB_video.png"></a>
-<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbbsite.png"></a>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb9.png">
+</div>
+<p>FSBB Microsite from MOE (click on picture to access site)</p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-fsbb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fsbb10.png"></a>
 <p>SBB - Offer Letter &amp; Booklist (click on the picture to view the slides)</p>
 <a class="isomer-image-wrapper" href="/files/FSBB_Booklistnew.pdf">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SBB_offer_letter_and_booklist.png">
 </a>
 <p>SBB - Offer Letter Video (Please click on the image for the Video for
 futher explanation.)</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=2D-iB8M6Ny8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbbofferletterbookvid.png"></a>
-<p>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2024.</strong>
+<p>Please reply acceptance through Parents Gateway by&nbsp;<strong>27 December 2025.</strong>
 </p>
 <p>Parents who have no access to Parent Gateway, the school will contact
 you separately.</p>
@@ -187,8 +206,8 @@ and skills to thrive in the digital environment.</p>
 <p><strong>2. How will this be implemented in Zhenghua Secondary School?</strong>
 <br>
 </p>
-<p>All Sec 1 – 5s will be equipped with a PLD in 2025. Our school has chosen
-Chromebooks as our preferred PLD.
+<p>All Sec 1 – 5s students will be equipped with a PLD in 2026. Our school
+has chosen Chromebooks as our preferred PLD.
 <br>
 </p>
 <p><strong>3. Why Chromebooks?</strong>
@@ -207,14 +226,14 @@ include the additional accessories.
 <br>
 </p>
 <p>MOE will use bulk tenders to keep the PLDs affordable. The Chromebooks
-with the enhanced 3 year warranty will cost less than $580. For students
+with the enhanced 3 year warranty will cost less than $500. For students
 on financial assistance, we will provide further subsidies so that their
 out-of-pocket expenses is zero. This is to ensure that no student is denied
 the opportunity to benefit from the programme.
 <br>
 </p>
 <p>Specific costs and details will be communicated to all parents in January
-2025.
+2026.
 <br>
 </p>
 <p><strong>5. Can my child not purchase the device?</strong>
@@ -293,42 +312,44 @@ online spaces safely and help develop a more supportive cyber environment.</p>
 <p><strong>8. CCA Trial</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Trial.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/sports1.png">
 </div>
-<p>Click <a href="https://docs.google.com/presentation/d/1PT8mDfZJV3PG1Q_yw_LNt9CNsrUXdD7G/edit#slide=id.p1" rel="noopener nofollow" target="_blank">here </a>to
-view the details regarding the CCA trials happening in 2025 Term 1 Week
-1 &amp; 2.</p>
+<p>Click <a href="https://go.gov.sg/zsssec1ccatrials" rel="noopener nofollow" target="_blank">here </a>to
+view the details regarding the CCA trials happening in 2026 Term 1 Week
+2.</p>
 <hr>
 <p><strong>9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>Click <a href="/files/First_Day_of_School_Slides_for_Students_2025_updated.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/First_Day_of_School_Slides_for_Students_2026_updated_17th_Dec.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the slides.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayofschool.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/firstdayslides.png">
 </div>
-<p></p>
 <hr>
 <p><strong>10. Class Posting &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Information on class allocation will be made available through Parents
 Gateway.
 <br>
-<br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 23 Dec 2024, 8am.</em>
+<br><em>Your child/ward would be informed of his/her Sec 1 class via Parents Gateway by 27 Dec 2025, 8am.</em>
 </p>
 <hr>
 <p><strong>11. Parent Support Group (PSG) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/2023%20Sec%201%20Exercise/11%20PSG/P1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/psg1.png">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
+<p>The PSG’s vision is Action, Connect, Elevate (A.C.E). Action is for parents
+to partner the school to strategise and carry out plans to help develop
+your child/ward to achieve the school’s vision of Exemplary Leader, Dynamic
+Learner and Thoughtful Contributor. Connect is for us to help parents to
+bond and build better relationships between school and parents. Last but
+not least, Elevate is to increase parents capacity (such as interest groups
+and workshops).</p>
 <p>All parents are automatically members of the Zhenghua Secondary School
 Parent Support Group (ZSS PSG). The ZSS PSG is a network of parents working
 in close partnership with the school. Being part of the PSG is a great
@@ -336,95 +357,20 @@ opportunity to be closer to our children, understand them better, and support
 them in their educational journey. Members can participate in school activities
 and events, contribute to initiatives, network with other parents, and
 learn more about helping our children thrive in society.</p>
-<p></p>
-<p>We are currently inviting interested parents to sign up for the following:</p>
-<p></p>
-<p><strong>1) As active PSG members</strong>
-<br>
-<br>
-</p>
-<p>We are also inviting interested parents to join us as active PSG members.
-As active PSG members, you get to help out in school events and lend support
-for PSG activities. By joining the PSG as active parent volunteers, you
-will also gain support from other parents in your parenting journey.
-<br>
-<br>
-</p>
-<p><strong>2) Transition to Secondary School Life Parenting Workshop and PSG Welcome [8 February 2025, 9:30am-11.00am]</strong>
-<br>
-<br>
-</p>
-<p>Students tend to face a host of emotional and psychological challenges
-as they transit from primary school to secondary school. While this journey
-into secondary school can be exciting, some teenagers will require time
-to adjust and accommodate to the new environment.
-<br>
-</p>
-<p>To help parents understand the importance of parental support during this
-transitional phase of your child, ZSS PSG will be organizing the following
-parenting workshop in February:
-<br>
-</p>
-<p><strong><em>Transition to Secondary School Life Parenting Workshop</em></strong>
-<br>
-</p>
-<p>Date: 8 February 2025, Saturday
-<br>Time: 9.30am-11am
-<br>Venue: AVA Room (Level 2, above school libray)
-<br>
-</p>
-<p>Through the workshop, parents can learn to:
-<br>
-<br>1. Understand the different expectations and developmental tasks that
-your child may encounter during this period of time.
-<br>2. Be equipped with the necessary knowledge to support your child in the
-secondary school learning environment and help him/her to understand how
-better to overcome the various challenges in secondary school.</p>
-<p></p>
-<p><strong>3) Registration for 1st PSG Meeting and CNY Lunch (8 February 2025, 11.00am - 12.00pm)</strong>
-</p>
-<p>After the workshop, we will be having our 1st PSG Meeting with our School
-Leaders and our PSG leaders, followed by a CNY Lunch.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Date: 8/2/2025, Saturday&nbsp;&nbsp;</p>
-<p>Time: 11am-12pm&nbsp;&nbsp;</p>
-<p>Venue: Rifle Range (Level 4)&nbsp;
-<br>
-</p>
 <p>As part of our efforts to go green, all registrations for PSG will be
-done online. Please take a moment to go to the <a href="https://go.gov.sg/psgregistration25" rel="noopener noreferrer nofollow" target="_blank">link</a> for the registration
-form for the programmes stated above. Alternatively, you may scan the QR
-code for the registration form. Please allow us seven working days to process
-your registration.
-<br>
-<br>
-</p>
+done online. Please take a moment to go to the link <a href="https://go.gov.sg/zssparents2026" rel="noopener nofollow" target="_blank">here</a> for the registration form.
+Alternatively, you may scan the QR code for the registration form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PSG.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/psg2.png">
 </div>
-<p><strong>4) Interest Group for Parents</strong>
-<br>
-<br>The school would like to find out if parents would like to learn from
-one another in their parenting journey on specific areas of interest. These
-groups are meant for parents, led by parents. The school will support by
-playing the facilitator role and providing the necessary resources. The
-suggested areas of interest are on Special Educational Needs (SEN), Education
-and Career Guidance (ECG) or cyberwellness. Would you be interested in
-joining? If you have other areas of interest, please specify them under
-'Others'.
-<br>
-</p>
 <p>We believe you will find your journey with the ZSS PSG a very enriching
-and fun-filled experience.
-<br>
-<br>
-</p>
+and fun-filled experience.</p>
 <p>Thank you and once again, welcome to the ZSS PSG family!</p>
 <hr>
 <p><strong>12. Parents-Child-Teacher-Conference (1st PCTC) &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>Our first PCTC will be conducted on Friday 10 January 2025, at 5pm in
+<p>Our first PCTC will be conducted on Friday 9 January 2026, at 5pm in the
 school hall. There will be a welcome talk by our Principal, Mr Ng in the
 hall followed by the Form Teacher's sharing in the classrooms. More details
 will be shared via Parents Gateway.</p>
@@ -436,7 +382,7 @@ will be shared via Parents Gateway.</p>
 <p><strong>1. What is Zhenghua Secondary’s cut-off points (COP)?</strong>
 <br>
 </p>
-<p>The indicative PSLE score ranges of 2024 PSLE students posted to 2025
+<p>The indicative PSLE score ranges of 2025 PSLE students posted to 2026
 Sec 1.
 <br>
 </p>
@@ -451,7 +397,7 @@ Sec 1.
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 - 19</p>
+<p>14 - 20</p>
 </td>
 </tr>
 <tr>
@@ -489,9 +435,9 @@ our school's cut-off point, we will contact you as soon as we can.
 </p>
 <p>You can still register your appeal by submitting the online form linked
 in Section 4 of this Microsite. However, we are unlikely to take in students
-below the cut-off point as school admissions are based on merit. In the
-MOE Secondary One (S1) Posting Exercise, posting decisions are based on
-objective and transparent measures of academic merit, i.e. PSLE scores.
+who do not meet the cut-off point as school admissions are based on merit.
+In the MOE Secondary One (S1) Posting Exercise, posting decisions are based
+on objective and transparent measures of academic merit, i.e. PSLE scores.
 Appeals that take place after the S1 Posting Exercise must be aligned to
 these principles, in order to be fair to the other admitted students.&nbsp;
 Students who would like to gain admission to a secondary school on the
@@ -559,17 +505,14 @@ should instead approach their teachers for help.
 <br>
 <br>
 </p>
-<p><strong>9.&nbsp; Are mobile phones allowed in the school? What can the school do to prevent excessive mobile phone usage? Why does the school not ban mobile phone use in school?</strong>
-<br>
+<p><strong>9.&nbsp; Are mobile phones allowed in the school?</strong>
 <br>
 </p>
-<p>Mobile phones are part of our daily lives and have practical benefits.
-However, they can also be a source of distraction and even addiction. In
-order to help students manage their phone use, phones are not allowed in
-the classrooms at all times, even after school. Students are expected to
-have their phones switched off and kept in the lockers outside the classrooms
-when they are in class. Any phones found in the classrooms will be confiscated
-and handed to the Guidance Committee.
+<p>Use of smartphones/smartwatches will not be allowed during school hours,
+including recess, co-curricular activities, supplementary/enrichment/remedial
+lessons, etc. The students' devices will be kept in lockers during school
+hours. Where necessary, schools may allow students to use smartphones by
+exception.
 <br>
 <br>
 </p>
@@ -626,18 +569,18 @@ HMTL in secondary three.
 </p>
 <p>Students who are offered Tamil will study at the Tamil Language Centre,
 Chua Chu Kang Secondary School outside curriculum time. &nbsp;Please see
-below for the 2025 schedule.
+below for the 2026 schedule.
 <br>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/tlschedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tltt.png">
 </div>
+<p></p>
 <p>
 <br><strong>13. When will I know the class of my child?</strong>
 </p>
-<p>The school will inform you via Parent Gateway by 23<sup>rd</sup> December.</p>
+<p>The school will inform you via Parent Gateway by 27th December.</p>
 <p>&nbsp;</p>
 <p><strong>14.&nbsp; Is it compulsory for my child to attend the Orientation Camp?</strong>
 </p>
