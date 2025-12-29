@@ -268,7 +268,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Siti Nurbasyirah</strong>
-<br>siti_nurbasyirah_azahar<em>@moe.edu.sg</em>
+<br><em>siti_nurbasyirah_azahar@moe.edu.sg</em>
 </p>
 </td>
 </tr>
