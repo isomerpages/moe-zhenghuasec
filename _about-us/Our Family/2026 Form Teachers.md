@@ -287,12 +287,12 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Angela Tan</strong>
+<p><strong>Ms Kwek Co Hui</strong>
 <br><em>tan_cheng_cheng_angela@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Hun</strong>
+<p><strong>Ms Yong Wai Teng</strong>
 <br><em>lim_hun_a@moe.edu.sg</em>
 </p>
 </td>
@@ -302,12 +302,12 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Marinah Mohdar</strong>
+<p><strong>Mr Ng Seng Huat Peter</strong>
 <br><em>marinah_mohdar@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jacobe Lim </strong>
+<p><strong>Mdm Tan Fong Yee </strong>
 <br><em>lim_chen_guo@moe.edu.sg</em>
 </p>
 </td>
@@ -317,12 +317,12 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Anna Low</strong>
+<p><strong>Ms Tan Danwei Claudia</strong>
 <br><em>low_li_leen_anna@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Isabel Ho</strong>
+<p><strong>Mdm Sharifah Nazihah</strong>
 <br><em>ho_shu_chun_isabel@moe.edu.sg</em>
 </p>
 </td>
@@ -332,12 +332,12 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Xin Ping</strong>
+<p><strong>Mr Nur Azri Iqmal</strong>
 <br><em>xin_ping_a@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ivan Tan</strong> 
+<p><strong>Ms Chia Choo Hui Grace</strong>
 <br><em>tan_jiang_rui_ivan@moe.edu.sg</em>
 </p>
 </td>
