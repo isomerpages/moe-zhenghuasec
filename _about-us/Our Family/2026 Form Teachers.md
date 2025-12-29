@@ -133,12 +133,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lee Weiqi</strong>
-<br><em>shamsul_idris@moe.edu.sg</em>
+<br><em>lee_weiqi@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Chee Pey Jiun</strong>
-<br><em>koh_ming_hui@moe.edu.sg</em>
+<br><em>chee_pey_jiun_a@moe.edu.sg</em>
 </p>
 </td>
 </tr>
