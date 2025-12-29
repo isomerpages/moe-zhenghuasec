@@ -203,12 +203,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Rosmawati Alwi</strong>
-<br><em>ng_seng_huat@moe.edu.sg</em>
+<br><em>rosmawati_alwi@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Hana Cheong</strong>
-<br><em>sharifah_nazihah_sulaiman@moe.edu.sg</em>
+<br><em>cheong_tsui_ying_hana@moe.edu.sg</em>
 </p>
 </td>
 </tr>
