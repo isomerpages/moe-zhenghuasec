@@ -87,13 +87,13 @@ variant: tiptap
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Rosmawati Alwi</strong>
-<br><em>rosmawati_alwi@moe.edu.sg</em>
+<p><strong>Mdm Sri Diana</strong>
+<br><em>sri_diana_subari@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chelsea Wong</strong>
-<br><em>chelsea_wong_jiahui@moe.edu.sg</em>
+<p><strong>Mdm Valerie Chia</strong>
+<br><em>chia_wei_ting_valerie@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -102,12 +102,12 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Andrew Kan</strong>
+<p><strong>Mr Chung Zhiwen</strong>
 <br><em>kan_andrew@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Sock Mui</strong>
+<p><strong>Mdm Nurul Aishah</strong>
 <br><em>tan_sock_mui@moe.edu.sg</em>
 </p>
 </td>
@@ -117,12 +117,12 @@ variant: tiptap
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Karen Choo</strong>
+<p><strong>Ms Tan Pei Wen</strong>
 <br><em>choo_karen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tay Limin</strong>
+<p><strong>Ms Sakinah </strong>
 <br><em>tay_limin@moe.edu.sg</em>
 </p>
 </td>
@@ -132,28 +132,13 @@ variant: tiptap
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Shamsul</strong>
+<p><strong>Mdm Lee Weiqi</strong>
 <br><em>shamsul_idris@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Ming Hui</strong>
+<p><strong>Ms Chee Pey Jiun</strong>
 <br><em>koh_ming_hui@moe.edu.sg</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Cynthia Loh</strong>
-<br><em>loh_so_boey@moe.edu.sg</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Siti Nurbasyirah</strong>
-<br><em>siti_nurbasyirah_azahar@moe.edu.sg</em>
 </p>
 </td>
 </tr>
