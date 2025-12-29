@@ -42,13 +42,13 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Seah Hwee Bing</strong>
-<br><em>seah_hwee_bing@moe.edu.sg</em>
+<p><strong>Mdm Hafida</strong>
+<br><em>hafida_muhamad@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lynn Chew</strong>
-<br><em>chew_jia_lin_lynn@moe.edu.sg</em>
+<p><strong>Ms Ong Wei Lin Amerlyn</strong>
+<br><em>ong_wei_lin_amerlyn@moe.edu.sg</em>
 </p>
 </td>
 </tr>
