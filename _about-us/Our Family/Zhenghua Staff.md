@@ -799,7 +799,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alawiyah Bte Nadin
+<p>Tan I-Ling
 <br>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -822,15 +822,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>112</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Michael Lim
-<br>AED (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>333</p>
 </td>
 </tr>
 <tr>
