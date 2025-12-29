@@ -403,12 +403,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lim Hun</strong>
-<br><em>ong_wei_lin_amerlyn@moe.edu.sg</em>
+<br><em>lim_hun_a@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Angela Tan</strong>
-<br><em>lai_chien_siew@moe.edu.sg</em>
+<br><em>tan_cheng_cheng_angela@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -418,12 +418,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lim Chen Guo Jacobe</strong>
-<br><em>tan_pei_wen_a@moe.edu.sg</em>
+<br><em>lim_chen_guo@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Marinah Mohdar</strong>
-<br><em>chee_pey_jiun_a@moe.edu.sg</em>
+<br><em>marinah_mohdar@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -433,12 +433,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Isabel Ho</strong>
-<br><em>lee_weiqi@moe.edu.sg</em>
+<br><em>ho_shu_chun_isabel@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Anna Low</strong>
-<br><em>nurul_aishah_shuhai@moe.edu.sg</em>
+<br><em>low_li_leen_anna@moe.edu.sg</em>
 </p>
 </td>
 </tr>
