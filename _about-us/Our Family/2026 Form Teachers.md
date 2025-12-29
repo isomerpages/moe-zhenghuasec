@@ -158,12 +158,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Seah Hwee Bing</strong>
-<br><em>tan_li_leng@moe.edu.sg</em>
+<br><em>seah_hwee_bing@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Chew Jia Lin Lynn</strong>
-<br><em>sri_diana_subari@moe.edu.sg</em>
+<br><em>chew_jia_lin_lynn@moe.edu.sg</em>
 </p>
 </td>
 </tr>
