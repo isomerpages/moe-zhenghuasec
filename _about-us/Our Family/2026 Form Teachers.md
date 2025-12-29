@@ -188,12 +188,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nur Elfianie</strong>
-<br><em>tan_fong_yee@moe.edu.sg</em>
+<br><em>nur_elfianie_abdul_samad@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lim Jun Qiang Derrick</strong>
-<br><em>nur_azri_iqmal_mahadir@moe.edu.sg</em>
+<br><em>lim_jun_qiang_derrick@moe.edu.sg</em>
 </p>
 </td>
 </tr>
