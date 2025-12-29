@@ -57,13 +57,13 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Edwin Tan</strong>
-<br><em>tan_kian_hong_edwin@moe.edu.sg</em>
+<p><strong>Mr Aaron Justin Tan</strong>
+<br><em>aaron_justin_tan_wen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tamilarasi</strong>
-<br><em>tamilarasi_ramaiya@moe.edu.sg</em>
+<p><strong>Mdm Nafisah</strong>
+<br><em>loh_nafisah_mohd_ridwan@moe.edu.sg</em>
 </p>
 </td>
 </tr>
