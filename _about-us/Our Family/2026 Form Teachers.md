@@ -218,12 +218,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Andrew Kan</strong>
-<br><em>yong_wai_teng@moe.edu.sg</em>
+<br><em>kan_andrew@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Sock Mui</strong>
-<br><em>tan_danwei_claudia@moe.edu.sg</em>
+<br><em>tan_sock_mui@moe.edu.sg</em>
 </p>
 </td>
 </tr>
