@@ -27,6 +27,7 @@ variant: markdown
 |Soh Bee Kim <br> HOD MTL | 209 |
 |Hamidah Bte Ali <br> HOD C&amp;T | 207 |
 |Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
+|Edwin Ang <br> HOD ICT ||
 |Phay Pei Joo <br> School Staff Developer | 210|
 |Tan Liang Chye Stanley <br> HOD Science | 203 |
 |Ashar Ahmad <br> HOD Student Management | 206 |
@@ -42,6 +43,7 @@ variant: markdown
 |Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 2)|215|
 |Koh Khee Hoon <br> Asst Year Head (Sec 3) | 221|
 |Magdalene Tan Li Ping <br> Year Head (Sec 4)|223|
-|Foo Yeong Kiang <br> Admin Manager |105|
+|Foo Yeong Kiang <br> Admin Manager 1 |105|
+|Daniel Ong <br> Admin Manager 2 |105|
 |Peh Choon Kuan <br> Operations Manager 1 |115|
 |Goh Charng Siew <br> Operations Manager 2 |6762 4266|
