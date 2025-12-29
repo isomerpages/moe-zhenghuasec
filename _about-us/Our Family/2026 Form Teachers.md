@@ -288,12 +288,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Kwek Co Hui</strong>
-<br><em>tan_cheng_cheng_angela@moe.edu.sg</em>
+<br><em>kwek_co_hui@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Yong Wai Teng</strong>
-<br><em>lim_hun_a@moe.edu.sg</em>
+<br><em>yong_wai_teng@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -303,12 +303,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ng Seng Huat Peter</strong>
-<br><em>marinah_mohdar@moe.edu.sg</em>
+<br><em>ng_seng_huat@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Tan Fong Yee </strong>
-<br><em>lim_chen_guo@moe.edu.sg</em>
+<br><em>tan_fong_yee@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -318,12 +318,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Danwei Claudia</strong>
-<br><em>low_li_leen_anna@moe.edu.sg</em>
+<br><em>tan_danwei_claudia@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Sharifah Nazihah</strong>
-<br><em>ho_shu_chun_isabel@moe.edu.sg</em>
+<br>sharifah_nazihah_sulaiman<em>@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -347,12 +347,12 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yeo Yen Hua</strong>
+<p><strong>Mr Loy Suan Doong</strong>
 <br><em>yeo_yen_hua@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Berton Tan</strong>
+<p><strong>Mdm Lai Chien Siew</strong>
 <br><em>tan_ee_siang_berton@moe.edu.sg</em>
 </p>
 </td>
@@ -362,12 +362,12 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Li Jiao</strong>
+<p><strong>Mr Patrick Lim</strong>
 <br><em>li_jiao@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Rachel Tan</strong>
+<p><strong>Ms Widad Wahid</strong>
 <br><em>tan_hui_leng_rachel@moe.edu.sg</em>
 </p>
 </td>
@@ -377,12 +377,12 @@ variant: tiptap
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Roy Tan</strong>
+<p><strong>Mdm Goh Lay Ping Justina</strong>
 <br><em>roy_tan@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tetty Juliana</strong>
+<p><strong>Mdm Emilia Ali</strong>
 <br><em>tetty_juliana_sujono@moe.edu.sg</em>
 </p>
 </td>
