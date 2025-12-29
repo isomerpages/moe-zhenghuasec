@@ -72,13 +72,13 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nur Elfianie</strong>
-<br><em>nur_elfianie_abdul_samad@moe.edu.sg</em>
+<p><strong>Mdm Masrena</strong>
+<br><em>masrena_rahmat@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Derrick Lim</strong>
-<br><em>lim_jun_qiang_derrick@moe.edu.sg</em>
+<p><strong>Ms Arockiadoss Jency Gracia</strong>
+<br><em>arockiadoss_jency_gracia_lourdes@moe.edu.sg</em>
 </p>
 </td>
 </tr>
