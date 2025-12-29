@@ -248,12 +248,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Koh Ming Hui</strong>
-<br><em>lee_yung_wen@moe.edu.sg</em>
+<br><em>koh_ming_hui@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Shamsul Idris</strong>
-<br><em>loy_suan_doong@moe.edu.sg</em>
+<br><em>shamsul_idris@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -263,12 +263,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cynthia Loh</strong>
-<br><em>goh_lay_ping_justina@moe.edu.sg</em>
+<br><em>loh_so_boey@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Siti Nurbasyirah</strong>
-<br><em>teo_jia_wei@moe.edu.sg</em>
+<br>siti_nurbasyirah_azahar<em>@moe.edu.sg</em>
 </p>
 </td>
 </tr>
