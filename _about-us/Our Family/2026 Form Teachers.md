@@ -187,12 +187,12 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Fong Yee</strong>
+<p><strong>Mdm Nur Elfianie</strong>
 <br><em>tan_fong_yee@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Nur Azri Iqmal</strong>
+<p><strong>Mr Lim Jun Qiang Derrick</strong>
 <br><em>nur_azri_iqmal_mahadir@moe.edu.sg</em>
 </p>
 </td>
@@ -202,12 +202,12 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Peter Ng</strong>
+<p><strong>Mdm Rosmawati Alwi</strong>
 <br><em>ng_seng_huat@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sharifah Nazihah</strong>
+<p><strong>Mdm Hana Cheong</strong>
 <br><em>sharifah_nazihah_sulaiman@moe.edu.sg</em>
 </p>
 </td>
@@ -217,12 +217,12 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yong Wai Teng</strong>
+<p><strong>Mr Andrew Kan</strong>
 <br><em>yong_wai_teng@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Claudia Tan</strong>
+<p><strong>Ms Tan Sock Mui</strong>
 <br><em>tan_danwei_claudia@moe.edu.sg</em>
 </p>
 </td>
@@ -232,12 +232,12 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sakinah</strong>
+<p><strong>Ms Karen Choo</strong>
 <br><em>sakinah_mohamed_supiyan@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Patrick Lim</strong>
+<p><strong>Ms Tay Limin</strong>
 <br><em>lim_cheng_huat@moe.edu.sg</em>
 </p>
 </td>
@@ -247,12 +247,12 @@ variant: tiptap
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Yung-Wen</strong>
+<p><strong>Ms Koh Ming Hui</strong>
 <br><em>lee_yung_wen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Dennis Loy</strong>
+<p><strong>Mr Shamsul Idris</strong>
 <br><em>loy_suan_doong@moe.edu.sg</em>
 </p>
 </td>
@@ -262,12 +262,12 @@ variant: tiptap
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Justina Goh</strong>
+<p><strong>Mdm Cynthia Loh</strong>
 <br><em>goh_lay_ping_justina@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Teo Jia Wei</strong>
+<p><strong>Ms Siti Nurbasyirah</strong>
 <br><em>teo_jia_wei@moe.edu.sg</em>
 </p>
 </td>
