@@ -32,8 +32,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Mdm Zanariah Bte Zainal Abiden (Year Head Secondary 1)</strong>
-<br><em>zanariah_zainal_abiden@moe.edu.sg</em>
+<p><strong>Mdm Magdalene Tan (Year Head Secondary 1)</strong>
+<br><em>tan_li_ping_magdalene@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -162,8 +162,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Mdm Ho Woan Shay (Year Head Secondary 2)</strong>
-<br><em>ho_woan_shay@moe.edu.sg</em>
+<p><strong>Mdm Zanariah Bte Zainal Abiden (Year Head Secondary 2)</strong>
+<br><em>zanariah_zainal_abiden@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -292,8 +292,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Mdm Koh Khee Hoon (Year Head Secondary 3)</strong>
-<br><em>koh_khee_hoon@moe.edu.sg</em>
+<p><strong>Mdm Ho Woan Shay (Year Head Secondary 3)</strong>
+<br><em>ho_woan_shay@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -407,8 +407,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Mdm Magdalene Tan (Year Head Secondary 4/5)</strong>
-<br><em>tan_li_ping_magdalene@moe.edu.sg</em>
+<p><strong>Mdm Koh Khee Hoon (Year Head Secondary 4)</strong>
+<br><em>koh_khee_hoon@moe.edu.sg</em>
 </p>
 </td>
 </tr>
