@@ -157,12 +157,12 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Agnes Tan</strong>
+<p><strong>Mdm Seah Hwee Bing</strong>
 <br><em>tan_li_leng@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sri Diana Subari</strong>
+<p><strong>Ms Chew Jia Lin Lynn</strong>
 <br><em>sri_diana_subari@moe.edu.sg</em>
 </p>
 </td>
@@ -172,13 +172,13 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Natalie</strong>
-<br><em>tan_li_er_natalie@moe.edu.sg</em>
+<p><strong>Mr Tan Kian Hong Edwin</strong>
+<br><em>tan_kian_hong_edwin@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Widad Wahid</strong>
-<br><em>widad_wahid@moe.edu.sg</em>
+<p><strong>Mdm Tamilarasi</strong>
+<br><em>tamilarasi_ramaiya@moe.edu.sg</em>
 </p>
 </td>
 </tr>
