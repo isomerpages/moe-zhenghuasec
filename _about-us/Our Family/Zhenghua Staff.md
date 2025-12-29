@@ -202,15 +202,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roy Tan Tian Kiat
-<br>SH Student leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>218</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ivan Tan Jiang Rui
 <br>SH Bio</p>
 </td>
@@ -284,10 +275,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Foo Yeong Kiang
-<br>Admin Manager</p>
+<br>Admin Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Ong</p>
+<p>Admin Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
