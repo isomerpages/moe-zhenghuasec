@@ -323,7 +323,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Sharifah Nazihah</strong>
-<br>sharifah_nazihah_sulaiman<em>@moe.edu.sg</em>
+<br><em>sharifah_nazihah_sulaiman@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -333,7 +333,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Nur Azri Iqmal</strong>
-<br><em>xin_ping_a@moe.edu.sg</em>
+<br><em>nur_azri_iqmal_mahadir@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,12 +348,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Loy Suan Doong</strong>
-<br><em>yeo_yen_hua@moe.edu.sg</em>
+<br><em>loy_suan_doong@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lai Chien Siew</strong>
-<br><em>tan_ee_siang_berton@moe.edu.sg</em>
+<br><em>lai_chien_siew@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -363,12 +363,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Patrick Lim</strong>
-<br><em>li_jiao@moe.edu.sg</em>
+<br><em>lim_cheng_huat@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Widad Wahid</strong>
-<br><em>tan_hui_leng_rachel@moe.edu.sg</em>
+<br><em>widad_wahid@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -378,12 +378,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Goh Lay Ping Justina</strong>
-<br><em>roy_tan@moe.edu.sg</em>
+<br><em>goh_lay_ping_justina@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Emilia Ali</strong>
-<br><em>tetty_juliana_sujono@moe.edu.sg</em>
+<br><em>emilia_mohamed_ali@moe.edu.sg</em>
 </p>
 </td>
 </tr>
