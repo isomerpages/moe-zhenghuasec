@@ -448,12 +448,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ivan Tan</strong>
-<br><em>tan_ling_godwin@moe.edu.sg</em>
+<br><em>tan_jiang_rui_ivan@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Xin Ping</strong>
-<br><em>kwek_co_hui@moe.edu.sg</em>
+<br><em>xin_ping_a@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -463,12 +463,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Berton Tan</strong>
-<br><em>hafida_muhamad@moe.edu.sg</em>
+<br><em>tan_ee_siang_berton@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Yeo Yen Hua</strong>
-<br><em>arockiadoss_jency_gracia_lourdes@moe.edu.sg</em>
+<br><em>yeo_yen_hua@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -478,12 +478,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Li Jiao</strong>
-<br><em>aaron_justin_tan_wen@moe.edu.sg</em>
+<br><em>li_jiao@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Hui Leng Rahmat</strong>
-<br><em>masrena_rahmat@moe.edu.sg</em>
+<p><strong>Ms Tan Hui Leng Rachel</strong>
+<br><em>tan_hui_leng_rachel@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -493,12 +493,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Tan Soh Hua</strong>
-<br><em>chia_choo_hui@moe.edu.sg</em>
+<br><em>tan_soh_hua@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Godwin Tan</strong>
-<br><em>chia_wei_ting_valerie@moe.edu.sg</em>
+<br><em>tan_ling_godwin@moe.edu.sg</em>
 </p>
 </td>
 </tr>
