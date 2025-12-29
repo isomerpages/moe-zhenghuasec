@@ -402,12 +402,12 @@ variant: tiptap
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Amerlyn Ong</strong>
+<p><strong>Mr Lim Hun</strong>
 <br><em>ong_wei_lin_amerlyn@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lai Chien Siew</strong>
+<p><strong>Mdm Angela Tan</strong>
 <br><em>lai_chien_siew@moe.edu.sg</em>
 </p>
 </td>
@@ -417,12 +417,12 @@ variant: tiptap
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Pei Wen</strong>
+<p><strong>Mr Lim Chen Guo Jacobe</strong>
 <br><em>tan_pei_wen_a@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chee Pey Jiun</strong>
+<p><strong>Ms Marinah Mohdar</strong>
 <br><em>chee_pey_jiun_a@moe.edu.sg</em>
 </p>
 </td>
@@ -432,12 +432,12 @@ variant: tiptap
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lee Weiqi</strong>
+<p><strong>Mdm Isabel Ho</strong>
 <br><em>lee_weiqi@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul'Aishah Bte Shuhaimi</strong>
+<p><strong>Ms Anna Low</strong>
 <br><em>nurul_aishah_shuhai@moe.edu.sg</em>
 </p>
 </td>
@@ -447,12 +447,12 @@ variant: tiptap
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Godwin Tan</strong>
+<p><strong>Mr Ivan Tan</strong>
 <br><em>tan_ling_godwin@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kwek Co Hui</strong>
+<p><strong>Mdm Xin Ping</strong>
 <br><em>kwek_co_hui@moe.edu.sg</em>
 </p>
 </td>
@@ -462,12 +462,12 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Hafida Muhd</strong>
+<p><strong>Mr Berton Tan</strong>
 <br><em>hafida_muhamad@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Arockiadoss Jency Gracia Lourdes</strong>
+<p><strong>Mdm Yeo Yen Hua</strong>
 <br><em>arockiadoss_jency_gracia_lourdes@moe.edu.sg</em>
 </p>
 </td>
@@ -477,12 +477,12 @@ variant: tiptap
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Aaron Justin Tan</strong>
+<p><strong>Ms Li Jiao</strong>
 <br><em>aaron_justin_tan_wen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Masrena Rahmat</strong>
+<p><strong>Ms Tan Hui Leng Rahmat</strong>
 <br><em>masrena_rahmat@moe.edu.sg</em>
 </p>
 </td>
@@ -492,28 +492,13 @@ variant: tiptap
 <p>4G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Grace Chia</strong>
+<p><strong>Mdm Tan Soh Hua</strong>
 <br><em>chia_choo_hui@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Valerie Chia</strong>
+<p><strong>Mr Godwin Tan</strong>
 <br><em>chia_wei_ting_valerie@moe.edu.sg</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chung Zhiwen</strong>
-<br><em>chung_zhiwen@moe.edu.sg</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Emilia Ali</strong>
-<br><em>emilia_mohamed_ali@moe.edu.sg</em>
 </p>
 </td>
 </tr>
@@ -527,8 +512,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Serene Howe</strong>
-<br><em>howe_joo-li_serene@moe.edu.sg</em>
+<p>
+<br>
 </p>
 </td>
 </tr>
