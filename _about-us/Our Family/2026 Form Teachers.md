@@ -103,12 +103,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chung Zhiwen</strong>
-<br><em>kan_andrew@moe.edu.sg</em>
+<br><em>chung_zhiwen@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nurul Aishah</strong>
-<br><em>tan_sock_mui@moe.edu.sg</em>
+<br><em>nurul_aishah_shuhai@moe.edu.sg</em>
 </p>
 </td>
 </tr>
