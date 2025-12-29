@@ -408,22 +408,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Felicity Lim Sy Hing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>315</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gay Wei Zhuang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>331</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Grace Chia Choo Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,14 +500,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>330</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liang Kar Weng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>327</p>
 </td>
 </tr>
 <tr>
@@ -745,14 +721,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>320</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vivian Koh Su Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>313</p>
 </td>
 </tr>
 <tr>
