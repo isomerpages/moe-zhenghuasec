@@ -118,12 +118,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Pei Wen</strong>
-<br><em>choo_karen@moe.edu.sg</em>
+<br><em>tan_pei_wen_a@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Sakinah </strong>
-<br><em>tay_limin@moe.edu.sg</em>
+<br><em>sakinah_mohamed_supiyan@moe.edu.sg</em>
 </p>
 </td>
 </tr>
