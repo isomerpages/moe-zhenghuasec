@@ -31,7 +31,7 @@ variant: markdown
 |Phay Pei Joo <br> School Staff Developer | 210|
 |Tan Liang Chye Stanley <br> HOD Science | 203 |
 |Ashar Ahmad <br> HOD Student Management | 206 |
-|Yeo Yen Hua <br> SH OE &amp; Special Projects | 219 |
+|Yeo Yen Hua <br> SH LLP &amp; CCA | 219 |
 |Ang Lien Lee Jonathan <br> SH Info Data Management | 217 |
 |Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
