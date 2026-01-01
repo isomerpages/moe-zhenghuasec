@@ -32,13 +32,13 @@ variant: markdown
 |Tan Liang Chye Stanley <br> HOD Science | 203 |
 |Ashar Ahmad <br> HOD Student Management | 206 |
 |Yeo Yen Hua <br> SH OE &amp; Special Projects | 219 |
-|Ang Lien Lee Jonathan <br> SH ICT | 217 |
+|Ang Lien Lee Jonathan <br> SH Info Data Management | 217 |
 |Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
 |Koh Su Hui Vivian<br> SH English |313|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
 |Lim Cheng Huat Patrick  <br> SH Maths |214|  
-|Lim Jun Qiang Derrick <br> SH CCE |222|      
+|Lim Jun Qiang Derrick <br> HOD CCE |222|      
 |Zanariah Zainal Abiden <br> Year Head (Sec 1)|220|
 |Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 2)|215|
 |Koh Khee Hoon <br> Asst Year Head (Sec 3) | 221|
