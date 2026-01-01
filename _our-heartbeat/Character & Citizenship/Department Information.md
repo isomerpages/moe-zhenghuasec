@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Derrick Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derrick Lim (SH CCE)</p>
+<p>Ms Vivian Koh (SH English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Khee Hoon (Year Head)</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vivian Koh (SH English)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
