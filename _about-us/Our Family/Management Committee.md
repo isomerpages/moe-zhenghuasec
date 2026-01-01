@@ -33,7 +33,6 @@ variant: markdown
 |Ashar Ahmad <br> HOD Student Management | 206 |
 |Yeo Yen Hua <br> SH LLP &amp; CCA | 219 |
 |Ang Lien Lee Jonathan <br> SH Info Data Management | 217 |
-|Roy Tan Tian Kiat <br> SH Student Leadership |218 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
 |Koh Su Hui Vivian<br> SH English |313|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
