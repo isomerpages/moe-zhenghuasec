@@ -176,7 +176,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ang Lien Lee Jonathan
-<br>SH ICT</p>
+<br>SH Info &amp; Data Managment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>217</p>
@@ -266,7 +266,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Derrick Lim Jun Qiang
-<br>SH CCE</p>
+<br>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>302</p>
