@@ -230,7 +230,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Koh Khee Hoon (Xu Qiyun)
-<br>Asst Year Head (Sec 2)</p>
+<br>Asst.Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>221</p>
@@ -239,7 +239,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Magdalene Tan Li Ping
-<br>Year Head (Sec 3)</p>
+<br>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>223</p>
@@ -248,7 +248,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zanariah Zainal Abiden
-<br>Year Head (Sec 4)</p>
+<br>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>220</p>
@@ -257,7 +257,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ho Woan Shay
-<br>SH Student Well-being / Year Head (Sec 1)</p>
+<br>Asst. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>215</p>
