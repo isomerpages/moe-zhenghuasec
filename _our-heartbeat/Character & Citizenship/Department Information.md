@@ -84,7 +84,7 @@ variant: tiptap
 <p>Ms Tay Limin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Widad</p>
+<p>Mdm Claudia Tan</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Felicity Lim</p>
+<p>Mdm Koh Ming Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kwek Co Hui</p>
@@ -117,14 +117,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tetty</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Ming Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Claudia Tan</p>
 </td>
 </tr>
 </tbody>
