@@ -194,7 +194,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yeo Yen Hua
-<br>SH OE &amp; Special Projects</p>
+<br>SH LLP &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>219</p>
