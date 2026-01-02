@@ -2,7 +2,6 @@
 title: Acceptable Use Policy for PLDs
 permalink: /quicklinks/
 description: ""
-third_nav_title: Student Management
 variant: tiptap
 ---
 <h4><strong><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong></h4>

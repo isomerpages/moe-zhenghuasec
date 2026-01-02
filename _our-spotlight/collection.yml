@@ -2,6 +2,7 @@ collections:
   our-spotlight:
     output: true
     order:
+      - Acceptable Use Policy for PLDs.md
       - School Services/Leave of Absence (LOA) Scheme.md
       - School Services/.keep
       - Our Instagram.md

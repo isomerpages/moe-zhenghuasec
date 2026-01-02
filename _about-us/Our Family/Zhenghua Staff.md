@@ -3,135 +3,1030 @@ title: Zhenghua Staff
 permalink: /about-us/zhenghua-staff/
 description: ""
 third_nav_title: Our Family
-variant: markdown
+variant: tiptap
 ---
-### Zhenghua Staff
-
-| List of Names | Tel Ext. |
-|---|---|
-| **KEY PERSONNEL** |  |
-| Ng Hock Soon<br>Principal | 103 |
-| Elaine Tan Pei Lee<br>Vice-Principal | 117 |
-| He Aifen<br>Vice-Principal (Admin) | 116 |
-| Samuel Lim Kok Boon<br>Vice-Principal | 106 |
-| Cha Boon Hon Danny<br>HOD Humanities | 205 |
-| Lim Chee Hui, Derek<br>HOD ICT | 212 |
-| Mazri Misawar<br>HOD Mathematics | 211 |
-| Rafiyah Begum Bte Sharif Mohd<br>HOD English Language | 204 |
-| Samuel Lim Kok Boon<br>HOD CCE | 224 |
-| Soh Bee Kim<br>HOD MTL | 209 |
-| Hamidah Bte Ali<br>HOD C&amp;T | 207 |
-| Robin Goh Jin Quan<br>HOD PE &amp; CCA | 201 |
-| Stanley Tan<br>HOD Science| 203 |
-| Ashar Ahmad<br>HOD Student Management | 206 |
-| Phay Pei Joo<br>School Staff Developer | 210 |
-| Ang Lien Lee Jonathan<br>SH ICT | 217 |
-| Patrick Lim<br>SH Maths | 214 |
-| Yeo Yen Hua<br>SH OE &amp; Special Projects | 219 |
-| Roy Tan Tian Kiat<br>SH Student leadership | 218 |
-| Ivan Tan Jiang Rui <br>SH Bio | 213 |
-| Soo Boon Siang Sam<br>SH GEOG/NE | 216 |
-| Koh Su Hui Vivian <br>SH English | 313 |
-| Koh Khee Hoon (Xu Qiyun)<br>Asst Year Head (Sec 2) | 221 |
-| Magdalene Tan Li Ping<br>Year Head (Sec 3) | 223 |
-| Zanariah Zainal Abiden<br>Year Head (Sec 4) | 220 |
-| Ho Woan Shay<br>SH Student Well-being / Year Head (Sec 1) | 215 |
-| Derrick Lim Jun Qiang<br>SH CCE | 302 |
-|Foo Yeong Kiang <br> Admin Manager |105|
-|Peh Choon Kuan <br> Operations Manager 1 |115|
-|Goh Charng Siew <br> Operations Manager 2 |6762 4266|
-| **TEACHING STAFF** |  |
-| Aaron Justin Tan Wen Jie | 322 |
-| Agnes Tan Li Leng<br>Senior Teacher (Mathematics) | 310 |
-| Arockiadoss Jency Gracia  | 326 |
-| Amerlyn Ong Wei Lin | 316 |
-| Andrew Kan | 305 |
-| Anna Low Li Leen | 318 |
-| Angela Tan Cheng Cheng | 321 |
-| Chee Pey Jiun | 340 |
-| Claudia Tan Danwei | 314 |
-| Edwin Tan Kian Hong | 309 |
-| Emilia Mohamed Ali | 323 |
-| Felicity Lim Sy Hing | 315 |
-| Gay Wei Zhuang | 331 |
-| Grace Chia Choo Hui | 317 |
-| Godwin Tan | 311 |
-| Hafida Bte Muhamad | 332 |
-| Isabel Ho Shu Chun | 304 |
-| Justina Goh Lay Ping | 330 |
-| Karen Choo | 303 |
-| Koh Ming Hui | 307 |
-| Kwek Co Hui Lynn | 321 |
-| Lai Chien Siew | 307 |
-| Lee Weiqi | 312 |
-| Lee Yung-Wen | 329 |
-| Li Jiao | 330 |
-| Liang Kar Weng | 327 |
-| Lim Chen Guo Jacobe | 339 |
-| Loh So Boey Cynthia | 337 |
-| Loy Suan Doong<br>Senior Teacher (Design &amp; Technology) | 327 |
-| Chew Jia Lin Lynn | 338 |
-| Marinah Binte Mohdar | 303 |
-| Masrena Rahmat | 310 |
-| Melissa Ng Shu Ting | 317 |
-| Natalie Tan Li Er<br>Lead Teacher (Chemistry) | 304 |
-| Ng Seng Huat | 322 |
-| Nur Azri Iqmal Bin Mahadir | 323|
-| Nur Elfianie Bte Abdul Samad | 309 |
-| Nurul'Aishah Bte Shuhaimi | 308 |
-| Rachel Tan Hui Leng<br>Senior Teacher (English) | 325 |
-| Rosmawati Bte Alwi | 301 |
-| Sakinah Bte Mohamed Supiyan | 318 |
-| Seah Hwee Bing | 312 |
-| Serene Howe Joo-li<br>Lead Teacher (Geography) | 313 |
-| Shamsul Bin Idris | 319 |
-| Sharifah Nazihah W M Sulaiman | 320 |
-| Siti Nurbasyirah Azahar | 311 |
-| Sri Diana Subari | 319 |
-| Tamilarasi D/O Ramaiya | 302 |
-| Tan Fong Yee<br>Senior Teacher (Chinese Language) | 329 |
-| Tan Pei Wen | 340 |
-| Tay Limin | 305 |
-| Tan Soh Hua (Mrs Wong) | 124 |
-| Valerie Chia Wei Ting | 320 |
-| Vivian Koh Su Hui | 313 |
-| Widad Wahid | 331 |
-| Xin Ping | 328 |
-| Yong Wai Teng | 338 |
-| **EAS** |  |
-| Chee Kuan Hoe Sharon<br>Admin Executive |113 |
-| Alawiyah Bte Nadin<br>Admin Executive |112|
-| Eve Sim Joo Lan<br>MSO | 110 |
-| Flora Heng Ah Choo<br>CSO | 112 |
-| Michael Lim<br>AED (T&amp;L) | 333 |
-| Rozaini Muhaimin Bin Rozlan<br>ICT Manager | - |
-| Eng Yong Chye<br>AED (Senior School Counsellor) | 262 |
-| Nandika Sirish<br>AED (School Counsellor) | 261 |
-| Mohammad Elmi Bin Anwar<br>SEN Officer | 263 |
-| Chia Mei Fong<br>TSO (Lab Tech) | 507 |
-| Farihah Mohamed Farouk<br>TSO (Lab Tech) | 507 |
-| Loh Yam Wah James<br>TSO (EDN WKSHOP INSTRUCTOR) | 504 |
-| Muhd Rushdi<br>TSO (EDN WKSHOP INSTRUCTOR) | 504 |
-| Cheng Sim Kit<br>OSO | - |
-| Alagu Athimulam<br>OSO |-|
-| Samsiah Bte Jais<br>OSO | 101 |
-| Jayanthi Kandasamy<br>OSO | 507 |
-| Ramachandram Susila<br>OSO | 102 |
-|  |  |
-| **SUPPORT STAFF**|  |
-| Noor Hairin Misri<br>Desktop Engineer | 502 |
-| Muhammad Ruzaini bin Abdul Malek<br>Desktop Engineer | 503 |
-| Sumiyati<br>Library Assistant | 501 |
-| **CONTRACT &amp; FLEXI-ADJUNCT TEACHERS** |  |
-| Tan Soh Hua | 124 |
-| Tan Sock Mui | 124 |
-| Boo Jia Liang | 126 |
-| Shirley Leong Choy Kow | 125 |
-| Noor Nisah D/O T Karasu | 121 |
-| Teo Siew Hui Jessie | 121 |
-| Tan Soo Heng | 125 |
-| Goh Wei Na | 120 |
-
-
-
-For all enquiries, please email us at&nbsp;[zhenghua\_ss@moe.edu.sg](mailto:zhenghua_ss@moe.edu.sg)
+<h3>Zhenghua Staff</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>List of Names</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tel Ext.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KEY PERSONNEL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Hock Soon
+<br>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>103</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elaine Tan Pei Lee
+<br>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>117</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>He Aifen
+<br>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>116</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Lim Kok Boon
+<br>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>106</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cha Boon Hon Danny
+<br>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Chee Hui, Derek
+<br>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>212</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mazri Misawar
+<br>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>211</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rafiyah Begum Bte Sharif Mohd
+<br>HOD English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Lim Kok Boon
+<br>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>224</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Bee Kim
+<br>HOD MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>209</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hamidah Bte Ali
+<br>HOD C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>207</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robin Goh Jin Quan
+<br>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stanley Tan
+<br>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ashar Ahmad
+<br>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edwin Ang
+<br>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phay Pei Joo
+<br>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>210</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Lien Lee Jonathan
+<br>SH Info &amp; Data Managment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>217</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Patrick Lim
+<br>SH Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>214</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Yen Hua
+<br>SH LLP &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>219</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ivan Tan Jiang Rui
+<br>SH Bio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>213</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soo Boon Siang Sam
+<br>SH GEOG/NE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Su Hui Vivian
+<br>SH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>313</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Khee Hoon (Xu Qiyun)
+<br>Asst.Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>221</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Magdalene Tan Li Ping
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>223</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zanariah Zainal Abiden
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>220</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Woan Shay
+<br>Asst. Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>215</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Derrick Lim Jun Qiang
+<br>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>302</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foo Yeong Kiang
+<br>Admin Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Ong</p>
+<p>Admin Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peh Choon Kuan
+<br>Operations Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>115</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Charng Siew
+<br>Operations Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6762 4266</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TEACHING STAFF</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aaron Justin Tan Wen Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>322</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Agnes Tan Li Leng
+<br>Senior Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>310</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arockiadoss Jency Gracia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>326</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Amerlyn Ong Wei Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>316</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Andrew Kan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>305</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anna Low Li Leen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>318</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angela Tan Cheng Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>321</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chee Pey Jiun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>340</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Claudia Tan Danwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>314</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edwin Tan Kian Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>309</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Emilia Mohamed Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>323</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grace Chia Choo Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>317</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Godwin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>311</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hafida Bte Muhamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>332</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Isabel Ho Shu Chun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Justina Goh Lay Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>330</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Karen Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Ming Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>307</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kwek Co Hui Lynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>321</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lai Chien Siew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>307</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Weiqi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>312</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Yung-Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>329</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Jiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>330</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Chen Guo Jacobe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>339</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh So Boey Cynthia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>337</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loy Suan Doong
+<br>Senior Teacher (Design &amp; Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>327</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chew Jia Lin Lynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>338</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marinah Binte Mohdar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Masrena Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>310</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Melissa Ng Shu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>317</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Natalie Tan Li Er
+<br>Lead Teacher (Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Seng Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>322</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Azri Iqmal Bin Mahadir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>323</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Elfianie Bte Abdul Samad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>309</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurul'Aishah Bte Shuhaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rachel Tan Hui Leng
+<br>Senior Teacher (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>325</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rosmawati Bte Alwi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sakinah Bte Mohamed Supiyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>318</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seah Hwee Bing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>312</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Serene Howe Joo-li
+<br>Lead Teacher (Geography)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>313</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shamsul Bin Idris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>319</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharifah Nazihah W M Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>320</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siti Nurbasyirah Azahar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>311</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sri Diana Subari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>319</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamilarasi D/O Ramaiya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>302</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Fong Yee
+<br>Senior Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>329</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Pei Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>340</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Limin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>305</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Soh Hua (Mrs Wong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>124</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valerie Chia Wei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>320</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Widad Wahid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>331</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xin Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>328</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Wai Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>338</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chee Kuan Hoe Sharon
+<br>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan I-Ling
+<br>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>112</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eve Sim Joo Lan
+<br>MSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>110</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flora Heng Ah Choo
+<br>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>112</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rozaini Muhaimin Bin Rozlan
+<br>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eng Yong Chye
+<br>AED (Senior School Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>262</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nandika Sirish
+<br>AED (School Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>261</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohammad Elmi Bin Anwar
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>263</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chia Mei Fong
+<br>TSO (Lab Tech)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>507</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farihah Mohamed Farouk
+<br>TSO (Lab Tech)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>507</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Yam Wah James
+<br>TSO (EDN WKSHOP INSTRUCTOR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>504</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhd Rushdi
+<br>TSO (EDN WKSHOP INSTRUCTOR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>504</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheng Sim Kit
+<br>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alagu Athimulam
+<br>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samsiah Bte Jais
+<br>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>101</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jayanthi Kandasamy
+<br>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>507</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ramachandram Susila
+<br>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>102</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SUPPORT STAFF</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Noor Hairin Misri
+<br>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>502</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Ruzaini bin Abdul Malek
+<br>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>503</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sumiyati
+<br>Library Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>501</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CONTRACT &amp; FLEXI-ADJUNCT TEACHERS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Soh Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>124</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Sock Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>124</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boo Jia Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>126</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shirley Leong Choy Kow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>125</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Noor Nisah D/O T Karasu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>121</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Siew Hui Jessie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>121</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Soo Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>125</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Wei Na</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For all enquiries, please email us at&nbsp;<a href="mailto:zhenghua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhenghua_ss@moe.edu.sg</a>
+</p>
