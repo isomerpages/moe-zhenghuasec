@@ -522,7 +522,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
