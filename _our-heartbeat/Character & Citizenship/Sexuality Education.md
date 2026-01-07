@@ -562,7 +562,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -640,7 +640,7 @@ and should be avoided
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -698,7 +698,7 @@ relationship
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
