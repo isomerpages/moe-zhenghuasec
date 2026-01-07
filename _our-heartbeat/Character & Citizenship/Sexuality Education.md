@@ -24,7 +24,8 @@ Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.
 <br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Guide students to make wise, informed and responsible decisions on sexuality
-matters.(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+matters.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
@@ -43,7 +44,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h5><strong>Overview Of Zhenghua Secondary School’s Sexuality Education Programme for 2025</strong></h5>
+<h5><strong>Overview Of Zhenghua Secondary School’s Sexuality Education Programme for 2026</strong></h5>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -80,7 +81,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At Zhenghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025:</strong>
+<p><strong>At Zhenghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2026:</strong>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
@@ -155,7 +156,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
