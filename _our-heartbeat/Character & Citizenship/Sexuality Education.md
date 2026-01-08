@@ -24,7 +24,8 @@ Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.
 <br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Guide students to make wise, informed and responsible decisions on sexuality
-matters.(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+matters.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
@@ -43,7 +44,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h5><strong>Overview Of Zhenghua Secondary School’s Sexuality Education Programme for 2025</strong></h5>
+<h5><strong>Overview Of Zhenghua Secondary School’s Sexuality Education Programme for 2026</strong></h5>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -80,7 +81,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At Zhenghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025:</strong>
+<p><strong>At Zhenghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2026:</strong>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
@@ -155,7 +156,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +190,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +228,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -312,7 +313,7 @@ as a male or female
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +348,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +388,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -469,7 +470,7 @@ is important when entering into a dating relationship
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -521,7 +522,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -561,7 +562,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -639,7 +640,7 @@ and should be avoided
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -697,7 +698,7 @@ relationship
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -744,7 +745,7 @@ of their marriage
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -774,7 +775,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -841,7 +842,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -866,7 +867,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At ZHENGHUA Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At ZHENGHUA Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -909,7 +910,7 @@ correct, and consistent condom use).</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>Term 3 Week 7</p>
+<br>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -927,7 +928,7 @@ of assertiveness and responsible decision-making
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -938,14 +939,15 @@ of assertiveness and responsible decision-making
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_A_SEd_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_A_SEd_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by 31/01/2025.</p>
+the school office by 23/01/2026.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_B_Eteens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a> .
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_B_Eteens_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by 31/01/2025.</p>
-<p>13. Parents can contact the school at zhenghua_ss@moe.edu.sg for discussion
-or to seek clarification about the school’s Sexuality Education programme.</p>
+the school office by 23/01/2026.</p>
+<p>13. Parents can contact the school at zhenghua_ss@moe.edu.sg or +65 6763
+9455 for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
 <p></p>
