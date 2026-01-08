@@ -745,7 +745,7 @@ of their marriage
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -775,7 +775,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
