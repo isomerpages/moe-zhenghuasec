@@ -939,12 +939,12 @@ of assertiveness and responsible decision-making
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_A_SEd_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_A_SEd_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
 the school office by 23/01/2026.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_B_Eteens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a> .
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/Annex_B_Eteens_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
 the school office by 23/01/2026.</p>
 <p>13. Parents can contact the school at zhenghua_ss@moe.edu.sg or +65 6763
