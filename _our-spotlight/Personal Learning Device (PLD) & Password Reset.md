@@ -132,10 +132,9 @@ your password.</p>
 </li>
 </ul>
 <h3>Issues related to MIMS password&nbsp;</h3>
-<p>1. If you cannot login to your personal handphone with your student iCON
-account, please try the following:
+<p>1. If you cannot login to your student iCON account, please try the following:
 <br>(a) Logout student icon from all devices including your PLD.
-<br>(b) If it is still unsolved, please proceed to Computer Lab 2, 2PM to
-4PM daily for assistance.</p>
-<p>2. If you cannot login to your PLD with new password, please proceed to
-Computer Lab 2, 2PM to 4PM daily for assistance.</p>
+<br>(b) If it is still unsolved, please proceed to Computer Lab 1, 2.30PM
+to 3.30PM daily for assistance.
+<br>2. If you cannot login to your PLD with new password, please proceed to
+Computer Lab 1, 2.30PM to 3.30PM daily for assistance.</p>
