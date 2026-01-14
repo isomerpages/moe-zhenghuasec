@@ -128,7 +128,7 @@ your password.</p>
 <p></p>
 </li>
 </ul>
-<h3>Issues related to MIMS password&nbsp;</h3>
+<h3><strong>Issues related to MIMS password&nbsp;</strong></h3>
 <p>1. If you cannot login to your student iCON account, please try the following:
 <br>(a) Logout student icon from all devices including your PLD.
 <br>(b) If it is still unsolved, please proceed to Computer Lab 1, 2.30PM
