@@ -24,7 +24,7 @@ description: ""
 <p>To change DMA option, please email school at <a href="mailto:zhenghua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhenghua_ss@moe.edu.sg</a>.</p>
 <p></p>
 <h3>Information for students</h3>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank"><u>CCHY Acceptable Use Policy (AUP).pdf</u></a>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/quicklinks/" rel="noopener nofollow" target="_blank"><u>Acceptable Use Policy (AUP).pdf</u></a>
 </p>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank"><u>CCHY General Learning Routines with PLD.pdf</u></a>
 </p>
