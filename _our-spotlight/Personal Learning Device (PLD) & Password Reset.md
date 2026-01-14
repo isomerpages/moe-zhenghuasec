@@ -126,10 +126,9 @@ validate the new password)</p>
 </ul>
 </li>
 <li>
-<p>Alternatively, proceed to computer lab 2, 2PM to 4PM daily, to change
+<p>Alternatively, proceed to computer lab 1, 2.30PM to 3.30PM daily, to change
 your password.</p>
-<p>*Take note that you cannot reset your password using the online password
-reset google form with effect from 6 Apr 2025.</p>
+<p></p>
 </li>
 </ul>
 <h3>Issues related to MIMS password&nbsp;</h3>
