@@ -87,7 +87,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3>Information on MIMS Password</h3>
+<h3><strong>Information on MIMS Password</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please read password policy as shown below:</p>
