@@ -38,21 +38,21 @@ purposes.
 <br>7. Shut down and keep your PLD in locker at the end of lesson.
 <br>** When going to special rooms i.e. Art Room, D&amp;T and Science lab,
 carry your PLD with the lid closed</p>
-<h4>During PE  </h4>
+<h4>During PE</h4>
 <p>1. Ensure your PLD is shut down.
 <br>2. Safekeep your PLD in your locker.</p>
-<h4>During recess or lunch break </h4>
+<h4>During recess or lunch break</h4>
 <p>1. If you are using PLD, never leave your PLD unattended.
 <br>2. Students are strongly encouraged to use the electronic devices for
 learning. (Refer to Acceptable Use Policy)</p>
-<h4>During CCA or Activities </h4>
+<h4>During CCA or Activities</h4>
 <p>1. Safekeep your PLD in your locker.
 <br>2. If you are required to use PLD, never leave your PLD unattended.</p>
-<h4>Before Leaving School  </h4>
+<h4>Before Leaving School</h4>
 <p>1. Check that the stylus is in storage port.
 <br>2. Keep your PLD and ear piece in your bag.
 <br>3. Bring your PLD back home.</p>
-<h4>Technical Issues  </h4>
+<h4>Technical Issues</h4>
 <p>If you encounter any problem during curriculum period,
 <br>1. check with your peers or teacher for help,
 <br>2. if unresolved, restart your PLD,
