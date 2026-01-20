@@ -26,9 +26,6 @@ description: ""
 <h3><strong>Information for students</strong></h3>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/quicklinks/" rel="noopener nofollow" target="_blank"><u>Acceptable Use Policy (AUP)</u></a>
 <br><a href="https://www.chungchenghighyishun.moe.edu.sg/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank"><u>General Learning Routines with PLD</u></a>
-<br><a href="https://www.chungchenghighyishun.moe.edu.sg/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank"><u>PLD Initiative Student Briefing Slides</u></a>
-<br><a href="https://www.chungchenghighyishun.moe.edu.sg/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>PLD_familiarisation_for_students</u></a>
-<br><a href="https://www.chungchenghighyishun.moe.edu.sg/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Student Device Information Kit</u></a>
 <br>
 </p>
 <p>Information on student's account</p>
