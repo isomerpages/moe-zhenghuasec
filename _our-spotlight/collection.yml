@@ -2,7 +2,9 @@ collections:
   our-spotlight:
     output: true
     order:
+      - Personal Learning Device (PLD) & Password Reset.md
       - Acceptable Use Policy for PLDs.md
+      - School Services/School Canteen Advertisement.md
       - School Services/Leave of Absence (LOA) Scheme.md
       - School Services/.keep
       - Our Instagram.md
