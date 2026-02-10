@@ -17,7 +17,7 @@ variant: tiptap
 <p>Teachers in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Tan</p>
+<p>Ms Angela Tan</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Tan</p>
+<p></p>
 </td>
 </tr>
 <tr>
