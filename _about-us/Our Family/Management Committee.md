@@ -43,6 +43,6 @@ variant: markdown
 |Koh Khee Hoon <br> Asst Year Head (Sec 3) | 221|
 |Magdalene Tan Li Ping <br> Year Head (Sec 4)|223|
 |Foo Yeong Kiang <br> Admin Manager 1 |105|
-|Daniel Ong <br> Admin Manager 2 |105|
-|Peh Choon Kuan <br> Operations Manager 1 |115|
+|Daniel Ong <br> Admin Manager 2 |104|
+|Peh Choon Kuan <br> Operations Manager 1 |106|
 |Goh Charng Siew <br> Operations Manager 2 |6762 4266|
