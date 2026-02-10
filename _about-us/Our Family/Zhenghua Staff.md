@@ -62,7 +62,7 @@ variant: tiptap
 <br>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>106</p>
+<p>108</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ variant: tiptap
 <br>HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>202</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>104</p>
 </td>
 </tr>
 <tr>
@@ -296,7 +296,7 @@ variant: tiptap
 <br>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>115</p>
+<p>106</p>
 </td>
 </tr>
 <tr>
@@ -789,7 +789,7 @@ variant: tiptap
 <br>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>112</p>
+<p>111</p>
 </td>
 </tr>
 <tr>
