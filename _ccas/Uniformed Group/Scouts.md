@@ -33,7 +33,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jia Wei</p>
+<p>Ms Chia Choo Hui Grace</p>
 </td>
 </tr>
 <tr>
