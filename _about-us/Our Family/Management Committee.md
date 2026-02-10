@@ -19,7 +19,7 @@ variant: markdown
 |Ng Hock Soon <br>Principal     | 103     | 
 |Elaine Tan Pei Lee <br> Vice-Principal | 117|
 |He Aifen <br> Vice-Principal (Admin) | 116|
-|Samuel Lim Kok Boon <br> Vice-Principal | 106|
+|Samuel Lim Kok Boon <br> Vice-Principal | 108|
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
 |Lim Chee Hui Derek <br> HOD ICT | 212|
 |Mazri Misawar <br> HOD Mathematics | 211|
@@ -27,7 +27,7 @@ variant: markdown
 |Soh Bee Kim <br> HOD MTL | 209 |
 |Hamidah Bte Ali <br> HOD C&amp;T | 207 |
 |Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
-|Edwin Ang <br> HOD ICT ||
+|Edwin Ang <br> HOD ICT |202|
 |Phay Pei Joo <br> School Staff Developer | 210|
 |Tan Liang Chye Stanley <br> HOD Science | 203 |
 |Ashar Ahmad <br> HOD Student Management | 206 |
