@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Syllabus Coverage for MYE 2016.md
       - Teachers' Day 2023.md
       - Student Leader Investiture 2023.md
       - Sports Fiesta 2024.md
