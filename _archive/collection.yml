@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - 2015 GCE 'O' Level Results.md
       - 2015 Alumni Accolades.md
       - 2014 Alumni Accolades.md
