@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Zhenghua Open House 2018.md
       - Total Defence 2024 Card Game.md
       - ZEST 2019.md
       - Total Defence Celebration 2025.md
