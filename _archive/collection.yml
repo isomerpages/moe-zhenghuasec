@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Chinese New Year 2024.md
       - Chinese New Year 2022.md
       - Camp Fearless 2023.md
       - Awards Day Booklet 2024.md
