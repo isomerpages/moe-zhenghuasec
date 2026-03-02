@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - MT Fortnight 2023 Malay Language.md
       - Live On Design Competition 2019.md
       - ECHA Awards 2019.md
       - ECHA Awards 2018.md
