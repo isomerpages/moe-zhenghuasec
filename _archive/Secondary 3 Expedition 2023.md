@@ -3,8 +3,6 @@ title: Secondary 3 Expedition 2023
 permalink: /sec3expedition2023/
 description: ""
 ---
-
-
 |Secondary 3 Journey-Based Expedition Camp| 
 | -------- | 
 |![](/images/sec3exp1.jpg)|

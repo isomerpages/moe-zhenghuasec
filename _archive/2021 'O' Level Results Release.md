@@ -7,8 +7,7 @@ description: ""
 
 We would like to congratulate the O level classes of 2021 for their good performance at the GCE O level examination. Heartiest congratulations to the 4E and 5N students shown in the group photo for their outstanding results, as well as the Edusave Character Award recipients for being exemplary role models. Lastly, we would like to express our sincere appreciation to Zhenghua staff and parents for their guidance and support for Zhenghuarians!
 
-<img src="/images/2021%20sec4exp%20top%20students.jpg" 
-     style="width:85%">
+<img src="/images/2021%20sec4exp%20top%20students.jpg" style="width:85%">
 
 ##### 4E Students with L1R5 ≤ 12
 
@@ -29,8 +28,7 @@ We would like to congratulate the O level classes of 2021 for their good perform
 | NG YEN TENG, KEEFE | 4E1 |
 |
 
-<img src="/images/2021sec5na%20top%20student.jpg" 
-     style="width:85%">
+<img src="/images/2021sec5na%20top%20student.jpg" style="width:85%">
 
 ##### 5N students with L1B4≤15
 

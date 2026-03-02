@@ -7,8 +7,7 @@ description: ""
 
 We would like to congratulate the N level classes of 2021 for their good performance at the GCE N level examination. The NA cohort had the best performance since 2016. Heartiest congratulations to the NA and NT students shown in the group photo for their outstanding results, as well as the Edusave Character Award recipients for being exemplary role models. Lastly, we would like to express our sincere appreciation to Zhenghua staff and parents for their guidance and support for Zhenghuarians!
 
-<img src="/images/2021%20sec4%20na%20top%20students.jpg" 
-     style="width:85%">
+<img src="/images/2021%20sec4%20na%20top%20students.jpg" style="width:85%">
 
 ##### 4N(A) students with ELMAB3 ≤ 12
 
@@ -31,8 +30,7 @@ We would like to congratulate the N level classes of 2021 for their good perform
 |
 
 ![](/images/2021%20sec4%20nt%20top%20students.jpg)
-<img src="/images/2021%20sec4%20nt%20top%20students.jpg" 
-     style="width:85%">
+<img src="/images/2021%20sec4%20nt%20top%20students.jpg" style="width:85%">
 		 
 ##### 4N(T) students with ELMAB1 ≤ 5  
 

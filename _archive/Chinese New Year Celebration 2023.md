@@ -3,7 +3,6 @@ title: Chinese New Year Celebration 2023
 permalink: /cny2023/
 description: ""
 ---
-
 | Chinese New Year Celebration |
 | -------- |
 | ![](/images/CNY1.jpg)  本次庆祝会以“兔迎盛世启新程”为主题，在节令鼓激昂的鼓声中开场。校手铃队、合唱团也都带来了饱含华族文化的精彩表演。Mr Ashar诙谐幽默的生肖运程解说带来阵阵笑声，知识竞猜环节同学踊跃参与气氛热烈。最后，舞狮团的表演和校长Mr Ng的发言将全场气氛推向最高潮。庆祝会上还特别邀请了学校的清洁工人们登场，全体师生用热烈的掌声和欢呼向他们表达感激之情并献上真挚的新春祝福。|
