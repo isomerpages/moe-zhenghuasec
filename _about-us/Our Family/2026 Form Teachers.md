@@ -58,7 +58,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Aaron Justin Tan</strong>
-<br><em>aaron_justin_tan_wen@moe.edu.sg</em>
+<br><em>aaron_justin_tan@moe.edu.sg</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
