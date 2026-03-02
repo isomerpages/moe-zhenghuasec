@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Awards Day 2022.md
       - Awards Day 2024.md
       - 2022 N Level Results Release.md
       - 2019 GCE 'O' Level Results.md
