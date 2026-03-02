@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2018 Alumni Accolades.md
       - 2018 'O' Levels Examination Results.md
       - 2018 'N' Levels Examination Results.md
       - 2017 GCE 'O' Level Results.md
