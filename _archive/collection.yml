@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Student Leader Investiture 2023.md
       - Sports Fiesta 2024.md
       - Secondary One Orientation Camp 2022.md
       - Secondary 1 Sabbatical 2023.md
