@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Secondary 3 Expedition 2023.md
       - Secondary 1 Ziesta 2024.md
       - Secondary 1 Orientation Camp 2024.md
       - Sec 3 Expedition 2024.md
