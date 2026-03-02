@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Total Defence Celebration 2025.md
       - Total Defence 2023.md
       - Total Defence 2024.md
       - Syllabus Coverage for MYE 2016.md
