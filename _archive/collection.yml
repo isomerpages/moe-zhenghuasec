@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Live On Design Competition 2019.md
       - ECHA Awards 2019.md
       - ECHA Awards 2018.md
       - Chinese New Year Celebration 2023.md
