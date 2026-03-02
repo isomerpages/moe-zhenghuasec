@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - National Day 2024.md
       - Lunar New Year Hamper Giving 2017.md
       - MT Fortnight 2023 Chinese Language.md
       - MT Fortnight 2023 Malay Language.md
