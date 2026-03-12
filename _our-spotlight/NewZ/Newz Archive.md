@@ -5,6 +5,29 @@ description: ""
 third_nav_title: NewZ
 variant: tiptap
 ---
+<h4><strong><u>Zhenghua Newz 2025</u></strong></h4>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-overseas-trip-brunei/" rel="noopener nofollow" target="_blank">Student Immersion Trip - Brunei 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-national-day/" rel="noopener nofollow" target="_blank">National Day 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/awards-day-2025/" rel="noopener nofollow" target="_blank">Awards Day 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-ziesta-secondary-3-camp/" rel="noopener nofollow" target="_blank">Ziesta Secondary 3 Camp 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-racial-harmony-day/" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/outdoor-skills-challenge-2025/" rel="noopener nofollow" target="_blank">Outdoor Skills Challenge 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/hari-raya-celebrations-2025/" rel="noopener nofollow" target="_blank">Hari Raya Celebration 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-student-leaders-investiture/" rel="noopener nofollow" target="_blank">Student Leaders' Investiture 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-secondary-one-orientation-camp/" rel="noopener nofollow" target="_blank">Secondary One Orientation Camp 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Chinese New Year Celebration 2025</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/total-defence-celebration-2025/" rel="noopener nofollow" target="_blank">Total Defence Celebration 2025</a> 
+</p>
 <h4><strong><u>Zhenghua Newz 2024</u></strong></h4>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/national-day-2024/" rel="noopener nofollow" target="_blank">National Day 2024</a>
 </p>
