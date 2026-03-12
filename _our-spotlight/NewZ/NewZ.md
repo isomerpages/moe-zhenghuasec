@@ -26,6 +26,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/TD 2026/feature_this_pic.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -36,7 +39,7 @@ variant: tiptap
 <h5>National Day 2025</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4>Total Defence 2026</h4>
 </td>
 </tr>
 <tr>
@@ -53,7 +56,10 @@ a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>On 13 February 2026, our school commemorated Total Defence Day with a
+Forum Theatre assembly programme on digital disruption.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/total-defence-day-2026/" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
 </td>
 </tr>
 <tr>
