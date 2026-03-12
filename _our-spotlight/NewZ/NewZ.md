@@ -58,7 +58,7 @@ a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national
 <td rowspan="1" colspan="1">
 <p>On 13 February 2026, our school commemorated Total Defence Day with a
 Forum Theatre assembly programme on digital disruption.</p>
-<p><a href="https://www.zhenghuasec.moe.edu.sg/Newz-2026/total-defence-day-2026/" rel="noopener nofollow" target="_blank">Read more</a>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/total-defence-day-2026/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
