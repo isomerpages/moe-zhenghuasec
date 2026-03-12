@@ -6,6 +6,12 @@ third_nav_title: NewZ
 variant: tiptap
 ---
 <h4><strong><u>Zhenghua Newz 2024</u></strong></h4>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/national-day-2024/" rel="noopener nofollow" target="_blank">National Day 2024</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/sports-fiesta-2024/" rel="noopener nofollow" target="_blank">Sports Fiesta 2024</a>
+</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/awards-day-2024/" rel="noopener nofollow" target="_blank">Awards Day 2024</a>
+</p>
 <p><a href="/sec1orientation2024/" rel="noopener nofollow" target="_blank">Sec 1 Orientation Camp 2024</a>
 </p>
 <p><a href="/td2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024</a>
