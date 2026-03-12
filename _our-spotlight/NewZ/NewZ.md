@@ -6,9 +6,8 @@ third_nav_title: NewZ
 variant: tiptap
 ---
 <h1>Newz</h1>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -28,9 +27,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,9 +34,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <h5>National Day 2025</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,9 +55,6 @@ a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,9 +72,6 @@ a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Racial Harmony/Cover_page.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,9 +82,6 @@ a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national
 </td>
 <td rowspan="1" colspan="1">
 <h5>Racial Harmony Day 2025</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5></h5>
 </td>
 </tr>
 <tr>
@@ -119,9 +103,6 @@ July 2025, marking the anniversary of the 1964 race riots.</p>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/2025-racial-harmony-day/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -141,9 +122,6 @@ July 2025, marking the anniversary of the 1964 race riots.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Student Leaders' Investiture/WhatsApp_Image_2025_07_08_at_1_40_13_PM__1____Marinah_Mohdar.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -154,9 +132,6 @@ July 2025, marking the anniversary of the 1964 race riots.</p>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Student Leaders' Investiture 2025</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -180,9 +155,6 @@ leaders in their respective co-curricular activities.</p>
 <p><a href="/2025-student-leaders-investiture/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -202,9 +174,6 @@ leaders in their respective co-curricular activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/TDD/Cover_Picture.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -215,9 +184,6 @@ leaders in their respective co-curricular activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <h5>Total Defence Celebration 2025</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -244,74 +210,6 @@ included a Water Disruption Simulation to teach water conservation and
 resilience, along with an interactive theatre performance of <em>The Redhill: A Singapore Folktale</em>.</p>
 <p><a href="/total-defence-celebration-2025/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ND202402.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sf202404.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AD202401.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>National Day 2024</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Sports Fiesta 2024</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Awards Day 2024</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>“Together, As One United People” is the theme for this year’s celebrations.
-It highlights the collective strength of our people and underscores the
-importance of every citizen rallying together to share our future and uplift
-those around us.</p>
-<p></p>
-<p><a href="/national-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sports Fiesta is a sport festival for all students in our school to come
-together and enjoy the spirit of togetherness and friendly competition,
-as they put their learning to the test in a tournament across all classes.</p>
-<p></p>
-<p><a href="/sports-fiesta-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This year’s Awards Day took place on the 3 May 2024. We celebrated the
-academic success and contributions from the 2023 batch of students.</p>
-<p></p>
-<p><a href="/awards-day-2024/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
