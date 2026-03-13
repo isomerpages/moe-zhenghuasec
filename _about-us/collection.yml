@@ -2,6 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - School Vision, Mission & Values.md
+      - Our Motto, Crest & School Song/.keep
+      - Our Motto, Crest & School Song/School Motto.md
+      - Our Motto, Crest & School Song/School Song.md
+      - Our Motto, Crest & School Song/Creed.md
+      - History.md
       - Principal's Message.md
       - Our Family/.keep
       - Our Family/School Advisory Committee.md
@@ -12,11 +18,5 @@ collections:
       - Our Partners/.keep
       - Our Partners/Parent Support Group.md
       - Our Partners/Our Alumni.md
-      - History.md
-      - Our Motto, Crest & School Song/.keep
-      - Our Motto, Crest & School Song/School Motto.md
-      - Our Motto, Crest & School Song/School Song.md
-      - Our Motto, Crest & School Song/Creed.md
-      - School Vision, Mission & Values.md
       - School Brochure.md
       - Zhenghua Yearbook.md
