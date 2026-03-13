@@ -16,10 +16,10 @@ variant: markdown
 
 | List of Names| Tel Ext. | 
 | -------- | -------- | 
-|Ng Hock Soon <br>Principal     | 103     | 
-|Elaine Tan Pei Lee <br> Vice-Principal | 117|
-|He Aifen <br> Vice-Principal (Admin) | 116|
-|Samuel Lim Kok Boon <br> Vice-Principal | 108|
+|Ng Hock Soon <br>Principal     |      | 
+|Elaine Tan Pei Lee <br> Vice-Principal | |
+|He Aifen <br> Vice-Principal (Admin) | |
+|Samuel Lim Kok Boon <br> Vice-Principal | |
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
 |Lim Chee Hui Derek <br> HOD ICT | 212|
 |Mazri Misawar <br> HOD Mathematics | 211|

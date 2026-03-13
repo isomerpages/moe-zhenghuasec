@@ -1,5 +1,5 @@
 ---
-title: School Vision, Mission & Values
+title: Our Vision, Mission, Values and Creed
 permalink: /about-us/school-ethos/
 description: ""
 variant: markdown

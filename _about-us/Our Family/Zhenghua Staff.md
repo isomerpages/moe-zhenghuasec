@@ -35,7 +35,7 @@ variant: tiptap
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>103</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <br>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>117</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <br>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>116</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ variant: tiptap
 <br>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108</p>
+<p></p>
 </td>
 </tr>
 <tr>

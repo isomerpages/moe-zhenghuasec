@@ -1,6 +1,6 @@
 ---
-title: History
-permalink: /about-us/School-Ethos/History/
+title: Our History
+permalink: /about-us/school-ethos/history/
 description: ""
 variant: markdown
 ---
