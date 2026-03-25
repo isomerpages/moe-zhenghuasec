@@ -30,7 +30,7 @@ variant: tiptap
 <p><strong>Every experience</strong>
 <br>• Activities/interactions are designed intentionally (with the goals in
 mind and setting the right conditions) to gain knowledge, skills or insights</p>
-<p><strong>a learning opportunity</strong>
+<p><strong>A learning opportunity</strong>
 <br>• Actively optimizes experiences to contribute to personal growth and
 professional development</p>
 <p>This belief encourages reflective thinking, learning through failures,
