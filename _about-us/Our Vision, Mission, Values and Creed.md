@@ -66,7 +66,7 @@ learn with the real world</p>
 <h4>Creed #3. Every act, an uplifting force</h4>
 <p><strong><u>Every Act:</u></strong>
 <br>All words or actions be it big or small, in various modes (ie. face to
-face, email, whatsApp)</p>
+face, email, WhatsApp)</p>
 <p></p>
 <p><strong><u>An Uplifting Force:</u></strong>
 <br>Have the power to elevate and enable others to reach his/her potential</p>
