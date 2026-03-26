@@ -32,10 +32,10 @@ variant: markdown
 |Ashar Ahmad <br> HOD Student Management | 206 |
 |Tan Liang Chye Stanley <br> HOD Science | 203 |
 |Phay Pei Joo <br> School Staff Developer | 210|
-|Zanariah Zainal Abiden <br> Year Head (Sec 1)|220|
-|Magdalene Tan Li Ping <br> Year Head (Sec 4)|223|
-|Ho Woan Shay <br> Asst Year Head (Sec 2)|215|
-|Koh Khee Hoon <br> Asst Year Head (Sec 3) | 221|
+|Magdalene Tan Li Ping <br> Year Head (Sec 1)|223|
+|Zanariah Zainal Abiden <br> Year Head (Sec 2)|220|
+|Ho Woan Shay <br> Asst Year Head (Sec 3)|215|
+|Koh Khee Hoon <br> Asst Year Head (Sec 4) | 221|
 |Yeo Yen Hua <br> SH LLP &amp; CCA | 219 |
 |Ang Lien Lee Jonathan <br> SH Info Data Management | 217 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
