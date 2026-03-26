@@ -274,8 +274,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Daniel Ong</p>
-<p>Admin Manager 2</p>
+<p>Daniel Ong
+<br>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>104</p>
