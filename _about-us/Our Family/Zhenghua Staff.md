@@ -103,11 +103,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Samuel Lim Kok Boon
+<p>Derrick Lim Jun Qiang
 <br>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>224</p>
+<p>302</p>
 </td>
 </tr>
 <tr>
@@ -175,6 +175,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Magdalene Tan Li Ping
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>223</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zanariah Zainal Abiden
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>220</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Khee Hoon (Xu Qiyun)
+<br>Asst.Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>221</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Woan Shay
+<br>Asst. Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>215</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ang Lien Lee Jonathan
 <br>SH Info &amp; Data Managment</p>
 </td>
@@ -225,51 +261,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>313</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Khee Hoon (Xu Qiyun)
-<br>Asst.Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>221</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Magdalene Tan Li Ping
-<br>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>223</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zanariah Zainal Abiden
-<br>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>220</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ho Woan Shay
-<br>Asst. Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>215</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Derrick Lim Jun Qiang
-<br>HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>302</p>
 </td>
 </tr>
 <tr>
