@@ -45,7 +45,8 @@ spirit, as parents joined us for a lively concert. A thrilling lion dance
 and a mesmerizing face-changing performance captivated the audience, alongside
 vibrant classroom decorations and energetic performances by teachers and
 students.</p>
-<p></p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/chinese-new-year-2026/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
