@@ -314,9 +314,6 @@ online spaces safely and help develop a more supportive cyber environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/sports1.png">
 </div>
-<p>Click <a href="https://go.gov.sg/zsssec1ccatrials" rel="noopener nofollow" target="_blank">here </a>to
-view the details regarding the CCA trials happening in 2026 Term 1 Week
-2.</p>
 <hr>
 <p><strong>9. First Day of School &amp; Secondary 1 Orientation &nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
