@@ -389,6 +389,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Yung Wen</strong>
+<br><em>lee_yung-wen@moe.edu.sg</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Agnes Tan</strong>
+<br><em>tan_li_leng@moe.edu.sg</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
