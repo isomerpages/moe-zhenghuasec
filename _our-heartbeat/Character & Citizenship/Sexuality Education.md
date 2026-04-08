@@ -850,12 +850,16 @@ alignment with our beliefs</p>
 <p><strong><em>eTeens</em></strong>&nbsp;<strong>Programme</strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.
 <br>
 </p>
 </li>
@@ -895,22 +899,20 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Raise awareness and provide knowledge on:</p>
-</li>
-</ul>
-<p>a)&nbsp;Infectious diseases (STIs and HIV): what it is, how it spreads,
-how to prevent infection mainly through ABC (abstinence, being faithful,
-correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.
-<br>
-</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Term 2 Week 7</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -918,14 +920,10 @@ correct, and consistent condom use).</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making
 <br>
 </p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
