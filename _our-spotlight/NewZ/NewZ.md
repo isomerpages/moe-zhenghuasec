@@ -100,7 +100,8 @@ like rice farming.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhenghua Secondary School commemorates Singapore’s 60th National Day with
-a vibrant celebration. <a href="https://www.zhenghuasec.moe.edu.sg/2025-national-day/" rel="noopener nofollow" target="_blank">Read more</a>
+a vibrant celebration.
+<br><a href="https://www.zhenghuasec.moe.edu.sg/2025-national-day/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
