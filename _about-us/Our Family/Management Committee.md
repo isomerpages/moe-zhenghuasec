@@ -16,10 +16,10 @@ variant: markdown
 
 | List of Names| Tel Ext. | 
 | -------- | -------- | 
-|Ng Hock Soon <br>Principal     | 103     | 
-|Elaine Tan Pei Lee <br> Vice-Principal | 117|
-|He Aifen <br> Vice-Principal (Admin) | 116|
-|Samuel Lim Kok Boon <br> Vice-Principal | 108|
+|Ng Hock Soon <br>Principal     |      | 
+|Elaine Tan Pei Lee <br> Vice-Principal | |
+|He Aifen <br> Vice-Principal (Admin) | |
+|Samuel Lim Kok Boon <br> Vice-Principal | |
 |Cha Boon Hon Danny <br> HOD Humanities | 205 |
 |Lim Chee Hui Derek <br> HOD ICT | 212|
 |Mazri Misawar <br> HOD Mathematics | 211|
@@ -28,20 +28,20 @@ variant: markdown
 |Hamidah Bte Ali <br> HOD C&amp;T | 207 |
 |Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
 |Edwin Ang <br> HOD ICT |202|
-|Phay Pei Joo <br> School Staff Developer | 210|
-|Tan Liang Chye Stanley <br> HOD Science | 203 |
+|Lim Jun Qiang Derrick <br> HOD CCE |302|   
 |Ashar Ahmad <br> HOD Student Management | 206 |
+|Tan Liang Chye Stanley <br> HOD Science | 203 |
+|Phay Pei Joo <br> School Staff Developer | 210|
+|Magdalene Tan Li Ping <br> Year Head (Sec 1)|223|
+|Zanariah Zainal Abiden <br> Year Head (Sec 2)|220|
+|Ho Woan Shay <br> Asst Year Head (Sec 3)|215|
+|Koh Khee Hoon <br> Asst Year Head (Sec 4) | 221|
 |Yeo Yen Hua <br> SH LLP &amp; CCA | 219 |
 |Ang Lien Lee Jonathan <br> SH Info Data Management | 217 |
 |Ivan Tan Jiang Rui <br> SH Bio |213|
 |Koh Su Hui Vivian<br> SH English |313|
 |Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
 |Lim Cheng Huat Patrick  <br> SH Maths |214|  
-|Lim Jun Qiang Derrick <br> HOD CCE |222|      
-|Zanariah Zainal Abiden <br> Year Head (Sec 1)|220|
-|Ho Woan Shay <br> SH Student Well-being / Asst Year Head (Sec 2)|215|
-|Koh Khee Hoon <br> Asst Year Head (Sec 3) | 221|
-|Magdalene Tan Li Ping <br> Year Head (Sec 4)|223|
 |Foo Yeong Kiang <br> Admin Manager 1 |105|
 |Daniel Ong <br> Admin Manager 2 |104|
 |Peh Choon Kuan <br> Operations Manager 1 |106|

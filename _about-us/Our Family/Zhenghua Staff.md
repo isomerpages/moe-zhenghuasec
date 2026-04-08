@@ -35,7 +35,7 @@ variant: tiptap
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>103</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <br>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>117</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <br>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>116</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ variant: tiptap
 <br>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -103,11 +103,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Samuel Lim Kok Boon
+<p>Derrick Lim Jun Qiang
 <br>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>224</p>
+<p>302</p>
 </td>
 </tr>
 <tr>
@@ -175,6 +175,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Magdalene Tan Li Ping
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>223</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zanariah Zainal Abiden
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>220</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Khee Hoon (Xu Qiyun)
+<br>Asst.Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>221</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Woan Shay
+<br>Asst. Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>215</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ang Lien Lee Jonathan
 <br>SH Info &amp; Data Managment</p>
 </td>
@@ -229,51 +265,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Khee Hoon (Xu Qiyun)
-<br>Asst.Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>221</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Magdalene Tan Li Ping
-<br>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>223</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zanariah Zainal Abiden
-<br>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>220</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ho Woan Shay
-<br>Asst. Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>215</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Derrick Lim Jun Qiang
-<br>HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>302</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Foo Yeong Kiang
 <br>Admin Manager 1</p>
 </td>
@@ -283,8 +274,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Daniel Ong</p>
-<p>Admin Manager 2</p>
+<p>Daniel Ong
+<br>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>104</p>
