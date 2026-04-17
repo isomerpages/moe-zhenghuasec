@@ -100,6 +100,6 @@ via this form!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Picture11.jpg">
 </div>
 <blockquote>
-<p>Also, do add us on instagram!</p>
+<p>Also, do add us on Instagram!</p>
 </blockquote>
 <p></p>
