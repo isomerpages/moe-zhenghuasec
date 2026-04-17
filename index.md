@@ -10,12 +10,12 @@ sections:
       background: /images/ISOMERBANNERNEW.gif
       key_highlights:
         - title: NEWZ
-          description: our school news article
+          description: Events
           url: https://www.zhenghuasec.moe.edu.sg/news/zhenghuanewz/
         - title: ZSSofficial
-          description: our Instagram
+          description: Instagram
           url: https://www.instagram.com/zssofficial/?hl=en
         - title: Yearbook
-          description: our school Yearbook
+          description: Memories
           url: https://www.zhenghuasec.moe.edu.sg/quicklinks/emag/
 ---
