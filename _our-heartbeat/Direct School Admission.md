@@ -217,7 +217,7 @@ to 2 June 2026, 4.30pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan to May</p>
+<p>Jan to May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents and students explore preferred schools for DSA.</p>
@@ -225,11 +225,11 @@ to 2 June 2026, 4.30pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 7 May 2025 to Tuesday 3 June 2025</p>
+<p>Wednesday, 6 May 2026 to Tuesday 2 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of your child's application online through the DSA-Sec Portal
-by <u>3pm on Tuesday, 3 June 2025.</u>
+by <u>4.30pm on Tuesday, 2 June 2026.</u>
 </p>
 </td>
 </tr>
