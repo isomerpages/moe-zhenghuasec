@@ -252,8 +252,7 @@ conducted by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 August 2026 to</p>
-<p>28 August 2026</p>
+<p>17 August 2026 to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All students will be informed of the outcome of their application by these
