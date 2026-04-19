@@ -144,7 +144,7 @@ talent areas,</p>
 <p>·&nbsp; a keen interest and passion</p>
 <p>·&nbsp; potential and aptitude to excel</p>
 <p>·&nbsp; positive attitude towards learning</p>
-<p>positive demeanour and behaviour with exemplary conduct</p>
+<p>· positive demeanour and behaviour with exemplary conduct</p>
 </td>
 <td rowspan="9" colspan="1">
 <p>Every shortlisted applicant will have to complete a performance task in
