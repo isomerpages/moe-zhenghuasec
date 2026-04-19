@@ -235,40 +235,38 @@ by <u>4.30pm on Tuesday, 2 June 2026.</u>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By Friday, 18 July 2025</p>
+<p>By Friday, 17 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants will be notified by this date if they are shortlisted to attend
-interview and selection session conducted by the school.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 July 2025 to 4 September 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>We will inform all applicants their interview and selection dates once
-we process all the applications.</p>
+<p>Students will be notified by this date if they are shortlisted.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 August 2025 to 4 September 2025</p>
+<p>18 July 2026 to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants, including those not shortlisted, will be informed of their
-application outcome.</p>
-<p>Selected students will receive DSA-Sec offers directly from schools by
-these dates.</p>
+<p>Shortlisted students are required to attend interviews, auditions or trials
+conducted by the school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 to 31 October 2025</p>
+<p>17 August 2026 to</p>
+<p>28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants to choose up to 3 school choices in order of preference via
-the DSA-Sec portal by <u>3pm on Friday, 31 October 2025.</u>
+<p>All students will be informed of the outcome of their application by these
+dates.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 October 2026 to 23 October 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with a confirmed offer or on a wait list will be able to submit
+up to 3 school choices in order of preference via the DSA-Sec portal by <u>4.30pm on Friday, 23 October 2026.</u>
 </p>
 </td>
 </tr>
