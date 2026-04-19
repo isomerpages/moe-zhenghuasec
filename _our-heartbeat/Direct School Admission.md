@@ -16,8 +16,8 @@ Prospective students can also look forward to representing the school in
 competitions, performances and overseas trips.</p>
 <h4>Talent areas offered</h4>
 <p>Zhenghua Secondary welcomes promising Primary 6 students with strong leadership
-attributes and of exemplary conduct to participate in the school’s 2025
-Direct School Admission (DSA) exercise for admission to the 2026 Secondary
+attributes and of exemplary conduct to participate in the school’s 2026
+Direct School Admission (DSA) exercise for admission to the 2027 Secondary
 One intake.</p>
 <p>Zhenghua will be offering DSA places for boys and girls in the following
 talent areas:</p>
