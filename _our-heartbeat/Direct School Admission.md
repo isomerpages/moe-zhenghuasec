@@ -41,6 +41,18 @@ talent areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><em>*NEW</em>*</strong>
+<br>Science, Technology, Engineering and Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Leadership and Uniformed Groups</p>
 </td>
 <td rowspan="1" colspan="1">
