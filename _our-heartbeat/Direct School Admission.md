@@ -191,7 +191,7 @@ the selected talent area and go through an interview.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
+<p><strong><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted / given an offer.</em></strong>
 </p>
 <p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
