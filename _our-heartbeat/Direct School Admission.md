@@ -298,14 +298,29 @@ related to the talent they are selected for from year 1-4.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Student Leaders Exco Members</u></strong>
+<p><strong><u>Infocomm Club Students in Action</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DSA_1_Exco_Members.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA/DSAInfocomm.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>NCC (AIR) Students in Action</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA/DSANCC.jpg">
 </div>
 </td>
 </tr>
@@ -317,8 +332,9 @@ related to the talent they are selected for from year 1-4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DSA_2_Launch_of_a_student_led_initiative_during_assembly.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA/DSAStudentLeader.jpg">
 </div>
 </td>
 </tr>
@@ -356,8 +372,9 @@ related to the talent they are selected for from year 1-4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DSA_5_Volleyball___Boys_Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA/DSAVolleyball.jpg">
 </div>
 </td>
 </tr>
