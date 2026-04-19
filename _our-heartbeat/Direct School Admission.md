@@ -196,7 +196,7 @@ the selected talent area and go through an interview.</p>
 <p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
 <h5>DSA-Sec Application Process:</h5>
-<p>pplication for DSA-Sec can be submitted through the online DSA-Sec Portal.
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
 to 2 June 2026, 4.30pm.</p>
 <p>For more details, please refer to MOE website – <strong><em><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em></strong>.</p>
