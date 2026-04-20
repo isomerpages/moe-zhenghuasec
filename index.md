@@ -19,6 +19,4 @@ sections:
           description: Memories
           url: https://www.zhenghuasec.moe.edu.sg/quicklinks/emag/
       variant: center
-      button: DSA PAGE 2026
-      url: https://www.zhenghuasec.moe.edu.sg/dsa/
 ---
