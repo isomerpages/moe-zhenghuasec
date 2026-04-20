@@ -55,17 +55,17 @@ Programme. Mrs Tan was posted to HQ as a Cluster Superintendent in end
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outdoor Education" src="/images/About%20us/History/2018_outdoor.png">
 </div>
-<p>Mr Eugene Lin led Zhenghua Secondary School with a strong emphasis on
-holistic development and inclusive education. During his tenure, the school
-participated in the Ministry of Education’s Full Subject‑Based Banding
-(Full SBB) pilot, supporting mixed‑form classes and subject‑based learning
-levels to better meet students’ strengths and aspirations. Mr Lin championed
-inclusivity by enhancing a barrier‑free learning environment, including
-support for students with Special Educational Needs. These efforts were
-affirmed by a visit from former President Mdm Halimah Yacob in 2019. Under
-his leadership, holistic education was reinforced through the belief that
-every teacher is a CCE teacher, alongside the use of Differentiated Instruction,
-Assessment for Learning and e‑pedagogy.</p>
+<p>Mr Eugene Lin, our fourth principal from 2015 to 2021, led Zhenghua Secondary
+School with a strong emphasis on holistic development and inclusive education.
+During his tenure, the school participated in the Ministry of Education’s
+Full Subject‑Based Banding (Full SBB) pilot, supporting mixed‑form classes
+and subject‑based learning levels to better meet students’ strengths and
+aspirations. Mr Lin championed inclusivity by enhancing a barrier‑free
+learning environment, including support for students with Special Educational
+Needs. These efforts were affirmed by a visit from former President Mdm
+Halimah Yacob in 2019. Under his leadership, holistic education was reinforced
+through the belief that every teacher is a CCE teacher, alongside the use
+of Differentiated Instruction, Assessment for Learning and e‑pedagogy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="25. Anniversary Celebrations" src="/images/About%20us/History/2018_zest.png">
 </div>

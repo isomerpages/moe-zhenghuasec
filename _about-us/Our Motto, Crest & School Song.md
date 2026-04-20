@@ -4,7 +4,7 @@ permalink: /about-us/school-ethos/school-motto/
 description: ""
 variant: tiptap
 ---
-<h3>School Motto</h3>
+<h3>Motto</h3>
 <p>
 <br>
 <br>

@@ -4,7 +4,6 @@ permalink: /about-us/school-ethos/
 description: ""
 variant: tiptap
 ---
-<h3>School Vision, Mission &amp; Values</h3>
 <h4>Vision</h4>
 <p><strong>Dynamic Learners</strong>
 <br><strong>Exemplary Leaders</strong>
@@ -31,7 +30,7 @@ capacity.</p>
 <br>Responsibility
 <br>Compassion
 <br>Integrity</p>
-<h3>School Creed</h3>
+<h3>Creed</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Creed/1.png">
