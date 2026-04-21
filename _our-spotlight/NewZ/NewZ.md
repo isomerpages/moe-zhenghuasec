@@ -28,6 +28,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/Canopy/Plaque_showing_the_official_opening_of_The_Canopy.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -38,7 +41,7 @@ variant: tiptap
 <h5>Sec 1 Orientation 2026</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>The Canopy</h5>
 </td>
 </tr>
 <tr>
@@ -59,7 +62,10 @@ Camp Synergy.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>On 28th February 2026, our Grassroot Advisor, Mr Edward Chia, officially
+launched our refreshed canteen space (now known as the Canopy).</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/the-canopy/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 <tr>
