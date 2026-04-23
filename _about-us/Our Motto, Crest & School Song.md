@@ -5,17 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3>Motto</h3>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:20%" height="auto" width="100%" src="/images/img_motto.jpg">
-</div>
 <p>'Engage and Create' gives every student a lifelong guiding principle as
 an individual and as a team. The student will graduate with creativity,
 purpose, determination and engage the challenges life brings. In engaging
-the challenges, the students will create a better world for everyone.</p>
+the challenges, the students will create a better world for everyone.
+<br>
+</p>
+<h3>Crest</h3>
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/img_motto.jpg">
+</div>
+<p></p>
 <p>In the school crest, the letter ‘Z’ in white represents water. It not
 only symbolises the continuous flow of knowledge and skills to be taught
 and learnt, but also the exuberance and vitality of youth. The learning
