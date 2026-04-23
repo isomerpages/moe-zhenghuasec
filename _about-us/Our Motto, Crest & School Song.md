@@ -12,10 +12,10 @@ the challenges, the students will create a better world for everyone.
 <br>
 </p>
 <h3>Crest</h3>
-<div class="isomer-image-wrapper">
-<img style="width:20%" height="auto" width="100%" src="/images/img_motto.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026/ZSS_CREST_v2022_transparent_neew.jpg">
+</div>
 <p>In the school crest, the letter ‘Z’ in white represents water. It not
 only symbolises the continuous flow of knowledge and skills to be taught
 and learnt, but also the exuberance and vitality of youth. The learning
