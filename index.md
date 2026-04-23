@@ -19,5 +19,8 @@ sections:
         - title: Yearbook
           description: Memories
           url: https://www.zhenghuasec.moe.edu.sg/quicklinks/emag/
+        - title: Facebook
+          description: ""
+          url: https://www.facebook.com/pages/Zhenghua%20Secondary%20School/108415819179278/#
       variant: center
 ---
