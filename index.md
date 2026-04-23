@@ -21,6 +21,6 @@ sections:
           url: https://www.zhenghuasec.moe.edu.sg/quicklinks/emag/
         - title: Facebook
           description: ""
-          url: https://www.facebook.com/pages/Zhenghua%20Secondary%20School/108415819179278/#
+          url: https://www.facebook.com/share/1HsQ8M8QVi/?mibextid=wwXIfr
       variant: center
 ---
