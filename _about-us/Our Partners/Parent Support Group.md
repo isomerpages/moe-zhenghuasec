@@ -10,6 +10,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/PSG/Picture1.png">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/PSG/Picture2.png">
+</div>
+<blockquote>
+<p><em>Opening of the Canopy by PSG, Alumni, Principal and Member of Parliament, Mr Edward Chia.</em>
+</p>
+</blockquote>
 <h5>About the Parent Support Group</h5>
 <p><em>Formed in 2003, the Zhenghua Secondary School Parent Support Group (ZSS PSG) stands as a strong pillar of partnership between home and school — united by a shared commitment to every child’s growth and success.</em>
 </p>
@@ -22,6 +31,10 @@ variant: tiptap
 <h5></h5>
 <h5>PSG Activities</h5>
 <p>Here are some photographs of our PSG events and parenting workshops.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/PSG/Picture3.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transition to Secondary School Life Parenting Workshop 2023" src="/images/parentsg2.jpg">
 </div>
