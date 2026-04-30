@@ -26,10 +26,11 @@ best.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KOEY</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exemplary Leader Award 2025
+<p><strong><u>KOEY</u></strong>
+<br>Exemplary Leader Award 2025
 <br>Edusave Character Award 2025
 <br>NCC Outstanding Cadet Award 2025
 <br>Outstanding Service Award ( Student Council &amp; NCC Air)
@@ -48,10 +49,11 @@ my CCA shaped me into a more independent and confident leader.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RUI QI</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>金箭奖 &amp; 华文组团体亚军, 全国灯谜比赛2025
+<p><strong><u>RUI QI</u></strong>
+<br>金箭奖 &amp; 华文组团体亚军, 全国灯谜比赛2025
 <br>Edusave Scholarship 2022-2025
 <br>Edusave Character Award 2025
 <br>Edusave Award for Achievement, Good
