@@ -38,6 +38,15 @@ best.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>At the start of my leadership journey at Zhenghua, I was nervous about
+stepping up and anxious about how others would perceive me. However, through
+the guidance of my teachers and encouragement from my friends, my confidence
+grew. The leadership opportunities in project work, Student Council, and
+my CCA shaped me into a more independent and confident leader.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>RUI QI</p>
 </td>
@@ -53,6 +62,15 @@ best.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>At Zhenghua, I was given many opportunities that pushed me beyond my limits
+and helped me realise my potential. With strong support and guidance, I
+became the Handbell Vice-Chairperson, performed well in my O Levels, and
+even received a national award. Despite being an introvert, I stepped out
+of my comfort zone and grew in confidence.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni Accolades/Benedict.jpg">
@@ -62,6 +80,15 @@ best.</p>
 <p><strong><u>BENEDICT</u></strong>
 <br>5A
 <br>L1B5 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>When I entered Zhenghua, I struggled to reach out and talk to the people
+around me. During orientation, I kept to myself and largely avoided interacting
+with my classmates. However, over the course of five years, with the support
+of the school counsellors, teachers, and year heads, I gradually became
+more confident in speaking to others and overcame my fear of social interaction.</p>
 </td>
 </tr>
 <tr>
@@ -77,6 +104,15 @@ best.</p>
 <br>Outstanding Service Award (Student Council)
 <br>Chairperson, AVA club
 <br>EMB 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>I was given the opportunity to serve as a Student Leader after my teachers
+saw potential in me. Through training and encouragement from my teachers
+and peers, I began to discover my strengths and develop my leadership skills.
+This experience helped me grow in confidence and learn to lead both myself
+and others.</p>
 </td>
 </tr>
 </tbody>
