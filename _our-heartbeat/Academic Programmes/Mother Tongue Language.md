@@ -125,20 +125,19 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Programmes Highlights and Enrichment Activities</h3>
-<p>The Mother Tongue Languages department continued to bring the joy of learning
-to our students, who brought it to life, experiencing it as a language
-that grows with them, deeply connected to their roots and real-world moments,
-used confidently in daily life. Through engaging project work, exciting
-learning journeys, and vibrant cultural festivities, students experienced
-applied learnings that went beyond the classroom. From celebrating Chinese
-New Year and Hari Raya to exploring traditional arts and stories, each
-activity deepened students’ appreciation of their heritage.</p>
-<p>Students reflected that these experiences made them “<em>learn well</em> while
-having fun” and helped them see the beauty of their mother tongue in action.
-By connecting lessons to real-world contexts and cultural traditions, we
-nurtured a love for both the Malay Language and Chinese Language, building
-strong lifelong connections to language, culture, and identity.</p>
-<p></p>
+<p>The Mother Tongue Languages Department supports meaningful and engaging
+mother tongue learning for our students. Through carefully designed experiences,
+students come to see their mother tongue as a living language that grows
+with them—deeply connected to their roots and authentic contexts, and used
+confidently in daily life. Engaging project work, meaningful learning journeys,
+and vibrant cultural festivities extend learning beyond the classroom.
+From celebrating Chinese New Year and Hari Raya to exploring traditional
+arts and stories, each activity deepens students’ appreciation of their
+heritage.</p>
+<p>Students share that these experiences help them “learn well while having
+fun” and see the beauty of their mother tongue in action. In doing so,
+the department nurtures a love for both the Malay and Chinese languages,
+building strong and lasting connections to language, culture, and identity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MT/Picture1.jpg">
 </div>
