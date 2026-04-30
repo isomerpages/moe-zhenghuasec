@@ -21,9 +21,14 @@ variant: tiptap
 <p>Join the family at <a href="https://go.gov.sg/zssalumninetwork" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zssalumninetwork</a>
 </p>
 <h2><strong>Our Vision</strong></h2>
-<p>
-<br><strong><em>Rooted Connections, Steadfast Support</em></strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Picture1.png">
+</div>
+<blockquote>
+<p><strong><em>Rooted Connections, Steadfast Support</em></strong>
 </p>
+</blockquote>
 <h3><strong>Our Mission</strong><br></h3>
 <p>To volunteer and serve the school.
 <br>To build and maintain a strong ZSS alumni network with the school through
