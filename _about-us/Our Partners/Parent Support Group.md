@@ -6,6 +6,10 @@ third_nav_title: Our Partners
 variant: tiptap
 ---
 <h3>Parent Support Group</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/PSG/Picture1.png">
+</div>
 <h5>About the Parent Support Group</h5>
 <p><em>Formed in 2003, the Zhenghua Secondary School Parent Support Group (ZSS PSG) stands as a strong pillar of partnership between home and school — united by a shared commitment to every child’s growth and success.</em>
 </p>
