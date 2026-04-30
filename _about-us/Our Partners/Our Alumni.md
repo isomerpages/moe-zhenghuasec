@@ -10,11 +10,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni1.png">
 </div>
 <h2><strong>About ZSS Alumni Network</strong></h2>
-<p>The ZSS Alumni Network, established in 2023, serves as a haven for Zhenghua
-graduates to rekindle connections and give back to their alma mater.</p>
-<p>By curating diverse activities, the Alumni Network aims to forge strong
-bonds among graduates, actively engage them in school events, and create
-a platform for sustained connections among alumni.</p>
+<p><strong><em>The ZSS Alumni Network</em></strong><em>, established in 2023, is more than just a community — it is a homecoming, a space where Zhenghua graduates reconnect with familiar faces, relive shared memories, and continue the journey they once began together.</em>
+</p>
+<p><em>Through meaningful and engaging activities, the Network brings alumni closer — not just to one another, but back to the heart of Zhenghua. It offers opportunities to give back, inspire the next generation, and be part of something larger than themselves.</em>
+</p>
+<p><em>Whether it is reconnecting, contributing, or simply belonging, the ZSS Alumni Network is where every graduate’s story continues.</em>
+</p>
+<p><strong><em>Once Zhenghua, always Zhenghua. Reconnect, contribute, and make a difference.</em></strong>
+</p>
+<p>Join the family at <a href="https://go.gov.sg/zssalumninetwork" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zssalumninetwork</a>
+</p>
 <h2><strong>Our Vision</strong></h2>
 <p>
 <br><strong><em>Rooted Connections, Steadfast Support</em></strong>
