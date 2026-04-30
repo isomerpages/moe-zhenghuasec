@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our Partners
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni Accolades/DSC_2387.jpg">
+</div>
 <p>We are proud of our Zhenghua alumni, who continue to embody the values
 of respect, resilience, responsibility, compassion and integrity long after
 they have left our school. As Dynamic Learners, Exemplary Leaders and Thoughtful
@@ -50,19 +54,25 @@ best.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BENEDICT</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni Accolades/Benedict.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>5A
+<p><strong><u>BENEDICT</u></strong>
+<br>5A
 <br>L1B5 9</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AIMAN</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni Accolades/Aiman.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thoughtful Contributor Award 2025
+<p><strong><u>AIMAN</u></strong>
+<br>Thoughtful Contributor Award 2025
 <br>Edusave Character Award 2025
 <br>Outstanding Service Award (Student Council)
 <br>Chairperson, AVA club
