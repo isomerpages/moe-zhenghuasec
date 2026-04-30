@@ -29,7 +29,7 @@ variant: tiptap
 <p><strong><em>Rooted Connections, Steadfast Support</em></strong>
 </p>
 </blockquote>
-<h3><strong>Our Mission</strong><br></h3>
+<h3><strong>Our Mission</strong></h3>
 <p>To volunteer and serve the school.
 <br>To build and maintain a strong ZSS alumni network with the school through
 momentous events and activities.
