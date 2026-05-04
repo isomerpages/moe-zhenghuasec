@@ -60,7 +60,7 @@ variant: tiptap
 <p>Mr Derek Lim Chee Hui (HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Lien Lee Jonathan (SH ICT)</p>
+<p>Mr Ang Lien Lee Jonathan (SH Info Data Mgmt)</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 <p>Mdm Koh Khee Hoon (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Kan</p>
+<p>Mr Edwin Ang (HOD ICT)</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jia Wei</p>
+<p>Miss Goh Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Elfieanie</p>
@@ -97,10 +97,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Wei Na</p>
+<p>Mr Andrew Kan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Lim</p>
+<p></p>
 </td>
 </tr>
 <tr>
