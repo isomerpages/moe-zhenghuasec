@@ -89,7 +89,7 @@ variant: tiptap
 <p>Mr Tan Kian Hong Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Tian Kiat Roy (SH/SL)</p>
+<p>Ms Isabel Ho</p>
 </td>
 </tr>
 <tr>
@@ -118,10 +118,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Isabel Ho</p>
+<p>Ms Lynn Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Chew</p>
+<p></p>
 </td>
 </tr>
 </tbody>
