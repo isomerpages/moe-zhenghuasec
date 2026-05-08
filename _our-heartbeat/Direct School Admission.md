@@ -265,7 +265,7 @@ dates.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students with a confirmed offer or on a wait list will be able to submit
-up to 3 school choices in order of preference via the DSA-Sec portal by <u>4.30pm on Friday, 23 October 2026.</u>
+up to 3 school choices in order of preference via the DSA-Sec portal by <strong>4.30pm on Friday, 23 October 2026.</strong>
 </p>
 </td>
 </tr>
