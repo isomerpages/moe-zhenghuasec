@@ -52,14 +52,6 @@ of ethics and the school values.</p>
 <p>Respect, Resilience, Responsibility, Compassion and Integrity</p>
 <h3><strong>Alumni Activities</strong></h3>
 <p>Here are some photographs of our Alumni Network activities.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Picture2.png">
-</div>
-<blockquote>
-<p>Alumni returned to Zhenghua to celebrate the opening of The Canopy, reaffirming
-their enduring connection with the school community.</p>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_participated_in_the_school_s_Road_Run_2024_.jpg">
 </div>
