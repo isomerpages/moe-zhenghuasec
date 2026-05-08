@@ -53,21 +53,20 @@ capacity.</p>
 </ul>
 <h4>Creed #2. Every experience, a learning opportunity</h4>
 <p><strong>Every experience</strong>
-<br>• Activities/interactions are designed intentionally (with the goals in
+<br>Activities/interactions are designed intentionally (with the goals in
 mind and setting the right conditions) to gain knowledge, skills or insights</p>
 <p><strong>A learning opportunity</strong>
-<br>• Actively optimizes experiences to contribute to personal growth and
-professional development</p>
+<br>Actively optimizes experiences to contribute to personal growth and professional
+development</p>
 <p>This belief encourages reflective thinking, learning through failures,
 within the school community where every member strives to be willing to
 step out of his/her comfort zone and to make connections with what they
 learn with the real world</p>
 <h4>Creed #3. Every act, an uplifting force</h4>
-<p><strong><u>Every Act:</u></strong>
+<p><strong>Every Act</strong>
 <br>All words or actions be it big or small, in various modes (ie. face to
 face, email, WhatsApp)</p>
-<p></p>
-<p><strong><u>An Uplifting Force:</u></strong>
+<p><strong>An Uplifting Force</strong>
 <br>Have the power to elevate and enable others to reach his/her potential</p>
 <p></p>
 <p><strong>This belief encourages empathy and continuous improvement within the school community where every member strives to make a positive difference to the lives of others</strong>
