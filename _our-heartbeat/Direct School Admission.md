@@ -287,7 +287,7 @@ the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p>For enquiries and clarifications, please contact the following personnel,</p>
-<p>Mr Robin Goh Jin Quan, <em>HOD / PE and CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
+<p>Mr Robin Goh Jin Quan, <em>HOD PE &amp; CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
 </p>
 <p>Photos for the different talent areas:</p>
 <table style="minWidth: 25px">
