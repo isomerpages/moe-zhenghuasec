@@ -285,7 +285,7 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
+related to the talent they are selected for from year one to four.</p>
 <p>For enquiries and clarifications, please contact the following personnel,</p>
 <p>Mr Robin Goh Jin Quan, <em>HOD PE &amp; CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
 </p>
