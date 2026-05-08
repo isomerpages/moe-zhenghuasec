@@ -4,7 +4,7 @@ permalink: /dsa/
 description: ""
 variant: tiptap
 ---
-<h3>ZHENGHUA SECONDARY SCHOOL<br>Direct School Admission</h3>
+<h3>Direct School Admission</h3>
 <p>In Zhenghua Secondary, we envision every student in the school to be Dynamic
 Learners, Exemplary Leaders and Thoughtful Contributors. We create ample
 opportunities for our students to develop their leadership competencies
