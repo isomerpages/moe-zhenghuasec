@@ -297,7 +297,7 @@ related to the talent they are selected for from year 1-4.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Infocomm Club Students in Action</u></strong>
+<p><strong>Infocomm Club Students in Action</strong>
 </p>
 </td>
 </tr>
@@ -311,7 +311,7 @@ related to the talent they are selected for from year 1-4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>NCC (AIR) Students in Action</u></strong>
+<p><strong>NCC (AIR) Students in Action</strong>
 </p>
 </td>
 </tr>
