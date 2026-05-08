@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Principal's Message</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/principalsmessage.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/principalsmessage.jpg">
 </div>
 <p>A warm welcome to Zhenghua Secondary School!</p>
 <p>It is my honour to lead Zhenghua Secondary as its 5th&nbsp;Principal.
