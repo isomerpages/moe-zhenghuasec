@@ -11,7 +11,7 @@ variant: tiptap
 <br>
 </p>
 <p>In Zhenghua, we strive to develop every student, regardless of their starting
-point, to be future-ready individuals, where they would be <strong>Dynamic Learners, Exemplary Leaders and Thoughtful Contributors.</strong>
+point, to be future-ready individuals, where they would be <strong>Dynamic Learners, Exemplary Leaders and Thoughtful Contributors</strong>
 </p>
 <p>Specifically, our students would embody the following attributes:
 <br>Self-directed in their learning, and thinks flexibly
@@ -20,7 +20,7 @@ point, to be future-ready individuals, where they would be <strong>Dynamic Learn
 <h4>Mission</h4>
 <p>To prepare every student to better meet the challenges of the future by
 building the student's emotional, ethical, intellectual, physical and social
-capacity.</p>
+capacity</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/strategic_thrust_2024.jpg">
 </div>
@@ -42,13 +42,13 @@ capacity.</p>
 <p>Every ZSS staff is a role model</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>in conduct and attitude.</p>
+<p>in conduct and attitude</p>
 </li>
 <li>
-<p>going the extra mile to seek improvement to self, school and fraternity.</p>
+<p>going the extra mile to seek improvement to self, school and fraternity</p>
 </li>
 <li>
-<p>in doing so, they inspire others around them to similarly strive for excellence.</p>
+<p>in doing so, they inspire others around them to similarly strive for excellence</p>
 </li>
 </ul>
 <h4>Creed #2. Every experience, a learning opportunity</h4>
