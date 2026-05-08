@@ -25,16 +25,15 @@ best.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/Alumni Accolades/DSC_2432.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong><u>KOEY</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Exemplary Leader Award 2025
 <br>Edusave Character Award 2025
 <br>NCC Outstanding Cadet Award 2025
