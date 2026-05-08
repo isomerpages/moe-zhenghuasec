@@ -19,7 +19,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Name of Head of Department:</strong>
+<p><strong>Head of Department:</strong>
 </p>
 </th>
 </tr>
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Name of Subject Head:</strong>
+<p><strong>Subject Head:</strong>
 </p>
 </td>
 </tr>
@@ -41,7 +41,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Names of Members of the Department:</strong>
+<p><strong>Subject Head:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Rachel Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Members of the Department:</strong>
 </p>
 </td>
 </tr>
@@ -50,8 +61,7 @@ variant: tiptap
 <p>Ms Claudia Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Tan
-<br>(Senior Teacher)</p>
+<p>Mdm Melissa Ng</p>
 </td>
 </tr>
 <tr>
@@ -92,14 +102,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Melissa Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
