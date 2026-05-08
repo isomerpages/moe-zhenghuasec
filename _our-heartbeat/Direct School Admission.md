@@ -229,7 +229,7 @@ to 2 June 2026, 4.30pm.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of your child's application online through the DSA-Sec Portal
-by <u>4.30pm on Tuesday, 2 June 2026.</u>
+by <strong>4.30pm on Tuesday, 2 June 2026.</strong>
 </p>
 </td>
 </tr>
