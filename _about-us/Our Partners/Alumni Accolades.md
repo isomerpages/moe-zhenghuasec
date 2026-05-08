@@ -18,19 +18,25 @@ that every student, regardless of their starting point, has the potential
 to grow and contribute meaningfully to the world. We celebrate their journeys
 and hope their stories will inspire Zhenghua students to strive for the
 best.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About us/Alumni Accolades/DSC_2432.jpg">
 </div>
-<p><strong><u>KOEY</u></strong>
-</p>
+<p>Koey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -42,6 +48,9 @@ best.</p>
 <br>Unit Sergeant Major, NCC(Air)
 <br>L1R5 8</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -50,6 +59,9 @@ stepping up and anxious about how others would perceive me. However, through
 the guidance of my teachers and encouragement from my friends, my confidence
 grew. The leadership opportunities in project work, Student Council, and
 my CCA shaped me into a more independent and confident leader.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,6 +81,9 @@ my CCA shaped me into a more independent and confident leader.</p>
 <br>Vice-president, Handbells
 <br>L1R5 6</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -77,6 +92,9 @@ and helped me realise my potential. With strong support and guidance, I
 became the Handbell Vice-Chairperson, performed well in my O Levels, and
 even received a national award. Despite being an introvert, I stepped out
 of my comfort zone and grew in confidence.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,6 +108,9 @@ of my comfort zone and grew in confidence.</p>
 <br>5A
 <br>L1B5 9</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -98,6 +119,9 @@ around me. During orientation, I kept to myself and largely avoided interacting
 with my classmates. However, over the course of five years, with the support
 of the school counsellors, teachers, and year heads, I gradually became
 more confident in speaking to others and overcame my fear of social interaction.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -114,6 +138,9 @@ more confident in speaking to others and overcame my fear of social interaction.
 <br>Chairperson, AVA club
 <br>EMB 4</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -122,6 +149,9 @@ saw potential in me. Through training and encouragement from my teachers
 and peers, I began to discover my strengths and develop my leadership skills.
 This experience helped me grow in confidence and learn to lead both myself
 and others.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
