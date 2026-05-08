@@ -3,46 +3,310 @@ title: School Management Committee
 permalink: /about-us/management-committee/
 description: ""
 third_nav_title: Our Family
-variant: markdown
+variant: tiptap
 ---
-### Management Committee
-
-| <img src="/images/principalsmessage.jpg" style="width:35%">  Mr Ng Hock Soon<br>Principal <br>Zhenghua Secondary School|
-|:---:|
-| <img src="/images/Ms-Elaine-Tan-200x300.jpg" style="width:35%">  Ms Elaine Tan <br> Vice-Principal <br>Zhenghua Secondary School|
-| <img src="/images/VPA-Ms-Ai-Fen-271x300.jpg" style="width:35%">  Ms He Aifen <br>Vice-Principal (Administration) <br>Zhenghua Secondary School |
-| <img src="/images/Mr_Samuel_Lim_Kok_Boon_VP.png" style="width:35%">  Mr Samuel Lim Kok Boon<br>Vice-Principal <br>Zhenghua Secondary School |
-
-
-| List of Names| Tel Ext. | 
-| -------- | -------- | 
-|Ng Hock Soon <br>Principal     |      | 
-|Elaine Tan Pei Lee <br> Vice-Principal | |
-|He Aifen <br> Vice-Principal (Admin) | |
-|Samuel Lim Kok Boon <br> Vice-Principal | |
-|Cha Boon Hon Danny <br> HOD Humanities | 205 |
-|Lim Chee Hui Derek <br> HOD ICT | 212|
-|Mazri Misawar <br> HOD Mathematics | 211|
-|Rafiyah Begum Bte Sharif Mohd <br> HOD English Language | 204|
-|Soh Bee Kim <br> HOD MTL | 209 |
-|Hamidah Bte Ali <br> HOD C&amp;T | 207 |
-|Robin Goh Jin Quan <br> HOD PE &amp; CCA | 201 |
-|Edwin Ang <br> HOD ICT |202|
-|Lim Jun Qiang Derrick <br> HOD CCE |302|   
-|Ashar Ahmad <br> HOD Student Management | 206 |
-|Tan Liang Chye Stanley <br> HOD Science | 203 |
-|Phay Pei Joo <br> School Staff Developer | 210|
-|Magdalene Tan Li Ping <br> Year Head (Sec 1)|223|
-|Zanariah Zainal Abiden <br> Year Head (Sec 2)|220|
-|Ho Woan Shay <br> Asst Year Head (Sec 3)|215|
-|Koh Khee Hoon <br> Asst Year Head (Sec 4) | 221|
-|Yeo Yen Hua <br> SH LLP &amp; CCA | 219 |
-|Ang Lien Lee Jonathan <br> SH Info Data Management | 217 |
-|Ivan Tan Jiang Rui <br> SH Bio |213|
-|Koh Su Hui Vivian<br> SH English |313|
-|Soo Boon Siang Sam <br> SH Geog &amp; NE |216|
-|Lim Cheng Huat Patrick  <br> SH Maths |214|  
-|Foo Yeong Kiang <br> Admin Manager 1 |105|
-|Daniel Ong <br> Admin Manager 2 |104|
-|Peh Choon Kuan <br> Operations Manager 1 |106|
-|Goh Charng Siew <br> Operations Manager 2 |6762 4266|
+<h3>Management Committee</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/principalsmessage.jpg">
+</div>
+<p>Mr Ng Hock Soon
+<br>Principal
+<br>Zhenghua Secondary School</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Ms-Elaine-Tan-200x300.jpg">
+</div>
+<p>Ms Elaine Tan
+<br>Vice-Principal
+<br>Zhenghua Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/VPA-Ms-Ai-Fen-271x300.jpg">
+</div>
+<p>Ms He Aifen
+<br>Vice-Principal (Administration)
+<br>Zhenghua Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Mr_Samuel_Lim_Kok_Boon_VP.png">
+</div>
+<p>Mr Samuel Lim Kok Boon
+<br>Vice-Principal
+<br>Zhenghua Secondary School</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>List of Names</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Hock Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elaine Tan Pei Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>He Aifen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Lim Kok Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cha Boon Hon Danny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Chee Hui Derek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mazri Misawar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rafiyah Begum Bte Sharif Mohd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Bee Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hamidah Bte Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD C&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robin Goh Jin Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edwin Ang Hui Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jun Qiang Derrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ashar Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Liang Chye Stanley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phay Pei Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Magdalene Tan Li Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zanariah Zainal Abiden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Woan Shay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (Sec 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Khee Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (Sec 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Yen Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH LLP &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Lien Lee Jonathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Info Data Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ivan Tan Jiang Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Bio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Su Hui Vivian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soo Boon Siang Sam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Geog &amp; NE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Cheng Huat Patrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Maths</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foo Yeong Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Ong Gee Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peh Choon Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Charng Siew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
