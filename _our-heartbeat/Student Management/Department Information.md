@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jia Wei</p>
+<p>Mdm Lee Weiqi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chung Zhiwen</p>
@@ -59,10 +59,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Weiqi</p>
+<p>Mr Elmi (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Elmi (SEN Officer)</p>
+<p></p>
 </td>
 </tr>
 <tr>

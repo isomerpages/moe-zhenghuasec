@@ -18,7 +18,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Name of Head of Department:</strong>
+<p><strong>Head of Department:</strong>
 </p>
 </th>
 </tr>
@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Name of Subject Head:</strong>
+<p><strong>Subject Head:</strong>
 </p>
 </td>
 </tr>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Name of Senior Teachers:</strong>
+<p><strong>Lead Teacher:</strong>
 </p>
 </td>
 </tr>
@@ -51,48 +51,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Names of Members of the Department:</strong>
+<p><strong>Members of the Department:</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Lim Chee Hui (HOD ICT)</p>
+<p>Mr Derek Lim Chee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Lien Lee Jonathan (SH ICT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Khee Hoon (Year Head)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Andrew Kan</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Chien Siew</p>
+<p>Mr Edwin Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosmawati</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Berton Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Masrena Bte Rahmat</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jia Wei</p>
+<p>Mr Ang Lien Lee Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Elfieanie</p>
+<p>SH Info Data Mgmt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Khee Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
 </td>
 </tr>
 <tr>
@@ -100,23 +92,87 @@ variant: tiptap
 <p>Miss Goh Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Lim</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Mei Fong (Lab Technician)</p>
+<p>Mr Andrew Kan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farihah (Lab Technician)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jaya (Lab Assistant)</p>
+<p>Mr Berton Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Goh Wei Na</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Kan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosmawati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Masrena Bte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Elfieanie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Mei Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lab Technician</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Farihah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lab Technician</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lab Assistant</p>
 </td>
 </tr>
 </tbody>

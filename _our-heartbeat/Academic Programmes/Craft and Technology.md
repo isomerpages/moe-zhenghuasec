@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Names of Members of the Department:</strong>
+<p><strong>Members of the Department:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -4,7 +4,7 @@ permalink: /dsa/
 description: ""
 variant: tiptap
 ---
-<h3>ZHENGHUA SECONDARY SCHOOL<br>Direct School Admission</h3>
+<h3>Direct School Admission</h3>
 <p>In Zhenghua Secondary, we envision every student in the school to be Dynamic
 Learners, Exemplary Leaders and Thoughtful Contributors. We create ample
 opportunities for our students to develop their leadership competencies
@@ -229,7 +229,7 @@ to 2 June 2026, 4.30pm.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of your child's application online through the DSA-Sec Portal
-by <u>4.30pm on Tuesday, 2 June 2026.</u>
+by <strong>4.30pm on Tuesday, 2 June 2026.</strong>
 </p>
 </td>
 </tr>
@@ -265,7 +265,7 @@ dates.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students with a confirmed offer or on a wait list will be able to submit
-up to 3 school choices in order of preference via the DSA-Sec portal by <u>4.30pm on Friday, 23 October 2026.</u>
+up to 3 school choices in order of preference via the DSA-Sec portal by <strong>4.30pm on Friday, 23 October 2026.</strong>
 </p>
 </td>
 </tr>
@@ -285,9 +285,9 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
+related to the talent they are selected for from year one to four.</p>
 <p>For enquiries and clarifications, please contact the following personnel,</p>
-<p>Mr Robin Goh Jin Quan, <em>HOD / PE and CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
+<p>Mr Robin Goh Jin Quan, <em>HOD PE &amp; CCA</em> | <a href="robin_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">robin_goh@schools.gov.sg</a>
 </p>
 <p>Photos for the different talent areas:</p>
 <table style="minWidth: 25px">
@@ -297,7 +297,7 @@ related to the talent they are selected for from year 1-4.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Infocomm Club Students in Action</u></strong>
+<p><strong>Infocomm Club Students in Action</strong>
 </p>
 </td>
 </tr>
@@ -311,7 +311,7 @@ related to the talent they are selected for from year 1-4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>NCC (AIR) Students in Action</u></strong>
+<p><strong>NCC (AIR) Students in Action</strong>
 </p>
 </td>
 </tr>

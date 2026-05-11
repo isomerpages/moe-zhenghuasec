@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Outdoor Education &amp; Special Projects:</strong>
+<p><strong>Subject Head LLP &amp; CCA:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Character and Citizenship Education:</strong>
+<p><strong>Head of Department Character and Citizenship Education:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

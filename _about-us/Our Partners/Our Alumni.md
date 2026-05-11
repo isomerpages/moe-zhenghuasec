@@ -10,16 +10,37 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni1.png">
 </div>
 <h2><strong>About ZSS Alumni Network</strong></h2>
-<p>The ZSS Alumni Network, established in 2023, serves as a haven for Zhenghua
-graduates to rekindle connections and give back to their alma mater.</p>
-<p>By curating diverse activities, the Alumni Network aims to forge strong
-bonds among graduates, actively engage them in school events, and create
-a platform for sustained connections among alumni.</p>
-<h2><strong>Our Vision</strong></h2>
-<p>
-<br><strong><em>Rooted Connections, Steadfast Support</em></strong>
+<p><strong><em>The ZSS Alumni Network</em></strong><em>, established in 2023, is more than just a community — it is a homecoming, a space where Zhenghua graduates reconnect with familiar faces, relive shared memories, and continue the journey they once began together.</em>
 </p>
-<h3><strong>Our Mission</strong><br></h3>
+<p><em>Through meaningful and engaging activities, the Network brings alumni closer — not just to one another, but back to the heart of Zhenghua. It offers opportunities to give back, inspire the next generation, and be part of something larger than themselves.</em>
+</p>
+<p><em>Whether it is reconnecting, contributing, or simply belonging, the ZSS Alumni Network is where every graduate’s story continues.</em>
+</p>
+<p><strong><em>Once Zhenghua, always Zhenghua. Reconnect, contribute, and make a difference.</em></strong>
+</p>
+<p>Join the family at <a href="https://go.gov.sg/zssalumninetwork" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zssalumninetwork</a>
+</p>
+<h3><strong>Our Vision</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Picture1.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>•</em><strong><em>Tree roots: </em></strong><em>Signify our heritage, shared beginnings, school foundation.</em>
+<br><em>•</em><strong><em>Branches: </em></strong><em>Signify alumni across generations growing and thriving in different directions, yet remaining connected.</em>
+<br><em>•</em><strong><em>Canopy: </em></strong><em>Provides shade and refuge, symbolising the care, guidance, and support of the alumni community.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Our Mission</strong></h3>
 <p>To volunteer and serve the school.
 <br>To build and maintain a strong ZSS alumni network with the school through
 momentous events and activities.
@@ -27,25 +48,10 @@ momentous events and activities.
 <br>relevant experiences to the ZSS family.
 <br>To be role models for ZSS students by upholding the highest standards
 of ethics and the school values.</p>
-<h3>Our Shared Values</h3>
+<h3><strong>Our Shared Values</strong></h3>
 <p>Respect, Resilience, Responsibility, Compassion and Integrity</p>
-<p></p>
-<h3><strong>Alumni Executive Committee 2024</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/AlumniOrgChart.png">
-</div>
 <h3><strong>Alumni Activities</strong></h3>
 <p>Here are some photographs of our Alumni Network activities.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Chairperson_Jonathan_at_Road_Run_2024.jpg">
-</div>
-<blockquote>
-<p>Chairperson Jonathan at Road Run Event.</p>
-<p></p>
-</blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Alumni_participated_in_the_school_s_Road_Run_2024_.jpg">
 </div>
@@ -88,18 +94,4 @@ of ethics and the school values.</p>
 <p>Alumni networking session during ZSS Alumni Day</p>
 </blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/qrcode.png">
-</div>
-<blockquote>
-<p>If you are interested to help out in any of the events, do contact us
-via this form!</p>
-</blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Alumni/Picture11.jpg">
-</div>
-<blockquote>
-<p>Also, do add us on Instagram!</p>
-</blockquote>
 <p></p>

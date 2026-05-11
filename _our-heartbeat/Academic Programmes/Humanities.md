@@ -19,7 +19,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name of Head of Department</p>
+<p>Head of Department</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Subject Head</strong>
+<p><strong>Subject Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Lead Teacher</strong>
+<p><strong>Lead Teacher</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,10 +78,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Pei Wen</p>
+<p>Mdm Zanariah Bte Zainal Abiden (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zanariah Bte Zainal Abiden (Year Head)</p>
+<p>Year Head</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: tiptap
 <p>Mr Tan Kian Hong Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Tian Kiat Roy (SH/SL)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Ms Koh Ming Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Siew Hui Jessie</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Mdm Siti Nurbasyirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Godwin Tan</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,23 @@ variant: tiptap
 <p>Ms Jency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azri</p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lynn Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Pei Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +137,31 @@ variant: tiptap
 <p>Ms Isabel Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Chew</p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Siew Hui Jessie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Godwin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Azri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 </tbody>
