@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Senior Teacher:</strong>
+<p><strong>Lead Teacher:</strong>
 </p>
 </td>
 </tr>
