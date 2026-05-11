@@ -18,7 +18,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Name of Head of Department:</strong>
+<p><strong>Head of Department:</strong>
 </p>
 </th>
 </tr>
@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Name of Subject Head:</strong>
+<p><strong>Subject Head:</strong>
 </p>
 </td>
 </tr>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Name of Senior Teacher:</strong>
+<p><strong>Senior Teacher:</strong>
 </p>
 </td>
 </tr>
@@ -51,24 +51,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Names of Members of the Department:</strong>
+<p><strong>Members of the Department:</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ashar Ahmad (HOD Student Mgmt)</p>
+<p>Mr Ashar Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Li Ping, Magdalene (Year Head)</p>
+<p>HOD Student Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Woan Shay (SH Student Well-Being)</p>
+<p>Mdm Tan Li Ping, Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seah Hwee Bing</p>
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Woan Shay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head</p>
 </td>
 </tr>
 <tr>
@@ -76,15 +84,7 @@ variant: tiptap
 <p>Mdm Lee Weiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chung Zhiwen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lynn Kwek Co Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Sock Mui</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Mdm Tan Cheng Cheng, Angela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Boo Jia Liang</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,55 @@ variant: tiptap
 <p>Mr Tan Soo Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Seah Hwee Bing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lynn Kwek Co Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chung Zhiwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Sock Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Soo Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Boo Jia Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +162,7 @@ variant: tiptap
 <p>Miss Grace Chia Choo Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Anna Low</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +170,15 @@ variant: tiptap
 <p>Mdm Tan Soh Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Anna Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 </tbody>
