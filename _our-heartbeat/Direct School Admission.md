@@ -343,7 +343,7 @@ related to the talent they are selected for from year one to four.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA/DSANCC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA/dsa_ncc_air.jpg">
 </div>
 </td>
 </tr>
