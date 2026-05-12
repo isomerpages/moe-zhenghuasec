@@ -25,6 +25,8 @@ description: ""
 <p></p>
 <h3><strong>Information for students</strong></h3>
 <p><a href="/general-learning-routines-with-pld/" rel="noopener nofollow" target="_blank"><u>General Learning Routines with PLD</u></a>
+</p>
+<p><u>ZSS Acceptable Use Policy (AUP)</u>
 <br>
 </p>
 <p>Information on student's account</p>
