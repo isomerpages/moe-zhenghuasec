@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zanariah Bte Zainal Abiden (Year Head)</p>
+<p>Mdm Zanariah Bte Zainal Abiden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
