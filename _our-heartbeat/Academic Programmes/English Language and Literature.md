@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Subject Head:</strong>
+<p><strong>Senior Teacher:</strong>
 </p>
 </td>
 </tr>
