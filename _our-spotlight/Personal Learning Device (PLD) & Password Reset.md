@@ -107,8 +107,7 @@ able to reset your password.</p>
 </li>
 <li>
 <p><strong>Step 4:</strong>
-</p>
-<p>Login to your PLD in school (to enable new password to apply on PLD and
+<br>Login to your PLD in school (to enable new password to apply on PLD and
 validate the new password)</p>
 <p></p>
 </li>
