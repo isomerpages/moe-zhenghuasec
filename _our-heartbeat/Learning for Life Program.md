@@ -1,5 +1,5 @@
 ---
-title: Learning for Life Program LLP
+title: Learning for Life Program
 permalink: /programmes/learning-for-life-programme/
 description: ""
 variant: tiptap

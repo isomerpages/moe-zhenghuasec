@@ -42,9 +42,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="PSG Meeting and CNY Lo Hei 2023" src="/images/parentsg3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cyberwellness Parenting Workshop 2023 (With our Peer Support Leaders)" src="/images/parentsg4.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parentsg5.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -73,12 +70,6 @@ variant: tiptap
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parentsg14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/parentsg16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Teachers' Day Gifts Preparation" src="/images/parentsg18.jpg">
 </div>
 <p>How to Join?</p>
 <p>Through active participation in the PSG, you will gain support from other

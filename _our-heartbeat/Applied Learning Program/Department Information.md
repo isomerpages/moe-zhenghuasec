@@ -2,7 +2,7 @@
 title: Department Information
 permalink: /programmes/Applied-Learning-Prog-ALP/department-information/
 description: ""
-third_nav_title: Applied Learning Prog ALP
+third_nav_title: Applied Learning Program
 variant: tiptap
 ---
 <h3>Department Information</h3>

@@ -25,6 +25,8 @@ description: ""
 <p></p>
 <h3><strong>Information for students</strong></h3>
 <p><a href="/general-learning-routines-with-pld/" rel="noopener nofollow" target="_blank"><u>General Learning Routines with PLD</u></a>
+</p>
+<p><a href="/files/ZSS_Acceptable_Use_Policy__AUP_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ZSS Acceptable Use Policy (AUP)</u></a>
 <br>
 </p>
 <p>Information on student's account</p>
@@ -86,12 +88,6 @@ description: ""
 <h3><strong>Information on MIMS Password</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please read password policy as shown below:</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 813.325px;" height="auto" width="100%" alt="" src="https://www.chungchenghighyishun.moe.edu.sg/images/password%20policy.jpg">
-</div>
-</li>
-<li>
 <p>To perform MIMS Self-Service Password Reset (SSPR), follow the below steps:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -111,8 +107,7 @@ able to reset your password.</p>
 </li>
 <li>
 <p><strong>Step 4:</strong>
-</p>
-<p>Login to your PLD in school (to enable new password to apply on PLD and
+<br>Login to your PLD in school (to enable new password to apply on PLD and
 validate the new password)</p>
 <p></p>
 </li>
