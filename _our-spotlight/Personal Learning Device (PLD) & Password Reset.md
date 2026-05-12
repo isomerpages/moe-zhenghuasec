@@ -88,12 +88,6 @@ description: ""
 <h3><strong>Information on MIMS Password</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please read password policy as shown below:</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 813.325px;" height="auto" width="100%" alt="" src="https://www.chungchenghighyishun.moe.edu.sg/images/password%20policy.jpg">
-</div>
-</li>
-<li>
 <p>To perform MIMS Self-Service Password Reset (SSPR), follow the below steps:</p>
 <ul data-tight="true" class="tight">
 <li>
