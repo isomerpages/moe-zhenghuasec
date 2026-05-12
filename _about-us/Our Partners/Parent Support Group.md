@@ -74,12 +74,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parentsg14.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/parentsg16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Teachers' Day Gifts Preparation" src="/images/parentsg18.jpg">
-</div>
 <p>How to Join?</p>
 <p>Through active participation in the PSG, you will gain support from other
 parents in your parenting journey. If you are interested to sign up as
