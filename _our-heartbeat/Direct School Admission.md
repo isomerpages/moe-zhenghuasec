@@ -138,55 +138,79 @@ school.</p>
 <td rowspan="1" colspan="1">
 <p>Infocomm Club or NCC (Air)</p>
 </td>
-<td rowspan="9" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Applicants should demonstrate all or some of the following in their respective
-talent areas,</p>
-<p>·&nbsp; a keen interest and passion</p>
-<p>·&nbsp; potential and aptitude to excel</p>
-<p>·&nbsp; positive attitude towards learning</p>
-<p>· positive demeanour and behaviour with exemplary conduct</p>
+talent areas,
+<br>·&nbsp; a keen interest and passion
+<br>·&nbsp; potential and aptitude to excel
+<br>·&nbsp; positive attitude towards learning
+<br>· positive demeanour and behaviour with exemplary conduct</p>
 </td>
-<td rowspan="9" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Every shortlisted applicant will have to complete a performance task in
 the selected talent area and go through an interview.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Leadership – Student Council</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Students will be given a choice to select their CCA.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Applicants should demonstrate all or some of the following in their respective
+talent areas,
+<br>·&nbsp; a keen interest and passion
+<br>·&nbsp; potential and aptitude to excel
+<br>·&nbsp; positive attitude towards learning
+<br>· positive demeanour and behaviour with exemplary conduct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every shortlisted applicant will have to complete a performance task in
+the selected talent area and go through an interview.</p>
+</td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Dance – Malay
 <br>
-<br>Dance - Modern / Contemporary
-<br>
-</p>
+<br>Dance - Modern / Contemporary</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Dance
-<br>
-<br>
-<br>
-<br>
-</p>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should demonstrate all or some of the following in their respective
+talent areas,
+<br>·&nbsp; a keen interest and passion
+<br>·&nbsp; potential and aptitude to excel
+<br>·&nbsp; positive attitude towards learning
+<br>· positive demeanour and behaviour with exemplary conduct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every shortlisted applicant will have to complete a performance task in
+the selected talent area and go through an interview.</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should demonstrate all or some of the following in their respective
+talent areas,
+<br>·&nbsp; a keen interest and passion
+<br>·&nbsp; potential and aptitude to excel
+<br>·&nbsp; positive attitude towards learning
+<br>· positive demeanour and behaviour with exemplary conduct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every shortlisted applicant will have to complete a performance task in
+the selected talent area and go through an interview.</p>
 </td>
 </tr>
 </tbody>
