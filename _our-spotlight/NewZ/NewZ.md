@@ -17,6 +17,47 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/Hari Raya/DSC01943.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>Hari Raya 2026</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mengimbau Kenangan, Menghayati erti- ‘Nostalgia Raya: Reflecting memories,
+Embracing meaning’ This theme invites audience to look back at how Hari
+Raya was celebrated in the past and to appreciate the values and meanings
+that continue to shape the celebration today.</p>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/hari-raya-2026/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/CNY/DSC_0214.jpg">
 </div>
 </td>
@@ -114,54 +155,6 @@ a vibrant celebration.
 <p>On 13 February 2026, our school commemorated Total Defence Day with a
 Forum Theatre assembly programme on digital disruption.</p>
 <p><a href="https://www.zhenghuasec.moe.edu.sg/total-defence-day-2026/" rel="noopener nofollow" target="_blank">Read more</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/2025 Awards Day/Copy_of_DSC_0240__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Ziesta 1 Sec 3 Camp/Cover_picture.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2025/Racial Harmony/Cover_page.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Awards Day 2025</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Ziesta Secondary 3 Camp 2025</h5>
-</td>
-<td rowspan="1" colspan="1">
-<h5>Racial Harmony Day 2025</h5>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>On&nbsp;this special day, we came together as a school community to celebrate
-growth, grit, and the spirit of partnership.</p>
-<p><a href="/awards-day-2025/" rel="noopener nofollow" target="_blank">Read more</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Secondary 3 Outdoor Expedition develops leadership, resilience, and
-teamwork through a student-led outdoor camp experience.</p>
-<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-ziesta-secondary-3-camp/" rel="noopener nofollow" target="_blank">Read more</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zhenghua Secondary School commemorated Racial Harmony Day (RHD) on 18
-July 2025, marking the anniversary of the 1964 race riots.</p>
-<p><a href="https://www.zhenghuasec.moe.edu.sg/2025-racial-harmony-day/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 </td>
 </tr>
