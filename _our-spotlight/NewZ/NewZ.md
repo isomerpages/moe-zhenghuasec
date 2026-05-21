@@ -44,7 +44,7 @@ variant: tiptap
 Embracing meaning’ This theme invites audience to look back at how Hari
 Raya was celebrated in the past and to appreciate the values and meanings
 that continue to shape the celebration today.</p>
-<p><a href="https://www.zhenghuasec.moe.edu.sg/sec-1-orientation-2026/" rel="noopener nofollow" target="_blank">Read More</a>
+<p><a href="https://www.zhenghuasec.moe.edu.sg/hari-raya-2026/" rel="noopener nofollow" target="_blank">Read More</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
