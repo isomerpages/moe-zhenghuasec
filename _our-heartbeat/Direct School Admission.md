@@ -97,9 +97,7 @@ talent areas:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We are conducting a mini–Open House on our DSA areas on Thursday, 14 May 2026. If you would like to experience our DSA areas, kindly register your interest here</strong> 
-<a href="https://go.gov.sg/zss-dsa-openhouse" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zss-dsa-openhouse</a>
-</p>
+<p></p>
 <h5><u>DSA Selection Criteria&nbsp;and Process</u></h5>
 <p>In general, we are looking for students who are passionate, positive and
 have the potential to excel in their respective talent areas to join the
