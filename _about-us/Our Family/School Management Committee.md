@@ -277,18 +277,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foo Yeong Kiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Daniel Ong Gee Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager 2</p>
+<p>Admin Manager</p>
 </td>
 </tr>
 <tr>
