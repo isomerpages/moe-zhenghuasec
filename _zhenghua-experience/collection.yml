@@ -2,6 +2,7 @@ collections:
   zhenghua-experience:
     output: true
     order:
+      - Academic Programmes/G1 Computing.md
       - Academic Programmes/.keep
       - Academic Programmes/English Language and Literature.md
       - Academic Programmes/Mother Tongue Languages.md
