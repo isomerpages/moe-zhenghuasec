@@ -1,5 +1,5 @@
 collections:
-  our-spotlight:
+  useful-links:
     output: true
     order:
       - Personal Learning Device (PLD) & Password Reset.md
