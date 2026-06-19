@@ -1,5 +1,5 @@
 collections:
-  our-success-stories:
+  zhenghua-achievements:
     output: true
     order:
       - Academic Achievements/.keep
