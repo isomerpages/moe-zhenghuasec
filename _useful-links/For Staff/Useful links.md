@@ -71,7 +71,7 @@ third_nav_title: For Staff
 <p>MOE Intranet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg</a> 
+<p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -90,6 +90,15 @@ third_nav_title: For Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Repository</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/zssrepository/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/zssrepository/home</a>
 </p>
 </td>
 </tr>
