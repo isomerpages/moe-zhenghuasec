@@ -60,14 +60,6 @@ variant: tiptap
 <p>Fridays: 2.00pm - 5.30pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chee Zi Xuan Kenji (3D)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
