@@ -70,14 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Band Major:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jun Xi Jayrus (3E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>IG Account:</p>
 </td>
 <td rowspan="1" colspan="1">
