@@ -62,14 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Patrol Leader:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kong Jun Yi (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Instagram Page:</p>
 </td>
 <td rowspan="1" colspan="1">
