@@ -60,14 +60,6 @@ variant: tiptap
 <p>Thursday, 2.30PM to 5.30PM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Sergeant Major:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohammad Riyaz Bin Mohammad Rafiq (3G)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
