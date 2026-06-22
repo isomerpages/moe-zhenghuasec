@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h3>AV Club</h3>
+<h3>AVA Club</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
