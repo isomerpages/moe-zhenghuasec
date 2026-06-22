@@ -13,47 +13,38 @@ third_nav_title: For Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>MOE Intranet</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg</a>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>iCON</p>
+<p><strong>Professional Development &amp; Resources</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://icon.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://icon.moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SC Mobile</p>
+<p>Academy of Singapore Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://scmobile.moe.edu.sg/</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Cockpit</p>
+<p><strong>Administrative &amp; HR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parents Gateway</p>
+<p>Form SG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/</a>
 </p>
 </td>
 </tr>
@@ -77,19 +68,46 @@ third_nav_title: For Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Academy of Singapore Teachers</p>
+<p>MOE Intranet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg</a>
+<p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>One Portal All Learners (OPAL 2.0)</p>
+<p>iCON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.opal2.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.opal2.moe.edu.sg</a>
+<p><a href="https://icon.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://icon.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Cockpit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Management &amp; Assessment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SC Mobile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://scmobile.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
@@ -104,64 +122,20 @@ third_nav_title: For Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form SG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/</a>
+<p><strong>Parent Communication</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>go.gov.sg short links</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ministry of Health</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Haze Situation Update</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.haze.gov.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Sports and Recreation Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.mesrc.net" rel="noopener noreferrer nofollow" target="_blank">https://www.mesrc.net</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resource Booking Service (RBS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Parents Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+</p>
 </td>
 </tr>
 </tbody>
