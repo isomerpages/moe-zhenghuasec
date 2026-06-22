@@ -46,14 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Coaches / Instructors:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,14 +75,6 @@ and performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Street Dance Practice - Thursday 3.00PM to 5.30PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nieva Krisia Dela Pena (3F)</p>
 </td>
 </tr>
 <tr>
