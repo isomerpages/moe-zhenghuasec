@@ -52,14 +52,6 @@ variant: tiptap
 <p>Mondays &amp; Wednesdays: 3.00pm - 5.30pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kaelyn Low Jie Ying (3F)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
