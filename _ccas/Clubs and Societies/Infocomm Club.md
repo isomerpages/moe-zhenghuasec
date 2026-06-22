@@ -44,14 +44,6 @@ variant: tiptap
 <p>Thursdays: 2.30pm - 5.00pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chong Sheryn (3C)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>The Infocomm Club is a dynamic CCA that equips students with cutting-edge
