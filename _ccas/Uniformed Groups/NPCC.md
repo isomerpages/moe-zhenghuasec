@@ -54,14 +54,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unit Commander:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Charmaine (3G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Instagram Page:</p>
 </td>
 <td rowspan="1" colspan="1">
