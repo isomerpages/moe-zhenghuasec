@@ -52,14 +52,6 @@ variant: tiptap
 <p>Thursdays: 2.30pm - 4.30pm (in school) 2.30pm - 6.00pm (out of school)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yuki Lee Yun Xuan (3G)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
