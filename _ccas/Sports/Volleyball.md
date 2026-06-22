@@ -46,14 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amerlyn Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Coaches / Instructors:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,22 +74,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls : Wednesday, 3.00pm to 6.00pm, Friday, 1.00pm to 3.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain (Boys):</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kenjiro Teo Kai Feng (3F)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain (Girls):</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shannon Heng Xuan Ning (3C)</p>
 </td>
 </tr>
 </tbody>
