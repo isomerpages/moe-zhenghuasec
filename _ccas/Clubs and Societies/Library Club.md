@@ -30,14 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Library Assistant:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,14 +58,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>(Students will be scheduled for duty once a week)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aden Low Yan Zuo (3F)</p>
 </td>
 </tr>
 <tr>
