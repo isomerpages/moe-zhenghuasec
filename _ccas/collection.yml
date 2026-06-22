@@ -2,12 +2,12 @@ collections:
   ccas:
     output: true
     order:
-      - Performing Arts/Drama Club.md
-      - Performing Arts/Handbells.md
-      - Performing Arts/Dance.md
+      - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Band.md
-      - Performing Arts/.keep
+      - Performing Arts/Dance.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Handbells.md
       - Clubs and Societies/Art Club.md
       - Clubs and Societies/AVA Club.md
       - Clubs and Societies/Infocomm Club.md
