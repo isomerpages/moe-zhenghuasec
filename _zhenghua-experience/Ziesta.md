@@ -98,6 +98,33 @@ strengthens students’ understanding of STEM and inclusivity, while encouraging
 them to become compassionate, socially responsible, and forward-thinking
 individuals.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/20260325_091158.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/WhatsApp_Image_2026_04_15_at_5_44_39_PM__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/IMG_1943.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/C2A805C3_EB14_4006_93AB_3DDDCC353CE2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/20260325_115423.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/20260325_095642.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 2/20260325_095440.jpg">
+</div>
 <h4><strong><u>Secondary 3</u></strong><br></h4>
 <p>The Secondary 3 camp is designed to forge strong class spirit, cultivate
 resilience, and develop leadership capabilities through immersive, hands-on
