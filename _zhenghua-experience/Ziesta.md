@@ -11,20 +11,18 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ZIESTA is Zhenghua Secondary School’s signature programme that provides
-students with authentic learning experiences beyond the classroom. Anchored
-in the school’s Applied Learning Programme (ALP) and Learning for Life
-Programme (LLP), ZIESTA allows students to apply what they have learnt
-in real-world and experiential contexts. Held at the beginning of Term
-2, the programme engages students in a range of carefully designed activities
-that develop essential 21st-century competencies while nurturing confidence,
-curiosity and resilience. Through ZIESTA, students grow as Dynamic Learners,
-Exemplary Leaders and Thoughtful Contributors.
+<p><strong>ZIESTA </strong>is Zhenghua Secondary School’s signature programme
+that provides students with authentic learning experiences beyond the classroom.
+Anchored in the school’s Applied Learning Programme (ALP) and Learning
+for Life Programme (LLP), ZIESTA allows students to apply what they have
+learnt in real-world and experiential contexts. Held at the beginning of
+Term 2, the programme engages students in a range of carefully designed
+activities that develop essential 21st-century competencies while nurturing
+confidence, curiosity and resilience. Through ZIESTA, students grow as
+Dynamic Learners, Exemplary Leaders and Thoughtful Contributors.
 <br>
 </p>
-<p><strong><u>Secondary 1</u></strong>
-<br>
-</p>
+<h4><strong><u>Secondary 1</u></strong><br></h4>
 <p>The Sec 1 Ziesta programme allows students to cultivate a deeper appreciation
 of sustainability, culture, and heritage while developing the capacity
 to apply knowledge beyond the classroom as reflective and adaptable Dynamic
@@ -41,9 +39,7 @@ and identity. Collectively, these experiences provide authentic contexts
 for inquiry, reflection, and collaboration, empowering students to connect
 classroom learning with real-world applications.</p>
 <p></p>
-<p><strong><u>Secondary 2</u></strong>
-<br>
-</p>
+<h4><strong><u>Secondary 2</u></strong><br></h4>
 <p>The Sec 2 Ziesta Programme, All Aboard STEM, provides students with meaningful
 opportunities to learn beyond the classroom through three key components:
 STEM-in Transport Learning Journeys, Inclusivity Sports, and the Inclusivity
@@ -66,10 +62,8 @@ that address the needs of different members of the community. The programme
 strengthens students’ understanding of STEM and inclusivity, while encouraging
 them to become compassionate, socially responsible, and forward-thinking
 individuals.</p>
-<p>&nbsp;</p>
-<p><strong><u>Secondary 3</u></strong>
-<br>
-</p>
+<p></p>
+<h4><strong><u>Secondary 3</u></strong><br></h4>
 <p>The Secondary 3 camp is designed to forge strong class spirit, cultivate
 resilience, and develop leadership capabilities through immersive, hands-on
 challenges. Through physically and mentally engaging activities such as
@@ -84,9 +78,7 @@ resilience and collective unity, allowing students to return to the classroom
 with greater confidence, empathy, and a stronger sense of responsibility
 in contributing meaningfully to the school community.</p>
 <p></p>
-<p><strong><u>Secondary 4</u></strong>
-<br>
-</p>
+<h4><strong><u>Secondary 4</u></strong><br></h4>
 <p>The Education and Career Guidance (ECG) Symposium provides students with
 a meaningful platform to explore future education and career pathways.
 Designed to broaden perspectives and inspire aspirations, the programme
