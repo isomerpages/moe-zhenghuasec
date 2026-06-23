@@ -2,7 +2,6 @@ collections:
   zhenghua-experience:
     output: true
     order:
-      - Ziesta.md
       - Academic Programmes/.keep
       - Academic Programmes/English Language and Literature.md
       - Academic Programmes/Mother Tongue Languages.md
@@ -33,3 +32,4 @@ collections:
       - Student Management/.keep
       - Student Management/Department Information.md
       - Student Management/Programme Highlights and Enrichment Activities.md
+      - Ziesta.md
