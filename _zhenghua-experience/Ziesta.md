@@ -140,6 +140,25 @@ resilience and collective unity, allowing students to return to the classroom
 with greater confidence, empathy, and a stronger sense of responsibility
 in contributing meaningfully to the school community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 3/Hiking.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 3/Rock_Climbing.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 3/Beautiful_sunrise.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 3/Tent_Pitching.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ziesta/Sec 3/Outdoor_cooking.jpg">
+</div>
 <h4><strong><u>Secondary 4</u></strong><br></h4>
 <p>The Education and Career Guidance (ECG) Symposium provides students with
 a meaningful platform to explore future education and career pathways.
