@@ -32,13 +32,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>CNY 2026</h5>
+<h4>CNY 2026</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h5>Hari Raya 2026</h5>
+<h4>Hari Raya 2026</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h5>Student Leaders' Investiture 2026</h5>
+<h4>Student Leaders' Investiture 2026</h4>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ on new responsibilities in their respective co-curricular activities.
 <h4>The Canopy</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h5>Sec 1 Orientation 2026</h5>
+<h4>Sec 1 Orientation 2026</h4>
 </td>
 </tr>
 <tr>
