@@ -31,31 +31,22 @@ A thrilling boat ride around Singapore’s southern islands capped off the
 experience, offering insights into our maritime heritage.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/DSC_3288.jpg">
 </div>
-<blockquote>
-<p>ALP Drone Exchange with students from Greenridge and Westspring Secondary
-School</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture2_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/IMG_3181.jpg">
 </div>
-<blockquote>
-<p>Singapore Maritime Gallery</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture3_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/DSC_3255.jpg">
 </div>
-<blockquote>
-<p>Southern Island Boat ride with the PSA port in the background</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture4_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/IMG_7676_2.jpg">
 </div>
-<blockquote>
-<p>Changi Experience</p>
-</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/IMG_7689_2.jpg">
+</div>
 <p></p>
