@@ -44,25 +44,18 @@ for now, and for the future.”</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Student_Investiture.jpg">
 </div>
-<blockquote>
-<p>Student-initiated project through Architects of Zhenghua - Blessing Corner
-SG60</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture2_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Student_Leaders_Training.jpg">
 </div>
-<blockquote>
-<p>Various CCA groups coming together to take part in the Blessing Corner
-activities</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Picture3_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Student_Leaders_in_action__Safer_Internet_Day_.jpg">
 </div>
-<blockquote>
-<p>Students coming together for the activities</p>
-</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Student Leadership/Student_Leaders_in_action__Lead2Bond_in_Class_.jpg">
+</div>
 <p></p>
