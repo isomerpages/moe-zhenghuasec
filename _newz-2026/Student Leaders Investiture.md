@@ -33,7 +33,6 @@ committee members, seniors and teachers for encouraging me to be confident
 and to enjoy the moment.
 <br>
 <br>Alexis Lim (3G)</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -51,7 +50,6 @@ of the responsibilities that come with leadership. Watching the Secondary
 Secondary 4 leaders!
 <br>
 <br>Tony Tan (3A)</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -62,8 +60,6 @@ on stage. Although nervous, I was proud and grateful for the opportunity
 to serve the school alongside peers and seniors I deeply admire.
 <br>
 <br>Raylene Ng En Ting (3B)</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>The Student Leaders' Investiture was a significant milestone and an opportunity
 to demonstrate leadership to the entire school. With this newfound responsibility,
 I look forward to working closely with the President, Vice Presidents and
