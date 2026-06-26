@@ -21,7 +21,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Newz 2026/Hari Raya/DSC01943.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Newz 2026/Hari Raya/DSC01943.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
