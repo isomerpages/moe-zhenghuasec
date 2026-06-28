@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h3>AV Club</h3>
+<h3>AVA Club</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,14 +34,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday, 2.30PM to 4.30PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chairman:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chiam Su Hun (3G)</p>
 </td>
 </tr>
 </tbody>

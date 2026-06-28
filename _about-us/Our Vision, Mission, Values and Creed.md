@@ -20,9 +20,11 @@ point, to be future-ready individuals, where they would be <strong>Dynamic Learn
 <h4>Mission</h4>
 <p>To prepare every student to better meet the challenges of the future by
 building the student's emotional, ethical, intellectual, physical and social
-capacity</p>
+capacity
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/strategic_thrust_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Mission_Strat_Thrust.png">
 </div>
 <h4>Values</h4>
 <p>Respect

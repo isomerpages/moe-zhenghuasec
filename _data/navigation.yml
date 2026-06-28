@@ -2,9 +2,11 @@ logo: /images/ZSSLOGO2024.png
 links:
   - title: About Us
     collection: about-us
-  - title: Our Heartbeat
-    collection: our-heartbeat
-  - title: Our Success Stories
-    collection: our-success-stories
-  - title: Our Spotlight
-    collection: our-spotlight
+  - title: Zhenghua Experience
+    collection: zhenghua-experience
+  - title: Zhenghua Achievements
+    collection: zhenghua-achievements
+  - title: Admisssions
+    collection: admissions
+  - title: Useful Links
+    collection: useful-links

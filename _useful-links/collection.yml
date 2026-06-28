@@ -1,0 +1,15 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/LEAPS 2.md
+      - For Parents/Personal Learning Device (PLD) & Password Reset.md
+      - For Parents/Leave of Absence (LOA) Scheme.md
+      - For Students/.keep
+      - For Staff/.keep
+      - For Staff/Useful links.md
+      - Our Instagram.md
+      - NewZ/.keep
+      - NewZ/NewZ.md
+      - NewZ/Newz Archive.md

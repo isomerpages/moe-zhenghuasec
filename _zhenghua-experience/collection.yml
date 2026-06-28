@@ -1,0 +1,36 @@
+collections:
+  zhenghua-experience:
+    output: true
+    order:
+      - Academic Programmes/.keep
+      - Academic Programmes/English Language and Literature.md
+      - Academic Programmes/Mother Tongue Languages.md
+      - Academic Programmes/Mathematics & POA.md
+      - Academic Programmes/Science.md
+      - Academic Programmes/Humanities.md
+      - Academic Programmes/Craft and Technology.md
+      - Academic Programmes/Physical Education & Music.md
+      - Academic Programmes/G1 Computing.md
+      - CCAs/.keep
+      - CCAs/Clubs and Societies.md
+      - CCAs/Performing Arts.md
+      - CCAs/Sports.md
+      - CCAs/Uniformed Groups.md
+      - Applied Learning Program (ALP)/.keep
+      - Applied Learning Program (ALP)/Department Information.md
+      - Applied Learning Program (ALP)/Programme Highlights & Enrichment
+        Activites.md
+      - Learning for Life Program (LLP).md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Department Information.md
+      - Character & Citizenship/Programmes Highlights & Enrichment Activities.md
+      - Character & Citizenship/Cyberwellness.md
+      - Character & Citizenship/Sexuality Education.md
+      - Student Leadership/.keep
+      - Student Leadership/Department Information.md
+      - Student Leadership/Programme Highlights and Enrichment Activities.md
+      - Ziesta.md
+      - Overseas Trips.md
+      - Student Management/.keep
+      - Student Management/Department Information.md
+      - Student Management/Programme Highlights and Enrichment Activities.md

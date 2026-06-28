@@ -60,14 +60,6 @@ variant: tiptap
 <p>Fridays: 2.30pm - 5.30pm (SYF Year 2025 - Jan - Apr)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwa Hao Ting Kayden (3E)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">

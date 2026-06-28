@@ -62,14 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>President:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Janelle Toh En Qi (3D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Instagram Page:</p>
 </td>
 <td rowspan="1" colspan="1">

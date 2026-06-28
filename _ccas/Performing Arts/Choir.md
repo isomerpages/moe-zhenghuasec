@@ -68,14 +68,6 @@ variant: tiptap
 <p>Thursday 2.30PM to 4.30PM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Man Yi (3F)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
