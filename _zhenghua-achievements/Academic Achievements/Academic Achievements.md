@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Academic Achievements
 variant: tiptap
 ---
+<p>2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/2025-o-level-examination-results/" rel="noopener noreferrer nofollow" target="_blank">'O' Levels Examination Results 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/2025-n-level-examination-results/" rel="noopener noreferrer nofollow" target="_blank">'N' Levels Examination Results 2025</a>
+</p>
+</li>
+</ul>
 <p>2024</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,15 +60,5 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>2020</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/achievements/Student-Achievements/2020-Olevel-results/" rel="noopener noreferrer nofollow" target="_blank">'O' Levels Examination Results 2020</a>
-</p>
-</li>
-<li>
-<p><a href="/achievements/Student-Achievements/2020-Nlevel-results/" rel="noopener noreferrer nofollow" target="_blank">'N' Levels Examination Results 2020</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
