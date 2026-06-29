@@ -5,6 +5,7 @@ description: ""
 third_nav_title: ECHA Awards
 variant: markdown
 ---
+*   [ECHA Awards 2025](/echa-awards-2025/)
 *   [ECHA Awards 2023](/our-success-stories/echa-awards/echa2023/)
 *   [ECHA Awards 2022](/achievements/ECHA-Awards/ECHA-Awards-2022/)
 *   [ECHA Awards 2021](/achievements/ECHA-Awards/2021/)
