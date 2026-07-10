@@ -86,6 +86,15 @@ third_nav_title: For Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Resource Booking System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Cockpit</p>
 </td>
 <td rowspan="1" colspan="1">
