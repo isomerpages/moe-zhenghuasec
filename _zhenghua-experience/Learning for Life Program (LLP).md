@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Character and Citizenship Education:</strong>
+<p><strong>Head of Character and Citizenship Education:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
