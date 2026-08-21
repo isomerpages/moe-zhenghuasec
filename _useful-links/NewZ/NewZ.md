@@ -33,7 +33,7 @@ variant: tiptap
 <h4>Exchange Programme</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Stem Showcase at ZSS for ASEAN Delegates </h4>
+<h4>Stem Showcase at ZSS for ASEAN Delegates</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
