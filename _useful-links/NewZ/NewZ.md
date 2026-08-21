@@ -43,7 +43,8 @@ variant: tiptap
 <p>The two-day exchange at Zhenghua brought together students from Wuxi Rongcheng
 Experimental Middle School and our school community for a meaningful journey
 of cultural learning.
-<br>R</p>
+<br><a href="/exchange-programme-zss-and-wuxi-rongcheng/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
