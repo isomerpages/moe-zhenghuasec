@@ -15,13 +15,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/Exchange Programme/exchange_program_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/Stem Showcase/STEM_Showcase_3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -32,7 +33,7 @@ variant: tiptap
 <h4>Exchange Programme</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4>Stem Showcase at ZSS for ASEAN Delegates </h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -47,7 +48,10 @@ of cultural learning.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhenghua Secondary School recently welcomed ASEAN delegates for a visit
+centred on our Applied Learning Programme (ALP).</p>
+<p><a href="/stem-showcase-at-zss-for-asean-delegates/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
