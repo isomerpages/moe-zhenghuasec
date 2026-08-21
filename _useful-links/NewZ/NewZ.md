@@ -16,6 +16,50 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/Exchange Programme/exchange_program_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newz 2026/Stem Showcase/STEM_Showcase_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Exchange Programme</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Stem Showcase at ZSS for ASEAN Delegates</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The two-day exchange at Zhenghua brought together students from Wuxi Rongcheng
+Experimental Middle School and our school community for a meaningful journey
+of cultural learning.
+<br><a href="/exchange-programme-zss-and-wuxi-rongcheng/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhenghua Secondary School recently welcomed ASEAN delegates for a visit
+centred on our Applied Learning Programme (ALP).</p>
+<p><a href="/stem-showcase-at-zss-for-asean-delegates/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Newz 2026/CNY/DSC_0214.jpg">
 </div>
 </td>
@@ -32,13 +76,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>CNY 2026</h4>
+<h4>CNY</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Hari Raya 2026</h4>
+<h4>Hari Raya</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Student Leaders' Investiture 2026</h4>
+<h4>Student Leaders' Investiture</h4>
 </td>
 </tr>
 <tr>
@@ -86,13 +130,13 @@ on new responsibilities in their respective co-curricular activities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Total Defence 2026</h4>
+<h4>Total Defence</h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4>The Canopy</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Sec 1 Orientation 2026</h4>
+<h4>Sec 1 Orientation</h4>
 </td>
 </tr>
 <tr>
